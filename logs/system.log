@@ -405,3 +405,86 @@
 ======================================================================
 2026-01-01 13:59:31,497 [INFO] ✅ DETECTOR COMPLETE - 2026-01-01 13:59 UTC
 2026-01-01 13:59:31,497 [INFO] ======================================================================
+2026-01-01 14:21:26,998 [INFO] ✅ Directories initialized
+2026-01-01 14:21:26,998 [INFO] ======================================================================
+2026-01-01 14:21:26,998 [INFO] 🚀 Hyperliquid Data Collection System - Bucket 400k-1.2m
+2026-01-01 14:21:26,998 [INFO] ======================================================================
+2026-01-01 14:21:26,998 [INFO] Volume Range: $400,000 - $1,200,000
+2026-01-01 14:21:26,999 [INFO] Timeframe: 15m
+2026-01-01 14:21:26,999 [INFO] Post-exit tracking: 10 days
+2026-01-01 14:21:26,999 [INFO] Data retention: 365 days
+2026-01-01 14:21:26,999 [INFO] ======================================================================
+2026-01-01 14:21:26,999 [INFO] ======================================================================
+2026-01-01 14:21:26,999 [INFO] 📦 COLLECTOR START - 2026-01-01 14:21 UTC
+2026-01-01 14:21:26,999 [INFO] ======================================================================
+2026-01-01 14:21:26,999 [INFO] 📊 Active tracking: 11 tokens
+2026-01-01 14:21:26,999 [INFO] 
+📡 Fetching market data...
+2026-01-01 14:21:27,440 [INFO] ✅ Fetched volume data for 224 tokens
+2026-01-01 14:21:27,441 [INFO] 📊 Fetching BTC reference data...
+2026-01-01 14:21:27,924 [INFO] 
+🔄 Collecting data for active tokens...
+2026-01-01 14:21:27,924 [INFO] 
+[1/11] Processing WCT (Run 1, in_top6)
+2026-01-01 14:21:27,952 [INFO] 📂 Loaded existing data for WCT: 8 bars
+2026-01-01 14:21:27,953 [INFO] 📥 WCT: Fetching 2 bars from 2026-01-01 13:45 UTC
+2026-01-01 14:21:28,224 [INFO] ✅ WCT: Collected 3 bars (total: 11 bars)
+2026-01-01 14:21:28,324 [INFO] 
+[2/11] Processing ZEN (Run 1, in_top6)
+2026-01-01 14:21:28,326 [INFO] 📂 Loaded existing data for ZEN: 8 bars
+2026-01-01 14:21:28,327 [INFO] 📥 ZEN: Fetching 2 bars from 2026-01-01 13:45 UTC
+2026-01-01 14:21:28,582 [INFO] ✅ ZEN: Collected 3 bars (total: 11 bars)
+2026-01-01 14:21:28,682 [INFO] 
+[3/11] Processing BERA (Run 1, in_top6)
+2026-01-01 14:21:28,685 [INFO] 📂 Loaded existing data for BERA: 8 bars
+2026-01-01 14:21:28,685 [INFO] 📥 BERA: Fetching 2 bars from 2026-01-01 13:45 UTC
+2026-01-01 14:21:28,948 [INFO] ✅ BERA: Collected 3 bars (total: 11 bars)
+2026-01-01 14:21:29,048 [INFO] 
+[4/11] Processing ICP (Run 1, post_exit)
+2026-01-01 14:21:29,051 [INFO] 📂 Loaded existing data for ICP: 8 bars
+2026-01-01 14:21:29,051 [INFO] 📥 ICP: Fetching 2 bars from 2026-01-01 13:45 UTC
+2026-01-01 14:21:29,385 [INFO] ✅ ICP: Collected 3 bars (total: 11 bars)
+2026-01-01 14:21:29,485 [INFO] 
+[5/11] Processing MOODENG (Run 1, post_exit)
+2026-01-01 14:21:29,487 [INFO] 📂 Loaded existing data for MOODENG: 8 bars
+2026-01-01 14:21:29,488 [INFO] 📥 MOODENG: Fetching 2 bars from 2026-01-01 13:45 UTC
+2026-01-01 14:21:29,752 [INFO] ✅ MOODENG: Collected 3 bars (total: 11 bars)
+2026-01-01 14:21:29,852 [INFO] 
+[6/11] Processing EIGEN (Run 1, post_exit)
+2026-01-01 14:21:29,854 [INFO] 📂 Loaded existing data for EIGEN: 8 bars
+2026-01-01 14:21:29,855 [INFO] 📥 EIGEN: Fetching 2 bars from 2026-01-01 13:45 UTC
+2026-01-01 14:21:30,173 [INFO] ✅ EIGEN: Collected 3 bars (total: 11 bars)
+2026-01-01 14:21:30,273 [INFO] 
+[7/11] Processing MAVIA (Run 1, post_exit)
+2026-01-01 14:21:30,276 [INFO] 📂 Loaded existing data for MAVIA: 8 bars
+2026-01-01 14:21:30,277 [INFO] 📥 MAVIA: Fetching 2 bars from 2026-01-01 13:45 UTC
+2026-01-01 14:21:30,563 [INFO] ✅ MAVIA: Collected 3 bars (total: 11 bars)
+2026-01-01 14:21:30,663 [INFO] 
+[8/11] Processing NIL (Run 1, post_exit)
+2026-01-01 14:21:30,666 [INFO] 📂 Loaded existing data for NIL: 4 bars
+2026-01-01 14:21:30,667 [INFO] 📥 NIL: Fetching 2 bars from 2026-01-01 13:45 UTC
+2026-01-01 14:21:30,993 [INFO] ✅ NIL: Collected 3 bars (total: 7 bars)
+2026-01-01 14:21:31,093 [INFO] 
+[9/11] Processing AR (Run 1, in_top6)
+2026-01-01 14:21:31,095 [INFO] 🆕 Initialized new Parquet for AR
+2026-01-01 14:21:31,095 [INFO] 📥 AR: Fetching 3 bars from 2026-01-01 13:30 UTC
+2026-01-01 14:21:31,341 [INFO] ✅ AR: Collected 4 bars (total: 4 bars)
+2026-01-01 14:21:31,442 [INFO] 
+[10/11] Processing SYRUP (Run 1, in_top6)
+2026-01-01 14:21:31,444 [INFO] 🆕 Initialized new Parquet for SYRUP
+2026-01-01 14:21:31,444 [INFO] 📥 SYRUP: Fetching 3 bars from 2026-01-01 13:30 UTC
+2026-01-01 14:21:31,804 [INFO] ✅ SYRUP: Collected 4 bars (total: 4 bars)
+2026-01-01 14:21:31,905 [INFO] 
+[11/11] Processing FIL (Run 1, in_top6)
+2026-01-01 14:21:31,907 [INFO] 🆕 Initialized new Parquet for FIL
+2026-01-01 14:21:31,907 [INFO] 📥 FIL: Fetching 2 bars from 2026-01-01 13:45 UTC
+2026-01-01 14:21:32,197 [INFO] ✅ FIL: Collected 3 bars (total: 3 bars)
+2026-01-01 14:21:32,298 [INFO] 
+======================================================================
+2026-01-01 14:21:32,298 [INFO] 📊 COLLECTION SUMMARY
+2026-01-01 14:21:32,298 [INFO] ======================================================================
+2026-01-01 14:21:32,298 [INFO] ✅ Successful: 11/11
+2026-01-01 14:21:32,298 [INFO] 
+======================================================================
+2026-01-01 14:21:32,298 [INFO] ✅ COLLECTOR COMPLETE - 2026-01-01 14:21 UTC
+2026-01-01 14:21:32,298 [INFO] ======================================================================
