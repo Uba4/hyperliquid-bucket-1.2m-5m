@@ -1,20 +1,20 @@
 {
   "tokens": [
     "POPCAT",
+    "AIXBT",
     "GRIFFAIN",
     "DOT",
-    "SYRUP",
-    "AIXBT",
-    "WIF"
+    "WIF",
+    "SYRUP"
   ],
   "scores": [
     68,
     66,
     64,
     62,
-    60,
+    58,
     58
   ],
-  "timestamp": "2026-01-01T21:55:59.097948",
+  "timestamp": "2026-01-01T22:12:31.239712",
   "bucket": "1.2m-5m"
 }
