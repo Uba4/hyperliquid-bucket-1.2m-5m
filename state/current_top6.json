@@ -3,18 +3,18 @@
     "FIL",
     "GRIFFAIN",
     "kPEPE",
-    "DOT",
     "SYRUP",
-    "STBL"
+    "DOT",
+    "APT"
   ],
   "scores": [
     66,
     64,
     62,
+    60,
     58,
-    58,
-    58
+    56
   ],
-  "timestamp": "2026-01-01T18:55:49.062834",
+  "timestamp": "2026-01-01T19:10:46.853135",
   "bucket": "1.2m-5m"
 }
