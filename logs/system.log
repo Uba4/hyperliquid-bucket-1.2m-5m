@@ -109,3 +109,66 @@
 ======================================================================
 2026-01-01 11:59:04,712 [INFO] ✅ DETECTOR COMPLETE - 2026-01-01 11:59 UTC
 2026-01-01 11:59:04,712 [INFO] ======================================================================
+2026-01-01 12:45:34,504 [INFO] ✅ Directories initialized
+2026-01-01 12:45:34,504 [INFO] ======================================================================
+2026-01-01 12:45:34,504 [INFO] 🚀 Hyperliquid Data Collection System - Bucket 400k-1.2m
+2026-01-01 12:45:34,504 [INFO] ======================================================================
+2026-01-01 12:45:34,504 [INFO] Volume Range: $400,000 - $1,200,000
+2026-01-01 12:45:34,505 [INFO] Timeframe: 15m
+2026-01-01 12:45:34,505 [INFO] Post-exit tracking: 10 days
+2026-01-01 12:45:34,505 [INFO] Data retention: 365 days
+2026-01-01 12:45:34,505 [INFO] ======================================================================
+2026-01-01 12:45:34,505 [INFO] ======================================================================
+2026-01-01 12:45:34,505 [INFO] 📦 COLLECTOR START - 2026-01-01 12:45 UTC
+2026-01-01 12:45:34,505 [INFO] ======================================================================
+2026-01-01 12:45:34,505 [INFO] 📊 Active tracking: 7 tokens
+2026-01-01 12:45:34,505 [INFO] 
+📡 Fetching market data...
+2026-01-01 12:45:35,064 [INFO] ✅ Fetched volume data for 224 tokens
+2026-01-01 12:45:35,065 [INFO] 📊 Fetching BTC reference data...
+2026-01-01 12:45:35,524 [INFO] 
+🔄 Collecting data for active tokens...
+2026-01-01 12:45:35,524 [INFO] 
+[1/7] Processing WCT (Run 1, in_top6)
+2026-01-01 12:45:35,527 [INFO] 🆕 Initialized new Parquet for WCT
+2026-01-01 12:45:35,527 [INFO] 📥 WCT: Fetching 4 bars from 2026-01-01 11:45 UTC
+2026-01-01 12:45:35,762 [INFO] ✅ WCT: Collected 5 bars (total: 5 bars)
+2026-01-01 12:45:35,862 [INFO] 
+[2/7] Processing ZEN (Run 1, in_top6)
+2026-01-01 12:45:35,864 [INFO] 🆕 Initialized new Parquet for ZEN
+2026-01-01 12:45:35,864 [INFO] 📥 ZEN: Fetching 4 bars from 2026-01-01 11:45 UTC
+2026-01-01 12:45:36,089 [INFO] ✅ ZEN: Collected 5 bars (total: 5 bars)
+2026-01-01 12:45:36,190 [INFO] 
+[3/7] Processing BERA (Run 1, in_top6)
+2026-01-01 12:45:36,192 [INFO] 🆕 Initialized new Parquet for BERA
+2026-01-01 12:45:36,192 [INFO] 📥 BERA: Fetching 4 bars from 2026-01-01 11:45 UTC
+2026-01-01 12:45:36,445 [INFO] ✅ BERA: Collected 5 bars (total: 5 bars)
+2026-01-01 12:45:36,546 [INFO] 
+[4/7] Processing ICP (Run 1, in_top6)
+2026-01-01 12:45:36,548 [INFO] 🆕 Initialized new Parquet for ICP
+2026-01-01 12:45:36,548 [INFO] 📥 ICP: Fetching 4 bars from 2026-01-01 11:45 UTC
+2026-01-01 12:45:36,771 [INFO] ✅ ICP: Collected 4 bars (total: 4 bars)
+2026-01-01 12:45:36,871 [INFO] 
+[5/7] Processing MOODENG (Run 1, in_top6)
+2026-01-01 12:45:36,873 [INFO] 🆕 Initialized new Parquet for MOODENG
+2026-01-01 12:45:36,873 [INFO] 📥 MOODENG: Fetching 4 bars from 2026-01-01 11:45 UTC
+2026-01-01 12:45:37,115 [INFO] ✅ MOODENG: Collected 5 bars (total: 5 bars)
+2026-01-01 12:45:37,215 [INFO] 
+[6/7] Processing EIGEN (Run 1, post_exit)
+2026-01-01 12:45:37,218 [INFO] 🆕 Initialized new Parquet for EIGEN
+2026-01-01 12:45:37,218 [INFO] 📥 EIGEN: Fetching 4 bars from 2026-01-01 11:45 UTC
+2026-01-01 12:45:37,521 [INFO] ✅ EIGEN: Collected 5 bars (total: 5 bars)
+2026-01-01 12:45:37,621 [INFO] 
+[7/7] Processing MAVIA (Run 1, in_top6)
+2026-01-01 12:45:37,623 [INFO] 🆕 Initialized new Parquet for MAVIA
+2026-01-01 12:45:37,623 [INFO] 📥 MAVIA: Fetching 4 bars from 2026-01-01 11:45 UTC
+2026-01-01 12:45:37,913 [INFO] ✅ MAVIA: Collected 5 bars (total: 5 bars)
+2026-01-01 12:45:38,014 [INFO] 
+======================================================================
+2026-01-01 12:45:38,014 [INFO] 📊 COLLECTION SUMMARY
+2026-01-01 12:45:38,014 [INFO] ======================================================================
+2026-01-01 12:45:38,014 [INFO] ✅ Successful: 7/7
+2026-01-01 12:45:38,014 [INFO] 
+======================================================================
+2026-01-01 12:45:38,014 [INFO] ✅ COLLECTOR COMPLETE - 2026-01-01 12:45 UTC
+2026-01-01 12:45:38,014 [INFO] ======================================================================
