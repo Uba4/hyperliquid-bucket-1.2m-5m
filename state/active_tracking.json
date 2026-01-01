@@ -126,13 +126,13 @@
     "entry_volume": 794040.0736100002
   },
   "AERO": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T19:48:01.084053",
-    "exit_time": "2026-01-01T20:14:52.551178",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T20:51:48.415583",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-01-11T20:14:52.551178",
-    "entry_volume": 1083479.6383199997
+    "tracking_until": null,
+    "entry_volume": 1103901.0867900003
   },
   "INJ": {
     "current_run": 1,
@@ -199,11 +199,11 @@
   },
   "PENGU": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-01T20:14:52.551178",
-    "exit_time": null,
+    "exit_time": "2026-01-01T20:51:48.415583",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-11T20:51:48.415583",
     "entry_volume": 2084297.6406609996
   }
 }
