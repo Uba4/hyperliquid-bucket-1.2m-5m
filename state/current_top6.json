@@ -4,8 +4,8 @@
     "GRIFFAIN",
     "DOT",
     "SYRUP",
-    "APT",
-    "AIXBT"
+    "AIXBT",
+    "WIF"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-01T21:47:56.175724",
+  "timestamp": "2026-01-01T21:55:59.097948",
   "bucket": "1.2m-5m"
 }
