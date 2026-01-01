@@ -2,10 +2,10 @@
   "tokens": [
     "GRIFFAIN",
     "SYRUP",
-    "AERO",
     "POPCAT",
     "DOT",
-    "FIL"
+    "APT",
+    "PENGU"
   ],
   "scores": [
     64,
@@ -15,6 +15,6 @@
     56,
     54
   ],
-  "timestamp": "2026-01-01T19:56:03.737401",
+  "timestamp": "2026-01-01T20:14:52.551457",
   "bucket": "1.2m-5m"
 }
