@@ -37,11 +37,11 @@
   },
   "MOODENG": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-01T11:47:18.625191",
-    "exit_time": null,
+    "exit_time": "2026-01-01T12:59:41.850208",
     "last_bar_collected": 5,
-    "tracking_until": null,
+    "tracking_until": "2026-01-11T12:59:41.850208",
     "entry_volume": 499498.119421
   },
   "EIGEN": {
@@ -61,5 +61,14 @@
     "last_bar_collected": 5,
     "tracking_until": null,
     "entry_volume": 892100.9873710003
+  },
+  "NIL": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T12:59:41.850208",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 421527.0875659999
   }
 }

@@ -1,20 +1,20 @@
 {
   "tokens": [
     "ZEN",
-    "WCT",
     "BERA",
-    "ICP",
+    "WCT",
     "MAVIA",
-    "MOODENG"
+    "ICP",
+    "NIL"
   ],
   "scores": [
+    92,
+    90,
+    88,
     86,
     84,
-    82,
-    80,
-    78,
-    76
+    82
   ],
-  "timestamp": "2026-01-01T11:59:04.711174",
+  "timestamp": "2026-01-01T12:59:41.850357",
   "bucket": "400k-1.2m"
 }
