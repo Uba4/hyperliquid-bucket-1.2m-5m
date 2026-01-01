@@ -3,18 +3,18 @@
     "AIXBT",
     "POPCAT",
     "GRIFFAIN",
-    "DOT",
     "WIF",
-    "AERO"
+    "DOT",
+    "kBONK"
   ],
   "scores": [
+    70,
     68,
     66,
     64,
-    62,
     60,
-    58
+    60
   ],
-  "timestamp": "2026-01-01T22:58:20.861411",
+  "timestamp": "2026-01-01T23:18:05.096635",
   "bucket": "1.2m-5m"
 }

@@ -127,11 +127,11 @@
   },
   "AERO": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-01T22:36:42.449016",
-    "exit_time": null,
+    "exit_time": "2026-01-01T23:18:05.096499",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-11T23:18:05.096499",
     "entry_volume": 2045696.695960001
   },
   "INJ": {
@@ -223,5 +223,14 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 2949280.9894129992
+  },
+  "kBONK": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T23:18:05.096499",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1458702.2580780003
   }
 }
