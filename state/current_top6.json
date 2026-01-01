@@ -1,0 +1,20 @@
+{
+  "tokens": [
+    "WCT",
+    "ZEN",
+    "BERA",
+    "ICP",
+    "MOODENG",
+    "EIGEN"
+  ],
+  "scores": [
+    90,
+    88,
+    86,
+    84,
+    82,
+    80
+  ],
+  "timestamp": "2026-01-01T11:47:18.625538",
+  "bucket": "400k-1.2m"
+}

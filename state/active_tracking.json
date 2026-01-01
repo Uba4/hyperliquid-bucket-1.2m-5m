@@ -1,0 +1,56 @@
+{
+  "WCT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T11:47:18.625191",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 448960.4789769998
+  },
+  "ZEN": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T11:47:18.625191",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 462605.2266190001
+  },
+  "BERA": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T11:47:18.625191",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 728180.2812549998
+  },
+  "ICP": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T11:47:18.625191",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 822266.3618099998
+  },
+  "MOODENG": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T11:47:18.625191",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 499498.119421
+  },
+  "EIGEN": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T11:47:18.625191",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 914380.991075
+  }
+}
