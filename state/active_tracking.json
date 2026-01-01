@@ -1,12 +1,12 @@
 {
   "WCT": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T11:47:18.625191",
-    "exit_time": "2026-01-01T14:51:00.917908",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T15:03:00.783609",
+    "exit_time": null,
     "last_bar_collected": 11,
-    "tracking_until": "2026-01-11T14:51:00.917908",
-    "entry_volume": 448960.4789769998
+    "tracking_until": null,
+    "entry_volume": 491981.0435459998
   },
   "ZEN": {
     "current_run": 1,
@@ -100,11 +100,11 @@
   },
   "APT": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-01T14:29:51.265748",
-    "exit_time": null,
+    "exit_time": "2026-01-01T15:03:00.783609",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-11T15:03:00.783609",
     "entry_volume": 1247606.288382
   },
   "TIA": {
