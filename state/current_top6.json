@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "FIL",
     "GRIFFAIN",
-    "kPEPE",
+    "FIL",
     "SYRUP",
     "DOT",
-    "APT"
+    "APT",
+    "POPCAT"
   ],
   "scores": [
-    66,
     64,
     62,
     60,
     58,
-    56
+    56,
+    54
   ],
-  "timestamp": "2026-01-01T19:10:46.853135",
+  "timestamp": "2026-01-01T19:28:42.926429",
   "bucket": "1.2m-5m"
 }
