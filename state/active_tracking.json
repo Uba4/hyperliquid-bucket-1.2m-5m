@@ -10,11 +10,11 @@
   },
   "ZEN": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-01T11:47:18.625191",
-    "exit_time": null,
+    "exit_time": "2026-01-01T15:51:09.219439",
     "last_bar_collected": 15,
-    "tracking_until": null,
+    "tracking_until": "2026-01-11T15:51:09.219439",
     "entry_volume": 462605.2266190001
   },
   "BERA": {
@@ -109,11 +109,11 @@
   },
   "TIA": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-01T14:51:00.917908",
-    "exit_time": null,
+    "exit_time": "2026-01-01T15:51:09.219439",
     "last_bar_collected": 3,
-    "tracking_until": null,
+    "tracking_until": "2026-01-11T15:51:09.219439",
     "entry_volume": 1257383.0325869995
   },
   "DOT": {
@@ -124,5 +124,23 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 794040.0736100002
+  },
+  "AERO": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T15:51:09.219439",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 820411.5584300001
+  },
+  "INJ": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T15:51:09.219439",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 567634.3398600002
   }
 }
