@@ -1,8 +1,8 @@
 {
   "tokens": [
     "AIXBT",
-    "POPCAT",
     "WIF",
+    "POPCAT",
     "GRIFFAIN",
     "AERO",
     "kBONK"
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-01T23:36:08.025827",
+  "timestamp": "2026-01-01T23:48:21.827474",
   "bucket": "1.2m-5m"
 }
