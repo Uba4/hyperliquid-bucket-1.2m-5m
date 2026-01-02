@@ -1,8 +1,8 @@
 {
   "tokens": [
-    "MET",
     "POPCAT",
     "TAO",
+    "MET",
     "TON",
     "VIRTUAL",
     "PENGU"
@@ -15,6 +15,6 @@
     70,
     68
   ],
-  "timestamp": "2026-01-02T09:40:15.689808",
+  "timestamp": "2026-01-02T09:54:05.534426",
   "bucket": "1.2m-5m"
 }
