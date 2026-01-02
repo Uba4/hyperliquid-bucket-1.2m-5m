@@ -1,7 +1,7 @@
 {
   "tokens": [
-    "STABLE",
     "ZORA",
+    "STABLE",
     "AERO",
     "DOT",
     "STBL",
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-02T21:39:22.008473",
+  "timestamp": "2026-01-02T21:46:59.732589",
   "bucket": "1.2m-5m"
 }
