@@ -4,17 +4,17 @@
     "ZORA",
     "STABLE",
     "kSHIB",
-    "STBL",
-    "DOT"
+    "AIXBT",
+    "STBL"
   ],
   "scores": [
-    70,
+    69,
     68,
-    66,
+    67,
     64,
     62,
     60
   ],
-  "timestamp": "2026-01-02T20:13:29.752523",
+  "timestamp": "2026-01-02T20:35:03.323517",
   "bucket": "1.2m-5m"
 }
