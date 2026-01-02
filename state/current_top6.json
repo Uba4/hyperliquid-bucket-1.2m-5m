@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "kSHIB",
     "STABLE",
     "TON",
-    "WLD",
-    "AERO",
-    "VIRTUAL"
+    "kSHIB",
+    "STBL",
+    "SEI",
+    "WLD"
   ],
   "scores": [
-    69,
-    69,
+    70,
+    68,
     66,
-    62,
+    64,
     62,
     60
   ],
-  "timestamp": "2026-01-02T18:29:45.965384",
+  "timestamp": "2026-01-02T18:52:54.879627",
   "bucket": "1.2m-5m"
 }
