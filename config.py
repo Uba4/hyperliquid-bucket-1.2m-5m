@@ -11,13 +11,13 @@ MAX_VOLUME = 5_000_000
 # ===================== API CONFIGURATION =====================
 HYPERLIQUID_API = "https://api.hyperliquid.xyz/info"
 API_TIMEOUT = 10
-API_DELAY = 0.1  # Delay between API calls (seconds)
+API_DELAY = 0.05  # Delay between API calls (seconds)
 
 # ===================== TECHNICAL ANALYSIS =====================
 RSI_PERIOD = 14
 MA_PERIOD = 14
 SIGNAL_LINE = 50
-LOOKBACK_PERIODS = 150  # Number of 15min bars to fetch for RSI calculation
+LOOKBACK_PERIODS = 100  # Number of 15min bars to fetch for RSI calculation
 
 # ===================== TRACKING CONFIGURATION =====================
 TIMEFRAME = "15m"
