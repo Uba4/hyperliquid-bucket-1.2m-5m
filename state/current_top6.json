@@ -2,19 +2,19 @@
   "tokens": [
     "SPX",
     "POPCAT",
+    "STABLE",
     "kNEIRO",
     "PROMPT",
-    "kSHIB",
-    "STABLE"
+    "kSHIB"
   ],
   "scores": [
+    80,
     78,
     76,
     74,
     72,
-    69,
-    69
+    70
   ],
-  "timestamp": "2026-01-02T15:55:50.644465",
+  "timestamp": "2026-01-02T16:03:22.794569",
   "bucket": "1.2m-5m"
 }
