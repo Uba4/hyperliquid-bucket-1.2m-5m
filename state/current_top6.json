@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "WIF",
     "kSHIB",
     "STABLE",
-    "OM",
     "TON",
-    "POPCAT"
+    "WLD",
+    "AERO",
+    "VIRTUAL"
   ],
   "scores": [
-    72,
-    70,
-    68,
+    69,
+    69,
     66,
-    64,
-    61
+    62,
+    62,
+    60
   ],
-  "timestamp": "2026-01-02T17:57:59.808203",
+  "timestamp": "2026-01-02T18:29:45.965384",
   "bucket": "1.2m-5m"
 }
