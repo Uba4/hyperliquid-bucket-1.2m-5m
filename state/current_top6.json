@@ -3,8 +3,8 @@
     "POPCAT",
     "PENDLE",
     "kBONK",
-    "TAO",
     "SPX",
+    "TAO",
     "VIRTUAL"
   ],
   "scores": [
@@ -12,9 +12,9 @@
     74,
     72,
     70,
-    68,
+    66,
     66
   ],
-  "timestamp": "2026-01-02T11:42:33.435683",
+  "timestamp": "2026-01-02T11:50:36.573306",
   "bucket": "1.2m-5m"
 }
