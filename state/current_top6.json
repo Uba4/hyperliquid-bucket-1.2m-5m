@@ -3,18 +3,18 @@
     "SPX",
     "kNEIRO",
     "POPCAT",
-    "AERO",
+    "kSHIB",
     "kBONK",
-    "kSHIB"
+    "STABLE"
   ],
   "scores": [
+    78,
     76,
     74,
     72,
     70,
-    68,
-    66
+    68
   ],
-  "timestamp": "2026-01-02T15:02:15.856282",
+  "timestamp": "2026-01-02T15:29:27.570161",
   "bucket": "1.2m-5m"
 }
