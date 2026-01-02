@@ -216,13 +216,13 @@
     "entry_volume": 1492667.7536199996
   },
   "AIXBT": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T21:37:06.215740",
-    "exit_time": "2026-01-02T02:58:16.023052",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T13:58:22.678462",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-01-12T02:58:16.023052",
-    "entry_volume": 2949280.9894129992
+    "tracking_until": null,
+    "entry_volume": 1297836.2958019997
   },
   "kBONK": {
     "current_run": 3,
@@ -316,11 +316,11 @@
   },
   "PENDLE": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T10:45:29.001910",
-    "exit_time": null,
+    "exit_time": "2026-01-02T13:58:22.678462",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T13:58:22.678462",
     "entry_volume": 3581533.8882999993
   },
   "kNEIRO": {
