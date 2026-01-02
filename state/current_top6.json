@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MET",
-    "TAO",
     "PENGU",
-    "kBONK",
     "POPCAT",
+    "kBONK",
+    "TAO",
     "LINK"
   ],
   "scores": [
+    74,
     72,
     70,
     68,
     66,
-    64,
-    62
+    64
   ],
-  "timestamp": "2026-01-02T06:27:32.857887",
+  "timestamp": "2026-01-02T06:57:14.886470",
   "bucket": "1.2m-5m"
 }
