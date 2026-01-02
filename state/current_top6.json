@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "TON",
     "ZORA",
     "STABLE",
-    "kSHIB",
-    "AIXBT",
-    "STBL"
+    "TON",
+    "STBL",
+    "DOT",
+    "AERO"
   ],
   "scores": [
-    69,
     68,
-    67,
+    66,
     64,
     62,
-    60
+    60,
+    57
   ],
-  "timestamp": "2026-01-02T20:35:03.323517",
+  "timestamp": "2026-01-02T20:48:40.099844",
   "bucket": "1.2m-5m"
 }
