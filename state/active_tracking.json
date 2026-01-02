@@ -271,11 +271,11 @@
   },
   "SPX": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T10:26:24.269950",
-    "exit_time": null,
+    "exit_time": "2026-01-02T10:45:29.001910",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T10:45:29.001910",
     "entry_volume": 1472350.3206860002
   },
   "MET": {
@@ -313,5 +313,14 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 3634898.3958399994
+  },
+  "PENDLE": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T10:45:29.001910",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 3581533.8882999993
   }
 }
