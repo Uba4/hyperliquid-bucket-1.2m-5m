@@ -46,11 +46,11 @@
   },
   "EIGEN": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T02:58:16.023052",
-    "exit_time": null,
+    "exit_time": "2026-01-02T05:17:16.876932",
     "last_bar_collected": 15,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T05:17:16.876932",
     "entry_volume": 2484419.1179600004
   },
   "MAVIA": {
@@ -225,13 +225,13 @@
     "entry_volume": 2949280.9894129992
   },
   "kBONK": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T23:18:05.096499",
-    "exit_time": "2026-01-02T02:58:16.023052",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T05:17:16.876932",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-01-12T02:58:16.023052",
-    "entry_volume": 1458702.2580780003
+    "tracking_until": null,
+    "entry_volume": 2103883.882801
   },
   "CRV": {
     "current_run": 1,

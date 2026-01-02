@@ -1,20 +1,20 @@
 {
   "tokens": [
     "AVNT",
-    "STBL",
     "TAO",
+    "STBL",
     "LINK",
-    "EIGEN",
-    "NEAR"
+    "NEAR",
+    "kBONK"
   ],
   "scores": [
     70,
-    68,
-    66,
+    67,
+    67,
     64,
-    62,
+    60,
     60
   ],
-  "timestamp": "2026-01-02T04:51:42.508077",
+  "timestamp": "2026-01-02T05:17:16.877092",
   "bucket": "1.2m-5m"
 }
