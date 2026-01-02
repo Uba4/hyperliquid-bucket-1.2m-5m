@@ -3,18 +3,18 @@
     "TAO",
     "kBONK",
     "PENGU",
-    "AVNT",
     "LINK",
-    "STBL"
+    "POPCAT",
+    "SPX"
   ],
   "scores": [
     70,
     68,
-    64,
+    66,
     64,
     62,
-    62
+    59
   ],
-  "timestamp": "2026-01-02T05:45:46.066747",
+  "timestamp": "2026-01-02T05:58:08.148429",
   "bucket": "1.2m-5m"
 }
