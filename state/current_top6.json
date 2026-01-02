@@ -3,18 +3,18 @@
     "POPCAT",
     "kBONK",
     "SPX",
+    "kNEIRO",
     "AERO",
-    "PENDLE",
-    "VIRTUAL"
+    "PENDLE"
   ],
   "scores": [
+    78,
     76,
     74,
     72,
     70,
-    68,
-    66
+    68
   ],
-  "timestamp": "2026-01-02T12:33:19.751179",
+  "timestamp": "2026-01-02T13:13:20.069935",
   "bucket": "1.2m-5m"
 }

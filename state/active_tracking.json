@@ -289,11 +289,11 @@
   },
   "VIRTUAL": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T08:29:12.026628",
-    "exit_time": null,
+    "exit_time": "2026-01-02T13:13:20.069768",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T13:13:20.069768",
     "entry_volume": 1085869.9067079995
   },
   "TON": {
@@ -322,5 +322,14 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 3581533.8882999993
+  },
+  "kNEIRO": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T13:13:20.069768",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1121016.009728
   }
 }
