@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "AIXBT",
-    "GRIFFAIN",
-    "WIF",
+    "EIGEN",
     "AERO",
-    "POPCAT",
-    "kBONK"
+    "CRV",
+    "GRIFFAIN",
+    "NEAR",
+    "POPCAT"
   ],
   "scores": [
-    68,
+    72,
+    70,
+    66,
     66,
     64,
-    62,
-    60,
-    58
+    62
   ],
-  "timestamp": "2026-01-02T00:58:23.873845",
+  "timestamp": "2026-01-02T02:58:16.023493",
   "bucket": "1.2m-5m"
 }
