@@ -4,8 +4,8 @@
     "TAO",
     "PENDLE",
     "VIRTUAL",
-    "ASTER",
-    "TON"
+    "kBONK",
+    "ASTER"
   ],
   "scores": [
     76,
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-01-02T10:56:17.386751",
+  "timestamp": "2026-01-02T11:12:22.557861",
   "bucket": "1.2m-5m"
 }
