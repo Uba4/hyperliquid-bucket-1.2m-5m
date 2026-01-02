@@ -370,11 +370,20 @@
   },
   "SEI": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T18:52:54.879393",
-    "exit_time": null,
+    "exit_time": "2026-01-02T19:39:04.141269",
     "last_bar_collected": 3,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T19:39:04.141269",
     "entry_volume": 1906571.9520799997
+  },
+  "ZORA": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T19:39:04.141269",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1090941.0069980004
   }
 }

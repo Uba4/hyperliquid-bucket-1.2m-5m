@@ -2,9 +2,9 @@
   "tokens": [
     "TON",
     "kSHIB",
+    "ZORA",
     "STABLE",
     "STBL",
-    "SEI",
     "DOT"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-02T19:28:19.154113",
+  "timestamp": "2026-01-02T19:39:04.141442",
   "bucket": "1.2m-5m"
 }
