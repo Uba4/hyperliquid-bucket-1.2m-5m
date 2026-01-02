@@ -3,18 +3,18 @@
     "kNEIRO",
     "SPX",
     "POPCAT",
-    "AIXBT",
     "AERO",
-    "kBONK"
+    "kBONK",
+    "kSHIB"
   ],
   "scores": [
-    74,
-    72,
+    73,
+    73,
     70,
     68,
     66,
     64
   ],
-  "timestamp": "2026-01-02T14:40:45.615937",
+  "timestamp": "2026-01-02T14:54:44.047256",
   "bucket": "1.2m-5m"
 }

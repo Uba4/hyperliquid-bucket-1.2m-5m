@@ -217,11 +217,11 @@
   },
   "AIXBT": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T13:58:22.678462",
-    "exit_time": null,
+    "exit_time": "2026-01-02T14:54:44.047080",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T14:54:44.047080",
     "entry_volume": 1297836.2958019997
   },
   "kBONK": {
@@ -331,5 +331,14 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 1121016.009728
+  },
+  "kSHIB": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T14:54:44.047080",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1153836.962284
   }
 }
