@@ -4,8 +4,8 @@
     "POPCAT",
     "TAO",
     "PENGU",
-    "VIRTUAL",
-    "SPX"
+    "TON",
+    "VIRTUAL"
   ],
   "scores": [
     76,
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-01-02T08:54:04.533306",
+  "timestamp": "2026-01-02T09:15:22.975438",
   "bucket": "1.2m-5m"
 }
