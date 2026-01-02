@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SPX",
-    "kNEIRO",
     "POPCAT",
+    "kNEIRO",
+    "PROMPT",
     "kSHIB",
-    "STABLE",
-    "kBONK"
+    "STABLE"
   ],
   "scores": [
     78,
     76,
     74,
     72,
-    70,
-    68
+    69,
+    69
   ],
-  "timestamp": "2026-01-02T15:45:19.634347",
+  "timestamp": "2026-01-02T15:55:50.644465",
   "bucket": "1.2m-5m"
 }

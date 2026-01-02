@@ -226,11 +226,11 @@
   },
   "kBONK": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T11:12:22.557627",
-    "exit_time": null,
+    "exit_time": "2026-01-02T15:55:50.644258",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T15:55:50.644258",
     "entry_volume": 3624495.8961340017
   },
   "CRV": {
@@ -349,5 +349,14 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 1766179.508567
+  },
+  "PROMPT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T15:55:50.644258",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1087506.3291120008
   }
 }
