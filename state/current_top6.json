@@ -1,10 +1,10 @@
 {
   "tokens": [
     "POPCAT",
-    "PENDLE",
     "kBONK",
     "SPX",
-    "TAO",
+    "AERO",
+    "PENDLE",
     "VIRTUAL"
   ],
   "scores": [
@@ -12,9 +12,9 @@
     74,
     72,
     70,
-    66,
+    68,
     66
   ],
-  "timestamp": "2026-01-02T11:58:43.001756",
+  "timestamp": "2026-01-02T12:33:19.751179",
   "bucket": "1.2m-5m"
 }

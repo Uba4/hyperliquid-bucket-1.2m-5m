@@ -126,13 +126,13 @@
     "entry_volume": 794040.0736100002
   },
   "AERO": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T23:36:08.025677",
-    "exit_time": "2026-01-02T04:03:49.751494",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T12:33:19.751009",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-01-12T04:03:49.751494",
-    "entry_volume": 2178678.9082400003
+    "tracking_until": null,
+    "entry_volume": 2713679.06947
   },
   "INJ": {
     "current_run": 1,
@@ -253,11 +253,11 @@
   },
   "TAO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T04:03:49.751494",
-    "exit_time": null,
+    "exit_time": "2026-01-02T12:33:19.751009",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T12:33:19.751009",
     "entry_volume": 2189336.49568
   },
   "LINK": {
