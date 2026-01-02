@@ -4,8 +4,8 @@
     "kNEIRO",
     "POPCAT",
     "kSHIB",
-    "kBONK",
-    "STABLE"
+    "STABLE",
+    "kBONK"
   ],
   "scores": [
     78,
@@ -15,6 +15,6 @@
     70,
     68
   ],
-  "timestamp": "2026-01-02T15:29:27.570161",
+  "timestamp": "2026-01-02T15:45:19.634347",
   "bucket": "1.2m-5m"
 }
