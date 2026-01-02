@@ -4,8 +4,8 @@
     "STABLE",
     "ZORA",
     "DOT",
-    "STBL",
-    "TIA"
+    "TIA",
+    "STBL"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-02T23:44:41.721846",
+  "timestamp": "2026-01-02T23:52:14.798841",
   "bucket": "1.2m-5m"
 }
