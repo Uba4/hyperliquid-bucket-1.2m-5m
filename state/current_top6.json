@@ -2,19 +2,19 @@
   "tokens": [
     "WIF",
     "kSHIB",
-    "OM",
     "STABLE",
+    "OM",
     "TON",
-    "POPCAT"
+    "PROMPT"
   ],
   "scores": [
     78,
     76,
     74,
     72,
-    68,
+    70,
     68
   ],
-  "timestamp": "2026-01-02T17:43:14.645979",
+  "timestamp": "2026-01-02T17:49:59.872228",
   "bucket": "1.2m-5m"
 }

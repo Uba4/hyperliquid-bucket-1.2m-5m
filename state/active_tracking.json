@@ -190,11 +190,11 @@
   },
   "POPCAT": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T05:58:08.148158",
-    "exit_time": null,
+    "exit_time": "2026-01-02T17:49:59.872067",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T17:49:59.872067",
     "entry_volume": 1716544.5306549997
   },
   "PENGU": {
@@ -351,13 +351,13 @@
     "entry_volume": 1766179.508567
   },
   "PROMPT": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-02T15:55:50.644258",
-    "exit_time": "2026-01-02T17:04:04.741428",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T17:49:59.872067",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-01-12T17:04:04.741428",
-    "entry_volume": 1087506.3291120008
+    "tracking_until": null,
+    "entry_volume": 1166877.1591260012
   },
   "OM": {
     "current_run": 1,
