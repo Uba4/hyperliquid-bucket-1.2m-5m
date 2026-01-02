@@ -3,9 +3,9 @@
     "SPX",
     "POPCAT",
     "STABLE",
-    "PROMPT",
     "kSHIB",
-    "OM"
+    "OM",
+    "PROMPT"
   ],
   "scores": [
     78,
@@ -15,6 +15,6 @@
     70,
     68
   ],
-  "timestamp": "2026-01-02T16:36:02.055196",
+  "timestamp": "2026-01-02T16:55:47.278604",
   "bucket": "1.2m-5m"
 }
