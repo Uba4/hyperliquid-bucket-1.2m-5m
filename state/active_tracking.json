@@ -127,11 +127,11 @@
   },
   "AERO": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-01T23:36:08.025677",
-    "exit_time": null,
+    "exit_time": "2026-01-02T04:03:49.751494",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T04:03:49.751494",
     "entry_volume": 2178678.9082400003
   },
   "INJ": {
@@ -153,13 +153,13 @@
     "entry_volume": 2155031.2867099997
   },
   "STBL": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T16:48:34.590130",
-    "exit_time": "2026-01-01T19:10:46.852977",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T04:03:49.751494",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-01-11T19:10:46.852977",
-    "entry_volume": 3057754.7825840004
+    "tracking_until": null,
+    "entry_volume": 1781660.8768409996
   },
   "WLD": {
     "current_run": 1,
@@ -172,11 +172,11 @@
   },
   "GRIFFAIN": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-01T17:42:49.393946",
-    "exit_time": null,
+    "exit_time": "2026-01-02T04:03:49.751494",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T04:03:49.751494",
     "entry_volume": 1913602.462055
   },
   "kPEPE": {
@@ -190,11 +190,11 @@
   },
   "POPCAT": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-01T19:28:42.926244",
-    "exit_time": null,
+    "exit_time": "2026-01-02T04:03:49.751494",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T04:03:49.751494",
     "entry_volume": 1208401.129238
   },
   "PENGU": {
@@ -241,5 +241,23 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 3058857.496074
+  },
+  "AVNT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T04:03:49.751494",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 3265888.366239998
+  },
+  "TAO": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T04:03:49.751494",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 2189336.49568
   }
 }
