@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SPX",
-    "POPCAT",
     "STABLE",
     "kSHIB",
+    "POPCAT",
     "OM",
-    "PROMPT"
+    "WIF"
   ],
   "scores": [
     78,
     76,
-    74,
-    72,
+    73,
+    73,
     70,
     68
   ],
-  "timestamp": "2026-01-02T16:55:47.278604",
+  "timestamp": "2026-01-02T17:04:04.741610",
   "bucket": "1.2m-5m"
 }
