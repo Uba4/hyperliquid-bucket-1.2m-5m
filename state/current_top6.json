@@ -2,10 +2,10 @@
   "tokens": [
     "STABLE",
     "ZORA",
-    "TON",
-    "DOT",
     "AERO",
-    "STBL"
+    "DOT",
+    "STBL",
+    "NEAR"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-02T21:28:19.192065",
+  "timestamp": "2026-01-02T21:39:22.008473",
   "bucket": "1.2m-5m"
 }
