@@ -3,9 +3,9 @@
     "MET",
     "PENGU",
     "POPCAT",
-    "kBONK",
     "TAO",
-    "LINK"
+    "kBONK",
+    "SPX"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-02T06:57:14.886470",
+  "timestamp": "2026-01-02T07:20:07.247069",
   "bucket": "1.2m-5m"
 }

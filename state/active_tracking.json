@@ -262,21 +262,21 @@
   },
   "LINK": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T04:51:42.507921",
-    "exit_time": null,
+    "exit_time": "2026-01-02T07:20:07.246949",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T07:20:07.246949",
     "entry_volume": 3885020.3514
   },
   "SPX": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-02T05:58:08.148158",
-    "exit_time": "2026-01-02T06:27:32.857728",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T07:20:07.246949",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-01-12T06:27:32.857728",
-    "entry_volume": 1110103.9124770002
+    "tracking_until": null,
+    "entry_volume": 1169553.9635880005
   },
   "MET": {
     "current_run": 1,
