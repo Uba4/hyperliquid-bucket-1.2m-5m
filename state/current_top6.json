@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "STABLE",
     "TON",
     "kSHIB",
+    "STABLE",
     "STBL",
     "SEI",
     "WLD"
   ],
   "scores": [
     70,
-    68,
-    66,
+    67,
+    67,
     64,
     62,
     60
   ],
-  "timestamp": "2026-01-02T18:52:54.879627",
+  "timestamp": "2026-01-02T19:01:50.451029",
   "bucket": "1.2m-5m"
 }
