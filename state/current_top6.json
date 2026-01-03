@@ -2,19 +2,19 @@
   "tokens": [
     "EIGEN",
     "NEAR",
+    "AIXBT",
     "TIA",
     "WLD",
-    "AIXBT",
-    "ZORA"
+    "ICP"
   ],
   "scores": [
+    64,
     62,
     60,
     58,
     56,
-    52,
-    52
+    54
   ],
-  "timestamp": "2026-01-03T15:19:15.923973",
+  "timestamp": "2026-01-03T15:35:05.473252",
   "bucket": "1.2m-5m"
 }

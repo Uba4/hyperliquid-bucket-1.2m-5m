@@ -27,13 +27,13 @@
     "entry_volume": 728180.2812549998
   },
   "ICP": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T14:40:28.553328",
-    "exit_time": "2026-01-03T15:19:15.923811",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T15:35:05.473098",
+    "exit_time": null,
     "last_bar_collected": 101,
-    "tracking_until": "2026-01-13T15:19:15.923811",
-    "entry_volume": 2544676.6052099997
+    "tracking_until": null,
+    "entry_volume": 2506715.534049999
   },
   "MOODENG": {
     "current_run": 1,
@@ -379,11 +379,11 @@
   },
   "ZORA": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T09:49:41.161490",
-    "exit_time": null,
+    "exit_time": "2026-01-03T15:35:05.473098",
     "last_bar_collected": 19,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T15:35:05.473098",
     "entry_volume": 2063301.318504
   },
   "KAITO": {
