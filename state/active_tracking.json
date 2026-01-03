@@ -28,11 +28,11 @@
   },
   "ICP": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T14:40:28.553328",
-    "exit_time": null,
+    "exit_time": "2026-01-03T15:19:15.923811",
     "last_bar_collected": 101,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T15:19:15.923811",
     "entry_volume": 2544676.6052099997
   },
   "MOODENG": {
@@ -216,13 +216,13 @@
     "entry_volume": 4752534.426480001
   },
   "AIXBT": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-02T20:35:03.323333",
-    "exit_time": "2026-01-02T20:48:40.099519",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T15:19:15.923811",
+    "exit_time": null,
     "last_bar_collected": 72,
-    "tracking_until": "2026-01-12T20:48:40.099519",
-    "entry_volume": 1081267.9113450004
+    "tracking_until": null,
+    "entry_volume": 1575003.195301
   },
   "kBONK": {
     "current_run": 3,
