@@ -378,13 +378,13 @@
     "entry_volume": 1906571.9520799997
   },
   "ZORA": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-02T19:39:04.141269",
-    "exit_time": "2026-01-03T06:00:38.544721",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T09:49:41.161490",
+    "exit_time": null,
     "last_bar_collected": 56,
-    "tracking_until": "2026-01-13T06:00:38.544721",
-    "entry_volume": 1090941.0069980004
+    "tracking_until": null,
+    "entry_volume": 2063301.318504
   },
   "KAITO": {
     "current_run": 1,
@@ -460,11 +460,11 @@
   },
   "MORPHO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T08:28:17.685419",
-    "exit_time": null,
+    "exit_time": "2026-01-03T09:49:41.161490",
     "last_bar_collected": 5,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T09:49:41.161490",
     "entry_volume": 1088802.0680800034
   },
   "TRX": {
