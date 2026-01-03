@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "EIGEN",
     "ZORA",
     "WLD",
     "TIA",
-    "EIGEN",
     "NEAR",
     "ICP"
   ],
   "scores": [
     64,
+    62,
     60,
-    60,
-    60,
+    58,
     56,
     54
   ],
-  "timestamp": "2026-01-03T14:40:28.553495",
+  "timestamp": "2026-01-03T14:50:22.835180",
   "bucket": "1.2m-5m"
 }
