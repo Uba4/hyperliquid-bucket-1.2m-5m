@@ -253,11 +253,11 @@
   },
   "TAO": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T15:45:54.982609",
-    "exit_time": null,
+    "exit_time": "2026-01-03T17:08:29.757203",
     "last_bar_collected": 3,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T17:08:29.757203",
     "entry_volume": 3266038.2794200005
   },
   "LINK": {
@@ -484,5 +484,14 @@
     "last_bar_collected": 29,
     "tracking_until": "2026-01-13T10:51:56.736718",
     "entry_volume": 3503537.4253900023
+  },
+  "MELANIA": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T17:08:29.757203",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1176845.2981889995
   }
 }

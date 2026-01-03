@@ -2,19 +2,19 @@
   "tokens": [
     "EIGEN",
     "WIF",
-    "AIXBT",
+    "MELANIA",
     "AERO",
-    "kBONK",
-    "TAO"
+    "AIXBT",
+    "kBONK"
   ],
   "scores": [
+    64,
+    60,
+    60,
     60,
     56,
-    56,
-    56,
-    52,
-    50
+    54
   ],
-  "timestamp": "2026-01-03T16:53:55.291783",
+  "timestamp": "2026-01-03T17:08:29.757376",
   "bucket": "1.2m-5m"
 }
