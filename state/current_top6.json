@@ -1,11 +1,11 @@
 {
   "tokens": [
     "EIGEN",
-    "NEAR",
     "AIXBT",
+    "NEAR",
+    "TAO",
     "TIA",
-    "APT",
-    "TAO"
+    "APT"
   ],
   "scores": [
     64,
@@ -13,8 +13,8 @@
     60,
     58,
     56,
-    54
+    52
   ],
-  "timestamp": "2026-01-03T15:53:57.855839",
+  "timestamp": "2026-01-03T16:12:35.142635",
   "bucket": "1.2m-5m"
 }
