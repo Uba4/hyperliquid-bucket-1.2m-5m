@@ -1,11 +1,11 @@
 {
   "tokens": [
+    "WLD",
     "TAO",
     "CC",
     "WLFI",
-    "WLD",
-    "XLM",
-    "PENDLE"
+    "EIGEN",
+    "XLM"
   ],
   "scores": [
     76,
@@ -13,8 +13,8 @@
     72,
     70,
     68,
-    64
+    66
   ],
-  "timestamp": "2026-01-03T06:00:38.544930",
+  "timestamp": "2026-01-03T06:39:07.618191",
   "bucket": "1.2m-5m"
 }
