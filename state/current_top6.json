@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ZORA",
     "WLFI",
+    "ZORA",
     "TIA",
-    "KAITO",
-    "PENDLE",
-    "WLD"
+    "WLD",
+    "EIGEN",
+    "NEAR"
   ],
   "scores": [
-    68,
     66,
     64,
     62,
     60,
-    58
+    58,
+    56
   ],
-  "timestamp": "2026-01-03T13:59:59.255782",
+  "timestamp": "2026-01-03T14:23:40.042390",
   "bucket": "1.2m-5m"
 }
