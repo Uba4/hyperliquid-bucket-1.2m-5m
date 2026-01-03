@@ -217,11 +217,11 @@
   },
   "AIXBT": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T15:19:15.923811",
-    "exit_time": null,
+    "exit_time": "2026-01-03T17:43:09.837000",
     "last_bar_collected": 8,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T17:43:09.837000",
     "entry_volume": 1575003.195301
   },
   "kBONK": {
@@ -252,13 +252,13 @@
     "entry_volume": 3006850.8109
   },
   "TAO": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T15:45:54.982609",
-    "exit_time": "2026-01-03T17:08:29.757203",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T17:43:09.837000",
+    "exit_time": null,
     "last_bar_collected": 7,
-    "tracking_until": "2026-01-13T17:08:29.757203",
-    "entry_volume": 3266038.2794200005
+    "tracking_until": null,
+    "entry_volume": 3161295.955950001
   },
   "LINK": {
     "current_run": 1,
