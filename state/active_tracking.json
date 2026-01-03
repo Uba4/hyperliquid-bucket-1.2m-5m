@@ -145,11 +145,11 @@
   },
   "NEAR": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T07:51:13.531680",
-    "exit_time": null,
+    "exit_time": "2026-01-03T08:28:17.685419",
     "last_bar_collected": 3,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T08:28:17.685419",
     "entry_volume": 4580106.37578
   },
   "STBL": {
@@ -253,11 +253,11 @@
   },
   "TAO": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T05:20:02.718083",
-    "exit_time": null,
+    "exit_time": "2026-01-03T08:28:17.685419",
     "last_bar_collected": 13,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T08:28:17.685419",
     "entry_volume": 4075705.5823100004
   },
   "LINK": {
@@ -424,11 +424,11 @@
   },
   "WLFI": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T05:52:46.252335",
-    "exit_time": null,
+    "exit_time": "2026-01-03T08:28:17.685419",
     "last_bar_collected": 11,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T08:28:17.685419",
     "entry_volume": 2804100.5501999995
   },
   "ARB": {
@@ -448,5 +448,32 @@
     "last_bar_collected": 4,
     "tracking_until": null,
     "entry_volume": 1134916.3093499993
+  },
+  "JUP": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T08:28:17.685419",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 3547370.7642800002
+  },
+  "MORPHO": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T08:28:17.685419",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1088802.0680800034
+  },
+  "TRX": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T08:28:17.685419",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 2376177.779599999
   }
 }
