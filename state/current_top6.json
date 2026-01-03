@@ -1,20 +1,20 @@
 {
   "tokens": [
     "TAO",
-    "ZORA",
-    "FIL",
     "CC",
-    "PENDLE",
-    "XLM"
+    "WLFI",
+    "XLM",
+    "ZORA",
+    "WLD"
   ],
   "scores": [
     76,
     74,
-    72,
     70,
-    66,
-    66
+    68,
+    68,
+    67
   ],
-  "timestamp": "2026-01-03T05:41:34.036217",
+  "timestamp": "2026-01-03T05:52:46.252631",
   "bucket": "1.2m-5m"
 }
