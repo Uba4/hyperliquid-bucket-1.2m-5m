@@ -1,9 +1,9 @@
 {
   "tokens": [
     "MELANIA",
+    "CRV",
     "EIGEN",
     "WIF",
-    "CRV",
     "TAO",
     "TON"
   ],
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-03T19:40:40.342651",
+  "timestamp": "2026-01-03T19:48:46.842557",
   "bucket": "1.2m-5m"
 }
