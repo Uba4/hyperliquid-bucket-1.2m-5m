@@ -3,9 +3,9 @@
     "CC",
     "ZORA",
     "KAITO",
+    "WLFI",
     "TRX",
-    "TON",
-    "AVNT"
+    "TON"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-03T11:42:42.942269",
+  "timestamp": "2026-01-03T11:50:39.905653",
   "bucket": "1.2m-5m"
 }
