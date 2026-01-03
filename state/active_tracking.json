@@ -315,13 +315,13 @@
     "entry_volume": 3634898.3958399994
   },
   "PENDLE": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T05:41:34.035927",
-    "exit_time": "2026-01-03T05:52:46.252335",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T06:00:38.544721",
+    "exit_time": null,
     "last_bar_collected": 4,
-    "tracking_until": "2026-01-13T05:52:46.252335",
-    "entry_volume": 3430333.8308
+    "tracking_until": null,
+    "entry_volume": 3370295.2647000006
   },
   "kNEIRO": {
     "current_run": 1,
@@ -379,11 +379,11 @@
   },
   "ZORA": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T19:39:04.141269",
-    "exit_time": null,
+    "exit_time": "2026-01-03T06:00:38.544721",
     "last_bar_collected": 40,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T06:00:38.544721",
     "entry_volume": 1090941.0069980004
   },
   "KAITO": {
