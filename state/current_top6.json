@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MELANIA",
-    "CRV",
-    "CC",
+    "POPCAT",
     "AERO",
-    "TON",
-    "POPCAT"
+    "CC",
+    "SPX",
+    "WIF",
+    "CRV"
   ],
   "scores": [
     66,
     64,
-    62,
+    61,
     60,
-    58,
+    59,
     56
   ],
-  "timestamp": "2026-01-03T22:58:51.638309",
+  "timestamp": "2026-01-03T23:20:53.778217",
   "bucket": "1.2m-5m"
 }
