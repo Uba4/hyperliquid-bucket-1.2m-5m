@@ -451,11 +451,11 @@
   },
   "JUP": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T08:28:17.685419",
-    "exit_time": null,
+    "exit_time": "2026-01-03T09:25:25.070350",
     "last_bar_collected": 5,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T09:25:25.070350",
     "entry_volume": 3547370.7642800002
   },
   "MORPHO": {
@@ -475,5 +475,14 @@
     "last_bar_collected": 5,
     "tracking_until": null,
     "entry_volume": 2376177.779599999
+  },
+  "LTC": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T09:25:25.070350",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 3503537.4253900023
   }
 }
