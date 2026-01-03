@@ -315,13 +315,13 @@
     "entry_volume": 3634898.3958399994
   },
   "PENDLE": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T06:00:38.544721",
-    "exit_time": "2026-01-03T06:39:07.618043",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T12:40:43.004038",
+    "exit_time": null,
     "last_bar_collected": 27,
-    "tracking_until": "2026-01-13T06:39:07.618043",
-    "entry_volume": 3370295.2647000006
+    "tracking_until": null,
+    "entry_volume": 2497504.1557000005
   },
   "kNEIRO": {
     "current_run": 1,
@@ -469,11 +469,11 @@
   },
   "TRX": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T08:28:17.685419",
-    "exit_time": null,
+    "exit_time": "2026-01-03T12:40:43.004038",
     "last_bar_collected": 18,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T12:40:43.004038",
     "entry_volume": 2376177.779599999
   },
   "LTC": {
