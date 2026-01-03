@@ -1,11 +1,11 @@
 {
   "tokens": [
     "WLD",
-    "TAO",
     "CC",
+    "TAO",
     "WLFI",
     "EIGEN",
-    "XLM"
+    "ARB"
   ],
   "scores": [
     76,
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-01-03T06:39:07.618191",
+  "timestamp": "2026-01-03T06:57:32.624665",
   "bucket": "1.2m-5m"
 }
