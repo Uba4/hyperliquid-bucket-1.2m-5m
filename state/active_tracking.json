@@ -315,13 +315,13 @@
     "entry_volume": 3634898.3958399994
   },
   "PENDLE": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T04:40:14.047767",
-    "exit_time": "2026-01-03T05:20:02.718083",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T05:41:34.035927",
+    "exit_time": null,
     "last_bar_collected": 4,
-    "tracking_until": "2026-01-13T05:20:02.718083",
-    "entry_volume": 3410168.2803999996
+    "tracking_until": null,
+    "entry_volume": 3430333.8308
   },
   "kNEIRO": {
     "current_run": 1,
@@ -343,11 +343,11 @@
   },
   "STABLE": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T15:29:27.569995",
-    "exit_time": null,
+    "exit_time": "2026-01-03T05:41:34.035927",
     "last_bar_collected": 57,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T05:41:34.035927",
     "entry_volume": 1766179.508567
   },
   "PROMPT": {
@@ -388,21 +388,21 @@
   },
   "KAITO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T01:55:37.104703",
-    "exit_time": null,
+    "exit_time": "2026-01-03T05:41:34.035927",
     "last_bar_collected": 15,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T05:41:34.035927",
     "entry_volume": 1248932.6328000003
   },
   "XLM": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T01:55:37.104703",
-    "exit_time": "2026-01-03T04:40:14.047767",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T05:41:34.035927",
+    "exit_time": null,
     "last_bar_collected": 15,
-    "tracking_until": "2026-01-13T04:40:14.047767",
-    "entry_volume": 1421200.82396
+    "tracking_until": null,
+    "entry_volume": 1234035.3601700002
   },
   "IP": {
     "current_run": 1,
