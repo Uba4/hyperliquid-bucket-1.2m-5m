@@ -1,20 +1,20 @@
 {
   "tokens": [
     "STABLE",
-    "AERO",
     "KAITO",
     "ZORA",
-    "DOT",
-    "XLM"
+    "FIL",
+    "XLM",
+    "DOT"
   ],
   "scores": [
+    78,
+    76,
     74,
     72,
     70,
-    68,
-    66,
-    64
+    68
   ],
-  "timestamp": "2026-01-03T01:55:37.104989",
+  "timestamp": "2026-01-03T03:17:23.954839",
   "bucket": "1.2m-5m"
 }
