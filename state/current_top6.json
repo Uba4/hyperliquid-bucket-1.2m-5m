@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "STABLE",
-    "KAITO",
     "ZORA",
     "FIL",
-    "IP",
-    "PENDLE"
+    "TAO",
+    "STABLE",
+    "KAITO",
+    "CC"
   ],
   "scores": [
+    78,
     76,
-    74,
+    72,
     72,
     70,
-    68,
-    66
+    70
   ],
-  "timestamp": "2026-01-03T04:57:07.794855",
+  "timestamp": "2026-01-03T05:20:02.718396",
   "bucket": "1.2m-5m"
 }
