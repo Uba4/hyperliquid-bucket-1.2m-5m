@@ -2,9 +2,9 @@
   "tokens": [
     "CC",
     "WLD",
+    "TRX",
     "JUP",
     "MORPHO",
-    "TRX",
     "OP"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-01-03T08:28:17.685868",
+  "timestamp": "2026-01-03T08:49:59.598365",
   "bucket": "1.2m-5m"
 }
