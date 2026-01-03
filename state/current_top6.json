@@ -2,19 +2,19 @@
   "tokens": [
     "EIGEN",
     "AIXBT",
-    "NEAR",
-    "TAO",
-    "TIA",
-    "APT"
+    "AERO",
+    "WIF",
+    "kBONK",
+    "TAO"
   ],
   "scores": [
+    66,
     64,
     62,
     60,
     58,
-    56,
-    52
+    56
   ],
-  "timestamp": "2026-01-03T16:12:35.142635",
+  "timestamp": "2026-01-03T16:39:22.990098",
   "bucket": "1.2m-5m"
 }
