@@ -46,11 +46,11 @@
   },
   "EIGEN": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T14:23:40.042090",
-    "exit_time": null,
+    "exit_time": "2026-01-03T20:38:35.794602",
     "last_bar_collected": 25,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T20:38:35.794602",
     "entry_volume": 2818624.244602999
   },
   "MAVIA": {
@@ -315,13 +315,13 @@
     "entry_volume": 3634898.3958399994
   },
   "PENDLE": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T12:40:43.004038",
-    "exit_time": "2026-01-03T14:23:40.042090",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T20:38:35.794602",
+    "exit_time": null,
     "last_bar_collected": 32,
-    "tracking_until": "2026-01-13T14:23:40.042090",
-    "entry_volume": 2497504.1557000005
+    "tracking_until": null,
+    "entry_volume": 1102778.8781999997
   },
   "kNEIRO": {
     "current_run": 1,
