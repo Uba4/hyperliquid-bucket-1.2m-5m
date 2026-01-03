@@ -3,9 +3,9 @@
     "ZORA",
     "KAITO",
     "WLFI",
-    "CC",
     "PENDLE",
-    "TON"
+    "TIA",
+    "WLD"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-03T12:40:43.004240",
+  "timestamp": "2026-01-03T13:17:21.991130",
   "bucket": "1.2m-5m"
 }
