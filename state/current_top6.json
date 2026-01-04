@@ -2,8 +2,8 @@
   "tokens": [
     "FET",
     "RENDER",
-    "CC",
     "POPCAT",
+    "CC",
     "HMSTR",
     "TAO"
   ],
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-04T23:45:29.788339",
+  "timestamp": "2026-01-04T23:53:35.464216",
   "bucket": "1.2m-5m"
 }
