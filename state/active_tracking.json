@@ -112,7 +112,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-04T17:15:37.033300",
     "exit_time": "2026-01-04T17:33:35.123182",
-    "last_bar_collected": 16,
+    "last_bar_collected": 2,
     "tracking_until": "2026-01-14T17:33:35.123182",
     "entry_volume": 1290430.239499
   },
