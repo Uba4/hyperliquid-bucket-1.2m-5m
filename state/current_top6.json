@@ -5,7 +5,7 @@
     "MOODENG",
     "POPCAT",
     "RENDER",
-    "TIA"
+    "RESOLV"
   ],
   "scores": [
     76,
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-01-04T18:54:20.848447",
+  "timestamp": "2026-01-04T19:08:25.530900",
   "bucket": "1.2m-5m"
 }
