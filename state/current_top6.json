@@ -2,19 +2,19 @@
   "tokens": [
     "PNUT",
     "HMSTR",
+    "RENDER",
     "MOODENG",
     "POPCAT",
-    "RENDER",
     "RESOLV"
   ],
   "scores": [
-    76,
     74,
     72,
     70,
     68,
-    66
+    66,
+    64
   ],
-  "timestamp": "2026-01-04T19:25:56.536278",
+  "timestamp": "2026-01-04T19:35:37.513741",
   "bucket": "1.2m-5m"
 }
