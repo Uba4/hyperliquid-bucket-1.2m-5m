@@ -27466,3 +27466,383 @@
 ======================================================================
 2026-01-04 17:15:37,034 [INFO] ✅ DETECTOR COMPLETE - 2026-01-04 17:15 UTC
 2026-01-04 17:15:37,035 [INFO] ======================================================================
+2026-01-04 17:24:56,718 [INFO] ✅ Directories initialized
+2026-01-04 17:24:56,718 [INFO] ======================================================================
+2026-01-04 17:24:56,718 [INFO] 🚀 Hyperliquid Data Collection System - Bucket 1.2m-5m
+2026-01-04 17:24:56,718 [INFO] ======================================================================
+2026-01-04 17:24:56,719 [INFO] Volume Range: $1,200,000 - $5,000,000
+2026-01-04 17:24:56,719 [INFO] Timeframe: 15m
+2026-01-04 17:24:56,719 [INFO] Post-exit tracking: 10 days
+2026-01-04 17:24:56,719 [INFO] Data retention: 365 days
+2026-01-04 17:24:56,719 [INFO] ======================================================================
+2026-01-04 17:24:56,719 [INFO] ======================================================================
+2026-01-04 17:24:56,719 [INFO] 📦 COLLECTOR START - 2026-01-04 17:24 UTC
+2026-01-04 17:24:56,719 [INFO] ======================================================================
+2026-01-04 17:24:56,719 [INFO] 📊 Active tracking: 64 tokens
+2026-01-04 17:24:56,719 [INFO] 
+📡 Fetching market data...
+2026-01-04 17:24:57,116 [INFO] ✅ Fetched volume data for 224 tokens
+2026-01-04 17:24:57,117 [INFO] 📊 Fetching BTC reference data...
+2026-01-04 17:24:57,320 [INFO] 
+🔄 Collecting data for active tokens...
+2026-01-04 17:24:57,320 [INFO] 
+[1/64] Processing WCT (Run 2, post_exit)
+2026-01-04 17:24:57,323 [INFO] 🆕 Initialized new Parquet for WCT
+2026-01-04 17:24:57,323 [WARNING] ⚠️  WCT: Large gap detected (297 bars). Collecting last 100.
+2026-01-04 17:24:57,323 [INFO] 📥 WCT: Fetching 100 bars from 2026-01-03 16:24 UTC
+2026-01-04 17:24:57,655 [INFO] ✅ WCT: Collected 101 bars (total: 101 bars)
+2026-01-04 17:24:57,705 [INFO] 
+[2/64] Processing ZEN (Run 1, post_exit)
+2026-01-04 17:24:57,708 [INFO] 🆕 Initialized new Parquet for ZEN
+2026-01-04 17:24:57,708 [WARNING] ⚠️  ZEN: Large gap detected (310 bars). Collecting last 100.
+2026-01-04 17:24:57,708 [INFO] 📥 ZEN: Fetching 100 bars from 2026-01-03 16:24 UTC
+2026-01-04 17:24:57,884 [INFO] ✅ ZEN: Collected 101 bars (total: 101 bars)
+2026-01-04 17:24:57,934 [INFO] 
+[3/64] Processing BERA (Run 1, post_exit)
+2026-01-04 17:24:57,937 [INFO] 🆕 Initialized new Parquet for BERA
+2026-01-04 17:24:57,937 [WARNING] ⚠️  BERA: Large gap detected (310 bars). Collecting last 100.
+2026-01-04 17:24:57,937 [INFO] 📥 BERA: Fetching 100 bars from 2026-01-03 16:24 UTC
+2026-01-04 17:24:58,101 [INFO] ✅ BERA: Collected 101 bars (total: 101 bars)
+2026-01-04 17:24:58,151 [INFO] 
+[4/64] Processing ICP (Run 3, post_exit)
+2026-01-04 17:24:58,154 [INFO] 🆕 Initialized new Parquet for ICP
+2026-01-04 17:24:58,154 [WARNING] ⚠️  ICP: Large gap detected (103 bars). Collecting last 100.
+2026-01-04 17:24:58,154 [INFO] 📥 ICP: Fetching 100 bars from 2026-01-03 16:24 UTC
+2026-01-04 17:24:58,344 [INFO] ✅ ICP: Collected 101 bars (total: 101 bars)
+2026-01-04 17:24:58,395 [INFO] 
+[5/64] Processing MOODENG (Run 2, in_top6)
+2026-01-04 17:24:58,397 [INFO] 🆕 Initialized new Parquet for MOODENG
+2026-01-04 17:24:58,397 [INFO] 📥 MOODENG: Fetching 14 bars from 2026-01-04 13:45 UTC
+2026-01-04 17:24:58,623 [INFO] ✅ MOODENG: Collected 15 bars (total: 15 bars)
+2026-01-04 17:24:58,674 [INFO] 
+[6/64] Processing EIGEN (Run 4, post_exit)
+2026-01-04 17:24:58,676 [INFO] 🆕 Initialized new Parquet for EIGEN
+2026-01-04 17:24:58,676 [WARNING] ⚠️  EIGEN: Large gap detected (108 bars). Collecting last 100.
+2026-01-04 17:24:58,676 [INFO] 📥 EIGEN: Fetching 100 bars from 2026-01-03 16:24 UTC
+2026-01-04 17:24:58,839 [INFO] ✅ EIGEN: Collected 101 bars (total: 101 bars)
+2026-01-04 17:24:58,889 [INFO] 
+[7/64] Processing MAVIA (Run 1, post_exit)
+2026-01-04 17:24:58,892 [INFO] 🆕 Initialized new Parquet for MAVIA
+2026-01-04 17:24:58,892 [WARNING] ⚠️  MAVIA: Large gap detected (310 bars). Collecting last 100.
+2026-01-04 17:24:58,892 [INFO] 📥 MAVIA: Fetching 100 bars from 2026-01-03 16:24 UTC
+2026-01-04 17:24:59,177 [INFO] ✅ MAVIA: Collected 101 bars (total: 101 bars)
+2026-01-04 17:24:59,227 [INFO] 
+[8/64] Processing NIL (Run 1, post_exit)
+2026-01-04 17:24:59,230 [INFO] 🆕 Initialized new Parquet for NIL
+2026-01-04 17:24:59,230 [WARNING] ⚠️  NIL: Large gap detected (306 bars). Collecting last 100.
+2026-01-04 17:24:59,230 [INFO] 📥 NIL: Fetching 100 bars from 2026-01-03 16:24 UTC
+2026-01-04 17:24:59,398 [INFO] ✅ NIL: Collected 101 bars (total: 101 bars)
+2026-01-04 17:24:59,448 [INFO] 
+[9/64] Processing AR (Run 2, post_exit)
+2026-01-04 17:24:59,450 [INFO] 🆕 Initialized new Parquet for AR
+2026-01-04 17:24:59,450 [WARNING] ⚠️  AR: Large gap detected (298 bars). Collecting last 100.
+2026-01-04 17:24:59,451 [INFO] 📥 AR: Fetching 100 bars from 2026-01-03 16:24 UTC
+2026-01-04 17:24:59,616 [INFO] ✅ AR: Collected 101 bars (total: 101 bars)
+2026-01-04 17:24:59,666 [INFO] 
+[10/64] Processing SYRUP (Run 2, post_exit)
+2026-01-04 17:24:59,669 [INFO] 🆕 Initialized new Parquet for SYRUP
+2026-01-04 17:24:59,669 [WARNING] ⚠️  SYRUP: Large gap detected (283 bars). Collecting last 100.
+2026-01-04 17:24:59,669 [INFO] 📥 SYRUP: Fetching 100 bars from 2026-01-03 16:24 UTC
+2026-01-04 17:24:59,851 [INFO] ✅ SYRUP: Collected 101 bars (total: 101 bars)
+2026-01-04 17:24:59,901 [INFO] 
+[11/64] Processing FIL (Run 2, post_exit)
+2026-01-04 17:24:59,903 [INFO] 🆕 Initialized new Parquet for FIL
+2026-01-04 17:24:59,904 [WARNING] ⚠️  FIL: Large gap detected (152 bars). Collecting last 100.
+2026-01-04 17:24:59,904 [INFO] 📥 FIL: Fetching 100 bars from 2026-01-03 16:24 UTC
+2026-01-04 17:25:00,070 [INFO] ✅ FIL: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:00,120 [INFO] 
+[12/64] Processing APT (Run 5, post_exit)
+2026-01-04 17:25:00,122 [INFO] 🆕 Initialized new Parquet for APT
+2026-01-04 17:25:00,123 [WARNING] ⚠️  APT: Large gap detected (102 bars). Collecting last 100.
+2026-01-04 17:25:00,123 [INFO] 📥 APT: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:00,311 [INFO] ✅ APT: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:00,361 [INFO] 
+[13/64] Processing TIA (Run 7, in_top6)
+2026-01-04 17:25:00,363 [INFO] 🆕 Initialized new Parquet for TIA
+2026-01-04 17:25:00,363 [INFO] ⏭️  TIA: No new bars to collect
+2026-01-04 17:25:00,413 [INFO] 
+[14/64] Processing DOT (Run 4, post_exit)
+2026-01-04 17:25:00,415 [INFO] 🆕 Initialized new Parquet for DOT
+2026-01-04 17:25:00,415 [WARNING] ⚠️  DOT: Large gap detected (124 bars). Collecting last 100.
+2026-01-04 17:25:00,416 [INFO] 📥 DOT: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:00,705 [INFO] ✅ DOT: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:00,755 [INFO] 
+[15/64] Processing AERO (Run 10, post_exit)
+2026-01-04 17:25:00,757 [INFO] 🆕 Initialized new Parquet for AERO
+2026-01-04 17:25:00,757 [INFO] 📥 AERO: Fetching 76 bars from 2026-01-03 22:15 UTC
+2026-01-04 17:25:00,929 [INFO] ✅ AERO: Collected 77 bars (total: 77 bars)
+2026-01-04 17:25:00,979 [INFO] 
+[16/64] Processing INJ (Run 1, post_exit)
+2026-01-04 17:25:00,981 [INFO] 🆕 Initialized new Parquet for INJ
+2026-01-04 17:25:00,981 [WARNING] ⚠️  INJ: Large gap detected (294 bars). Collecting last 100.
+2026-01-04 17:25:00,981 [INFO] 📥 INJ: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:01,596 [INFO] ✅ INJ: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:01,646 [INFO] 
+[17/64] Processing NEAR (Run 6, post_exit)
+2026-01-04 17:25:01,648 [INFO] 🆕 Initialized new Parquet for NEAR
+2026-01-04 17:25:01,648 [INFO] 📥 NEAR: Fetching 29 bars from 2026-01-04 10:00 UTC
+2026-01-04 17:25:01,840 [INFO] ✅ NEAR: Collected 30 bars (total: 30 bars)
+2026-01-04 17:25:01,891 [INFO] 
+[18/64] Processing STBL (Run 3, post_exit)
+2026-01-04 17:25:01,892 [INFO] 🆕 Initialized new Parquet for STBL
+2026-01-04 17:25:01,893 [WARNING] ⚠️  STBL: Large gap detected (186 bars). Collecting last 100.
+2026-01-04 17:25:01,893 [INFO] 📥 STBL: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:02,055 [INFO] ✅ STBL: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:02,106 [INFO] 
+[19/64] Processing WLD (Run 5, post_exit)
+2026-01-04 17:25:02,108 [INFO] 🆕 Initialized new Parquet for WLD
+2026-01-04 17:25:02,108 [INFO] 📥 WLD: Fetching 36 bars from 2026-01-04 08:15 UTC
+2026-01-04 17:25:02,269 [INFO] ✅ WLD: Collected 37 bars (total: 37 bars)
+2026-01-04 17:25:02,319 [INFO] 
+[20/64] Processing GRIFFAIN (Run 1, post_exit)
+2026-01-04 17:25:02,322 [INFO] 🆕 Initialized new Parquet for GRIFFAIN
+2026-01-04 17:25:02,322 [WARNING] ⚠️  GRIFFAIN: Large gap detected (287 bars). Collecting last 100.
+2026-01-04 17:25:02,322 [INFO] 📥 GRIFFAIN: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:02,531 [INFO] ✅ GRIFFAIN: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:02,581 [INFO] 
+[21/64] Processing kPEPE (Run 1, post_exit)
+2026-01-04 17:25:02,583 [INFO] 🆕 Initialized new Parquet for kPEPE
+2026-01-04 17:25:02,583 [WARNING] ⚠️  kPEPE: Large gap detected (283 bars). Collecting last 100.
+2026-01-04 17:25:02,583 [INFO] 📥 kPEPE: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:02,861 [INFO] ✅ kPEPE: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:02,911 [INFO] 
+[22/64] Processing POPCAT (Run 6, in_top6)
+2026-01-04 17:25:02,913 [INFO] 🆕 Initialized new Parquet for POPCAT
+2026-01-04 17:25:02,914 [INFO] 📥 POPCAT: Fetching 10 bars from 2026-01-04 14:45 UTC
+2026-01-04 17:25:03,073 [INFO] ✅ POPCAT: Collected 11 bars (total: 11 bars)
+2026-01-04 17:25:03,123 [INFO] 
+[23/64] Processing PENGU (Run 2, post_exit)
+2026-01-04 17:25:03,125 [INFO] 🆕 Initialized new Parquet for PENGU
+2026-01-04 17:25:03,126 [WARNING] ⚠️  PENGU: Large gap detected (238 bars). Collecting last 100.
+2026-01-04 17:25:03,126 [INFO] 📥 PENGU: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:03,396 [INFO] ✅ PENGU: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:03,446 [INFO] 
+[24/64] Processing WIF (Run 6, post_exit)
+2026-01-04 17:25:03,449 [INFO] 🆕 Initialized new Parquet for WIF
+2026-01-04 17:25:03,449 [INFO] 📥 WIF: Fetching 50 bars from 2026-01-04 04:45 UTC
+2026-01-04 17:25:03,624 [INFO] ✅ WIF: Collected 51 bars (total: 51 bars)
+2026-01-04 17:25:03,674 [INFO] 
+[25/64] Processing AIXBT (Run 4, post_exit)
+2026-01-04 17:25:03,676 [INFO] 🆕 Initialized new Parquet for AIXBT
+2026-01-04 17:25:03,676 [WARNING] ⚠️  AIXBT: Large gap detected (104 bars). Collecting last 100.
+2026-01-04 17:25:03,676 [INFO] 📥 AIXBT: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:03,906 [INFO] ✅ AIXBT: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:03,956 [INFO] 
+[26/64] Processing kBONK (Run 5, post_exit)
+2026-01-04 17:25:03,959 [INFO] 🆕 Initialized new Parquet for kBONK
+2026-01-04 17:25:03,959 [INFO] 📥 kBONK: Fetching 66 bars from 2026-01-04 00:45 UTC
+2026-01-04 17:25:04,123 [INFO] ✅ kBONK: Collected 67 bars (total: 67 bars)
+2026-01-04 17:25:04,173 [INFO] 
+[27/64] Processing CRV (Run 2, post_exit)
+2026-01-04 17:25:04,175 [INFO] 🆕 Initialized new Parquet for CRV
+2026-01-04 17:25:04,175 [INFO] 📥 CRV: Fetching 91 bars from 2026-01-03 18:30 UTC
+2026-01-04 17:25:04,345 [INFO] ✅ CRV: Collected 92 bars (total: 92 bars)
+2026-01-04 17:25:04,395 [INFO] 
+[28/64] Processing AVNT (Run 4, post_exit)
+2026-01-04 17:25:04,398 [INFO] 🆕 Initialized new Parquet for AVNT
+2026-01-04 17:25:04,398 [INFO] 📥 AVNT: Fetching 70 bars from 2026-01-03 23:45 UTC
+2026-01-04 17:25:04,561 [INFO] ✅ AVNT: Collected 71 bars (total: 71 bars)
+2026-01-04 17:25:04,611 [INFO] 
+[29/64] Processing TAO (Run 6, post_exit)
+2026-01-04 17:25:04,614 [INFO] 🆕 Initialized new Parquet for TAO
+2026-01-04 17:25:04,614 [INFO] 📥 TAO: Fetching 28 bars from 2026-01-04 10:15 UTC
+2026-01-04 17:25:04,794 [INFO] ✅ TAO: Collected 29 bars (total: 29 bars)
+2026-01-04 17:25:04,844 [INFO] 
+[30/64] Processing LINK (Run 1, post_exit)
+2026-01-04 17:25:04,846 [INFO] 🆕 Initialized new Parquet for LINK
+2026-01-04 17:25:04,846 [WARNING] ⚠️  LINK: Large gap detected (242 bars). Collecting last 100.
+2026-01-04 17:25:04,846 [INFO] 📥 LINK: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:05,026 [INFO] ✅ LINK: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:05,076 [INFO] 
+[31/64] Processing SPX (Run 7, in_top6)
+2026-01-04 17:25:05,079 [INFO] 🆕 Initialized new Parquet for SPX
+2026-01-04 17:25:05,079 [INFO] 📥 SPX: Fetching 40 bars from 2026-01-04 07:15 UTC
+2026-01-04 17:25:05,271 [INFO] ✅ SPX: Collected 41 bars (total: 41 bars)
+2026-01-04 17:25:05,322 [INFO] 
+[32/64] Processing MET (Run 1, post_exit)
+2026-01-04 17:25:05,324 [INFO] 🆕 Initialized new Parquet for MET
+2026-01-04 17:25:05,324 [WARNING] ⚠️  MET: Large gap detected (236 bars). Collecting last 100.
+2026-01-04 17:25:05,324 [INFO] 📥 MET: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:05,498 [INFO] ✅ MET: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:05,548 [INFO] 
+[33/64] Processing VIRTUAL (Run 2, post_exit)
+2026-01-04 17:25:05,550 [INFO] 🆕 Initialized new Parquet for VIRTUAL
+2026-01-04 17:25:05,551 [WARNING] ⚠️  VIRTUAL: Large gap detected (188 bars). Collecting last 100.
+2026-01-04 17:25:05,551 [INFO] 📥 VIRTUAL: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:05,929 [INFO] ✅ VIRTUAL: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:05,980 [INFO] 
+[34/64] Processing TON (Run 4, post_exit)
+2026-01-04 17:25:05,982 [INFO] 🆕 Initialized new Parquet for TON
+2026-01-04 17:25:05,982 [INFO] 📥 TON: Fetching 88 bars from 2026-01-03 19:15 UTC
+2026-01-04 17:25:06,543 [INFO] ✅ TON: Collected 89 bars (total: 89 bars)
+2026-01-04 17:25:06,593 [INFO] 
+[35/64] Processing ASTER (Run 1, post_exit)
+2026-01-04 17:25:06,595 [INFO] 🆕 Initialized new Parquet for ASTER
+2026-01-04 17:25:06,595 [WARNING] ⚠️  ASTER: Large gap detected (220 bars). Collecting last 100.
+2026-01-04 17:25:06,596 [INFO] 📥 ASTER: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:06,765 [INFO] ✅ ASTER: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:06,815 [INFO] 
+[36/64] Processing PENDLE (Run 7, post_exit)
+2026-01-04 17:25:06,818 [INFO] 🆕 Initialized new Parquet for PENDLE
+2026-01-04 17:25:06,818 [INFO] 📥 PENDLE: Fetching 79 bars from 2026-01-03 21:30 UTC
+2026-01-04 17:25:07,052 [INFO] ✅ PENDLE: Collected 80 bars (total: 80 bars)
+2026-01-04 17:25:07,102 [INFO] 
+[37/64] Processing kNEIRO (Run 1, post_exit)
+2026-01-04 17:25:07,104 [INFO] 🆕 Initialized new Parquet for kNEIRO
+2026-01-04 17:25:07,105 [WARNING] ⚠️  kNEIRO: Large gap detected (209 bars). Collecting last 100.
+2026-01-04 17:25:07,105 [INFO] 📥 kNEIRO: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:07,336 [INFO] ✅ kNEIRO: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:07,387 [INFO] 
+[38/64] Processing kSHIB (Run 3, post_exit)
+2026-01-04 17:25:07,389 [INFO] 🆕 Initialized new Parquet for kSHIB
+2026-01-04 17:25:07,389 [INFO] 📥 kSHIB: Fetching 7 bars from 2026-01-04 15:30 UTC
+2026-01-04 17:25:07,549 [INFO] ✅ kSHIB: Collected 8 bars (total: 8 bars)
+2026-01-04 17:25:07,599 [INFO] 
+[39/64] Processing STABLE (Run 1, post_exit)
+2026-01-04 17:25:07,602 [INFO] 🆕 Initialized new Parquet for STABLE
+2026-01-04 17:25:07,602 [WARNING] ⚠️  STABLE: Large gap detected (200 bars). Collecting last 100.
+2026-01-04 17:25:07,602 [INFO] 📥 STABLE: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:07,893 [INFO] ✅ STABLE: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:07,943 [INFO] 
+[40/64] Processing PROMPT (Run 2, post_exit)
+2026-01-04 17:25:07,945 [INFO] 🆕 Initialized new Parquet for PROMPT
+2026-01-04 17:25:07,945 [WARNING] ⚠️  PROMPT: Large gap detected (190 bars). Collecting last 100.
+2026-01-04 17:25:07,945 [INFO] 📥 PROMPT: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:08,125 [INFO] ✅ PROMPT: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:08,175 [INFO] 
+[41/64] Processing OM (Run 1, post_exit)
+2026-01-04 17:25:08,177 [INFO] 🆕 Initialized new Parquet for OM
+2026-01-04 17:25:08,177 [WARNING] ⚠️  OM: Large gap detected (195 bars). Collecting last 100.
+2026-01-04 17:25:08,177 [INFO] 📥 OM: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:08,439 [INFO] ✅ OM: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:08,489 [INFO] 
+[42/64] Processing SEI (Run 2, post_exit)
+2026-01-04 17:25:08,492 [INFO] 🆕 Initialized new Parquet for SEI
+2026-01-04 17:25:08,492 [INFO] 📥 SEI: Fetching 52 bars from 2026-01-04 04:15 UTC
+2026-01-04 17:25:08,665 [INFO] ✅ SEI: Collected 53 bars (total: 53 bars)
+2026-01-04 17:25:08,715 [INFO] 
+[43/64] Processing ZORA (Run 2, post_exit)
+2026-01-04 17:25:08,717 [INFO] 🆕 Initialized new Parquet for ZORA
+2026-01-04 17:25:08,717 [WARNING] ⚠️  ZORA: Large gap detected (126 bars). Collecting last 100.
+2026-01-04 17:25:08,718 [INFO] 📥 ZORA: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:09,112 [INFO] ✅ ZORA: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:09,162 [INFO] 
+[44/64] Processing KAITO (Run 2, post_exit)
+2026-01-04 17:25:09,164 [INFO] 🆕 Initialized new Parquet for KAITO
+2026-01-04 17:25:09,165 [WARNING] ⚠️  KAITO: Large gap detected (122 bars). Collecting last 100.
+2026-01-04 17:25:09,165 [INFO] 📥 KAITO: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:09,444 [INFO] ✅ KAITO: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:09,494 [INFO] 
+[45/64] Processing XLM (Run 2, post_exit)
+2026-01-04 17:25:09,496 [INFO] 🆕 Initialized new Parquet for XLM
+2026-01-04 17:25:09,497 [WARNING] ⚠️  XLM: Large gap detected (143 bars). Collecting last 100.
+2026-01-04 17:25:09,497 [INFO] 📥 XLM: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:09,660 [INFO] ✅ XLM: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:09,710 [INFO] 
+[46/64] Processing IP (Run 3, post_exit)
+2026-01-04 17:25:09,713 [INFO] 🆕 Initialized new Parquet for IP
+2026-01-04 17:25:09,713 [INFO] 📥 IP: Fetching 4 bars from 2026-01-04 16:15 UTC
+2026-01-04 17:25:09,870 [INFO] ✅ IP: Collected 5 bars (total: 5 bars)
+2026-01-04 17:25:09,921 [INFO] 
+[47/64] Processing CC (Run 2, post_exit)
+2026-01-04 17:25:09,923 [INFO] 🆕 Initialized new Parquet for CC
+2026-01-04 17:25:09,923 [INFO] 📥 CC: Fetching 80 bars from 2026-01-03 21:15 UTC
+2026-01-04 17:25:10,086 [INFO] ✅ CC: Collected 81 bars (total: 81 bars)
+2026-01-04 17:25:10,136 [INFO] 
+[48/64] Processing WLFI (Run 2, post_exit)
+2026-01-04 17:25:10,139 [INFO] 🆕 Initialized new Parquet for WLFI
+2026-01-04 17:25:10,139 [WARNING] ⚠️  WLFI: Large gap detected (118 bars). Collecting last 100.
+2026-01-04 17:25:10,139 [INFO] 📥 WLFI: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:10,301 [INFO] ✅ WLFI: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:10,351 [INFO] 
+[49/64] Processing ARB (Run 1, post_exit)
+2026-01-04 17:25:10,353 [INFO] 🆕 Initialized new Parquet for ARB
+2026-01-04 17:25:10,353 [WARNING] ⚠️  ARB: Large gap detected (138 bars). Collecting last 100.
+2026-01-04 17:25:10,354 [INFO] 📥 ARB: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:10,521 [INFO] ✅ ARB: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:10,571 [INFO] 
+[50/64] Processing OP (Run 1, post_exit)
+2026-01-04 17:25:10,574 [INFO] 🆕 Initialized new Parquet for OP
+2026-01-04 17:25:10,574 [WARNING] ⚠️  OP: Large gap detected (135 bars). Collecting last 100.
+2026-01-04 17:25:10,574 [INFO] 📥 OP: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:10,757 [INFO] ✅ OP: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:10,807 [INFO] 
+[51/64] Processing JUP (Run 2, post_exit)
+2026-01-04 17:25:10,809 [INFO] 🆕 Initialized new Parquet for JUP
+2026-01-04 17:25:10,809 [INFO] 📥 JUP: Fetching 76 bars from 2026-01-03 22:15 UTC
+2026-01-04 17:25:10,973 [INFO] ✅ JUP: Collected 77 bars (total: 77 bars)
+2026-01-04 17:25:11,024 [INFO] 
+[52/64] Processing MORPHO (Run 2, post_exit)
+2026-01-04 17:25:11,026 [INFO] 🆕 Initialized new Parquet for MORPHO
+2026-01-04 17:25:11,026 [INFO] 📥 MORPHO: Fetching 52 bars from 2026-01-04 04:15 UTC
+2026-01-04 17:25:11,210 [INFO] ✅ MORPHO: Collected 53 bars (total: 53 bars)
+2026-01-04 17:25:11,260 [INFO] 
+[53/64] Processing TRX (Run 2, post_exit)
+2026-01-04 17:25:11,262 [INFO] 🆕 Initialized new Parquet for TRX
+2026-01-04 17:25:11,262 [INFO] 📥 TRX: Fetching 75 bars from 2026-01-03 22:30 UTC
+2026-01-04 17:25:11,913 [INFO] ✅ TRX: Collected 76 bars (total: 76 bars)
+2026-01-04 17:25:11,963 [INFO] 
+[54/64] Processing LTC (Run 1, post_exit)
+2026-01-04 17:25:11,966 [INFO] 🆕 Initialized new Parquet for LTC
+2026-01-04 17:25:11,966 [WARNING] ⚠️  LTC: Large gap detected (128 bars). Collecting last 100.
+2026-01-04 17:25:11,966 [INFO] 📥 LTC: Fetching 100 bars from 2026-01-03 16:25 UTC
+2026-01-04 17:25:12,134 [INFO] ✅ LTC: Collected 101 bars (total: 101 bars)
+2026-01-04 17:25:12,185 [INFO] 
+[55/64] Processing MELANIA (Run 1, post_exit)
+2026-01-04 17:25:12,187 [INFO] 🆕 Initialized new Parquet for MELANIA
+2026-01-04 17:25:12,187 [INFO] 📥 MELANIA: Fetching 97 bars from 2026-01-03 17:00 UTC
+2026-01-04 17:25:12,374 [INFO] ✅ MELANIA: Collected 98 bars (total: 98 bars)
+2026-01-04 17:25:12,424 [INFO] 
+[56/64] Processing MNT (Run 1, post_exit)
+2026-01-04 17:25:12,427 [INFO] 🆕 Initialized new Parquet for MNT
+2026-01-04 17:25:12,427 [INFO] 📥 MNT: Fetching 70 bars from 2026-01-03 23:45 UTC
+2026-01-04 17:25:12,589 [INFO] ✅ MNT: Collected 71 bars (total: 71 bars)
+2026-01-04 17:25:12,640 [INFO] 
+[57/64] Processing RENDER (Run 1, post_exit)
+2026-01-04 17:25:12,642 [INFO] 🆕 Initialized new Parquet for RENDER
+2026-01-04 17:25:12,642 [INFO] 📥 RENDER: Fetching 66 bars from 2026-01-04 00:45 UTC
+2026-01-04 17:25:12,829 [INFO] ✅ RENDER: Collected 67 bars (total: 67 bars)
+2026-01-04 17:25:12,879 [INFO] 
+[58/64] Processing RESOLV (Run 2, post_exit)
+2026-01-04 17:25:12,882 [INFO] 🆕 Initialized new Parquet for RESOLV
+2026-01-04 17:25:12,882 [INFO] 📥 RESOLV: Fetching 14 bars from 2026-01-04 13:45 UTC
+2026-01-04 17:25:13,047 [INFO] ✅ RESOLV: Collected 15 bars (total: 15 bars)
+2026-01-04 17:25:13,097 [INFO] 
+[59/64] Processing kFLOKI (Run 2, post_exit)
+2026-01-04 17:25:13,099 [INFO] 🆕 Initialized new Parquet for kFLOKI
+2026-01-04 17:25:13,100 [INFO] 📥 kFLOKI: Fetching 12 bars from 2026-01-04 14:15 UTC
+2026-01-04 17:25:13,402 [INFO] ✅ kFLOKI: Collected 13 bars (total: 13 bars)
+2026-01-04 17:25:13,452 [INFO] 
+[60/64] Processing ONDO (Run 2, post_exit)
+2026-01-04 17:25:13,455 [INFO] 🆕 Initialized new Parquet for ONDO
+2026-01-04 17:25:13,455 [INFO] 📥 ONDO: Fetching 39 bars from 2026-01-04 07:30 UTC
+2026-01-04 17:25:13,627 [INFO] ✅ ONDO: Collected 40 bars (total: 40 bars)
+2026-01-04 17:25:13,677 [INFO] 
+[61/64] Processing STRK (Run 1, post_exit)
+2026-01-04 17:25:13,680 [INFO] 🆕 Initialized new Parquet for STRK
+2026-01-04 17:25:13,680 [INFO] 📥 STRK: Fetching 40 bars from 2026-01-04 07:15 UTC
+2026-01-04 17:25:13,948 [INFO] ✅ STRK: Collected 41 bars (total: 41 bars)
+2026-01-04 17:25:13,999 [INFO] 
+[62/64] Processing FET (Run 1, post_exit)
+2026-01-04 17:25:14,001 [INFO] 🆕 Initialized new Parquet for FET
+2026-01-04 17:25:14,001 [INFO] 📥 FET: Fetching 22 bars from 2026-01-04 11:45 UTC
+2026-01-04 17:25:14,164 [INFO] ✅ FET: Collected 23 bars (total: 23 bars)
+2026-01-04 17:25:14,214 [INFO] 
+[63/64] Processing PNUT (Run 2, in_top6)
+2026-01-04 17:25:14,217 [INFO] 🆕 Initialized new Parquet for PNUT
+2026-01-04 17:25:14,217 [INFO] 📥 PNUT: Fetching 6 bars from 2026-01-04 15:45 UTC
+2026-01-04 17:25:14,396 [INFO] ✅ PNUT: Collected 7 bars (total: 7 bars)
+2026-01-04 17:25:14,447 [INFO] 
+[64/64] Processing HMSTR (Run 1, in_top6)
+2026-01-04 17:25:14,449 [INFO] 🆕 Initialized new Parquet for HMSTR
+2026-01-04 17:25:14,449 [INFO] 📥 HMSTR: Fetching 2 bars from 2026-01-04 16:45 UTC
+2026-01-04 17:25:14,625 [INFO] ✅ HMSTR: Collected 3 bars (total: 3 bars)
+2026-01-04 17:25:14,676 [INFO] 
+======================================================================
+2026-01-04 17:25:14,677 [INFO] 📊 COLLECTION SUMMARY
+2026-01-04 17:25:14,677 [INFO] ======================================================================
+2026-01-04 17:25:14,677 [INFO] ✅ Successful: 64/64
+2026-01-04 17:25:14,677 [INFO] 
+======================================================================
+2026-01-04 17:25:14,677 [INFO] ✅ COLLECTOR COMPLETE - 2026-01-04 17:25 UTC
+2026-01-04 17:25:14,677 [INFO] ======================================================================
