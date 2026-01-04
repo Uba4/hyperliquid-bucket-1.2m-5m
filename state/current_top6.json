@@ -4,17 +4,17 @@
     "RESOLV",
     "POPCAT",
     "HMSTR",
-    "PNUT",
-    "kSHIB"
+    "CC",
+    "PNUT"
   ],
   "scores": [
+    78,
     76,
     74,
     72,
     70,
-    68,
     66
   ],
-  "timestamp": "2026-01-04T21:01:14.277778",
+  "timestamp": "2026-01-04T21:26:11.463470",
   "bucket": "1.2m-5m"
 }
