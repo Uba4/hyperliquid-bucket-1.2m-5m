@@ -3,8 +3,8 @@
     "RENDER",
     "RESOLV",
     "PNUT",
-    "HMSTR",
     "POPCAT",
+    "HMSTR",
     "kSHIB"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-01-04T20:43:19.178418",
+  "timestamp": "2026-01-04T20:53:09.341556",
   "bucket": "1.2m-5m"
 }
