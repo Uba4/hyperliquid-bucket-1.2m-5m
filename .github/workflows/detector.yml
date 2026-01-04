@@ -46,13 +46,18 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add state/*.json logs/*.log
         
-        # Only proceed if there are changes
         if ! git diff --quiet || ! git diff --staged --quiet; then
           git commit -m "🔍 Detector: Update Top 6 state - $(date -u +'%Y-%m-%d %H:%M UTC')"
           
-          # Retry logic: Pull and push up to 3 times
           for i in 1 2 3; do
-            git pull --rebase origin main || git pull --rebase origin master || true
+            git pull --rebase origin main || git pull --rebase origin master || {
+              # Auto-resolve conflicts
+              git checkout --ours state/active_tracking.json 2>/dev/null || true
+              git checkout --theirs logs/system.log 2>/dev/null || true
+              git add state/*.json logs/*.log 2>/dev/null || true
+              git rebase --continue 2>/dev/null || git rebase --skip 2>/dev/null || true
+            }
+            
             if git push; then
               echo "✅ Push successful on attempt $i"
               break
@@ -62,7 +67,7 @@ jobs:
             fi
             
             if [ $i -eq 3 ]; then
-              echo "❌ Push failed after 3 attempts"
+              git rebase --abort 2>/dev/null || true
               exit 1
             fi
           done
