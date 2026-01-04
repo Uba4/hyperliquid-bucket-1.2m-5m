@@ -2,10 +2,10 @@
   "tokens": [
     "kFLOKI",
     "SPX",
-    "RESOLV",
     "POPCAT",
+    "IP",
     "WIF",
-    "IP"
+    "RESOLV"
   ],
   "scores": [
     64,
@@ -15,6 +15,6 @@
     56,
     54
   ],
-  "timestamp": "2026-01-04T09:18:24.494178",
+  "timestamp": "2026-01-04T09:34:16.100103",
   "bucket": "1.2m-5m"
 }
