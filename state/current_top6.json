@@ -2,8 +2,8 @@
   "tokens": [
     "FET",
     "MOODENG",
-    "SPX",
     "kFLOKI",
+    "SPX",
     "kSHIB",
     "RESOLV"
   ],
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-04T14:15:21.655643",
+  "timestamp": "2026-01-04T14:34:45.455989",
   "bucket": "1.2m-5m"
 }
