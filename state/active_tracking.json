@@ -190,11 +190,11 @@
   },
   "POPCAT": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T22:51:18.910726",
-    "exit_time": null,
+    "exit_time": "2026-01-04T03:08:33.533839",
     "last_bar_collected": 13,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T03:08:33.533839",
     "entry_volume": 1338779.5950839997
   },
   "PENGU": {
@@ -226,11 +226,11 @@
   },
   "kBONK": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T00:58:27.122110",
-    "exit_time": null,
+    "exit_time": "2026-01-04T03:08:33.533839",
     "last_bar_collected": 5,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T03:08:33.533839",
     "entry_volume": 4957981.374099002
   },
   "CRV": {
@@ -511,5 +511,23 @@
     "last_bar_collected": 5,
     "tracking_until": null,
     "entry_volume": 1265447.96565
+  },
+  "RESOLV": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T03:08:33.533839",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1196446.3812119993
+  },
+  "kFLOKI": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T03:08:33.533839",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1775334.000711
   }
 }

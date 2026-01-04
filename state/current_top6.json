@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "RENDER",
-    "POPCAT",
     "SPX",
     "MNT",
-    "kBONK",
-    "AERO"
+    "RENDER",
+    "AERO",
+    "kFLOKI",
+    "RESOLV"
   ],
   "scores": [
+    68,
     66,
     64,
     62,
     60,
-    58,
-    56
+    58
   ],
-  "timestamp": "2026-01-04T00:58:27.122365",
+  "timestamp": "2026-01-04T03:08:33.534108",
   "bucket": "1.2m-5m"
 }
