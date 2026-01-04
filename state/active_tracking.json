@@ -334,11 +334,11 @@
   },
   "kSHIB": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T15:43:17.722205",
-    "exit_time": null,
+    "exit_time": "2026-01-04T15:51:17.872485",
     "last_bar_collected": 7,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T15:51:17.872485",
     "entry_volume": 2960138.9840700007
   },
   "STABLE": {
@@ -558,12 +558,12 @@
     "entry_volume": 3369713.7021299996
   },
   "PNUT": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T15:30:55.526238",
-    "exit_time": "2026-01-04T15:43:17.722205",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T15:51:17.872485",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-01-14T15:43:17.722205",
-    "entry_volume": 1131662.2252650002
+    "tracking_until": null,
+    "entry_volume": 1143812.1870840003
   }
 }
