@@ -2,19 +2,19 @@
   "tokens": [
     "RENDER",
     "FET",
-    "CC",
     "POPCAT",
-    "PAXG",
-    "BNB"
+    "CC",
+    "HMSTR",
+    "PAXG"
   ],
   "scores": [
+    76,
     74,
     72,
     70,
     68,
-    66,
-    64
+    66
   ],
-  "timestamp": "2026-01-04T22:56:33.499453",
+  "timestamp": "2026-01-04T23:15:49.123633",
   "bucket": "1.2m-5m"
 }
