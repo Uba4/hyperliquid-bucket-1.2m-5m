@@ -559,11 +559,11 @@
   },
   "PNUT": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T15:51:17.872485",
-    "exit_time": null,
+    "exit_time": "2026-01-04T21:38:24.475343",
     "last_bar_collected": 20,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T21:38:24.475343",
     "entry_volume": 1143812.1870840003
   },
   "HMSTR": {
@@ -574,5 +574,14 @@
     "last_bar_collected": 16,
     "tracking_until": null,
     "entry_volume": 1636761.1067750002
+  },
+  "PAXG": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T21:38:24.475343",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 3766146.0111000016
   }
 }
