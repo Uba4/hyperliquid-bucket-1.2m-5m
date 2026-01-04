@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "FET",
-    "SPX",
     "POPCAT",
+    "FET",
     "MOODENG",
-    "kFLOKI",
-    "PNUT"
+    "PNUT",
+    "SPX",
+    "IP"
   ],
   "scores": [
     70,
-    67,
+    68,
     66,
-    65,
-    60,
+    64,
+    62,
     60
   ],
-  "timestamp": "2026-01-04T15:59:10.147970",
+  "timestamp": "2026-01-04T16:27:41.766565",
   "bucket": "1.2m-5m"
 }
