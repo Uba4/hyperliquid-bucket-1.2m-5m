@@ -1,20 +1,20 @@
 {
   "tokens": [
     "PNUT",
-    "MOODENG",
     "HMSTR",
+    "MOODENG",
     "POPCAT",
     "RENDER",
     "TIA"
   ],
   "scores": [
+    76,
     74,
     72,
     70,
     68,
-    66,
-    64
+    66
   ],
-  "timestamp": "2026-01-04T18:35:51.259635",
+  "timestamp": "2026-01-04T18:54:20.848447",
   "bucket": "1.2m-5m"
 }
