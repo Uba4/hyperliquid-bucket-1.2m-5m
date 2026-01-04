@@ -3,9 +3,9 @@
     "PNUT",
     "MOODENG",
     "POPCAT",
-    "SPX",
     "HMSTR",
-    "TIA"
+    "SPX",
+    "IP"
   ],
   "scores": [
     72,
@@ -13,8 +13,8 @@
     68,
     66,
     64,
-    61
+    62
   ],
-  "timestamp": "2026-01-04T17:15:37.033472",
+  "timestamp": "2026-01-04T17:33:35.123367",
   "bucket": "1.2m-5m"
 }
