@@ -3,9 +3,9 @@
     "RESOLV",
     "kFLOKI",
     "WIF",
-    "SEI",
     "MORPHO",
-    "SPX"
+    "SEI",
+    "TIA"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-04T05:30:16.714843",
+  "timestamp": "2026-01-04T05:49:35.640462",
   "bucket": "1.2m-5m"
 }
