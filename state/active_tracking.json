@@ -568,11 +568,11 @@
   },
   "HMSTR": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T16:47:16.391098",
-    "exit_time": null,
+    "exit_time": "2026-01-04T22:48:37.145046",
     "last_bar_collected": 23,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T22:48:37.145046",
     "entry_volume": 1636761.1067750002
   },
   "PAXG": {
@@ -583,5 +583,14 @@
     "last_bar_collected": 4,
     "tracking_until": null,
     "entry_volume": 3766146.0111000016
+  },
+  "BNB": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T22:48:37.145046",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 3952853.6785199987
   }
 }

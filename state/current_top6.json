@@ -1,11 +1,11 @@
 {
   "tokens": [
     "RENDER",
-    "POPCAT",
-    "CC",
     "FET",
+    "CC",
+    "POPCAT",
     "PAXG",
-    "HMSTR"
+    "BNB"
   ],
   "scores": [
     76,
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-01-04T22:35:11.827457",
+  "timestamp": "2026-01-04T22:48:37.145220",
   "bucket": "1.2m-5m"
 }
