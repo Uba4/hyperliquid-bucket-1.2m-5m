@@ -2,10 +2,10 @@
   "tokens": [
     "SPX",
     "WIF",
-    "POPCAT",
     "TAO",
-    "kFLOKI",
-    "FET"
+    "POPCAT",
+    "FET",
+    "kFLOKI"
   ],
   "scores": [
     62,
@@ -15,6 +15,6 @@
     54,
     52
   ],
-  "timestamp": "2026-01-04T11:53:27.361246",
+  "timestamp": "2026-01-04T12:15:58.035467",
   "bucket": "1.2m-5m"
 }
