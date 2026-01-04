@@ -108,13 +108,13 @@
     "entry_volume": 1977665.8100890003
   },
   "TIA": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T05:49:35.640270",
-    "exit_time": "2026-01-04T07:35:33.915822",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T13:01:37.675974",
+    "exit_time": null,
     "last_bar_collected": 29,
-    "tracking_until": "2026-01-14T07:35:33.915822",
-    "entry_volume": 1453131.3949009995
+    "tracking_until": null,
+    "entry_volume": 1093287.0672809992
   },
   "DOT": {
     "current_run": 4,
@@ -523,11 +523,11 @@
   },
   "kFLOKI": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T03:08:33.533839",
-    "exit_time": null,
+    "exit_time": "2026-01-04T13:01:37.675974",
     "last_bar_collected": 40,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T13:01:37.675974",
     "entry_volume": 1775334.000711
   },
   "ONDO": {
