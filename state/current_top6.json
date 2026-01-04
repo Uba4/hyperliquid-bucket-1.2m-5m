@@ -2,19 +2,19 @@
   "tokens": [
     "RESOLV",
     "kFLOKI",
-    "SPX",
     "MORPHO",
-    "AERO",
-    "SEI"
+    "SEI",
+    "WIF",
+    "SPX"
   ],
   "scores": [
+    72,
     70,
     68,
     66,
     64,
-    62,
-    60
+    62
   ],
-  "timestamp": "2026-01-04T04:18:26.384073",
+  "timestamp": "2026-01-04T04:59:52.817792",
   "bucket": "1.2m-5m"
 }
