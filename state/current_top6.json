@@ -3,9 +3,9 @@
     "FET",
     "MOODENG",
     "SPX",
-    "kFLOKI",
     "POPCAT",
-    "kSHIB"
+    "kFLOKI",
+    "PNUT"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-04T15:09:34.197917",
+  "timestamp": "2026-01-04T15:30:55.526415",
   "bucket": "1.2m-5m"
 }
