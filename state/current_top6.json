@@ -1,8 +1,8 @@
 {
   "tokens": [
     "RENDER",
-    "PNUT",
     "RESOLV",
+    "PNUT",
     "HMSTR",
     "POPCAT",
     "kSHIB"
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-01-04T20:26:40.254004",
+  "timestamp": "2026-01-04T20:43:19.178418",
   "bucket": "1.2m-5m"
 }
