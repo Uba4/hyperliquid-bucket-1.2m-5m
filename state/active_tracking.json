@@ -208,11 +208,11 @@
   },
   "WIF": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T04:59:52.817622",
-    "exit_time": null,
+    "exit_time": "2026-01-04T14:15:21.655457",
     "last_bar_collected": 36,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T14:15:21.655457",
     "entry_volume": 4572874.302009997
   },
   "AIXBT": {
@@ -522,13 +522,13 @@
     "entry_volume": 3596894.6665929975
   },
   "kFLOKI": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T03:08:33.533839",
-    "exit_time": "2026-01-04T13:01:37.675974",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T14:15:21.655457",
+    "exit_time": null,
     "last_bar_collected": 43,
-    "tracking_until": "2026-01-14T13:01:37.675974",
-    "entry_volume": 1775334.000711
+    "tracking_until": null,
+    "entry_volume": 3857289.90517
   },
   "ONDO": {
     "current_run": 2,

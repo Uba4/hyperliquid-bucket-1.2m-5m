@@ -1,20 +1,20 @@
 {
   "tokens": [
     "FET",
-    "WIF",
     "MOODENG",
     "SPX",
+    "kFLOKI",
     "kSHIB",
     "RESOLV"
   ],
   "scores": [
-    74,
-    72,
     70,
     68,
     66,
-    64
+    64,
+    62,
+    60
   ],
-  "timestamp": "2026-01-04T13:56:51.742475",
+  "timestamp": "2026-01-04T14:15:21.655643",
   "bucket": "1.2m-5m"
 }
