@@ -163,11 +163,11 @@
   },
   "WLD": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T08:16:18.039913",
-    "exit_time": null,
+    "exit_time": "2026-01-04T08:44:37.278480",
     "last_bar_collected": 73,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T08:44:37.278480",
     "entry_volume": 2536721.9983710013
   },
   "GRIFFAIN": {
@@ -189,13 +189,13 @@
     "entry_volume": 4575520.504225001
   },
   "POPCAT": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T22:51:18.910726",
-    "exit_time": "2026-01-04T03:08:33.533839",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T08:44:37.278480",
+    "exit_time": null,
     "last_bar_collected": 39,
-    "tracking_until": "2026-01-14T03:08:33.533839",
-    "entry_volume": 1338779.5950839997
+    "tracking_until": null,
+    "entry_volume": 1182478.9298040003
   },
   "PENGU": {
     "current_run": 2,
