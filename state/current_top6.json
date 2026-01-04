@@ -2,9 +2,9 @@
   "tokens": [
     "RENDER",
     "RESOLV",
-    "PNUT",
     "POPCAT",
     "HMSTR",
+    "PNUT",
     "kSHIB"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-01-04T20:53:09.341556",
+  "timestamp": "2026-01-04T21:01:14.277778",
   "bucket": "1.2m-5m"
 }
