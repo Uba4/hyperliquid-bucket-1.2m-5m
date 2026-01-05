@@ -46,11 +46,11 @@
   },
   "EIGEN": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T18:18:20.917565",
-    "exit_time": null,
+    "exit_time": "2026-01-05T18:51:28.589514",
     "last_bar_collected": 199,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T18:51:28.589514",
     "entry_volume": 2831455.6708069993
   },
   "MAVIA": {
@@ -118,21 +118,21 @@
   },
   "DOT": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T18:18:20.917565",
-    "exit_time": null,
+    "exit_time": "2026-01-05T18:51:28.589514",
     "last_bar_collected": 199,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T18:51:28.589514",
     "entry_volume": 1093113.6361399998
   },
   "AERO": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T08:28:34.072755",
-    "exit_time": "2026-01-05T09:28:29.636447",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T18:51:28.589514",
+    "exit_time": null,
     "last_bar_collected": 176,
-    "tracking_until": "2026-01-15T09:28:29.636447",
-    "entry_volume": 1512488.3157399998
+    "tracking_until": null,
+    "entry_volume": 1928351.898729999
   },
   "INJ": {
     "current_run": 1,
@@ -414,13 +414,13 @@
     "entry_volume": 3016852.1250000005
   },
   "CC": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T13:55:05.826335",
-    "exit_time": "2026-01-05T16:33:09.519011",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T18:51:28.589514",
+    "exit_time": null,
     "last_bar_collected": 178,
-    "tracking_until": "2026-01-15T16:33:09.519011",
-    "entry_volume": 4384270.569960001
+    "tracking_until": null,
+    "entry_volume": 5485473.44484
   },
   "WLFI": {
     "current_run": 5,
