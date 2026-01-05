@@ -379,11 +379,11 @@
   },
   "ZORA": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T07:19:52.636164",
-    "exit_time": null,
+    "exit_time": "2026-01-05T11:38:21.042209",
     "last_bar_collected": 168,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T11:38:21.042209",
     "entry_volume": 1697022.6819940004
   },
   "KAITO": {
@@ -423,13 +423,13 @@
     "entry_volume": 3206013.835849999
   },
   "WLFI": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T10:46:18.231831",
-    "exit_time": "2026-01-05T11:22:15.512009",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T11:38:21.042209",
+    "exit_time": null,
     "last_bar_collected": 173,
-    "tracking_until": "2026-01-15T11:22:15.512009",
-    "entry_volume": 5207789.521919998
+    "tracking_until": null,
+    "entry_volume": 5154332.901329999
   },
   "ARB": {
     "current_run": 1,
