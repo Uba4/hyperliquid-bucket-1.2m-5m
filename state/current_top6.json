@@ -3,18 +3,18 @@
     "FIL",
     "STX",
     "kSHIB",
-    "RENDER",
+    "ICP",
     "LDO",
-    "ICP"
+    "RENDER"
   ],
   "scores": [
     72,
     70,
     68,
     66,
-    64,
+    62,
     62
   ],
-  "timestamp": "2026-01-05T17:17:33.928398",
+  "timestamp": "2026-01-05T17:41:53.856106",
   "bucket": "1.2m-5m"
 }
