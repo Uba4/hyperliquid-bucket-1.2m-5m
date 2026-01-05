@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "MNT",
     "MET",
-    "TON",
+    "MNT",
     "BNB",
-    "ETHFI",
-    "WLFI"
+    "TON",
+    "WLFI",
+    "ETHFI"
   ],
   "scores": [
     80,
@@ -15,6 +15,6 @@
     72,
     70
   ],
-  "timestamp": "2026-01-05T11:38:21.042434",
+  "timestamp": "2026-01-05T11:48:20.086262",
   "bucket": "1.2m-5m"
 }
