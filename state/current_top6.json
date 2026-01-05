@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "kSHIB",
-    "ICP",
     "WLD",
-    "AERO",
+    "ICP",
     "PENDLE",
-    "EIGEN"
+    "XLM",
+    "INJ",
+    "AERO"
   ],
   "scores": [
+    72,
     70,
     68,
-    66,
+    65,
     64,
-    62,
-    60
+    62
   ],
-  "timestamp": "2026-01-05T19:59:43.127579",
+  "timestamp": "2026-01-05T20:30:25.667599",
   "bucket": "1.2m-5m"
 }
