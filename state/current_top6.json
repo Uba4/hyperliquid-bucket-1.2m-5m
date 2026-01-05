@@ -1,10 +1,10 @@
 {
   "tokens": [
     "WLD",
-    "PENDLE",
     "XLM",
-    "INJ",
+    "PENDLE",
     "RENDER",
+    "INJ",
     "TIA"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-05T21:39:20.736052",
+  "timestamp": "2026-01-05T21:50:18.155168",
   "bucket": "1.2m-5m"
 }
