@@ -1,10 +1,10 @@
 {
   "tokens": [
     "RENDER",
-    "IP",
     "AERO",
     "FET",
-    "CRV",
+    "ZORA",
+    "NEAR",
     "LINK"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     70,
     68
   ],
-  "timestamp": "2026-01-05T03:03:41.262773",
+  "timestamp": "2026-01-05T04:22:00.029912",
   "bucket": "1.2m-5m"
 }
