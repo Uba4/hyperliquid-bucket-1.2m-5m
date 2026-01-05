@@ -2,19 +2,19 @@
   "tokens": [
     "ZORA",
     "HMSTR",
-    "TAO",
-    "ETHFI",
     "MNT",
-    "WLD"
+    "ETHFI",
+    "WLFI",
+    "TON"
   ],
   "scores": [
+    78,
     76,
     74,
     72,
     70,
-    68,
-    66
+    68
   ],
-  "timestamp": "2026-01-05T10:15:56.467173",
+  "timestamp": "2026-01-05T10:46:18.232167",
   "bucket": "1.2m-5m"
 }
