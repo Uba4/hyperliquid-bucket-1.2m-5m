@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "FET",
     "RENDER",
-    "VIRTUAL",
-    "POPCAT",
-    "TAO",
-    "CC"
+    "IP",
+    "AERO",
+    "FET",
+    "CRV",
+    "LINK"
   ],
   "scores": [
     78,
@@ -15,6 +15,6 @@
     70,
     68
   ],
-  "timestamp": "2026-01-05T00:51:16.813744",
+  "timestamp": "2026-01-05T03:03:41.262773",
   "bucket": "1.2m-5m"
 }
