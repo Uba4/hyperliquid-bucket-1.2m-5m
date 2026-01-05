@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ZORA",
     "MNT",
-    "ETHFI",
-    "WLFI",
     "TON",
-    "TAO"
+    "BNB",
+    "ZORA",
+    "ETHFI",
+    "MET"
   ],
   "scores": [
+    80,
     78,
-    76,
+    74,
     74,
     72,
-    68,
-    68
+    72
   ],
-  "timestamp": "2026-01-05T10:59:15.394582",
+  "timestamp": "2026-01-05T11:22:15.512315",
   "bucket": "1.2m-5m"
 }
