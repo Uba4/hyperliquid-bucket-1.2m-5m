@@ -1,11 +1,11 @@
 {
   "tokens": [
     "FIL",
-    "STX",
     "kSHIB",
     "ICP",
+    "STX",
     "LDO",
-    "RENDER"
+    "MET"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     62,
     62
   ],
-  "timestamp": "2026-01-05T17:41:53.856106",
+  "timestamp": "2026-01-05T17:54:09.730755",
   "bucket": "1.2m-5m"
 }
