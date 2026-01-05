@@ -1,20 +1,20 @@
 {
   "tokens": [
     "ZORA",
-    "MELANIA",
-    "TRX",
     "HMSTR",
-    "BNB",
-    "AERO"
+    "MELANIA",
+    "AERO",
+    "TRX",
+    "BNB"
   ],
   "scores": [
+    76,
     74,
-    72,
+    70,
     70,
     68,
-    66,
-    64
+    66
   ],
-  "timestamp": "2026-01-05T08:28:34.073018",
+  "timestamp": "2026-01-05T08:56:49.459303",
   "bucket": "1.2m-5m"
 }
