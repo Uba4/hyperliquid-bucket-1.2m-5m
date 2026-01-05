@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MNT",
     "MET",
-    "BNB",
+    "MAVIA",
+    "MNT",
     "TON",
-    "WLFI",
-    "ETHFI"
+    "LINK",
+    "PENDLE"
   ],
   "scores": [
-    77,
-    77,
+    76,
     74,
     72,
     70,
-    68
+    68,
+    64
   ],
-  "timestamp": "2026-01-05T11:55:39.609116",
+  "timestamp": "2026-01-05T12:31:10.277028",
   "bucket": "1.2m-5m"
 }

@@ -54,13 +54,13 @@
     "entry_volume": 2818624.244602999
   },
   "MAVIA": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T11:59:04.711007",
-    "exit_time": "2026-01-01T13:59:31.495996",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T12:31:10.276630",
+    "exit_time": null,
     "last_bar_collected": 173,
-    "tracking_until": "2026-01-11T13:59:31.495996",
-    "entry_volume": 892100.9873710003
+    "tracking_until": null,
+    "entry_volume": 1159926.2214219999
   },
   "NIL": {
     "current_run": 1,
@@ -261,13 +261,13 @@
     "entry_volume": 4846414.274329999
   },
   "LINK": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T03:03:41.262248",
-    "exit_time": "2026-01-05T06:52:51.935301",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T12:31:10.276630",
+    "exit_time": null,
     "last_bar_collected": 172,
-    "tracking_until": "2026-01-15T06:52:51.935301",
-    "entry_volume": 4941339.099499999
+    "tracking_until": null,
+    "entry_volume": 5045155.545300002
   },
   "SPX": {
     "current_run": 7,
@@ -315,13 +315,13 @@
     "entry_volume": 3634898.3958399994
   },
   "PENDLE": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T21:32:06.116706",
-    "exit_time": "2026-01-03T22:23:05.064132",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T12:31:10.276630",
+    "exit_time": null,
     "last_bar_collected": 152,
-    "tracking_until": "2026-01-13T22:23:05.064132",
-    "entry_volume": 1303147.0557999997
+    "tracking_until": null,
+    "entry_volume": 2609864.2454
   },
   "kNEIRO": {
     "current_run": 1,
@@ -424,11 +424,11 @@
   },
   "WLFI": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T11:38:21.042209",
-    "exit_time": null,
+    "exit_time": "2026-01-05T12:31:10.276630",
     "last_bar_collected": 173,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T12:31:10.276630",
     "entry_volume": 5154332.901329999
   },
   "ARB": {
@@ -586,20 +586,20 @@
   },
   "BNB": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T11:22:15.512009",
-    "exit_time": null,
+    "exit_time": "2026-01-05T12:31:10.276630",
     "last_bar_collected": 44,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T12:31:10.276630",
     "entry_volume": 5228139.929949998
   },
   "ETHFI": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T09:54:48.418964",
-    "exit_time": null,
+    "exit_time": "2026-01-05T12:31:10.276630",
     "last_bar_collected": 7,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T12:31:10.276630",
     "entry_volume": 1170824.5388569995
   }
 }
