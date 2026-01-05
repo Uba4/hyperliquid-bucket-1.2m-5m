@@ -2,19 +2,19 @@
   "tokens": [
     "RENDER",
     "AERO",
-    "FET",
     "ZORA",
     "NEAR",
+    "MNT",
     "LINK"
   ],
   "scores": [
-    78,
-    76,
     74,
     72,
     70,
-    68
+    68,
+    66,
+    64
   ],
-  "timestamp": "2026-01-05T04:22:00.029912",
+  "timestamp": "2026-01-05T05:08:46.199213",
   "bucket": "1.2m-5m"
 }
