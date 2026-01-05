@@ -1,10 +1,10 @@
 {
   "tokens": [
     "kSHIB",
-    "FIL",
     "ICP",
+    "FIL",
     "STABLE",
-    "CC",
+    "WLD",
     "AERO"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-05T18:51:28.589849",
+  "timestamp": "2026-01-05T19:11:42.422398",
   "bucket": "1.2m-5m"
 }
