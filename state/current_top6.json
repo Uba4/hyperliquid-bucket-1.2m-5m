@@ -1,10 +1,10 @@
 {
   "tokens": [
     "RENDER",
-    "AERO",
     "NEAR",
+    "AERO",
     "MELANIA",
-    "ZORA",
+    "TRX",
     "LINK"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-01-05T05:49:32.479945",
+  "timestamp": "2026-01-05T06:02:39.074844",
   "bucket": "1.2m-5m"
 }
