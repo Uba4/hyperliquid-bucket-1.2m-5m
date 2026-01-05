@@ -4,7 +4,7 @@
     "ICP",
     "WLD",
     "AERO",
-    "STABLE",
+    "PENDLE",
     "EIGEN"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-05T19:43:18.075047",
+  "timestamp": "2026-01-05T19:51:46.323037",
   "bucket": "1.2m-5m"
 }
