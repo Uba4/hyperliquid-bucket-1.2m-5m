@@ -1,7 +1,7 @@
 {
   "tokens": [
-    "TRX",
     "ZORA",
+    "TRX",
     "MELANIA",
     "NEAR",
     "BNB",
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-05T07:44:42.315649",
+  "timestamp": "2026-01-05T07:56:57.898589",
   "bucket": "1.2m-5m"
 }
