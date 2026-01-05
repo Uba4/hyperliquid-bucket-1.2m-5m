@@ -127,11 +127,11 @@
   },
   "AERO": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T03:03:41.262248",
-    "exit_time": null,
+    "exit_time": "2026-01-05T07:19:52.636164",
     "last_bar_collected": 125,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T07:19:52.636164",
     "entry_volume": 1397085.4085499996
   },
   "INJ": {
@@ -378,13 +378,13 @@
     "entry_volume": 1322869.2681499994
   },
   "ZORA": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T04:22:00.029654",
-    "exit_time": "2026-01-05T06:02:39.074645",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T07:19:52.636164",
+    "exit_time": null,
     "last_bar_collected": 151,
-    "tracking_until": "2026-01-15T06:02:39.074645",
-    "entry_volume": 1410701.232638
+    "tracking_until": null,
+    "entry_volume": 1697022.6819940004
   },
   "KAITO": {
     "current_run": 2,
