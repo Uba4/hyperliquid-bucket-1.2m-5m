@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "MET",
     "RENDER",
     "CC",
     "TON",
-    "MAVIA",
-    "MNT",
-    "kSHIB"
+    "kSHIB",
+    "LDO"
   ],
   "scores": [
-    71,
+    74,
+    72,
     70,
     68,
-    67,
-    64,
-    62
+    66,
+    64
   ],
-  "timestamp": "2026-01-05T14:17:14.671395",
+  "timestamp": "2026-01-05T14:46:42.017475",
   "bucket": "1.2m-5m"
 }
