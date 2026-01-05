@@ -45,13 +45,13 @@
     "entry_volume": 1095491.1774849996
   },
   "EIGEN": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T18:18:20.917565",
-    "exit_time": "2026-01-05T18:51:28.589514",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T19:31:12.650708",
+    "exit_time": null,
     "last_bar_collected": 202,
-    "tracking_until": "2026-01-15T18:51:28.589514",
-    "entry_volume": 2831455.6708069993
+    "tracking_until": null,
+    "entry_volume": 2868811.9521439997
   },
   "MAVIA": {
     "current_run": 2,
@@ -91,11 +91,11 @@
   },
   "FIL": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T16:33:09.519011",
-    "exit_time": null,
+    "exit_time": "2026-01-05T19:31:12.650708",
     "last_bar_collected": 202,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T19:31:12.650708",
     "entry_volume": 1119368.3957599998
   },
   "APT": {
