@@ -2,19 +2,19 @@
   "tokens": [
     "FET",
     "RENDER",
+    "VIRTUAL",
     "POPCAT",
-    "CC",
-    "HMSTR",
-    "TAO"
+    "TAO",
+    "CC"
   ],
   "scores": [
+    78,
+    76,
     74,
     72,
     70,
-    68,
-    66,
-    64
+    68
   ],
-  "timestamp": "2026-01-04T23:53:35.464216",
+  "timestamp": "2026-01-05T00:51:16.813744",
   "bucket": "1.2m-5m"
 }
