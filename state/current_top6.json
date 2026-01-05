@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MET",
+    "STX",
     "RENDER",
+    "MET",
     "CC",
-    "TON",
-    "kSHIB",
-    "FET"
+    "FET",
+    "TON"
   ],
   "scores": [
+    76,
     74,
     72,
     70,
     68,
-    64,
-    64
+    66
   ],
-  "timestamp": "2026-01-05T14:59:43.582178",
+  "timestamp": "2026-01-05T15:28:42.774141",
   "bucket": "1.2m-5m"
 }
