@@ -4,8 +4,8 @@
     "RENDER",
     "TON",
     "MNT",
-    "PENDLE",
-    "LINK"
+    "CC",
+    "PENDLE"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-05T13:24:25.849571",
+  "timestamp": "2026-01-05T13:55:05.826469",
   "bucket": "1.2m-5m"
 }
