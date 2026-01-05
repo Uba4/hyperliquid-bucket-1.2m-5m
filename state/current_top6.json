@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "NEAR",
     "TRX",
-    "MELANIA",
     "ZORA",
+    "MELANIA",
+    "NEAR",
     "BNB",
-    "RENDER"
+    "SEI"
   ],
   "scores": [
-    76,
     74,
     72,
     70,
     68,
-    66
+    66,
+    64
   ],
-  "timestamp": "2026-01-05T07:19:52.636361",
+  "timestamp": "2026-01-05T07:44:42.315649",
   "bucket": "1.2m-5m"
 }

@@ -369,13 +369,13 @@
     "entry_volume": 1422384.9247790002
   },
   "SEI": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T04:18:26.383730",
-    "exit_time": "2026-01-04T07:18:11.353733",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T07:44:42.315466",
+    "exit_time": null,
     "last_bar_collected": 110,
-    "tracking_until": "2026-01-14T07:18:11.353733",
-    "entry_volume": 1322869.2681499994
+    "tracking_until": null,
+    "entry_volume": 3512953.9816300003
   },
   "ZORA": {
     "current_run": 4,
@@ -505,11 +505,11 @@
   },
   "RENDER": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T17:45:46.658728",
-    "exit_time": null,
+    "exit_time": "2026-01-05T07:44:42.315466",
     "last_bar_collected": 123,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T07:44:42.315466",
     "entry_volume": 1939156.5694099998
   },
   "RESOLV": {
