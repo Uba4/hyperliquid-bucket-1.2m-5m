@@ -1,11 +1,11 @@
 {
   "tokens": [
     "ZK",
-    "RENDER",
     "STRK",
+    "RENDER",
     "STABLE",
-    "TON",
-    "MORPHO"
+    "CC",
+    "INJ"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-06T10:57:01.447209",
+  "timestamp": "2026-01-06T11:16:43.601242",
   "bucket": "1.2m-5m"
 }
