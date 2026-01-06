@@ -1,11 +1,11 @@
 {
   "tokens": [
     "ZK",
-    "RENDER",
     "MAVIA",
-    "FET",
+    "RENDER",
     "MORPHO",
-    "JUP"
+    "STRK",
+    "TON"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-06T09:14:20.388558",
+  "timestamp": "2026-01-06T09:41:45.724169",
   "bucket": "1.2m-5m"
 }
