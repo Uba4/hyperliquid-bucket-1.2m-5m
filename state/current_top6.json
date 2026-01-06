@@ -2,19 +2,19 @@
   "tokens": [
     "MELANIA",
     "INJ",
-    "POPCAT",
-    "MOODENG",
+    "MORPHO",
     "EIGEN",
-    "HBAR"
+    "POPCAT",
+    "CC"
   ],
   "scores": [
     72,
     70,
     68,
-    66,
     64,
-    62
+    63,
+    63
   ],
-  "timestamp": "2026-01-06T15:58:49.293718",
+  "timestamp": "2026-01-06T16:31:43.078362",
   "bucket": "1.2m-5m"
 }
