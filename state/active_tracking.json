@@ -234,13 +234,13 @@
     "entry_volume": 4957981.374099002
   },
   "CRV": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T03:03:41.262248",
-    "exit_time": "2026-01-05T04:22:00.029654",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T21:47:15.758797",
+    "exit_time": null,
     "last_bar_collected": 299,
-    "tracking_until": "2026-01-15T04:22:00.029654",
-    "entry_volume": 2474799.4955270006
+    "tracking_until": null,
+    "entry_volume": 5255819.539439002
   },
   "AVNT": {
     "current_run": 6,
@@ -478,11 +478,11 @@
   },
   "LTC": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T18:21:20.822708",
-    "exit_time": null,
+    "exit_time": "2026-01-06T21:47:15.758797",
     "last_bar_collected": 305,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T21:47:15.758797",
     "entry_volume": 4148327.5846600006
   },
   "MELANIA": {
