@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MELANIA",
-    "TRX",
-    "LTC",
     "IP",
+    "APT",
+    "FET",
     "AVNT",
-    "TON"
+    "LTC"
   ],
   "scores": [
     72,
     70,
+    68,
     66,
-    66,
-    66,
+    64,
     62
   ],
-  "timestamp": "2026-01-06T21:14:09.889416",
+  "timestamp": "2026-01-06T21:34:10.709827",
   "bucket": "1.2m-5m"
 }
