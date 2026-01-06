@@ -1,20 +1,20 @@
 {
   "tokens": [
     "XLM",
-    "RENDER",
     "HBAR",
-    "INJ",
-    "PENDLE",
-    "SPX"
+    "IP",
+    "MNT",
+    "JUP",
+    "MOODENG"
   ],
   "scores": [
-    68,
-    66,
-    64,
-    62,
-    60,
-    58
+    78,
+    76,
+    74,
+    72,
+    70,
+    68
   ],
-  "timestamp": "2026-01-05T23:59:31.929546",
+  "timestamp": "2026-01-06T01:58:00.831013",
   "bucket": "1.2m-5m"
 }
