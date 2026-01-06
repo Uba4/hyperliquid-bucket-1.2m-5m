@@ -1,11 +1,11 @@
 {
   "tokens": [
     "MORPHO",
-    "MELANIA",
     "CC",
+    "MELANIA",
     "STABLE",
-    "INJ",
-    "ZORA"
+    "ZORA",
+    "TRX"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-06T17:21:30.055526",
+  "timestamp": "2026-01-06T17:43:40.240329",
   "bucket": "1.2m-5m"
 }

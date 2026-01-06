@@ -136,11 +136,11 @@
   },
   "INJ": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T11:16:43.600896",
-    "exit_time": null,
+    "exit_time": "2026-01-06T17:43:40.240114",
     "last_bar_collected": 288,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T17:43:40.240114",
     "entry_volume": 1513323.2991300002
   },
   "NEAR": {
@@ -468,13 +468,13 @@
     "entry_volume": 1315554.9761800002
   },
   "TRX": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T06:02:39.074645",
-    "exit_time": "2026-01-05T09:28:29.636447",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T17:43:40.240114",
+    "exit_time": null,
     "last_bar_collected": 268,
-    "tracking_until": "2026-01-15T09:28:29.636447",
-    "entry_volume": 1273395.1173500002
+    "tracking_until": null,
+    "entry_volume": 3527292.147710001
   },
   "LTC": {
     "current_run": 2,
