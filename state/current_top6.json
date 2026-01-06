@@ -1,9 +1,9 @@
 {
   "tokens": [
     "CC",
-    "MORPHO",
     "STABLE",
     "TRX",
+    "MORPHO",
     "LTC",
     "MELANIA"
   ],
@@ -12,9 +12,9 @@
     70,
     68,
     66,
-    63,
-    63
+    64,
+    61
   ],
-  "timestamp": "2026-01-06T18:21:20.822904",
+  "timestamp": "2026-01-06T18:50:07.026426",
   "bucket": "1.2m-5m"
 }
