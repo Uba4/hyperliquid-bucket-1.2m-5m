@@ -1,20 +1,20 @@
 {
   "tokens": [
     "IP",
-    "MELANIA",
-    "TIA",
-    "INJ",
     "EIGEN",
+    "MELANIA",
+    "INJ",
+    "TIA",
     "APT"
   ],
   "scores": [
     70,
-    68,
+    66,
     66,
     64,
-    62,
+    64,
     60
   ],
-  "timestamp": "2026-01-06T23:39:27.052058",
+  "timestamp": "2026-01-06T23:47:52.324031",
   "bucket": "1.2m-5m"
 }
