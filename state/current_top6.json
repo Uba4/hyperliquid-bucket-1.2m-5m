@@ -2,19 +2,19 @@
   "tokens": [
     "ZK",
     "RENDER",
-    "MAVIA",
     "STRK",
-    "MORPHO",
-    "TON"
+    "STABLE",
+    "TON",
+    "MORPHO"
   ],
   "scores": [
-    74,
     72,
     70,
     68,
     66,
-    64
+    64,
+    62
   ],
-  "timestamp": "2026-01-06T10:15:37.217713",
+  "timestamp": "2026-01-06T10:43:58.649210",
   "bucket": "1.2m-5m"
 }
