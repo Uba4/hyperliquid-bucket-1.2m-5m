@@ -1,11 +1,11 @@
 {
   "tokens": [
     "CC",
-    "STABLE",
     "TRX",
-    "MORPHO",
+    "STABLE",
     "LTC",
-    "MELANIA"
+    "MELANIA",
+    "WLFI"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-06T19:00:31.527727",
+  "timestamp": "2026-01-06T19:21:55.382208",
   "bucket": "1.2m-5m"
 }
