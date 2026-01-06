@@ -4,8 +4,8 @@
     "CC",
     "MELANIA",
     "LTC",
-    "STABLE",
-    "TON"
+    "TON",
+    "AVNT"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-06T19:53:12.198385",
+  "timestamp": "2026-01-06T20:00:41.505828",
   "bucket": "1.2m-5m"
 }
