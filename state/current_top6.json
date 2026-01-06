@@ -3,8 +3,8 @@
     "ZK",
     "MAVIA",
     "RENDER",
-    "MORPHO",
     "STRK",
+    "MORPHO",
     "TON"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-06T09:41:45.724169",
+  "timestamp": "2026-01-06T09:55:13.982719",
   "bucket": "1.2m-5m"
 }
