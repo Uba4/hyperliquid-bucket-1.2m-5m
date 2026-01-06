@@ -1,11 +1,11 @@
 {
   "tokens": [
     "RENDER",
-    "kFLOKI",
     "FET",
     "JUP",
+    "kFLOKI",
     "TAO",
-    "MNT"
+    "MORPHO"
   ],
   "scores": [
     74,
@@ -13,8 +13,8 @@
     70,
     68,
     66,
-    62
+    64
   ],
-  "timestamp": "2026-01-06T05:56:51.846339",
+  "timestamp": "2026-01-06T06:28:28.752511",
   "bucket": "1.2m-5m"
 }
