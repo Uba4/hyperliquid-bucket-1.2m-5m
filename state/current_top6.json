@@ -1,20 +1,20 @@
 {
   "tokens": [
     "INJ",
-    "POPCAT",
     "FET",
+    "POPCAT",
     "MELANIA",
     "MOODENG",
-    "SPX"
+    "HBAR"
   ],
   "scores": [
     74,
-    72,
     70,
-    68,
+    70,
+    70,
     66,
     64
   ],
-  "timestamp": "2026-01-06T14:50:15.247340",
+  "timestamp": "2026-01-06T15:00:23.237533",
   "bucket": "1.2m-5m"
 }
