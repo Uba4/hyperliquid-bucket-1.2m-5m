@@ -3,18 +3,18 @@
     "IP",
     "MELANIA",
     "TIA",
-    "APT",
-    "AVNT",
-    "INJ"
+    "INJ",
+    "EIGEN",
+    "APT"
   ],
   "scores": [
     70,
     68,
     66,
-    62,
+    64,
     62,
     60
   ],
-  "timestamp": "2026-01-06T23:24:36.178661",
+  "timestamp": "2026-01-06T23:39:27.052058",
   "bucket": "1.2m-5m"
 }
