@@ -2,19 +2,19 @@
   "tokens": [
     "RENDER",
     "kFLOKI",
+    "FET",
     "JUP",
     "TAO",
-    "MOODENG",
-    "FET"
+    "MNT"
   ],
   "scores": [
-    76,
     74,
     72,
+    70,
     68,
-    68,
-    66
+    66,
+    64
   ],
-  "timestamp": "2026-01-06T05:19:50.210149",
+  "timestamp": "2026-01-06T05:45:23.468861",
   "bucket": "1.2m-5m"
 }
