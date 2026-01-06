@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ZK",
-    "STRK",
     "RENDER",
+    "POPCAT",
+    "INJ",
+    "TAO",
     "CC",
-    "STABLE",
-    "INJ"
+    "STRK"
   ],
   "scores": [
+    72,
     70,
-    67,
-    67,
-    64,
-    62,
+    68,
+    65,
+    65,
     60
   ],
-  "timestamp": "2026-01-06T12:19:07.136353",
+  "timestamp": "2026-01-06T13:08:08.724179",
   "bucket": "1.2m-5m"
 }
