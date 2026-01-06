@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "RENDER",
     "POPCAT",
     "INJ",
     "TAO",
-    "CC",
-    "STRK"
+    "FET",
+    "MOODENG",
+    "SPX"
   ],
   "scores": [
+    74,
     72,
     70,
     68,
-    65,
-    65,
-    60
+    66,
+    64
   ],
-  "timestamp": "2026-01-06T13:08:08.724179",
+  "timestamp": "2026-01-06T13:48:04.484677",
   "bucket": "1.2m-5m"
 }
