@@ -279,13 +279,13 @@
     "entry_volume": 2529729.2227069978
   },
   "MET": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T17:54:09.730529",
-    "exit_time": "2026-01-05T18:18:20.917565",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T07:26:13.275804",
+    "exit_time": null,
     "last_bar_collected": 249,
-    "tracking_until": "2026-01-15T18:18:20.917565",
-    "entry_volume": 1507667.0088699998
+    "tracking_until": null,
+    "entry_volume": 1704763.8235000004
   },
   "VIRTUAL": {
     "current_run": 3,
@@ -523,11 +523,11 @@
   },
   "kFLOKI": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T04:25:00.158428",
-    "exit_time": null,
+    "exit_time": "2026-01-06T07:26:13.275804",
     "last_bar_collected": 163,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T07:26:13.275804",
     "entry_volume": 2121392.844519999
   },
   "ONDO": {

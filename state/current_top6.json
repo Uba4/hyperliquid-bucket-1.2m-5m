@@ -3,18 +3,18 @@
     "FET",
     "RENDER",
     "JUP",
-    "TAO",
     "MORPHO",
-    "kFLOKI"
+    "TAO",
+    "MET"
   ],
   "scores": [
-    76,
     74,
     72,
     70,
     68,
-    66
+    66,
+    64
   ],
-  "timestamp": "2026-01-06T06:58:18.753759",
+  "timestamp": "2026-01-06T07:26:13.276029",
   "bucket": "1.2m-5m"
 }
