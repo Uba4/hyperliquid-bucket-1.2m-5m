@@ -379,11 +379,11 @@
   },
   "ZORA": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T16:57:10.867842",
-    "exit_time": null,
+    "exit_time": "2026-01-06T18:21:20.822708",
     "last_bar_collected": 289,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T18:21:20.822708",
     "entry_volume": 1166822.4250850007
   },
   "KAITO": {
@@ -477,13 +477,13 @@
     "entry_volume": 3527292.147710001
   },
   "LTC": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T09:28:29.636447",
-    "exit_time": "2026-01-05T09:54:48.418964",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T18:21:20.822708",
+    "exit_time": null,
     "last_bar_collected": 292,
-    "tracking_until": "2026-01-15T09:54:48.418964",
-    "entry_volume": 3015441.549210001
+    "tracking_until": null,
+    "entry_volume": 4148327.5846600006
   },
   "MELANIA": {
     "current_run": 3,
