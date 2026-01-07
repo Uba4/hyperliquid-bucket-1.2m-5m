@@ -1,20 +1,20 @@
 {
   "tokens": [
     "IP",
+    "TRX",
+    "WLFI",
+    "LTC",
     "DOT",
-    "EIGEN",
-    "MORPHO",
-    "ARB",
-    "MET"
+    "TON"
   ],
   "scores": [
-    70,
     68,
     66,
     64,
+    62,
     60,
-    60
+    58
   ],
-  "timestamp": "2026-01-07T01:07:41.609378",
+  "timestamp": "2026-01-07T03:04:24.648980",
   "bucket": "1.2m-5m"
 }
