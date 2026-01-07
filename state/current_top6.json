@@ -1,11 +1,11 @@
 {
   "tokens": [
     "MOODENG",
-    "TIA",
     "kFLOKI",
+    "TIA",
     "FET",
     "ICP",
-    "APT"
+    "POPCAT"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-07T10:32:26.145932",
+  "timestamp": "2026-01-07T10:52:19.120490",
   "bucket": "1.2m-5m"
 }
