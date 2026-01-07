@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "RENDER",
-    "FET",
     "MELANIA",
-    "ICP",
-    "kSHIB",
-    "APT"
+    "RENDER",
+    "ZK",
+    "FET",
+    "TRX",
+    "MET"
   ],
   "scores": [
     70,
@@ -13,8 +13,8 @@
     66,
     64,
     62,
-    58
+    60
   ],
-  "timestamp": "2026-01-07T11:58:27.729558",
+  "timestamp": "2026-01-07T12:47:25.088013",
   "bucket": "1.2m-5m"
 }
