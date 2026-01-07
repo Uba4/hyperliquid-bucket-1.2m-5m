@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MELANIA",
     "TRX",
     "WLFI",
-    "STABLE",
     "TON",
-    "TRUMP"
+    "STABLE",
+    "TRUMP",
+    "LTC"
   ],
   "scores": [
-    64,
-    62,
     60,
     58,
     56,
-    54
+    54,
+    52,
+    50
   ],
-  "timestamp": "2026-01-07T15:31:14.772532",
+  "timestamp": "2026-01-07T15:51:25.677420",
   "bucket": "1.2m-5m"
 }
