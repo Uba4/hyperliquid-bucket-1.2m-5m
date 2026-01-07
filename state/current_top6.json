@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MOODENG",
-    "kFLOKI",
     "TIA",
     "FET",
-    "ICP",
-    "POPCAT"
+    "kFLOKI",
+    "POPCAT",
+    "RENDER"
   ],
   "scores": [
     68,
-    66,
     64,
-    62,
-    60,
-    58
+    64,
+    64,
+    59,
+    57
   ],
-  "timestamp": "2026-01-07T10:52:19.120490",
+  "timestamp": "2026-01-07T11:00:27.668797",
   "bucket": "1.2m-5m"
 }

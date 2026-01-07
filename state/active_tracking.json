@@ -28,11 +28,11 @@
   },
   "ICP": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T09:00:07.085414",
-    "exit_time": null,
+    "exit_time": "2026-01-07T11:00:27.668616",
     "last_bar_collected": 359,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T11:00:27.668616",
     "entry_volume": 1297955.3218500009
   },
   "MOODENG": {
@@ -504,13 +504,13 @@
     "entry_volume": 2224330.2177700005
   },
   "RENDER": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T04:25:00.158428",
-    "exit_time": "2026-01-06T13:48:04.484270",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T11:00:27.668616",
+    "exit_time": null,
     "last_bar_collected": 325,
-    "tracking_until": "2026-01-16T13:48:04.484270",
-    "entry_volume": 2396577.161460002
+    "tracking_until": null,
+    "entry_volume": 1956021.7888000002
   },
   "RESOLV": {
     "current_run": 4,
