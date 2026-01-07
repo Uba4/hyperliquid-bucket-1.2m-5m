@@ -2,19 +2,19 @@
   "tokens": [
     "RENDER",
     "FET",
-    "kFLOKI",
-    "MOODENG",
+    "MELANIA",
+    "ICP",
     "kSHIB",
-    "MELANIA"
+    "ZK"
   ],
   "scores": [
+    70,
     68,
     66,
+    64,
     62,
-    62,
-    60,
     60
   ],
-  "timestamp": "2026-01-07T11:40:39.558676",
+  "timestamp": "2026-01-07T11:50:23.717741",
   "bucket": "1.2m-5m"
 }

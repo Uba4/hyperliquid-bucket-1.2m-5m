@@ -27,21 +27,21 @@
     "entry_volume": 728180.2812549998
   },
   "ICP": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T11:26:29.193581",
-    "exit_time": "2026-01-07T11:40:39.558449",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T11:50:23.717452",
+    "exit_time": null,
     "last_bar_collected": 359,
-    "tracking_until": "2026-01-17T11:40:39.558449",
-    "entry_volume": 1171911.5883699998
+    "tracking_until": null,
+    "entry_volume": 1141816.2503899997
   },
   "MOODENG": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T07:52:54.607893",
-    "exit_time": null,
+    "exit_time": "2026-01-07T11:50:23.717452",
     "last_bar_collected": 271,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T11:50:23.717452",
     "entry_volume": 1606974.8453339997
   },
   "EIGEN": {
@@ -523,11 +523,11 @@
   },
   "kFLOKI": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T08:37:50.768076",
-    "exit_time": null,
+    "exit_time": "2026-01-07T11:50:23.717452",
     "last_bar_collected": 272,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T11:50:23.717452",
     "entry_volume": 1668560.9871679998
   },
   "ONDO": {
@@ -630,12 +630,12 @@
     "entry_volume": 1822618.416070001
   },
   "ZK": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T22:52:12.953955",
-    "exit_time": "2026-01-06T23:24:36.178478",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T11:50:23.717452",
+    "exit_time": null,
     "last_bar_collected": 107,
-    "tracking_until": "2026-01-16T23:24:36.178478",
-    "entry_volume": 3444856.4892340004
+    "tracking_until": null,
+    "entry_volume": 2659386.154954
   }
 }
