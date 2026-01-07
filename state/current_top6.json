@@ -1,20 +1,20 @@
 {
   "tokens": [
     "TON",
+    "CRV",
     "MNT",
-    "BNB",
-    "kSHIB",
-    "TRUMP",
-    "CRV"
+    "ZK",
+    "SPX",
+    "BNB"
   ],
   "scores": [
     60,
     58,
     56,
     54,
-    52,
-    50
+    50,
+    48
   ],
-  "timestamp": "2026-01-07T18:42:43.235869",
+  "timestamp": "2026-01-07T19:01:43.087393",
   "bucket": "1.2m-5m"
 }
