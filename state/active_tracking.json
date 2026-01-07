@@ -298,11 +298,11 @@
   },
   "TON": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T14:46:33.488178",
-    "exit_time": null,
+    "exit_time": "2026-01-07T20:22:24.656895",
     "last_bar_collected": 381,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T20:22:24.656895",
     "entry_volume": 1946721.3650000002
   },
   "ASTER": {
@@ -414,13 +414,13 @@
     "entry_volume": 2839130.08266
   },
   "CC": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T16:41:17.145802",
-    "exit_time": "2026-01-07T18:42:43.235648",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T20:22:24.656895",
+    "exit_time": null,
     "last_bar_collected": 364,
-    "tracking_until": "2026-01-17T18:42:43.235648",
-    "entry_volume": 5378790.295579999
+    "tracking_until": null,
+    "entry_volume": 5050290.022400001
   },
   "WLFI": {
     "current_run": 8,
