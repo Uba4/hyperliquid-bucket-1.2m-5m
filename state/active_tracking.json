@@ -279,13 +279,13 @@
     "entry_volume": 3959731.8182290033
   },
   "MET": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T01:07:41.608802",
-    "exit_time": "2026-01-07T03:04:24.648455",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T07:18:03.710273",
+    "exit_time": null,
     "last_bar_collected": 338,
-    "tracking_until": "2026-01-17T03:04:24.648455",
-    "entry_volume": 2678187.174399999
+    "tracking_until": null,
+    "entry_volume": 2505549.1213000007
   },
   "VIRTUAL": {
     "current_run": 3,
@@ -396,13 +396,13 @@
     "entry_volume": 2392513.0227400013
   },
   "XLM": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T20:30:25.667283",
-    "exit_time": "2026-01-06T04:25:00.158428",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T07:18:03.710273",
+    "exit_time": null,
     "last_bar_collected": 343,
-    "tracking_until": "2026-01-16T04:25:00.158428",
-    "entry_volume": 1251010.2788900002
+    "tracking_until": null,
+    "entry_volume": 1523233.844889999
   },
   "IP": {
     "current_run": 7,
@@ -523,11 +523,11 @@
   },
   "kFLOKI": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T06:23:42.538912",
-    "exit_time": null,
+    "exit_time": "2026-01-07T07:18:03.710273",
     "last_bar_collected": 257,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T07:18:03.710273",
     "entry_volume": 1650006.327695
   },
   "ONDO": {
@@ -604,11 +604,11 @@
   },
   "LDO": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T05:43:27.617228",
-    "exit_time": null,
+    "exit_time": "2026-01-07T07:18:03.710273",
     "last_bar_collected": 162,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T07:18:03.710273",
     "entry_volume": 1383485.713046999
   },
   "STX": {

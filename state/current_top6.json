@@ -1,20 +1,20 @@
 {
   "tokens": [
     "STABLE",
-    "TRX",
-    "HBAR",
-    "LDO",
     "DOT",
-    "kFLOKI"
+    "MET",
+    "HBAR",
+    "TRX",
+    "XLM"
   ],
   "scores": [
     66,
     64,
     62,
+    60,
     58,
-    56,
     56
   ],
-  "timestamp": "2026-01-07T06:54:27.768724",
+  "timestamp": "2026-01-07T07:18:03.710585",
   "bucket": "1.2m-5m"
 }
