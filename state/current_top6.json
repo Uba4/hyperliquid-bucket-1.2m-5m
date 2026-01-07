@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "STABLE",
-    "DOT",
-    "MET",
     "MOODENG",
+    "POPCAT",
+    "kFLOKI",
     "FET",
-    "INJ"
+    "MET",
+    "EIGEN"
   ],
   "scores": [
+    66,
     64,
     62,
     60,
     58,
-    56,
-    54
+    56
   ],
-  "timestamp": "2026-01-07T08:00:15.912958",
+  "timestamp": "2026-01-07T08:37:50.768527",
   "bucket": "1.2m-5m"
 }
