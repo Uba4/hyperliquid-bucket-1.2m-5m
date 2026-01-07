@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "STABLE",
     "DOT",
     "MET",
     "HBAR",
-    "TRX",
+    "INJ",
+    "FET",
     "XLM"
   ],
   "scores": [
-    66,
     64,
     62,
     60,
     58,
-    56
+    56,
+    54
   ],
-  "timestamp": "2026-01-07T07:18:03.710585",
+  "timestamp": "2026-01-07T07:41:33.433044",
   "bucket": "1.2m-5m"
 }
