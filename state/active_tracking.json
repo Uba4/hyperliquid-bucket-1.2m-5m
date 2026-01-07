@@ -28,11 +28,11 @@
   },
   "ICP": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T11:26:29.193581",
-    "exit_time": null,
+    "exit_time": "2026-01-07T11:40:39.558449",
     "last_bar_collected": 359,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T11:40:39.558449",
     "entry_volume": 1171911.5883699998
   },
   "MOODENG": {
@@ -486,13 +486,13 @@
     "entry_volume": 3332061.696320001
   },
   "MELANIA": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T14:28:37.139744",
-    "exit_time": "2026-01-07T01:07:41.608802",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T11:40:39.558449",
+    "exit_time": null,
     "last_bar_collected": 361,
-    "tracking_until": "2026-01-17T01:07:41.608802",
-    "entry_volume": 1228924.1551289998
+    "tracking_until": null,
+    "entry_volume": 1416800.6689300006
   },
   "MNT": {
     "current_run": 5,
