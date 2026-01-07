@@ -2,19 +2,19 @@
   "tokens": [
     "SYRUP",
     "CRV",
-    "POPCAT",
     "BABY",
+    "POPCAT",
     "CC",
     "SPX"
   ],
   "scores": [
+    70,
     68,
     66,
     64,
     62,
-    60,
-    58
+    60
   ],
-  "timestamp": "2026-01-07T23:23:41.717251",
+  "timestamp": "2026-01-07T23:38:24.743915",
   "bucket": "1.2m-5m"
 }
