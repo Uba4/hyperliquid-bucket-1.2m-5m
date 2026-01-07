@@ -118,11 +118,11 @@
   },
   "DOT": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T01:07:41.608802",
-    "exit_time": null,
+    "exit_time": "2026-01-07T04:07:34.632761",
     "last_bar_collected": 327,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T04:07:34.632761",
     "entry_volume": 1617132.8490099998
   },
   "AERO": {
@@ -414,13 +414,13 @@
     "entry_volume": 2839130.08266
   },
   "CC": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T16:31:43.078100",
-    "exit_time": "2026-01-06T20:31:39.749942",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T04:07:34.632761",
+    "exit_time": null,
     "last_bar_collected": 307,
-    "tracking_until": "2026-01-16T20:31:39.749942",
-    "entry_volume": 4604749.697620001
+    "tracking_until": null,
+    "entry_volume": 2850308.736399999
   },
   "WLFI": {
     "current_run": 7,
