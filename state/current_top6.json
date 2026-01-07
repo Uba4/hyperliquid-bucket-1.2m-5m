@@ -1,8 +1,8 @@
 {
   "tokens": [
     "SYRUP",
-    "CRV",
     "BABY",
+    "CRV",
     "POPCAT",
     "CC",
     "SPX"
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-07T23:38:24.743915",
+  "timestamp": "2026-01-07T23:48:47.512392",
   "bucket": "1.2m-5m"
 }
