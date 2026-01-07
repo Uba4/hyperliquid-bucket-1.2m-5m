@@ -415,11 +415,11 @@
   },
   "CC": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T04:07:34.632761",
-    "exit_time": null,
+    "exit_time": "2026-01-07T06:23:42.538912",
     "last_bar_collected": 314,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T06:23:42.538912",
     "entry_volume": 2850308.736399999
   },
   "WLFI": {
@@ -522,13 +522,13 @@
     "entry_volume": 2962463.6983530005
   },
   "kFLOKI": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T04:25:00.158428",
-    "exit_time": "2026-01-06T07:26:13.275804",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T06:23:42.538912",
+    "exit_time": null,
     "last_bar_collected": 254,
-    "tracking_until": "2026-01-16T07:26:13.275804",
-    "entry_volume": 2121392.844519999
+    "tracking_until": null,
+    "entry_volume": 1650006.327695
   },
   "ONDO": {
     "current_run": 2,
