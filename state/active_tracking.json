@@ -316,11 +316,11 @@
   },
   "PENDLE": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T20:57:23.075595",
-    "exit_time": null,
+    "exit_time": "2026-01-07T22:51:43.019660",
     "last_bar_collected": 383,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T22:51:43.019660",
     "entry_volume": 1925023.4137000004
   },
   "kNEIRO": {
@@ -646,5 +646,14 @@
     "last_bar_collected": 31,
     "tracking_until": "2026-01-17T19:01:43.087065",
     "entry_volume": 4616641.637139999
+  },
+  "BABY": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T22:51:43.019660",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1221555.793307
   }
 }
