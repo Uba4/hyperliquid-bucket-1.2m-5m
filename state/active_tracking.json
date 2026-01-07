@@ -424,11 +424,11 @@
   },
   "WLFI": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T13:29:50.337413",
-    "exit_time": null,
+    "exit_time": "2026-01-07T17:52:55.881529",
     "last_bar_collected": 386,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T17:52:55.881529",
     "entry_volume": 3191048.51671
   },
   "ARB": {
@@ -478,11 +478,11 @@
   },
   "LTC": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T16:41:17.145802",
-    "exit_time": null,
+    "exit_time": "2026-01-07T17:52:55.881529",
     "last_bar_collected": 381,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T17:52:55.881529",
     "entry_volume": 2431386.9953399994
   },
   "MELANIA": {
@@ -495,13 +495,13 @@
     "entry_volume": 1095554.8991859998
   },
   "MNT": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T05:45:23.468665",
-    "exit_time": "2026-01-06T06:28:28.752339",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T17:52:55.881529",
+    "exit_time": null,
     "last_bar_collected": 347,
-    "tracking_until": "2026-01-16T06:28:28.752339",
-    "entry_volume": 2224330.2177700005
+    "tracking_until": null,
+    "entry_volume": 3924661.5695599993
   },
   "RENDER": {
     "current_run": 6,
@@ -585,13 +585,13 @@
     "entry_volume": 3766146.0111000016
   },
   "BNB": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T11:22:15.512009",
-    "exit_time": "2026-01-05T12:31:10.276630",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T17:52:55.881529",
+    "exit_time": null,
     "last_bar_collected": 262,
-    "tracking_until": "2026-01-15T12:31:10.276630",
-    "entry_volume": 5228139.929949998
+    "tracking_until": null,
+    "entry_volume": 5220779.9169
   },
   "ETHFI": {
     "current_run": 1,
