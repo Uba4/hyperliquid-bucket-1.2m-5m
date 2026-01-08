@@ -3,18 +3,18 @@
     "MEGA",
     "RENDER",
     "FET",
-    "MELANIA",
+    "AERO",
     "EIGEN",
-    "AERO"
+    "SPX"
   ],
   "scores": [
-    78,
     76,
     74,
     72,
     70,
-    68
+    68,
+    66
   ],
-  "timestamp": "2026-01-08T18:53:35.659937",
+  "timestamp": "2026-01-08T19:10:43.527188",
   "bucket": "1.2m-5m"
 }
