@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "FET",
+    "ANIME",
     "STABLE",
-    "MELANIA",
+    "FET",
     "KAITO",
-    "WLFI",
-    "TRUMP"
+    "ZK",
+    "WLFI"
   ],
   "scores": [
+    72,
     70,
     68,
     66,
     64,
-    62,
-    60
+    62
   ],
-  "timestamp": "2026-01-08T08:00:13.418978",
+  "timestamp": "2026-01-08T08:37:26.271480",
   "bucket": "1.2m-5m"
 }
