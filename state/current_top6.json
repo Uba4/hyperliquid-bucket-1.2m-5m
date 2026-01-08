@@ -3,18 +3,18 @@
     "MEGA",
     "FET",
     "EIGEN",
+    "RENDER",
     "MELANIA",
-    "PENDLE",
-    "RENDER"
+    "AERO"
   ],
   "scores": [
+    78,
     76,
     74,
     72,
     70,
-    66,
-    66
+    68
   ],
-  "timestamp": "2026-01-08T17:14:56.711129",
+  "timestamp": "2026-01-08T17:44:48.315333",
   "bucket": "1.2m-5m"
 }

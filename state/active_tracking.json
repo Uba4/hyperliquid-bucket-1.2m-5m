@@ -126,13 +126,13 @@
     "entry_volume": 1489053.7489299995
   },
   "AERO": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T18:51:28.589514",
-    "exit_time": "2026-01-05T20:48:30.749107",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T17:44:48.315155",
+    "exit_time": null,
     "last_bar_collected": 460,
-    "tracking_until": "2026-01-15T20:48:30.749107",
-    "entry_volume": 1928351.898729999
+    "tracking_until": null,
+    "entry_volume": 1618723.8527400002
   },
   "INJ": {
     "current_run": 6,
@@ -316,11 +316,11 @@
   },
   "PENDLE": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T16:49:17.699945",
-    "exit_time": null,
+    "exit_time": "2026-01-08T17:44:48.315155",
     "last_bar_collected": 460,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T17:44:48.315155",
     "entry_volume": 1698626.1862
   },
   "kNEIRO": {
