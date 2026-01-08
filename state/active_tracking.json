@@ -424,11 +424,11 @@
   },
   "WLFI": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T09:52:53.238444",
-    "exit_time": null,
+    "exit_time": "2026-01-08T10:01:32.881098",
     "last_bar_collected": 449,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T10:01:32.881098",
     "entry_volume": 5437483.0822399985
   },
   "ARB": {
@@ -675,12 +675,12 @@
     "entry_volume": 1241178.3331919992
   },
   "FTT": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T08:59:41.924163",
-    "exit_time": "2026-01-08T09:52:53.238444",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T10:01:32.881098",
+    "exit_time": null,
     "last_bar_collected": 4,
-    "tracking_until": "2026-01-18T09:52:53.238444",
-    "entry_volume": 2616782.745915999
+    "tracking_until": null,
+    "entry_volume": 2617045.970448999
   }
 }
