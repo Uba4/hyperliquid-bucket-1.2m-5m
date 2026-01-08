@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "IP",
     "STABLE",
-    "FTT",
+    "IP",
+    "ANIME",
+    "CC",
     "MET",
-    "LTC",
-    "ANIME"
+    "AVAX"
   ],
   "scores": [
+    66,
+    64,
     62,
     60,
     58,
-    56,
-    52,
-    52
+    56
   ],
-  "timestamp": "2026-01-08T12:24:25.965778",
+  "timestamp": "2026-01-08T13:12:28.081016",
   "bucket": "1.2m-5m"
 }
