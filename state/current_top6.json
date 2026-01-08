@@ -4,8 +4,8 @@
     "CC",
     "SYRUP",
     "WLFI",
-    "CRV",
-    "ANIME"
+    "ANIME",
+    "CRV"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-08T04:50:13.604182",
+  "timestamp": "2026-01-08T05:14:19.786989",
   "bucket": "1.2m-5m"
 }
