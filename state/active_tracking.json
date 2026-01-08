@@ -82,11 +82,11 @@
   },
   "SYRUP": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T19:27:21.470120",
-    "exit_time": null,
+    "exit_time": "2026-01-08T07:40:30.481736",
     "last_bar_collected": 445,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T07:40:30.481736",
     "entry_volume": 1276492.3904800008
   },
   "FIL": {
@@ -415,21 +415,21 @@
   },
   "CC": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T03:09:39.533953",
-    "exit_time": null,
+    "exit_time": "2026-01-08T07:40:30.481736",
     "last_bar_collected": 408,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T07:40:30.481736",
     "entry_volume": 4983506.986199997
   },
   "WLFI": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T03:09:39.533953",
-    "exit_time": "2026-01-08T07:18:11.259685",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T07:40:30.481736",
+    "exit_time": null,
     "last_bar_collected": 440,
-    "tracking_until": "2026-01-18T07:18:11.259685",
-    "entry_volume": 4407172.300470001
+    "tracking_until": null,
+    "entry_volume": 5313696.63522
   },
   "ARB": {
     "current_run": 2,
@@ -486,13 +486,13 @@
     "entry_volume": 2431386.9953399994
   },
   "MELANIA": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T16:01:46.951979",
-    "exit_time": "2026-01-07T16:41:17.145802",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T07:40:30.481736",
+    "exit_time": null,
     "last_bar_collected": 441,
-    "tracking_until": "2026-01-17T16:41:17.145802",
-    "entry_volume": 1095554.8991859998
+    "tracking_until": null,
+    "entry_volume": 1251826.7425339997
   },
   "MNT": {
     "current_run": 6,
