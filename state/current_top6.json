@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "MELANIA",
     "EIGEN",
+    "MELANIA",
     "IP",
     "MET",
     "PAXG",
-    "MNT"
+    "TON"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-08T21:39:31.931905",
+  "timestamp": "2026-01-08T21:50:49.092289",
   "bucket": "1.2m-5m"
 }
