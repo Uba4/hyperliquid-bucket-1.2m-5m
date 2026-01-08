@@ -1,11 +1,11 @@
 {
   "tokens": [
     "MEGA",
-    "RENDER",
-    "FET",
     "AERO",
+    "RENDER",
     "EIGEN",
-    "SPX"
+    "FET",
+    "MET"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-08T19:43:11.370753",
+  "timestamp": "2026-01-08T19:51:32.287552",
   "bucket": "1.2m-5m"
 }

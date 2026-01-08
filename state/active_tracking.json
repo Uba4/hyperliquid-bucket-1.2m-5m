@@ -271,21 +271,21 @@
   },
   "SPX": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T19:10:43.526995",
-    "exit_time": null,
+    "exit_time": "2026-01-08T19:51:32.287352",
     "last_bar_collected": 431,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T19:51:32.287352",
     "entry_volume": 3165139.5882160007
   },
   "MET": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T10:54:04.618303",
-    "exit_time": "2026-01-08T13:52:29.096418",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T19:51:32.287352",
+    "exit_time": null,
     "last_bar_collected": 474,
-    "tracking_until": "2026-01-18T13:52:29.096418",
-    "entry_volume": 1143684.76222
+    "tracking_until": null,
+    "entry_volume": 1188719.7127199997
   },
   "VIRTUAL": {
     "current_run": 3,
