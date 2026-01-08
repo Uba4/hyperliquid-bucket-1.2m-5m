@@ -3,9 +3,9 @@
     "EIGEN",
     "MELANIA",
     "MET",
-    "TRX",
+    "ADA",
     "APT",
-    "ADA"
+    "TRX"
   ],
   "scores": [
     66,
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-08T23:12:05.038341",
+  "timestamp": "2026-01-08T23:29:06.967936",
   "bucket": "1.2m-5m"
 }
