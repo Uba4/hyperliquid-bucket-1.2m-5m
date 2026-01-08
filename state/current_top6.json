@@ -1,11 +1,11 @@
 {
   "tokens": [
+    "MELANIA",
     "MEGA",
     "AERO",
-    "RENDER",
     "EIGEN",
-    "FET",
-    "MET"
+    "MET",
+    "STRK"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-08T19:59:08.958729",
+  "timestamp": "2026-01-08T20:28:47.297403",
   "bucket": "1.2m-5m"
 }
