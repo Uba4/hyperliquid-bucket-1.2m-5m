@@ -2,19 +2,19 @@
   "tokens": [
     "MELANIA",
     "EIGEN",
-    "MEGA",
     "IP",
     "MET",
-    "STRK"
+    "MNT",
+    "ADA"
   ],
   "scores": [
-    74,
-    72,
     70,
     68,
     66,
-    62
+    64,
+    62,
+    58
   ],
-  "timestamp": "2026-01-08T20:58:15.110759",
+  "timestamp": "2026-01-08T21:21:05.907598",
   "bucket": "1.2m-5m"
 }
