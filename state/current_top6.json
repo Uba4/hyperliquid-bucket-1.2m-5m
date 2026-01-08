@@ -1,11 +1,11 @@
 {
   "tokens": [
     "BABY",
-    "CC",
     "SYRUP",
+    "CC",
+    "CRV",
     "WLFI",
-    "ANIME",
-    "CRV"
+    "TRUMP"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-08T05:14:19.786989",
+  "timestamp": "2026-01-08T05:42:49.641238",
   "bucket": "1.2m-5m"
 }

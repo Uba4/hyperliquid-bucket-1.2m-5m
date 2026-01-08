@@ -639,13 +639,13 @@
     "entry_volume": 1889057.2130070003
   },
   "TRUMP": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T14:46:33.488178",
-    "exit_time": "2026-01-07T19:01:43.087065",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T05:42:49.641024",
+    "exit_time": null,
     "last_bar_collected": 60,
-    "tracking_until": "2026-01-17T19:01:43.087065",
-    "entry_volume": 4616641.637139999
+    "tracking_until": null,
+    "entry_volume": 2547065.281330001
   },
   "BABY": {
     "current_run": 1,
@@ -667,11 +667,11 @@
   },
   "ANIME": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T04:50:13.603999",
-    "exit_time": null,
+    "exit_time": "2026-01-08T05:42:49.641024",
     "last_bar_collected": 4,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T05:42:49.641024",
     "entry_volume": 1136970.3387200003
   }
 }
