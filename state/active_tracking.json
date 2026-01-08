@@ -658,11 +658,20 @@
   },
   "UNI": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T03:09:39.533953",
-    "exit_time": null,
+    "exit_time": "2026-01-08T04:50:13.603999",
     "last_bar_collected": 5,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T04:50:13.603999",
     "entry_volume": 4707265.7530700015
+  },
+  "ANIME": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T04:50:13.603999",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1136970.3387200003
   }
 }
