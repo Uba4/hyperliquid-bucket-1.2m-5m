@@ -2,19 +2,19 @@
   "tokens": [
     "FET",
     "STABLE",
+    "MELANIA",
     "KAITO",
-    "TRUMP",
     "WLFI",
-    "MELANIA"
+    "TRUMP"
   ],
   "scores": [
     70,
     68,
     66,
-    63,
+    64,
     62,
-    61
+    60
   ],
-  "timestamp": "2026-01-08T07:40:30.482022",
+  "timestamp": "2026-01-08T07:52:01.483727",
   "bucket": "1.2m-5m"
 }
