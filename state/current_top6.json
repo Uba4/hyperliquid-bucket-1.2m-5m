@@ -1,9 +1,9 @@
 {
   "tokens": [
     "MELANIA",
-    "MEGA",
-    "AERO",
     "EIGEN",
+    "MEGA",
+    "IP",
     "MET",
     "STRK"
   ],
@@ -13,8 +13,8 @@
     70,
     68,
     66,
-    64
+    62
   ],
-  "timestamp": "2026-01-08T20:28:47.297403",
+  "timestamp": "2026-01-08T20:47:48.065552",
   "bucket": "1.2m-5m"
 }
