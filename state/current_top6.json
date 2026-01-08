@@ -1,20 +1,20 @@
 {
   "tokens": [
     "BABY",
+    "CC",
     "SYRUP",
-    "POPCAT",
     "CRV",
-    "MOODENG",
-    "SPX"
+    "WLFI",
+    "UNI"
   ],
   "scores": [
-    74,
-    72,
-    70,
-    68,
     66,
-    64
+    64,
+    62,
+    60,
+    58,
+    56
   ],
-  "timestamp": "2026-01-08T01:20:48.315345",
+  "timestamp": "2026-01-08T03:09:39.534312",
   "bucket": "1.2m-5m"
 }

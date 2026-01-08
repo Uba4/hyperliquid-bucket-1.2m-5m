@@ -37,11 +37,11 @@
   },
   "MOODENG": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T01:20:48.315161",
-    "exit_time": null,
+    "exit_time": "2026-01-08T03:09:39.533953",
     "last_bar_collected": 324,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T03:09:39.533953",
     "entry_volume": 1168520.363481
   },
   "EIGEN": {
@@ -190,11 +190,11 @@
   },
   "POPCAT": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T19:50:05.991029",
-    "exit_time": null,
+    "exit_time": "2026-01-08T03:09:39.533953",
     "last_bar_collected": 330,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T03:09:39.533953",
     "entry_volume": 1087454.9265000003
   },
   "PENGU": {
@@ -271,11 +271,11 @@
   },
   "SPX": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T19:01:43.087065",
-    "exit_time": null,
+    "exit_time": "2026-01-08T03:09:39.533953",
     "last_bar_collected": 364,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T03:09:39.533953",
     "entry_volume": 4412235.345215999
   },
   "MET": {
@@ -414,22 +414,22 @@
     "entry_volume": 2839130.08266
   },
   "CC": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T20:22:24.656895",
-    "exit_time": "2026-01-08T01:20:48.315161",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T03:09:39.533953",
+    "exit_time": null,
     "last_bar_collected": 389,
-    "tracking_until": "2026-01-18T01:20:48.315161",
-    "entry_volume": 5050290.022400001
+    "tracking_until": null,
+    "entry_volume": 4983506.986199997
   },
   "WLFI": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T13:29:50.337413",
-    "exit_time": "2026-01-07T17:52:55.881529",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T03:09:39.533953",
+    "exit_time": null,
     "last_bar_collected": 421,
-    "tracking_until": "2026-01-17T17:52:55.881529",
-    "entry_volume": 3191048.51671
+    "tracking_until": null,
+    "entry_volume": 4407172.300470001
   },
   "ARB": {
     "current_run": 2,
@@ -655,5 +655,14 @@
     "last_bar_collected": 15,
     "tracking_until": null,
     "entry_volume": 1221555.793307
+  },
+  "UNI": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T03:09:39.533953",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 4707265.7530700015
   }
 }
