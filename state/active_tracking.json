@@ -405,13 +405,13 @@
     "entry_volume": 1523233.844889999
   },
   "IP": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T20:31:39.749942",
-    "exit_time": "2026-01-07T05:55:37.908521",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T09:32:58.178220",
+    "exit_time": null,
     "last_bar_collected": 340,
-    "tracking_until": "2026-01-17T05:55:37.908521",
-    "entry_volume": 2839130.08266
+    "tracking_until": null,
+    "entry_volume": 2870354.810759998
   },
   "CC": {
     "current_run": 11,
@@ -631,11 +631,11 @@
   },
   "ZK": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T08:37:26.271204",
-    "exit_time": null,
+    "exit_time": "2026-01-08T09:32:58.178220",
     "last_bar_collected": 183,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T09:32:58.178220",
     "entry_volume": 1104682.4655649997
   },
   "TRUMP": {
