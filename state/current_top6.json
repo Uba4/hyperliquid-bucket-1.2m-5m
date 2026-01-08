@@ -5,7 +5,7 @@
     "EIGEN",
     "MELANIA",
     "PENDLE",
-    "ANIME"
+    "RENDER"
   ],
   "scores": [
     76,
@@ -15,6 +15,6 @@
     66,
     66
   ],
-  "timestamp": "2026-01-08T16:49:17.700254",
+  "timestamp": "2026-01-08T17:14:56.711129",
   "bucket": "1.2m-5m"
 }
