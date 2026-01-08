@@ -171,13 +171,13 @@
     "entry_volume": 2801830.4509020005
   },
   "GRIFFAIN": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T17:42:49.393946",
-    "exit_time": "2026-01-02T04:03:49.751494",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T23:50:30.137695",
+    "exit_time": null,
     "last_bar_collected": 509,
-    "tracking_until": "2026-01-12T04:03:49.751494",
-    "entry_volume": 1913602.462055
+    "tracking_until": null,
+    "entry_volume": 1267157.4994550005
   },
   "kPEPE": {
     "current_run": 1,
@@ -703,11 +703,11 @@
   },
   "ADA": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T23:12:05.038127",
-    "exit_time": null,
+    "exit_time": "2026-01-08T23:50:30.137695",
     "last_bar_collected": 8,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T23:50:30.137695",
     "entry_volume": 3666192.3573300005
   },
   "POL": {
