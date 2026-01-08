@@ -1,11 +1,11 @@
 {
   "tokens": [
     "ANIME",
+    "MEGA",
     "CC",
     "STABLE",
-    "MEGA",
     "TON",
-    "BABY"
+    "WIF"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     58,
     58
   ],
-  "timestamp": "2026-01-08T14:45:21.066441",
+  "timestamp": "2026-01-08T15:00:23.744241",
   "bucket": "1.2m-5m"
 }
