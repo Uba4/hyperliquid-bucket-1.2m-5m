@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "SYRUP",
-    "TRUMP",
     "FET",
-    "CC",
+    "TRUMP",
+    "SYRUP",
+    "KAITO",
     "WLFI",
-    "KAITO"
+    "CC"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-08T06:23:46.605980",
+  "timestamp": "2026-01-08T06:54:35.518756",
   "bucket": "1.2m-5m"
 }
