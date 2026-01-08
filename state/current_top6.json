@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ANIME",
     "MEGA",
+    "ANIME",
+    "FET",
     "EIGEN",
     "WIF",
-    "TON",
-    "FET"
+    "TON"
   ],
   "scores": [
+    74,
     72,
     70,
     68,
     66,
-    64,
-    62
+    64
   ],
-  "timestamp": "2026-01-08T15:52:37.629416",
+  "timestamp": "2026-01-08T16:13:57.573122",
   "bucket": "1.2m-5m"
 }
