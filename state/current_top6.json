@@ -3,18 +3,18 @@
     "IP",
     "STABLE",
     "ANIME",
-    "KAITO",
     "FTT",
-    "MET"
+    "MET",
+    "NEAR"
   ],
   "scores": [
-    68,
     66,
     64,
     62,
     60,
-    58
+    58,
+    56
   ],
-  "timestamp": "2026-01-08T11:12:11.310848",
+  "timestamp": "2026-01-08T11:32:47.705089",
   "bucket": "1.2m-5m"
 }

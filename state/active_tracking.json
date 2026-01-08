@@ -144,13 +144,13 @@
     "entry_volume": 2710350.514940001
   },
   "NEAR": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T04:22:00.029654",
-    "exit_time": "2026-01-05T08:28:34.072755",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T11:32:47.704882",
+    "exit_time": null,
     "last_bar_collected": 391,
-    "tracking_until": "2026-01-15T08:28:34.072755",
-    "entry_volume": 3923778.0684100008
+    "tracking_until": null,
+    "entry_volume": 3618991.1661700006
   },
   "STBL": {
     "current_run": 3,
@@ -388,11 +388,11 @@
   },
   "KAITO": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T06:23:46.605647",
-    "exit_time": null,
+    "exit_time": "2026-01-08T11:32:47.704882",
     "last_bar_collected": 459,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T11:32:47.704882",
     "entry_volume": 1273147.1319999995
   },
   "XLM": {
