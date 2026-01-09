@@ -189,13 +189,13 @@
     "entry_volume": 4575520.504225001
   },
   "POPCAT": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T19:30:05.015896",
-    "exit_time": "2026-01-09T19:42:26.787937",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T20:55:52.849843",
+    "exit_time": null,
     "last_bar_collected": 500,
-    "tracking_until": "2026-01-19T19:42:26.787937",
-    "entry_volume": 1123133.6659300004
+    "tracking_until": null,
+    "entry_volume": 1186285.479703001
   },
   "PENGU": {
     "current_run": 3,
@@ -307,11 +307,11 @@
   },
   "ASTER": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T20:24:59.935542",
-    "exit_time": null,
+    "exit_time": "2026-01-09T20:55:52.849843",
     "last_bar_collected": 591,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T20:55:52.849843",
     "entry_volume": 5356768.055060003
   },
   "PENDLE": {
