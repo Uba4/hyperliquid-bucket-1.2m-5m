@@ -208,11 +208,11 @@
   },
   "WIF": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T09:38:00.145831",
-    "exit_time": null,
+    "exit_time": "2026-01-09T09:55:06.310604",
     "last_bar_collected": 498,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T09:55:06.310604",
     "entry_volume": 3240620.098410001
   },
   "AIXBT": {
@@ -549,13 +549,13 @@
     "entry_volume": 2379066.3331229994
   },
   "FET": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T15:52:37.629032",
-    "exit_time": "2026-01-08T20:28:47.297044",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T09:55:06.310604",
+    "exit_time": null,
     "last_bar_collected": 468,
-    "tracking_until": "2026-01-18T20:28:47.297044",
-    "entry_volume": 4635872.292609999
+    "tracking_until": null,
+    "entry_volume": 4757674.14079
   },
   "PNUT": {
     "current_run": 2,
