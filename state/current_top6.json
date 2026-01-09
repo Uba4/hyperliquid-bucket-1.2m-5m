@@ -2,10 +2,10 @@
   "tokens": [
     "VVV",
     "POPCAT",
+    "RENDER",
+    "GMT",
     "MELANIA",
-    "TRX",
-    "TRUMP",
-    "IP"
+    "FET"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-09T22:58:18.725666",
+  "timestamp": "2026-01-09T23:20:33.433273",
   "bucket": "1.2m-5m"
 }
