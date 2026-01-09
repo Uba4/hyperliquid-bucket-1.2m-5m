@@ -739,11 +739,11 @@
   },
   "ZRO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T13:09:49.762287",
-    "exit_time": null,
+    "exit_time": "2026-01-09T14:52:24.828371",
     "last_bar_collected": 7,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T14:52:24.828371",
     "entry_volume": 1392692.4722500008
   },
   "GMT": {
@@ -754,5 +754,14 @@
     "last_bar_collected": 3,
     "tracking_until": null,
     "entry_volume": 1085425.5028510003
+  },
+  "AAVE": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T14:52:24.828371",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 3579057.0417000004
   }
 }

@@ -2,19 +2,19 @@
   "tokens": [
     "GMT",
     "VVV",
+    "POL",
     "KAITO",
     "SPX",
-    "POL",
-    "ZRO"
+    "AAVE"
   ],
   "scores": [
-    74,
     72,
     70,
     68,
     66,
-    64
+    64,
+    62
   ],
-  "timestamp": "2026-01-09T14:32:00.673366",
+  "timestamp": "2026-01-09T14:52:24.828546",
   "bucket": "1.2m-5m"
 }
