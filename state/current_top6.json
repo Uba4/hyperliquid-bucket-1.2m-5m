@@ -4,8 +4,8 @@
     "TRUMP",
     "TRX",
     "IP",
-    "POPCAT",
-    "LTC"
+    "LTC",
+    "POPCAT"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-09T21:15:41.913889",
+  "timestamp": "2026-01-09T21:34:35.181986",
   "bucket": "1.2m-5m"
 }
