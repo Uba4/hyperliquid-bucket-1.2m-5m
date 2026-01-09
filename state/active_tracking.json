@@ -162,13 +162,13 @@
     "entry_volume": 1517688.8066850007
   },
   "WLD": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T19:11:42.422203",
-    "exit_time": "2026-01-05T22:54:05.534423",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T09:03:49.760296",
+    "exit_time": null,
     "last_bar_collected": 480,
-    "tracking_until": "2026-01-15T22:54:05.534423",
-    "entry_volume": 2801830.4509020005
+    "tracking_until": null,
+    "entry_volume": 2026168.736325
   },
   "GRIFFAIN": {
     "current_run": 2,
@@ -208,11 +208,11 @@
   },
   "WIF": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T07:42:47.946937",
-    "exit_time": null,
+    "exit_time": "2026-01-09T09:03:49.760296",
     "last_bar_collected": 494,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T09:03:49.760296",
     "entry_volume": 3199246.4483800004
   },
   "AIXBT": {
