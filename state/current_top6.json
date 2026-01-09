@@ -4,17 +4,17 @@
     "POL",
     "SPX",
     "RENDER",
-    "AAVE",
-    "PENGU"
+    "PENGU",
+    "FET"
   ],
   "scores": [
     78,
     76,
     74,
     72,
-    68,
+    70,
     68
   ],
-  "timestamp": "2026-01-09T15:33:47.532441",
+  "timestamp": "2026-01-09T15:50:37.962343",
   "bucket": "1.2m-5m"
 }
