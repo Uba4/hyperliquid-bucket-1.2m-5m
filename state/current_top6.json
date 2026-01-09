@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "RENDER",
     "VVV",
     "PENDLE",
-    "FET",
-    "CRV",
-    "NEAR"
+    "RENDER",
+    "EIGEN",
+    "NEAR",
+    "TIA"
   ],
   "scores": [
-    72,
     70,
     68,
     66,
     64,
-    62
+    62,
+    60
   ],
-  "timestamp": "2026-01-09T18:19:29.894499",
+  "timestamp": "2026-01-09T18:51:02.240290",
   "bucket": "1.2m-5m"
 }
