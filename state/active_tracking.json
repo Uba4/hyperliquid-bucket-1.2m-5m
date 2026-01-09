@@ -100,11 +100,11 @@
   },
   "APT": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T19:30:05.015896",
-    "exit_time": null,
+    "exit_time": "2026-01-09T20:43:46.632167",
     "last_bar_collected": 590,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T20:43:46.632167",
     "entry_volume": 1106522.496911
   },
   "TIA": {
@@ -405,13 +405,13 @@
     "entry_volume": 1523233.844889999
   },
   "IP": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T11:54:06.237862",
-    "exit_time": "2026-01-09T14:00:56.155098",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T20:43:46.632167",
+    "exit_time": null,
     "last_bar_collected": 477,
-    "tracking_until": "2026-01-19T14:00:56.155098",
-    "entry_volume": 1513221.0334600005
+    "tracking_until": null,
+    "entry_volume": 1399520.6549099998
   },
   "CC": {
     "current_run": 14,
