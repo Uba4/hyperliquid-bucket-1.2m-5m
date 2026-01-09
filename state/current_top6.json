@@ -2,10 +2,10 @@
   "tokens": [
     "VVV",
     "PENDLE",
-    "EIGEN",
-    "LDO",
+    "TRUMP",
     "APT",
-    "POPCAT"
+    "LDO",
+    "WIF"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-09T19:30:05.016196",
+  "timestamp": "2026-01-09T19:42:26.788287",
   "bucket": "1.2m-5m"
 }
