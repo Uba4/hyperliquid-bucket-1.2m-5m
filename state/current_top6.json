@@ -1,20 +1,20 @@
 {
   "tokens": [
     "VVV",
-    "TRX",
-    "TRUMP",
     "POPCAT",
     "MELANIA",
-    "IP"
+    "TRX",
+    "TRUMP",
+    "GMT"
   ],
   "scores": [
-    76,
     74,
     72,
     70,
     68,
-    66
+    66,
+    64
   ],
-  "timestamp": "2026-01-09T22:37:03.676695",
+  "timestamp": "2026-01-09T22:50:56.415295",
   "bucket": "1.2m-5m"
 }
