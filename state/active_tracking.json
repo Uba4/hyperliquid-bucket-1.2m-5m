@@ -478,21 +478,21 @@
   },
   "LTC": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T20:24:59.935542",
-    "exit_time": null,
+    "exit_time": "2026-01-09T21:47:01.523963",
     "last_bar_collected": 571,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T21:47:01.523963",
     "entry_volume": 2557647.91537
   },
   "MELANIA": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T05:44:05.305308",
-    "exit_time": "2026-01-09T10:15:14.721227",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T21:47:01.523963",
+    "exit_time": null,
     "last_bar_collected": 591,
-    "tracking_until": "2026-01-19T10:15:14.721227",
-    "entry_volume": 1522232.3920209992
+    "tracking_until": null,
+    "entry_volume": 1301404.3902410003
   },
   "MNT": {
     "current_run": 7,
