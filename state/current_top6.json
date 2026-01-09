@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MET",
     "POL",
-    "GRIFFAIN",
-    "ADA",
-    "LTC",
+    "MEGA",
+    "CC",
+    "MET",
+    "AERO",
     "LDO"
   ],
   "scores": [
+    66,
     64,
     62,
     60,
     58,
-    56,
-    54
+    56
   ],
-  "timestamp": "2026-01-09T01:46:26.523320",
+  "timestamp": "2026-01-09T03:21:00.234993",
   "bucket": "1.2m-5m"
 }
