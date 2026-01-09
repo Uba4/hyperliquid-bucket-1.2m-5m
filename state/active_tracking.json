@@ -406,11 +406,11 @@
   },
   "IP": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T11:18:36.513095",
-    "exit_time": null,
+    "exit_time": "2026-01-09T11:46:52.781277",
     "last_bar_collected": 441,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T11:46:52.781277",
     "entry_volume": 1551569.4385900002
   },
   "CC": {
@@ -693,13 +693,13 @@
     "entry_volume": 5420107.533399999
   },
   "MEGA": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T03:21:00.234542",
-    "exit_time": "2026-01-09T05:56:30.019193",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T11:46:52.781277",
+    "exit_time": null,
     "last_bar_collected": 80,
-    "tracking_until": "2026-01-19T05:56:30.019193",
-    "entry_volume": 2290053.195960001
+    "tracking_until": null,
+    "entry_volume": 1185188.2931399993
   },
   "ADA": {
     "current_run": 3,
