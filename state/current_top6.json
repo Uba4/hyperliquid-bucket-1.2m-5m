@@ -2,19 +2,19 @@
   "tokens": [
     "VVV",
     "PENDLE",
-    "RENDER",
     "EIGEN",
-    "NEAR",
-    "TIA"
+    "LDO",
+    "RENDER",
+    "NEAR"
   ],
   "scores": [
+    72,
     70,
     68,
-    66,
     64,
-    62,
-    60
+    64,
+    62
   ],
-  "timestamp": "2026-01-09T18:51:02.240290",
+  "timestamp": "2026-01-09T19:10:40.166371",
   "bucket": "1.2m-5m"
 }
