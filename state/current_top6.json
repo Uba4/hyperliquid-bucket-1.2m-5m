@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "EIGEN",
     "MET",
     "POL",
-    "MELANIA",
-    "APT",
-    "GRIFFAIN"
+    "GRIFFAIN",
+    "ADA",
+    "LTC",
+    "LDO"
   ],
   "scores": [
-    68,
-    66,
     64,
     62,
+    60,
     58,
-    58
+    56,
+    54
   ],
-  "timestamp": "2026-01-08T23:58:21.515003",
+  "timestamp": "2026-01-09T01:46:26.523320",
   "bucket": "1.2m-5m"
 }
