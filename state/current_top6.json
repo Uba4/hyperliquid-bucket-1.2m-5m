@@ -4,17 +4,17 @@
     "VVV",
     "POL",
     "RENDER",
-    "MEGA",
-    "MELANIA"
+    "MELANIA",
+    "CC"
   ],
   "scores": [
+    72,
     70,
     68,
     66,
     64,
-    62,
-    60
+    62
   ],
-  "timestamp": "2026-01-09T05:44:05.305500",
+  "timestamp": "2026-01-09T05:56:30.019387",
   "bucket": "1.2m-5m"
 }
