@@ -207,13 +207,13 @@
     "entry_volume": 4144464.918455999
   },
   "WIF": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T09:38:00.145831",
-    "exit_time": "2026-01-09T09:55:06.310604",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T10:15:14.721227",
+    "exit_time": null,
     "last_bar_collected": 498,
-    "tracking_until": "2026-01-19T09:55:06.310604",
-    "entry_volume": 3240620.098410001
+    "tracking_until": null,
+    "entry_volume": 3337293.3986400017
   },
   "AIXBT": {
     "current_run": 4,
@@ -487,11 +487,11 @@
   },
   "MELANIA": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T05:44:05.305308",
-    "exit_time": null,
+    "exit_time": "2026-01-09T10:15:14.721227",
     "last_bar_collected": 544,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T10:15:14.721227",
     "entry_volume": 1522232.3920209992
   },
   "MNT": {

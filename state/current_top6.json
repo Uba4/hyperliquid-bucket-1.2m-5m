@@ -2,19 +2,19 @@
   "tokens": [
     "VVV",
     "POL",
-    "RENDER",
     "FET",
-    "MELANIA",
-    "WLD"
+    "WLD",
+    "WIF",
+    "RENDER"
   ],
   "scores": [
-    78,
     76,
     74,
     72,
-    70,
+    68,
+    68,
     68
   ],
-  "timestamp": "2026-01-09T09:55:06.310804",
+  "timestamp": "2026-01-09T10:15:14.721421",
   "bucket": "1.2m-5m"
 }
