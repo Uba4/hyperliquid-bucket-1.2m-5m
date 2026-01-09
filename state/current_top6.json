@@ -3,18 +3,18 @@
     "VVV",
     "TRX",
     "TRUMP",
-    "IP",
+    "POPCAT",
     "MELANIA",
-    "POPCAT"
+    "IP"
   ],
   "scores": [
+    76,
+    74,
     72,
     70,
     68,
-    66,
-    64,
-    62
+    66
   ],
-  "timestamp": "2026-01-09T22:13:15.003462",
+  "timestamp": "2026-01-09T22:37:03.676695",
   "bucket": "1.2m-5m"
 }
