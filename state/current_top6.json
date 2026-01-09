@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "STABLE",
     "VVV",
     "POL",
-    "RENDER",
+    "STABLE",
     "MELANIA",
-    "WIF"
+    "RENDER",
+    "ANIME"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-09T06:26:48.315793",
+  "timestamp": "2026-01-09T06:56:48.834144",
   "bucket": "1.2m-5m"
 }
