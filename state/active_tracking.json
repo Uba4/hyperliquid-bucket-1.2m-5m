@@ -289,11 +289,11 @@
   },
   "VIRTUAL": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-10T15:45:01.192938",
-    "exit_time": null,
+    "exit_time": "2026-01-10T15:53:05.109083",
     "last_bar_collected": 664,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T15:53:05.109083",
     "entry_volume": 5286601.83359
   },
   "TON": {
@@ -729,13 +729,13 @@
     "entry_volume": 1565405.157471
   },
   "ENA": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T11:18:36.513095",
-    "exit_time": "2026-01-09T13:48:36.553248",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T15:53:05.109083",
+    "exit_time": null,
     "last_bar_collected": 113,
-    "tracking_until": "2026-01-19T13:48:36.553248",
-    "entry_volume": 4501802.249870002
+    "tracking_until": null,
+    "entry_volume": 2204383.680290001
   },
   "ZRO": {
     "current_run": 3,
