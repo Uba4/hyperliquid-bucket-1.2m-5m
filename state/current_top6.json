@@ -2,10 +2,10 @@
   "tokens": [
     "FOGO",
     "SPX",
+    "AVNT",
     "ZRO",
     "TON",
-    "RENDER",
-    "CC"
+    "WIF"
   ],
   "scores": [
     66,
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-10T13:57:05.043229",
+  "timestamp": "2026-01-10T14:16:37.464365",
   "bucket": "1.2m-5m"
 }
