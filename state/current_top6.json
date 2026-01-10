@@ -1,11 +1,11 @@
 {
   "tokens": [
     "RENDER",
-    "ARB",
     "SPX",
+    "ARB",
     "TIA",
     "EIGEN",
-    "NEAR"
+    "CRV"
   ],
   "scores": [
     60,
@@ -15,6 +15,6 @@
     52,
     50
   ],
-  "timestamp": "2026-01-10T11:37:43.412107",
+  "timestamp": "2026-01-10T11:45:58.697346",
   "bucket": "1.2m-5m"
 }

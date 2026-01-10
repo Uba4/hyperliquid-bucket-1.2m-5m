@@ -145,11 +145,11 @@
   },
   "NEAR": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-10T08:55:54.841965",
-    "exit_time": null,
+    "exit_time": "2026-01-10T11:45:58.697166",
     "last_bar_collected": 574,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T11:45:58.697166",
     "entry_volume": 1610770.85817
   },
   "STBL": {
@@ -234,13 +234,13 @@
     "entry_volume": 4957981.374099002
   },
   "CRV": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T17:22:03.623629",
-    "exit_time": "2026-01-09T18:51:02.239981",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T11:45:58.697166",
+    "exit_time": null,
     "last_bar_collected": 637,
-    "tracking_until": "2026-01-19T18:51:02.239981",
-    "entry_volume": 5289982.698798998
+    "tracking_until": null,
+    "entry_volume": 2973409.2843339974
   },
   "AVNT": {
     "current_run": 7,
