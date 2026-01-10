@@ -2,8 +2,8 @@
   "tokens": [
     "VVV",
     "GMT",
-    "ASTER",
     "MEGA",
+    "ASTER",
     "BCH",
     "TRX"
   ],
@@ -15,6 +15,6 @@
     42,
     40
   ],
-  "timestamp": "2026-01-10T18:54:15.908261",
+  "timestamp": "2026-01-10T19:08:26.165166",
   "bucket": "1.2m-5m"
 }
