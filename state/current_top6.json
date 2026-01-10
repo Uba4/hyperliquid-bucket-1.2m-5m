@@ -1,11 +1,11 @@
 {
   "tokens": [
     "VVV",
-    "AVNT",
-    "ASTER",
     "BCH",
-    "ZRO",
-    "TRX"
+    "ASTER",
+    "TRX",
+    "TRUMP",
+    "AVNT"
   ],
   "scores": [
     48,
@@ -15,6 +15,6 @@
     40,
     38
   ],
-  "timestamp": "2026-01-10T22:41:07.583597",
+  "timestamp": "2026-01-10T22:51:34.018974",
   "bucket": "1.2m-5m"
 }
