@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "STX",
     "TON",
     "SPX",
     "CRV",
     "WIF",
-    "WLD"
+    "VIRTUAL",
+    "ZRO"
   ],
   "scores": [
-    64,
     62,
     60,
     58,
     56,
-    53
+    54,
+    52
   ],
-  "timestamp": "2026-01-10T15:33:07.996986",
+  "timestamp": "2026-01-10T15:45:01.193209",
   "bucket": "1.2m-5m"
 }
