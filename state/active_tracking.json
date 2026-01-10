@@ -208,11 +208,11 @@
   },
   "WIF": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-10T14:16:37.464006",
-    "exit_time": null,
+    "exit_time": "2026-01-10T14:56:05.645071",
     "last_bar_collected": 602,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T14:56:05.645071",
     "entry_volume": 3246682.8791900026
   },
   "AIXBT": {
@@ -612,13 +612,13 @@
     "entry_volume": 1117748.402337
   },
   "STX": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T22:54:05.534423",
-    "exit_time": "2026-01-05T23:10:45.243674",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T14:56:05.645071",
+    "exit_time": null,
     "last_bar_collected": 476,
-    "tracking_until": "2026-01-15T23:10:45.243674",
-    "entry_volume": 1093478.101352
+    "tracking_until": null,
+    "entry_volume": 1087400.428112
   },
   "HBAR": {
     "current_run": 3,
