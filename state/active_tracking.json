@@ -208,11 +208,11 @@
   },
   "WIF": {
     "current_run": 13,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-10T12:16:37.670687",
-    "exit_time": null,
+    "exit_time": "2026-01-10T13:57:05.043033",
     "last_bar_collected": 602,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T13:57:05.043033",
     "entry_volume": 3316624.520220002
   },
   "AIXBT": {
@@ -781,5 +781,14 @@
     "last_bar_collected": 18,
     "tracking_until": "2026-01-20T10:45:40.428101",
     "entry_volume": 1158075.8398020002
+  },
+  "FOGO": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T13:57:05.043033",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1106015.2889099992
   }
 }
