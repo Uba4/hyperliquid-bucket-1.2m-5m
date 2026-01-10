@@ -2,10 +2,10 @@
   "tokens": [
     "VVV",
     "GMT",
-    "ASTER",
     "MEGA",
+    "ASTER",
     "ZRO",
-    "BCH"
+    "AVNT"
   ],
   "scores": [
     50,
@@ -13,8 +13,8 @@
     46,
     44,
     42,
-    38
+    40
   ],
-  "timestamp": "2026-01-10T19:25:33.714083",
+  "timestamp": "2026-01-10T19:35:11.203973",
   "bucket": "1.2m-5m"
 }
