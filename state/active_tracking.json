@@ -4,7 +4,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-01T15:03:00.783609",
     "exit_time": "2026-01-01T15:34:35.248282",
-    "last_bar_collected": 645,
+    "last_bar_collected": 653,
     "tracking_until": "2026-01-11T15:34:35.248282",
     "entry_volume": 491981.0435459998
   },
@@ -13,7 +13,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-01T11:47:18.625191",
     "exit_time": "2026-01-01T15:51:09.219439",
-    "last_bar_collected": 645,
+    "last_bar_collected": 653,
     "tracking_until": "2026-01-11T15:51:09.219439",
     "entry_volume": 462605.2266190001
   },
@@ -22,7 +22,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-01T11:47:18.625191",
     "exit_time": "2026-01-01T14:51:00.917908",
-    "last_bar_collected": 645,
+    "last_bar_collected": 653,
     "tracking_until": "2026-01-11T14:51:00.917908",
     "entry_volume": 728180.2812549998
   },
@@ -31,7 +31,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-07T11:50:23.717452",
     "exit_time": "2026-01-07T12:47:25.087578",
-    "last_bar_collected": 638,
+    "last_bar_collected": 646,
     "tracking_until": "2026-01-17T12:47:25.087578",
     "entry_volume": 1141816.2503899997
   },
@@ -40,7 +40,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-08T01:20:48.315161",
     "exit_time": "2026-01-08T03:09:39.533953",
-    "last_bar_collected": 544,
+    "last_bar_collected": 552,
     "tracking_until": "2026-01-18T03:09:39.533953",
     "entry_volume": 1168520.363481
   },
@@ -49,7 +49,7 @@
     "status": "in_top6",
     "entry_time": "2026-01-10T08:55:54.841965",
     "exit_time": null,
-    "last_bar_collected": 639,
+    "last_bar_collected": 647,
     "tracking_until": null,
     "entry_volume": 3927094.577981001
   },
@@ -58,7 +58,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-06T08:21:15.349535",
     "exit_time": "2026-01-06T10:43:58.649040",
-    "last_bar_collected": 639,
+    "last_bar_collected": 647,
     "tracking_until": "2026-01-16T10:43:58.649040",
     "entry_volume": 1151559.6132549997
   },
@@ -67,7 +67,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-01T12:59:41.850208",
     "exit_time": "2026-01-01T13:42:57.827833",
-    "last_bar_collected": 645,
+    "last_bar_collected": 653,
     "tracking_until": "2026-01-11T13:42:57.827833",
     "entry_volume": 421527.0875659999
   },
@@ -76,7 +76,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-01T14:51:00.917908",
     "exit_time": "2026-01-01T16:48:34.590130",
-    "last_bar_collected": 645,
+    "last_bar_collected": 653,
     "tracking_until": "2026-01-11T16:48:34.590130",
     "entry_volume": 425829.5436380001
   },
@@ -85,7 +85,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-07T19:27:21.470120",
     "exit_time": "2026-01-08T07:40:30.481736",
-    "last_bar_collected": 644,
+    "last_bar_collected": 652,
     "tracking_until": "2026-01-18T07:40:30.481736",
     "entry_volume": 1276492.3904800008
   },
@@ -94,7 +94,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-05T16:33:09.519011",
     "exit_time": "2026-01-05T19:31:12.650708",
-    "last_bar_collected": 642,
+    "last_bar_collected": 650,
     "tracking_until": "2026-01-15T19:31:12.650708",
     "entry_volume": 1119368.3957599998
   },
@@ -103,7 +103,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-10T10:45:40.428101",
     "exit_time": "2026-01-10T10:53:41.262386",
-    "last_bar_collected": 638,
+    "last_bar_collected": 641,
     "tracking_until": "2026-01-20T10:53:41.262386",
     "entry_volume": 1152591.0305219996
   },
@@ -112,7 +112,7 @@
     "status": "in_top6",
     "entry_time": "2026-01-10T10:29:51.001583",
     "exit_time": null,
-    "last_bar_collected": 543,
+    "last_bar_collected": 548,
     "tracking_until": null,
     "entry_volume": 1534373.8283699998
   },
@@ -121,7 +121,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-07T06:54:27.768547",
     "exit_time": "2026-01-07T08:37:50.768076",
-    "last_bar_collected": 637,
+    "last_bar_collected": 645,
     "tracking_until": "2026-01-17T08:37:50.768076",
     "entry_volume": 1489053.7489299995
   },
@@ -130,7 +130,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T03:21:00.234542",
     "exit_time": "2026-01-09T04:52:48.953122",
-    "last_bar_collected": 617,
+    "last_bar_collected": 625,
     "tracking_until": "2026-01-19T04:52:48.953122",
     "entry_volume": 1848518.7815800002
   },
@@ -139,7 +139,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-07T19:27:21.470120",
     "exit_time": "2026-01-07T19:50:05.991029",
-    "last_bar_collected": 637,
+    "last_bar_collected": 645,
     "tracking_until": "2026-01-17T19:50:05.991029",
     "entry_volume": 2710350.514940001
   },
@@ -148,7 +148,7 @@
     "status": "in_top6",
     "entry_time": "2026-01-10T08:55:54.841965",
     "exit_time": null,
-    "last_bar_collected": 566,
+    "last_bar_collected": 574,
     "tracking_until": null,
     "entry_volume": 1610770.85817
   },
@@ -157,7 +157,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-02T18:52:54.879393",
     "exit_time": "2026-01-03T01:55:37.104703",
-    "last_bar_collected": 645,
+    "last_bar_collected": 653,
     "tracking_until": "2026-01-13T01:55:37.104703",
     "entry_volume": 1517688.8066850007
   },
@@ -166,7 +166,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T09:03:49.760296",
     "exit_time": "2026-01-09T10:57:38.824500",
-    "last_bar_collected": 578,
+    "last_bar_collected": 586,
     "tracking_until": "2026-01-19T10:57:38.824500",
     "entry_volume": 2026168.736325
   },
@@ -175,7 +175,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-08T23:50:30.137695",
     "exit_time": "2026-01-09T03:21:00.234542",
-    "last_bar_collected": 644,
+    "last_bar_collected": 652,
     "tracking_until": "2026-01-19T03:21:00.234542",
     "entry_volume": 1267157.4994550005
   },
@@ -184,7 +184,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-01T18:33:13.459999",
     "exit_time": "2026-01-01T19:28:42.926244",
-    "last_bar_collected": 645,
+    "last_bar_collected": 653,
     "tracking_until": "2026-01-11T19:28:42.926244",
     "entry_volume": 4575520.504225001
   },
@@ -193,7 +193,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T20:55:52.849843",
     "exit_time": "2026-01-10T01:05:56.131020",
-    "last_bar_collected": 551,
+    "last_bar_collected": 559,
     "tracking_until": "2026-01-20T01:05:56.131020",
     "entry_volume": 1186285.479703001
   },
@@ -202,7 +202,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T15:33:47.532177",
     "exit_time": "2026-01-09T16:33:54.008379",
-    "last_bar_collected": 642,
+    "last_bar_collected": 650,
     "tracking_until": "2026-01-19T16:33:54.008379",
     "entry_volume": 5406671.473937001
   },
@@ -211,7 +211,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T19:42:26.787937",
     "exit_time": "2026-01-09T20:24:59.935542",
-    "last_bar_collected": 591,
+    "last_bar_collected": 599,
     "tracking_until": "2026-01-19T20:24:59.935542",
     "entry_volume": 3428293.15228
   },
@@ -220,7 +220,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-03T15:19:15.923811",
     "exit_time": "2026-01-03T17:43:09.837000",
-    "last_bar_collected": 645,
+    "last_bar_collected": 653,
     "tracking_until": "2026-01-13T17:43:09.837000",
     "entry_volume": 1575003.195301
   },
@@ -229,7 +229,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-04T00:58:27.122110",
     "exit_time": "2026-01-04T03:08:33.533839",
-    "last_bar_collected": 611,
+    "last_bar_collected": 619,
     "tracking_until": "2026-01-14T03:08:33.533839",
     "entry_volume": 4957981.374099002
   },
@@ -238,7 +238,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T17:22:03.623629",
     "exit_time": "2026-01-09T18:51:02.239981",
-    "last_bar_collected": 629,
+    "last_bar_collected": 637,
     "tracking_until": "2026-01-19T18:51:02.239981",
     "entry_volume": 5289982.698798998
   },
@@ -247,7 +247,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-10T01:05:56.131020",
     "exit_time": "2026-01-10T08:55:54.841965",
-    "last_bar_collected": 607,
+    "last_bar_collected": 615,
     "tracking_until": "2026-01-20T08:55:54.841965",
     "entry_volume": 1410940.8124100002
   },
@@ -256,7 +256,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-10T09:34:08.695773",
     "exit_time": "2026-01-10T10:29:51.001583",
-    "last_bar_collected": 569,
+    "last_bar_collected": 577,
     "tracking_until": "2026-01-20T10:29:51.001583",
     "entry_volume": 4808396.743319999
   },
@@ -265,7 +265,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-05T12:31:10.276630",
     "exit_time": "2026-01-05T13:55:05.826335",
-    "last_bar_collected": 640,
+    "last_bar_collected": 648,
     "tracking_until": "2026-01-15T13:55:05.826335",
     "entry_volume": 5045155.545300002
   },
@@ -274,7 +274,7 @@
     "status": "in_top6",
     "entry_time": "2026-01-10T10:53:41.262386",
     "exit_time": null,
-    "last_bar_collected": 581,
+    "last_bar_collected": 584,
     "tracking_until": null,
     "entry_volume": 1976337.0427139995
   },
@@ -283,7 +283,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-08T19:51:32.287352",
     "exit_time": "2026-01-09T04:12:06.722448",
-    "last_bar_collected": 625,
+    "last_bar_collected": 633,
     "tracking_until": "2026-01-19T04:12:06.722448",
     "entry_volume": 1188719.7127199997
   },
@@ -292,7 +292,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-05T00:51:16.813571",
     "exit_time": "2026-01-05T03:03:41.262248",
-    "last_bar_collected": 640,
+    "last_bar_collected": 648,
     "tracking_until": "2026-01-15T03:03:41.262248",
     "entry_volume": 5433247.845416004
   },
@@ -301,7 +301,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-10T07:38:34.579974",
     "exit_time": "2026-01-10T09:15:02.630953",
-    "last_bar_collected": 629,
+    "last_bar_collected": 637,
     "tracking_until": "2026-01-20T09:15:02.630953",
     "entry_volume": 1835553.0119899998
   },
@@ -310,7 +310,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T20:24:59.935542",
     "exit_time": "2026-01-09T20:55:52.849843",
-    "last_bar_collected": 642,
+    "last_bar_collected": 650,
     "tracking_until": "2026-01-19T20:55:52.849843",
     "entry_volume": 5356768.055060003
   },
@@ -319,7 +319,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T17:22:03.623629",
     "exit_time": "2026-01-09T20:24:59.935542",
-    "last_bar_collected": 617,
+    "last_bar_collected": 625,
     "tracking_until": "2026-01-19T20:24:59.935542",
     "entry_volume": 1342249.0607
   },
@@ -328,7 +328,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-02T13:13:20.069768",
     "exit_time": "2026-01-02T16:36:02.055029",
-    "last_bar_collected": 645,
+    "last_bar_collected": 653,
     "tracking_until": "2026-01-12T16:36:02.055029",
     "entry_volume": 1121016.009728
   },
@@ -337,7 +337,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-07T16:41:17.145802",
     "exit_time": "2026-01-07T19:01:43.087065",
-    "last_bar_collected": 531,
+    "last_bar_collected": 539,
     "tracking_until": "2026-01-17T19:01:43.087065",
     "entry_volume": 1814270.2568819996
   },
@@ -346,7 +346,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T04:12:06.722448",
     "exit_time": "2026-01-09T07:42:47.946937",
-    "last_bar_collected": 643,
+    "last_bar_collected": 651,
     "tracking_until": "2026-01-19T07:42:47.946937",
     "entry_volume": 1136111.1500259996
   },
@@ -355,7 +355,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-02T17:49:59.872067",
     "exit_time": "2026-01-02T17:57:59.808007",
-    "last_bar_collected": 645,
+    "last_bar_collected": 653,
     "tracking_until": "2026-01-12T17:57:59.808007",
     "entry_volume": 1166877.1591260012
   },
@@ -364,7 +364,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-02T16:36:02.055029",
     "exit_time": "2026-01-02T18:29:45.964968",
-    "last_bar_collected": 645,
+    "last_bar_collected": 653,
     "tracking_until": "2026-01-12T18:29:45.964968",
     "entry_volume": 1422384.9247790002
   },
@@ -373,7 +373,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-05T07:44:42.315466",
     "exit_time": "2026-01-05T08:28:34.072755",
-    "last_bar_collected": 598,
+    "last_bar_collected": 606,
     "tracking_until": "2026-01-15T08:28:34.072755",
     "entry_volume": 3512953.9816300003
   },
@@ -382,7 +382,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-06T16:57:10.867842",
     "exit_time": "2026-01-06T18:21:20.822708",
-    "last_bar_collected": 640,
+    "last_bar_collected": 648,
     "tracking_until": "2026-01-16T18:21:20.822708",
     "entry_volume": 1166822.4250850007
   },
@@ -391,7 +391,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T14:00:56.155098",
     "exit_time": "2026-01-09T15:33:47.532177",
-    "last_bar_collected": 640,
+    "last_bar_collected": 648,
     "tracking_until": "2026-01-19T15:33:47.532177",
     "entry_volume": 1100130.4309600005
   },
@@ -400,7 +400,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-07T07:18:03.710273",
     "exit_time": "2026-01-07T07:52:54.607893",
-    "last_bar_collected": 640,
+    "last_bar_collected": 648,
     "tracking_until": "2026-01-17T07:52:54.607893",
     "entry_volume": 1523233.844889999
   },
@@ -409,7 +409,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T22:58:18.725475",
     "exit_time": "2026-01-09T23:20:33.432786",
-    "last_bar_collected": 528,
+    "last_bar_collected": 536,
     "tracking_until": "2026-01-19T23:20:33.432786",
     "entry_volume": 1387306.53365
   },
@@ -418,7 +418,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-10T02:57:46.139153",
     "exit_time": "2026-01-10T08:42:19.163631",
-    "last_bar_collected": 604,
+    "last_bar_collected": 612,
     "tracking_until": "2026-01-20T08:42:19.163631",
     "entry_volume": 2385631.3970299996
   },
@@ -427,7 +427,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-10T01:05:56.131020",
     "exit_time": "2026-01-10T08:13:32.810474",
-    "last_bar_collected": 634,
+    "last_bar_collected": 642,
     "tracking_until": "2026-01-20T08:13:32.810474",
     "entry_volume": 4406868.967840001
   },
@@ -436,7 +436,7 @@
     "status": "in_top6",
     "entry_time": "2026-01-10T08:13:32.810474",
     "exit_time": null,
-    "last_bar_collected": 634,
+    "last_bar_collected": 642,
     "tracking_until": null,
     "entry_volume": 1309284.1379049995
   },
@@ -445,7 +445,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-03T07:33:15.460738",
     "exit_time": "2026-01-03T11:20:47.235630",
-    "last_bar_collected": 645,
+    "last_bar_collected": 653,
     "tracking_until": "2026-01-13T11:20:47.235630",
     "entry_volume": 1134916.3093499993
   },
@@ -454,7 +454,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-06T01:58:00.830386",
     "exit_time": "2026-01-06T09:41:45.723837",
-    "last_bar_collected": 612,
+    "last_bar_collected": 620,
     "tracking_until": "2026-01-16T09:41:45.723837",
     "entry_volume": 1281848.9528399997
   },
@@ -463,7 +463,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-07T01:07:41.608802",
     "exit_time": "2026-01-07T03:04:24.648455",
-    "last_bar_collected": 586,
+    "last_bar_collected": 594,
     "tracking_until": "2026-01-17T03:04:24.648455",
     "entry_volume": 1122870.34736
   },
@@ -472,7 +472,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-10T04:55:32.969792",
     "exit_time": "2026-01-10T06:53:15.446986",
-    "last_bar_collected": 609,
+    "last_bar_collected": 617,
     "tracking_until": "2026-01-20T06:53:15.446986",
     "entry_volume": 1641286.56493
   },
@@ -481,7 +481,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T20:24:59.935542",
     "exit_time": "2026-01-09T21:47:01.523963",
-    "last_bar_collected": 619,
+    "last_bar_collected": 627,
     "tracking_until": "2026-01-19T21:47:01.523963",
     "entry_volume": 2557647.91537
   },
@@ -490,7 +490,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T21:47:01.523963",
     "exit_time": "2026-01-10T01:05:56.131020",
-    "last_bar_collected": 638,
+    "last_bar_collected": 646,
     "tracking_until": "2026-01-20T01:05:56.131020",
     "entry_volume": 1301404.3902410003
   },
@@ -499,7 +499,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-08T21:21:05.907285",
     "exit_time": "2026-01-08T21:50:49.092092",
-    "last_bar_collected": 600,
+    "last_bar_collected": 608,
     "tracking_until": "2026-01-18T21:50:49.092092",
     "entry_volume": 2039298.3706810004
   },
@@ -508,7 +508,7 @@
     "status": "in_top6",
     "entry_time": "2026-01-10T10:29:51.001583",
     "exit_time": null,
-    "last_bar_collected": 600,
+    "last_bar_collected": 605,
     "tracking_until": null,
     "entry_volume": 1502496.7484600008
   },
@@ -517,7 +517,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-05T09:28:29.636447",
     "exit_time": "2026-01-05T09:54:48.418964",
-    "last_bar_collected": 557,
+    "last_bar_collected": 565,
     "tracking_until": "2026-01-15T09:54:48.418964",
     "entry_volume": 2962463.6983530005
   },
@@ -526,7 +526,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-07T08:37:50.768076",
     "exit_time": "2026-01-07T11:50:23.717452",
-    "last_bar_collected": 552,
+    "last_bar_collected": 560,
     "tracking_until": "2026-01-17T11:50:23.717452",
     "entry_volume": 1668560.9871679998
   },
@@ -535,7 +535,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-04T07:35:33.915822",
     "exit_time": "2026-01-04T08:16:18.039913",
-    "last_bar_collected": 584,
+    "last_bar_collected": 592,
     "tracking_until": "2026-01-14T08:16:18.039913",
     "entry_volume": 1223233.47268
   },
@@ -544,7 +544,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-08T20:28:47.297044",
     "exit_time": "2026-01-08T21:21:05.907285",
-    "last_bar_collected": 583,
+    "last_bar_collected": 591,
     "tracking_until": "2026-01-18T21:21:05.907285",
     "entry_volume": 2379066.3331229994
   },
@@ -553,7 +553,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T23:20:33.432786",
     "exit_time": "2026-01-10T02:57:46.139153",
-    "last_bar_collected": 556,
+    "last_bar_collected": 564,
     "tracking_until": "2026-01-20T02:57:46.139153",
     "entry_volume": 2982892.926329999
   },
@@ -562,7 +562,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-04T15:51:17.872485",
     "exit_time": "2026-01-04T21:38:24.475343",
-    "last_bar_collected": 551,
+    "last_bar_collected": 559,
     "tracking_until": "2026-01-14T21:38:24.475343",
     "entry_volume": 1143812.1870840003
   },
@@ -571,7 +571,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-05T08:28:34.072755",
     "exit_time": "2026-01-05T10:59:15.394403",
-    "last_bar_collected": 540,
+    "last_bar_collected": 549,
     "tracking_until": "2026-01-15T10:59:15.394403",
     "entry_volume": 1839623.5402470008
   },
@@ -580,7 +580,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T10:57:38.824500",
     "exit_time": "2026-01-09T13:09:49.762287",
-    "last_bar_collected": 529,
+    "last_bar_collected": 537,
     "tracking_until": "2026-01-19T13:09:49.762287",
     "entry_volume": 5360418.707499998
   },
@@ -589,7 +589,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-07T17:52:55.881529",
     "exit_time": "2026-01-07T19:27:21.470120",
-    "last_bar_collected": 517,
+    "last_bar_collected": 525,
     "tracking_until": "2026-01-17T19:27:21.470120",
     "entry_volume": 5220779.9169
   },
@@ -598,7 +598,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-05T09:54:48.418964",
     "exit_time": "2026-01-05T12:31:10.276630",
-    "last_bar_collected": 479,
+    "last_bar_collected": 487,
     "tracking_until": "2026-01-15T12:31:10.276630",
     "entry_volume": 1170824.5388569995
   },
@@ -607,7 +607,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T19:10:40.166166",
     "exit_time": "2026-01-09T20:24:59.935542",
-    "last_bar_collected": 450,
+    "last_bar_collected": 458,
     "tracking_until": "2026-01-19T20:24:59.935542",
     "entry_volume": 1117748.402337
   },
@@ -616,7 +616,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-05T22:54:05.534423",
     "exit_time": "2026-01-05T23:10:45.243674",
-    "last_bar_collected": 456,
+    "last_bar_collected": 464,
     "tracking_until": "2026-01-15T23:10:45.243674",
     "entry_volume": 1093478.101352
   },
@@ -625,7 +625,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-07T05:55:37.908521",
     "exit_time": "2026-01-07T07:52:54.607893",
-    "last_bar_collected": 428,
+    "last_bar_collected": 436,
     "tracking_until": "2026-01-17T07:52:54.607893",
     "entry_volume": 1822618.416070001
   },
@@ -634,7 +634,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-08T08:37:26.271204",
     "exit_time": "2026-01-08T09:32:58.178220",
-    "last_bar_collected": 379,
+    "last_bar_collected": 387,
     "tracking_until": "2026-01-18T09:32:58.178220",
     "entry_volume": 1104682.4655649997
   },
@@ -643,7 +643,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T19:42:26.787937",
     "exit_time": "2026-01-09T23:20:33.432786",
-    "last_bar_collected": 268,
+    "last_bar_collected": 276,
     "tracking_until": "2026-01-19T23:20:33.432786",
     "entry_volume": 2345176.3393699997
   },
@@ -652,7 +652,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-08T14:45:21.066004",
     "exit_time": "2026-01-08T15:00:23.744063",
-    "last_bar_collected": 235,
+    "last_bar_collected": 243,
     "tracking_until": "2026-01-18T15:00:23.744063",
     "entry_volume": 1847025.8366000007
   },
@@ -661,7 +661,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-10T08:42:19.163631",
     "exit_time": "2026-01-10T09:34:08.695773",
-    "last_bar_collected": 219,
+    "last_bar_collected": 227,
     "tracking_until": "2026-01-20T09:34:08.695773",
     "entry_volume": 4864485.227949998
   },
@@ -670,7 +670,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T06:56:48.833938",
     "exit_time": "2026-01-09T09:38:00.145831",
-    "last_bar_collected": 209,
+    "last_bar_collected": 217,
     "tracking_until": "2026-01-19T09:38:00.145831",
     "entry_volume": 2275736.477876
   },
@@ -679,7 +679,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-08T10:01:32.881098",
     "exit_time": "2026-01-08T13:12:28.080698",
-    "last_bar_collected": 194,
+    "last_bar_collected": 202,
     "tracking_until": "2026-01-18T13:12:28.080698",
     "entry_volume": 2617045.970448999
   },
@@ -688,7 +688,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-08T13:12:28.080698",
     "exit_time": "2026-01-08T14:45:21.066004",
-    "last_bar_collected": 178,
+    "last_bar_collected": 186,
     "tracking_until": "2026-01-18T14:45:21.066004",
     "entry_volume": 5420107.533399999
   },
@@ -697,7 +697,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T11:46:52.781277",
     "exit_time": "2026-01-09T14:32:00.673178",
-    "last_bar_collected": 167,
+    "last_bar_collected": 175,
     "tracking_until": "2026-01-19T14:32:00.673178",
     "entry_volume": 1185188.2931399993
   },
@@ -706,7 +706,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T01:46:26.522852",
     "exit_time": "2026-01-09T03:21:00.234542",
-    "last_bar_collected": 135,
+    "last_bar_collected": 143,
     "tracking_until": "2026-01-19T03:21:00.234542",
     "entry_volume": 3701059.01962
   },
@@ -715,7 +715,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T14:32:00.673178",
     "exit_time": "2026-01-09T16:33:54.008379",
-    "last_bar_collected": 131,
+    "last_bar_collected": 139,
     "tracking_until": "2026-01-19T16:33:54.008379",
     "entry_volume": 4647440.822679998
   },
@@ -724,7 +724,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T17:54:52.945371",
     "exit_time": "2026-01-10T04:55:32.969792",
-    "last_bar_collected": 115,
+    "last_bar_collected": 123,
     "tracking_until": "2026-01-20T04:55:32.969792",
     "entry_volume": 1565405.157471
   },
@@ -733,7 +733,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T11:18:36.513095",
     "exit_time": "2026-01-09T13:48:36.553248",
-    "last_bar_collected": 89,
+    "last_bar_collected": 97,
     "tracking_until": "2026-01-19T13:48:36.553248",
     "entry_volume": 4501802.249870002
   },
@@ -742,7 +742,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T13:09:49.762287",
     "exit_time": "2026-01-09T14:52:24.828371",
-    "last_bar_collected": 82,
+    "last_bar_collected": 90,
     "tracking_until": "2026-01-19T14:52:24.828371",
     "entry_volume": 1392692.4722500008
   },
@@ -751,7 +751,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T23:20:33.432786",
     "exit_time": "2026-01-10T08:55:54.841965",
-    "last_bar_collected": 76,
+    "last_bar_collected": 84,
     "tracking_until": "2026-01-20T08:55:54.841965",
     "entry_volume": 2711946.1195750004
   },
@@ -760,7 +760,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-09T16:33:54.008379",
     "exit_time": "2026-01-09T16:57:44.249595",
-    "last_bar_collected": 68,
+    "last_bar_collected": 76,
     "tracking_until": "2026-01-19T16:57:44.249595",
     "entry_volume": 3945547.831399999
   },
@@ -769,7 +769,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-10T02:57:46.139153",
     "exit_time": "2026-01-10T08:42:19.163631",
-    "last_bar_collected": 27,
+    "last_bar_collected": 35,
     "tracking_until": "2026-01-20T08:42:19.163631",
     "entry_volume": 5125777.51179
   },
@@ -778,7 +778,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-10T08:42:19.163631",
     "exit_time": "2026-01-10T10:45:40.428101",
-    "last_bar_collected": 4,
+    "last_bar_collected": 12,
     "tracking_until": "2026-01-20T10:45:40.428101",
     "entry_volume": 1158075.8398020002
   }
