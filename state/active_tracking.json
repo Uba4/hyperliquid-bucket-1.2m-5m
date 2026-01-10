@@ -306,13 +306,13 @@
     "entry_volume": 1271174.6504599997
   },
   "ASTER": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T20:24:59.935542",
-    "exit_time": "2026-01-09T20:55:52.849843",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T17:34:24.756173",
+    "exit_time": null,
     "last_bar_collected": 674,
-    "tracking_until": "2026-01-19T20:55:52.849843",
-    "entry_volume": 5356768.055060003
+    "tracking_until": null,
+    "entry_volume": 2354254.87092
   },
   "PENDLE": {
     "current_run": 12,
@@ -415,11 +415,11 @@
   },
   "CC": {
     "current_run": 17,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-10T16:31:39.314706",
-    "exit_time": null,
+    "exit_time": "2026-01-10T17:34:24.756173",
     "last_bar_collected": 629,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T17:34:24.756173",
     "entry_volume": 1365142.4155999995
   },
   "WLFI": {
