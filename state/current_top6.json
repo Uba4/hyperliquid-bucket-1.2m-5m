@@ -3,8 +3,8 @@
     "ATOM",
     "EIGEN",
     "ARB",
-    "UNI",
     "NEAR",
+    "TAO",
     "APT"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     54,
     52
   ],
-  "timestamp": "2026-01-10T09:15:02.631146",
+  "timestamp": "2026-01-10T09:34:08.695962",
   "bucket": "1.2m-5m"
 }
