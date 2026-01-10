@@ -2,19 +2,19 @@
   "tokens": [
     "VVV",
     "RENDER",
-    "POPCAT",
     "FET",
+    "AVNT",
     "GMT",
-    "MELANIA"
+    "WLFI"
   ],
   "scores": [
-    72,
     70,
     68,
+    66,
     64,
-    64,
-    64
+    62,
+    60
   ],
-  "timestamp": "2026-01-09T23:55:38.158984",
+  "timestamp": "2026-01-10T01:05:56.131361",
   "bucket": "1.2m-5m"
 }
