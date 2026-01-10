@@ -1,20 +1,20 @@
 {
   "tokens": [
     "ATOM",
-    "UNI",
-    "ARB",
     "EIGEN",
-    "TON",
-    "NEAR"
+    "ARB",
+    "UNI",
+    "NEAR",
+    "APT"
   ],
   "scores": [
-    64,
     62,
     60,
+    58,
     56,
     54,
-    54
+    52
   ],
-  "timestamp": "2026-01-10T08:55:54.842313",
+  "timestamp": "2026-01-10T09:15:02.631146",
   "bucket": "1.2m-5m"
 }
