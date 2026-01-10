@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "STX",
-    "TON",
-    "CC",
     "VVV",
-    "CRV",
-    "TRUMP"
+    "GMT",
+    "STX",
+    "CC",
+    "TRX",
+    "BCH"
   ],
   "scores": [
     62,
-    58,
+    60,
     58,
     56,
     54,
-    54
+    50
   ],
-  "timestamp": "2026-01-10T16:57:55.527373",
+  "timestamp": "2026-01-10T17:17:22.814391",
   "bucket": "1.2m-5m"
 }
