@@ -2,10 +2,10 @@
   "tokens": [
     "VIRTUAL",
     "MON",
-    "VVV",
     "PENGU",
     "TAO",
-    "ENA"
+    "ENA",
+    "ZRO"
   ],
   "scores": [
     46,
@@ -15,6 +15,6 @@
     38,
     36
   ],
-  "timestamp": "2026-01-11T09:40:47.561418",
+  "timestamp": "2026-01-11T09:50:31.026051",
   "bucket": "1.2m-5m"
 }
