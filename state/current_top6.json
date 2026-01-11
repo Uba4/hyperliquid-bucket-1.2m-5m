@@ -1,11 +1,11 @@
 {
   "tokens": [
     "IP",
-    "TRUMP",
     "FOGO",
+    "TRUMP",
     "ENA",
     "VVV",
-    "PENGU"
+    "TAO"
   ],
   "scores": [
     48,
@@ -15,6 +15,6 @@
     40,
     38
   ],
-  "timestamp": "2026-01-11T13:20:26.550459",
+  "timestamp": "2026-01-11T13:44:19.089945",
   "bucket": "1.2m-5m"
 }
