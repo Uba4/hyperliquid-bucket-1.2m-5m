@@ -604,11 +604,11 @@
   },
   "TRUMP": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T12:44:50.162975",
-    "exit_time": null,
+    "exit_time": "2026-01-11T16:46:33.992779",
     "last_bar_collected": 382,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T16:46:33.992779",
     "entry_volume": 2440874.2274100017
   },
   "BABY": {
@@ -648,13 +648,13 @@
     "entry_volume": 2617045.970448999
   },
   "AVAX": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T07:32:24.565836",
-    "exit_time": "2026-01-11T09:40:47.561255",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T16:46:33.992779",
+    "exit_time": null,
     "last_bar_collected": 303,
-    "tracking_until": "2026-01-21T09:40:47.561255",
-    "entry_volume": 1784079.314640001
+    "tracking_until": null,
+    "entry_volume": 2006203.960790001
   },
   "MEGA": {
     "current_run": 4,
