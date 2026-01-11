@@ -1,13 +1,4 @@
 {
-  "WCT": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T15:03:00.783609",
-    "exit_time": "2026-01-01T15:34:35.248282",
-    "last_bar_collected": 765,
-    "tracking_until": "2026-01-11T15:34:35.248282",
-    "entry_volume": 491981.0435459998
-  },
   "ZEN": {
     "current_run": 1,
     "status": "post_exit",
