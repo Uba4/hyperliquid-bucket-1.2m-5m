@@ -199,11 +199,11 @@
   },
   "PENGU": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T04:16:29.861269",
-    "exit_time": null,
+    "exit_time": "2026-01-11T07:32:24.565836",
     "last_bar_collected": 731,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T07:32:24.565836",
     "entry_volume": 4469380.090728999
   },
   "WIF": {
@@ -639,13 +639,13 @@
     "entry_volume": 1104682.4655649997
   },
   "TRUMP": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T22:51:34.018780",
-    "exit_time": "2026-01-11T03:06:01.226401",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T07:32:24.565836",
+    "exit_time": null,
     "last_bar_collected": 349,
-    "tracking_until": "2026-01-21T03:06:01.226401",
-    "entry_volume": 2824808.122209998
+    "tracking_until": null,
+    "entry_volume": 1532886.0802500003
   },
   "BABY": {
     "current_run": 2,
@@ -684,13 +684,13 @@
     "entry_volume": 2617045.970448999
   },
   "AVAX": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T13:12:28.080698",
-    "exit_time": "2026-01-08T14:45:21.066004",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T07:32:24.565836",
+    "exit_time": null,
     "last_bar_collected": 266,
-    "tracking_until": "2026-01-18T14:45:21.066004",
-    "entry_volume": 5420107.533399999
+    "tracking_until": null,
+    "entry_volume": 1784079.314640001
   },
   "MEGA": {
     "current_run": 4,
@@ -784,11 +784,11 @@
   },
   "FOGO": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T05:56:22.955140",
-    "exit_time": null,
+    "exit_time": "2026-01-11T07:32:24.565836",
     "last_bar_collected": 71,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T07:32:24.565836",
     "entry_volume": 2766697.404456001
   },
   "HYPER": {

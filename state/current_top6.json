@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "HYPER",
     "VVV",
-    "FOGO",
-    "SUI",
+    "HYPER",
     "VIRTUAL",
-    "PENGU"
+    "SUI",
+    "TRUMP",
+    "AVAX"
   ],
   "scores": [
     48,
@@ -13,8 +13,8 @@
     44,
     42,
     40,
-    36
+    38
   ],
-  "timestamp": "2026-01-11T07:11:56.188522",
+  "timestamp": "2026-01-11T07:32:24.566108",
   "bucket": "1.2m-5m"
 }
