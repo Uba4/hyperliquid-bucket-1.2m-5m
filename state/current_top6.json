@@ -1,20 +1,20 @@
 {
   "tokens": [
     "VIRTUAL",
+    "MON",
     "VVV",
-    "HYPER",
-    "AVAX",
-    "SUI",
-    "ZRO"
+    "PENGU",
+    "TAO",
+    "AVAX"
   ],
   "scores": [
+    48,
     46,
     44,
     42,
     40,
-    38,
     36
   ],
-  "timestamp": "2026-01-11T08:59:52.905070",
+  "timestamp": "2026-01-11T09:26:09.446398",
   "bucket": "1.2m-5m"
 }
