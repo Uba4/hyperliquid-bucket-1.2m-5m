@@ -685,11 +685,11 @@
   },
   "AVAX": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T07:32:24.565836",
-    "exit_time": null,
+    "exit_time": "2026-01-11T09:40:47.561255",
     "last_bar_collected": 274,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T09:40:47.561255",
     "entry_volume": 1784079.314640001
   },
   "MEGA": {
@@ -729,13 +729,13 @@
     "entry_volume": 1632416.7776340002
   },
   "ENA": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T15:53:05.109083",
-    "exit_time": "2026-01-10T16:49:37.773846",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T09:40:47.561255",
+    "exit_time": null,
     "last_bar_collected": 184,
-    "tracking_until": "2026-01-20T16:49:37.773846",
-    "entry_volume": 2204383.680290001
+    "tracking_until": null,
+    "entry_volume": 1291274.3188999991
   },
   "ZRO": {
     "current_run": 6,
