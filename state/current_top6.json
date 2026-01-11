@@ -1,20 +1,20 @@
 {
   "tokens": [
     "HYPER",
-    "VIRTUAL",
+    "FOGO",
     "PENGU",
+    "VIRTUAL",
     "WLFI",
-    "SUI",
-    "WIF"
+    "BCH"
   ],
   "scores": [
-    52,
     50,
     48,
     46,
     44,
-    41
+    42,
+    40
   ],
-  "timestamp": "2026-01-11T05:45:47.490177",
+  "timestamp": "2026-01-11T05:56:22.955494",
   "bucket": "1.2m-5m"
 }
