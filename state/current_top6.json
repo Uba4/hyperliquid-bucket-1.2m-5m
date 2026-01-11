@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "VVV",
+    "IP",
     "CC",
     "RENDER",
-    "IP",
     "HYPER",
-    "CRV"
+    "CRV",
+    "AAVE"
   ],
   "scores": [
-    52,
     50,
     48,
     46,
     44,
-    42
+    42,
+    40
   ],
-  "timestamp": "2026-01-11T21:23:11.973855",
+  "timestamp": "2026-01-11T21:36:35.712720",
   "bucket": "1.2m-5m"
 }
