@@ -2,19 +2,19 @@
   "tokens": [
     "IP",
     "TRUMP",
-    "kBONK",
+    "FOGO",
     "ENA",
     "VVV",
     "PENGU"
   ],
   "scores": [
-    50,
     48,
     46,
     44,
     42,
-    40
+    40,
+    38
   ],
-  "timestamp": "2026-01-11T12:44:50.163276",
+  "timestamp": "2026-01-11T13:20:26.550459",
   "bucket": "1.2m-5m"
 }
