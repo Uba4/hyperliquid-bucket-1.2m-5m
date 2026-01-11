@@ -3,9 +3,9 @@
     "HYPER",
     "VVV",
     "FOGO",
+    "SUI",
     "VIRTUAL",
-    "PENGU",
-    "SUI"
+    "PENGU"
   ],
   "scores": [
     48,
@@ -13,8 +13,8 @@
     44,
     42,
     40,
-    38
+    36
   ],
-  "timestamp": "2026-01-11T06:52:57.272070",
+  "timestamp": "2026-01-11T07:11:56.188522",
   "bucket": "1.2m-5m"
 }
