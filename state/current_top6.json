@@ -1,11 +1,11 @@
 {
   "tokens": [
     "IP",
-    "CC",
     "RENDER",
     "HYPER",
-    "CRV",
-    "PAXG"
+    "CC",
+    "PAXG",
+    "CRV"
   ],
   "scores": [
     50,
@@ -15,6 +15,6 @@
     42,
     40
   ],
-  "timestamp": "2026-01-11T21:53:39.963779",
+  "timestamp": "2026-01-11T22:09:29.175951",
   "bucket": "1.2m-5m"
 }
