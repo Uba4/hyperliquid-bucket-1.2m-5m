@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "VVV",
-    "BCH",
     "TRX",
+    "BCH",
     "PAXG",
-    "TRUMP",
-    "LTC"
+    "VVV",
+    "LTC",
+    "TRUMP"
   ],
   "scores": [
-    50,
-    48,
     46,
     44,
     42,
-    40
+    40,
+    38,
+    36
   ],
-  "timestamp": "2026-01-10T23:53:53.786189",
+  "timestamp": "2026-01-11T00:56:20.028588",
   "bucket": "1.2m-5m"
 }
