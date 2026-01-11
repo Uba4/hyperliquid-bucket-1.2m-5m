@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "VVV",
     "VIRTUAL",
+    "VVV",
     "HYPER",
     "SUI",
     "AVAX",
-    "TRUMP"
+    "ZRO"
   ],
   "scores": [
     46,
@@ -15,6 +15,6 @@
     38,
     36
   ],
-  "timestamp": "2026-01-11T08:31:22.071781",
+  "timestamp": "2026-01-11T08:51:03.308346",
   "bucket": "1.2m-5m"
 }

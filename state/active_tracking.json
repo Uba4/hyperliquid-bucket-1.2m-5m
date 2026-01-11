@@ -640,11 +640,11 @@
   },
   "TRUMP": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T07:32:24.565836",
-    "exit_time": null,
+    "exit_time": "2026-01-11T08:51:03.308236",
     "last_bar_collected": 354,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T08:51:03.308236",
     "entry_volume": 1532886.0802500003
   },
   "BABY": {
@@ -738,13 +738,13 @@
     "entry_volume": 2204383.680290001
   },
   "ZRO": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T20:52:04.453164",
-    "exit_time": "2026-01-10T22:51:34.018780",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T08:51:03.308236",
+    "exit_time": null,
     "last_bar_collected": 175,
-    "tracking_until": "2026-01-20T22:51:34.018780",
-    "entry_volume": 1158013.72173
+    "tracking_until": null,
+    "entry_volume": 1241110.1088300003
   },
   "GMT": {
     "current_run": 4,
