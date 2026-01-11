@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "VIRTUAL",
-    "PENGU",
-    "MON",
+    "IP",
+    "TRUMP",
     "kBONK",
+    "ENA",
     "VVV",
-    "ENA"
+    "PENGU"
   ],
   "scores": [
+    50,
+    48,
     46,
-    43,
+    44,
     42,
-    40,
-    39,
-    36
+    40
   ],
-  "timestamp": "2026-01-11T11:59:02.642075",
+  "timestamp": "2026-01-11T12:44:50.163276",
   "bucket": "1.2m-5m"
 }
