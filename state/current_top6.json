@@ -2,19 +2,19 @@
   "tokens": [
     "IP",
     "HYPER",
-    "RENDER",
     "PAXG",
+    "RENDER",
     "SUI",
     "UNI"
   ],
   "scores": [
-    54,
     52,
     50,
     48,
     46,
-    44
+    44,
+    42
   ],
-  "timestamp": "2026-01-11T22:47:37.116754",
+  "timestamp": "2026-01-11T22:55:33.170578",
   "bucket": "1.2m-5m"
 }
