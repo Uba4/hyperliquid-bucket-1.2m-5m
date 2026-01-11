@@ -17,15 +17,6 @@
     "tracking_until": "2026-01-11T15:51:09.219439",
     "entry_volume": 462605.2266190001
   },
-  "BERA": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T11:47:18.625191",
-    "exit_time": "2026-01-01T14:51:00.917908",
-    "last_bar_collected": 761,
-    "tracking_until": "2026-01-11T14:51:00.917908",
-    "entry_volume": 728180.2812549998
-  },
   "ICP": {
     "current_run": 7,
     "status": "post_exit",
