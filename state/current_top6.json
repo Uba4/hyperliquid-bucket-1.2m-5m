@@ -3,18 +3,18 @@
     "VIRTUAL",
     "MON",
     "PENGU",
-    "TAO",
+    "kBONK",
     "ENA",
-    "ZRO"
+    "TAO"
   ],
   "scores": [
+    48,
     46,
     44,
     42,
     40,
-    38,
-    36
+    38
   ],
-  "timestamp": "2026-01-11T09:57:58.001507",
+  "timestamp": "2026-01-11T10:20:32.588089",
   "bucket": "1.2m-5m"
 }
