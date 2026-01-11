@@ -134,15 +134,6 @@
     "tracking_until": "2026-01-19T03:21:00.234542",
     "entry_volume": 1267157.4994550005
   },
-  "kPEPE": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T18:33:13.459999",
-    "exit_time": "2026-01-01T19:28:42.926244",
-    "last_bar_collected": 781,
-    "tracking_until": "2026-01-11T19:28:42.926244",
-    "entry_volume": 4575520.504225001
-  },
   "POPCAT": {
     "current_run": 13,
     "status": "post_exit",
