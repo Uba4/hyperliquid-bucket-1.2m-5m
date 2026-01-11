@@ -1,13 +1,4 @@
 {
-  "ZEN": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T11:47:18.625191",
-    "exit_time": "2026-01-01T15:51:09.219439",
-    "last_bar_collected": 765,
-    "tracking_until": "2026-01-11T15:51:09.219439",
-    "entry_volume": 462605.2266190001
-  },
   "ICP": {
     "current_run": 7,
     "status": "post_exit",
