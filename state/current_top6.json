@@ -4,8 +4,8 @@
     "RENDER",
     "CC",
     "IP",
-    "AAVE",
-    "NEAR"
+    "HYPER",
+    "AAVE"
   ],
   "scores": [
     52,
@@ -15,6 +15,6 @@
     44,
     42
   ],
-  "timestamp": "2026-01-11T20:52:45.184090",
+  "timestamp": "2026-01-11T21:00:12.887011",
   "bucket": "1.2m-5m"
 }

@@ -100,11 +100,11 @@
   },
   "NEAR": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T20:26:13.633933",
-    "exit_time": null,
+    "exit_time": "2026-01-11T21:00:12.886796",
     "last_bar_collected": 704,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T21:00:12.886796",
     "entry_volume": 1285894.18185
   },
   "STBL": {
@@ -738,13 +738,13 @@
     "entry_volume": 2883562.5209150002
   },
   "HYPER": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T04:16:29.861269",
-    "exit_time": "2026-01-11T09:26:09.445967",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T21:00:12.886796",
+    "exit_time": null,
     "last_bar_collected": 66,
-    "tracking_until": "2026-01-21T09:26:09.445967",
-    "entry_volume": 1416183.2263000007
+    "tracking_until": null,
+    "entry_volume": 3866417.3567000004
   },
   "SUI": {
     "current_run": 2,
