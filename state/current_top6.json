@@ -1,11 +1,11 @@
 {
   "tokens": [
     "HYPER",
-    "PENGU",
     "VIRTUAL",
+    "PENGU",
     "WIF",
-    "ADA",
-    "TAO"
+    "WLFI",
+    "ADA"
   ],
   "scores": [
     54,
@@ -13,8 +13,8 @@
     50,
     48,
     46,
-    42
+    44
   ],
-  "timestamp": "2026-01-11T04:16:29.861603",
+  "timestamp": "2026-01-11T04:57:56.094332",
   "bucket": "1.2m-5m"
 }
