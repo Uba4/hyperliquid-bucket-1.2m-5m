@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "MEGA",
     "CRV",
     "APT",
-    "WLFI",
-    "PENGU",
     "HYPER",
+    "WLFI",
     "AVAX"
   ],
   "scores": [
+    58,
+    56,
     54,
     52,
     50,
-    47,
-    47,
-    44
+    47
   ],
-  "timestamp": "2026-01-12T13:53:51.423180",
+  "timestamp": "2026-01-12T14:14:59.361123",
   "bucket": "1.2m-5m"
 }
