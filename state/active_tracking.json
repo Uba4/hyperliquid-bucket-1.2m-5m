@@ -19,11 +19,11 @@
   },
   "EIGEN": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T14:48:01.915139",
-    "exit_time": null,
+    "exit_time": "2026-01-12T15:54:17.082247",
     "last_bar_collected": 856,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T15:54:17.082247",
     "entry_volume": 2082076.132509
   },
   "MAVIA": {
@@ -216,13 +216,13 @@
     "entry_volume": 3275037.699399998
   },
   "SPX": {
-    "current_run": 15,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T03:56:25.085777",
-    "exit_time": "2026-01-12T09:19:38.461443",
+    "current_run": 16,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T15:54:17.082247",
+    "exit_time": null,
     "last_bar_collected": 788,
-    "tracking_until": "2026-01-22T09:19:38.461443",
-    "entry_volume": 1194695.9019710005
+    "tracking_until": null,
+    "entry_volume": 2555500.115302
   },
   "MET": {
     "current_run": 11,

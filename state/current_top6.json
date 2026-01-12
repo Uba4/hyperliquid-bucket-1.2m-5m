@@ -3,18 +3,18 @@
     "MEGA",
     "HYPER",
     "WIF",
-    "EIGEN",
+    "SPX",
     "AVAX",
     "PENDLE"
   ],
   "scores": [
+    60,
     58,
     56,
     54,
     52,
-    48,
-    48
+    50
   ],
-  "timestamp": "2026-01-12T15:02:11.191687",
+  "timestamp": "2026-01-12T15:54:17.082439",
   "bucket": "1.2m-5m"
 }
