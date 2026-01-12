@@ -2,10 +2,10 @@
   "tokens": [
     "KAITO",
     "ADA",
-    "WIF",
-    "MEGA",
     "NEAR",
-    "SPX"
+    "WIF",
+    "SPX",
+    "DOT"
   ],
   "scores": [
     62,
@@ -15,6 +15,6 @@
     54,
     52
   ],
-  "timestamp": "2026-01-12T17:56:56.475406",
+  "timestamp": "2026-01-12T18:28:13.273936",
   "bucket": "1.2m-5m"
 }
