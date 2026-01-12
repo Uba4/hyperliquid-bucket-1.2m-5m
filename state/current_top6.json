@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MON",
     "SPX",
     "LTC",
     "WLFI",
-    "EIGEN",
-    "NEAR"
+    "NEAR",
+    "LINK",
+    "PENDLE"
   ],
   "scores": [
-    56,
     54,
     52,
     50,
     48,
-    46
+    46,
+    44
   ],
-  "timestamp": "2026-01-12T07:54:32.310714",
+  "timestamp": "2026-01-12T08:19:02.631546",
   "bucket": "1.2m-5m"
 }
