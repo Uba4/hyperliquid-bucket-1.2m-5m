@@ -3,18 +3,18 @@
     "CRV",
     "APT",
     "LINK",
-    "TRUMP",
     "WLFI",
+    "TRUMP",
     "ASTER"
   ],
   "scores": [
-    60,
     58,
     56,
     54,
     52,
-    50
+    48,
+    48
   ],
-  "timestamp": "2026-01-12T11:54:26.163907",
+  "timestamp": "2026-01-12T12:25:28.539985",
   "bucket": "1.2m-5m"
 }
