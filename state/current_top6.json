@@ -3,18 +3,18 @@
     "MET",
     "TRUMP",
     "LINK",
-    "WLFI",
-    "LTC",
-    "MELANIA"
+    "MELANIA",
+    "HYPER",
+    "WLFI"
   ],
   "scores": [
-    60,
     58,
-    54,
+    56,
     54,
     52,
-    50
+    50,
+    48
   ],
-  "timestamp": "2026-01-12T09:19:38.461626",
+  "timestamp": "2026-01-12T09:49:34.398276",
   "bucket": "1.2m-5m"
 }
