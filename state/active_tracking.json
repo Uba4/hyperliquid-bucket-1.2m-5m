@@ -99,13 +99,13 @@
     "entry_volume": 2710350.514940001
   },
   "NEAR": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T20:26:13.633933",
-    "exit_time": "2026-01-11T21:00:12.886796",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T04:45:59.117950",
+    "exit_time": null,
     "last_bar_collected": 735,
-    "tracking_until": "2026-01-21T21:00:12.886796",
-    "entry_volume": 1285894.18185
+    "tracking_until": null,
+    "entry_volume": 1356746.8303099996
   },
   "STBL": {
     "current_run": 3,
@@ -154,11 +154,11 @@
   },
   "WIF": {
     "current_run": 17,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T03:56:25.085777",
-    "exit_time": null,
+    "exit_time": "2026-01-12T04:45:59.117950",
     "last_bar_collected": 746,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T04:45:59.117950",
     "entry_volume": 2309039.1591100004
   },
   "AIXBT": {

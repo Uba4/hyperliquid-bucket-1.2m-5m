@@ -1,11 +1,11 @@
 {
   "tokens": [
     "FET",
-    "PENGU",
     "EIGEN",
+    "PENGU",
     "SPX",
     "WLD",
-    "WIF"
+    "NEAR"
   ],
   "scores": [
     58,
@@ -15,6 +15,6 @@
     50,
     48
   ],
-  "timestamp": "2026-01-12T03:56:25.086269",
+  "timestamp": "2026-01-12T04:45:59.118119",
   "bucket": "1.2m-5m"
 }
