@@ -1,20 +1,20 @@
 {
   "tokens": [
     "KAITO",
+    "CC",
+    "WLFI",
     "ADA",
     "NEAR",
-    "WLFI",
-    "APT",
-    "DOT"
+    "APT"
   ],
   "scores": [
     62,
     60,
     58,
     56,
-    52,
+    54,
     52
   ],
-  "timestamp": "2026-01-12T18:56:30.678117",
+  "timestamp": "2026-01-12T19:17:55.411881",
   "bucket": "1.2m-5m"
 }
