@@ -1,10 +1,10 @@
 {
   "tokens": [
     "MEGA",
-    "HYPER",
     "SPX",
+    "TAO",
+    "HYPER",
     "WIF",
-    "AVAX",
     "ADA"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     54,
     52
   ],
-  "timestamp": "2026-01-12T16:16:37.490050",
+  "timestamp": "2026-01-12T16:47:28.319155",
   "bucket": "1.2m-5m"
 }

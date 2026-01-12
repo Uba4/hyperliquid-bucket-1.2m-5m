@@ -198,13 +198,13 @@
     "entry_volume": 2419680.4765599994
   },
   "TAO": {
-    "current_run": 15,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T13:44:19.089701",
-    "exit_time": "2026-01-11T20:26:13.633933",
+    "current_run": 16,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T16:47:28.318948",
+    "exit_time": null,
     "last_bar_collected": 788,
-    "tracking_until": "2026-01-21T20:26:13.633933",
-    "entry_volume": 2275252.9397699996
+    "tracking_until": null,
+    "entry_volume": 5183468.956210002
   },
   "LINK": {
     "current_run": 5,
@@ -268,15 +268,6 @@
     "last_bar_collected": 835,
     "tracking_until": "2026-01-22T16:16:37.489839",
     "entry_volume": 1404395.7935000004
-  },
-  "kNEIRO": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-02T13:13:20.069768",
-    "exit_time": "2026-01-02T16:36:02.055029",
-    "last_bar_collected": 866,
-    "tracking_until": "2026-01-12T16:36:02.055029",
-    "entry_volume": 1121016.009728
   },
   "kSHIB": {
     "current_run": 10,
@@ -631,11 +622,11 @@
   },
   "AVAX": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T13:14:09.744459",
-    "exit_time": null,
+    "exit_time": "2026-01-12T16:47:28.318948",
     "last_bar_collected": 400,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T16:47:28.318948",
     "entry_volume": 4232978.769219998
   },
   "MEGA": {
