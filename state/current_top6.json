@@ -2,19 +2,19 @@
   "tokens": [
     "MEGA",
     "HYPER",
-    "WIF",
     "SPX",
+    "WIF",
     "AVAX",
-    "PENDLE"
+    "ADA"
   ],
   "scores": [
+    62,
     60,
     58,
     56,
     54,
-    52,
-    50
+    52
   ],
-  "timestamp": "2026-01-12T15:54:17.082439",
+  "timestamp": "2026-01-12T16:16:37.490050",
   "bucket": "1.2m-5m"
 }
