@@ -478,11 +478,11 @@
   },
   "ONDO": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T13:14:09.744459",
-    "exit_time": null,
+    "exit_time": "2026-01-12T13:53:51.422987",
     "last_bar_collected": 781,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T13:53:51.422987",
     "entry_volume": 1977262.837340001
   },
   "STRK": {
@@ -738,13 +738,13 @@
     "entry_volume": 2883562.5209150002
   },
   "HYPER": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T09:49:34.398069",
-    "exit_time": "2026-01-12T11:13:39.755972",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T13:53:51.422987",
+    "exit_time": null,
     "last_bar_collected": 131,
-    "tracking_until": "2026-01-22T11:13:39.755972",
-    "entry_volume": 2684992.9884099998
+    "tracking_until": null,
+    "entry_volume": 2055890.1089700002
   },
   "SUI": {
     "current_run": 3,
