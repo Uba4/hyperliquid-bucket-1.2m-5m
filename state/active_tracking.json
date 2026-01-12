@@ -199,11 +199,11 @@
   },
   "TAO": {
     "current_run": 16,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T16:47:28.318948",
-    "exit_time": null,
+    "exit_time": "2026-01-12T17:48:01.048880",
     "last_bar_collected": 792,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T17:48:01.048880",
     "entry_volume": 5183468.956210002
   },
   "LINK": {
@@ -324,13 +324,13 @@
     "entry_volume": 1166822.4250850007
   },
   "KAITO": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T14:00:56.155098",
-    "exit_time": "2026-01-09T15:33:47.532177",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T17:48:01.048880",
+    "exit_time": null,
     "last_bar_collected": 865,
-    "tracking_until": "2026-01-19T15:33:47.532177",
-    "entry_volume": 1100130.4309600005
+    "tracking_until": null,
+    "entry_volume": 1101095.4848099994
   },
   "XLM": {
     "current_run": 4,
