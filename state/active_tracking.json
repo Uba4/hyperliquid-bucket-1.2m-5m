@@ -109,11 +109,11 @@
   },
   "WLD": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T17:01:10.679056",
-    "exit_time": null,
+    "exit_time": "2026-01-13T17:34:19.126357",
     "last_bar_collected": 887,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T17:34:19.126357",
     "entry_volume": 1341910.734971
   },
   "GRIFFAIN": {
@@ -727,5 +727,14 @@
     "last_bar_collected": 890,
     "tracking_until": "2026-01-23T15:44:25.590400",
     "entry_volume": 1110094.214222
+  },
+  "OP": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T17:34:19.126357",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1118701.1356079993
   }
 }
