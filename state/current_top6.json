@@ -2,19 +2,19 @@
   "tokens": [
     "MELANIA",
     "VVV",
-    "AVNT",
-    "NEAR",
     "CRV",
-    "SPX"
+    "NEAR",
+    "SPX",
+    "AAVE"
   ],
   "scores": [
-    64,
     62,
     60,
-    58,
     56,
-    54
+    56,
+    56,
+    52
   ],
-  "timestamp": "2026-01-13T04:12:15.779317",
+  "timestamp": "2026-01-13T04:53:09.733758",
   "bucket": "1.2m-5m"
 }
