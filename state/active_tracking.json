@@ -350,15 +350,6 @@
     "tracking_until": "2026-01-23T04:12:15.779073",
     "entry_volume": 1437682.9445910004
   },
-  "OP": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T07:33:15.460738",
-    "exit_time": "2026-01-03T11:20:47.235630",
-    "last_bar_collected": 938,
-    "tracking_until": "2026-01-13T11:20:47.235630",
-    "entry_volume": 1134916.3093499993
-  },
   "JUP": {
     "current_run": 3,
     "status": "post_exit",
