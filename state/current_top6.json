@@ -2,19 +2,19 @@
   "tokens": [
     "ZEN",
     "MELANIA",
-    "RESOLV",
     "WIF",
-    "VIRTUAL",
-    "PENGU"
+    "DOT",
+    "WLFI",
+    "TIA"
   ],
   "scores": [
-    64,
     62,
     60,
     58,
     56,
-    54
+    54,
+    50
   ],
-  "timestamp": "2026-01-13T14:55:08.759138",
+  "timestamp": "2026-01-13T15:16:53.758702",
   "bucket": "1.2m-5m"
 }
