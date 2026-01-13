@@ -3,9 +3,9 @@
     "VVV",
     "MELANIA",
     "TIA",
-    "ENA",
     "NEAR",
-    "AAVE"
+    "ENA",
+    "POPCAT"
   ],
   "scores": [
     54,
@@ -13,8 +13,8 @@
     50,
     48,
     46,
-    42
+    44
   ],
-  "timestamp": "2026-01-13T08:59:50.331873",
+  "timestamp": "2026-01-13T09:33:20.666825",
   "bucket": "1.2m-5m"
 }
