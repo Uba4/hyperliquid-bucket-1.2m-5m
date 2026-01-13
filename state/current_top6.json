@@ -4,17 +4,17 @@
     "MELANIA",
     "RESOLV",
     "VIRTUAL",
-    "NEAR",
-    "WIF"
+    "WIF",
+    "NEAR"
   ],
   "scores": [
+    64,
     62,
     60,
     58,
     56,
-    54,
-    52
+    54
   ],
-  "timestamp": "2026-01-13T13:35:30.859044",
+  "timestamp": "2026-01-13T14:00:17.134748",
   "bucket": "1.2m-5m"
 }
