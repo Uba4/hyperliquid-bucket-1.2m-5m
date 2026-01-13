@@ -1,20 +1,20 @@
 {
   "tokens": [
     "ZEN",
-    "MELANIA",
     "VVV",
+    "MELANIA",
     "RESOLV",
     "CC",
     "NEAR"
   ],
   "scores": [
     56,
-    53,
-    53,
+    54,
+    52,
     50,
     48,
     46
   ],
-  "timestamp": "2026-01-13T11:52:08.167405",
+  "timestamp": "2026-01-13T11:59:27.264882",
   "bucket": "1.2m-5m"
 }
