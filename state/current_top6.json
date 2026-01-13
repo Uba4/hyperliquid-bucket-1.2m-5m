@@ -4,17 +4,17 @@
     "MELANIA",
     "TIA",
     "NEAR",
-    "ENA",
-    "POPCAT"
+    "POPCAT",
+    "CC"
   ],
   "scores": [
     54,
     52,
     50,
     48,
-    46,
+    44,
     44
   ],
-  "timestamp": "2026-01-13T09:52:50.992786",
+  "timestamp": "2026-01-13T10:00:26.781166",
   "bucket": "1.2m-5m"
 }
