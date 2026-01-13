@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MELANIA",
-    "VVV",
     "SPX",
+    "VVV",
     "TIA",
     "AAVE",
-    "CRV"
+    "LDO"
   ],
   "scores": [
-    64,
     62,
     60,
     58,
     56,
-    54
+    54,
+    52
   ],
-  "timestamp": "2026-01-13T06:24:46.304048",
+  "timestamp": "2026-01-13T06:55:27.980356",
   "bucket": "1.2m-5m"
 }
