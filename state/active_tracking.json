@@ -64,11 +64,11 @@
   },
   "TIA": {
     "current_run": 16,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T15:16:53.758261",
-    "exit_time": null,
+    "exit_time": "2026-01-13T17:01:10.679056",
     "last_bar_collected": 856,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T17:01:10.679056",
     "entry_volume": 1991822.73891
   },
   "DOT": {
@@ -108,13 +108,13 @@
     "entry_volume": 2602213.403510001
   },
   "WLD": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T06:00:28.890963",
-    "exit_time": "2026-01-12T06:46:53.942897",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T17:01:10.679056",
+    "exit_time": null,
     "last_bar_collected": 887,
-    "tracking_until": "2026-01-22T06:46:53.942897",
-    "entry_volume": 1740319.9725630002
+    "tracking_until": null,
+    "entry_volume": 1341910.734971
   },
   "GRIFFAIN": {
     "current_run": 2,
