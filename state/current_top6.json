@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "MELANIA",
     "VVV",
+    "MELANIA",
     "TIA",
     "ENA",
-    "SPX",
-    "NEAR"
+    "NEAR",
+    "AAVE"
   ],
   "scores": [
     54,
@@ -13,8 +13,8 @@
     50,
     48,
     46,
-    44
+    42
   ],
-  "timestamp": "2026-01-13T08:37:34.224490",
+  "timestamp": "2026-01-13T08:59:50.331873",
   "bucket": "1.2m-5m"
 }
