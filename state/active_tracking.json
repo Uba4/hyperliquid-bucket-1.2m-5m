@@ -1,12 +1,12 @@
 {
   "ICP": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T11:50:23.717452",
-    "exit_time": "2026-01-07T12:47:25.087578",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T15:44:25.590400",
+    "exit_time": null,
     "last_bar_collected": 951,
-    "tracking_until": "2026-01-17T12:47:25.087578",
-    "entry_volume": 1141816.2503899997
+    "tracking_until": null,
+    "entry_volume": 1309516.886459999
   },
   "MOODENG": {
     "current_run": 6,
@@ -297,13 +297,13 @@
     "entry_volume": 1166822.4250850007
   },
   "KAITO": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T17:48:01.048880",
-    "exit_time": "2026-01-12T20:31:48.837482",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T15:44:25.590400",
+    "exit_time": null,
     "last_bar_collected": 953,
-    "tracking_until": "2026-01-22T20:31:48.837482",
-    "entry_volume": 1101095.4848099994
+    "tracking_until": null,
+    "entry_volume": 1367524.6078099995
   },
   "XLM": {
     "current_run": 4,
@@ -388,11 +388,11 @@
   },
   "MELANIA": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T03:19:03.357987",
-    "exit_time": null,
+    "exit_time": "2026-01-13T15:44:25.590400",
     "last_bar_collected": 946,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T15:44:25.590400",
     "entry_volume": 1083804.0720170005
   },
   "MNT": {
@@ -721,11 +721,11 @@
   },
   "ZEN": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T10:31:09.492441",
-    "exit_time": null,
+    "exit_time": "2026-01-13T15:44:25.590400",
     "last_bar_collected": 886,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T15:44:25.590400",
     "entry_volume": 1110094.214222
   }
 }
