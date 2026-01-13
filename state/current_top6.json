@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "MELANIA",
     "AVNT",
-    "WLFI",
-    "UNI",
-    "APT",
-    "TRX",
-    "BNB"
+    "VVV",
+    "NEAR",
+    "CRV",
+    "ARB"
   ],
   "scores": [
+    64,
     62,
     60,
     58,
     56,
-    54,
-    52
+    54
   ],
-  "timestamp": "2026-01-13T01:45:00.502412",
+  "timestamp": "2026-01-13T03:19:03.358620",
   "bucket": "1.2m-5m"
 }
