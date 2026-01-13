@@ -2,19 +2,19 @@
   "tokens": [
     "ICP",
     "DOT",
-    "WLFI",
-    "WIF",
     "KAITO",
-    "TIA"
+    "WLFI",
+    "TIA",
+    "APT"
   ],
   "scores": [
     64,
     62,
-    60,
-    58,
+    59,
+    59,
     56,
     54
   ],
-  "timestamp": "2026-01-13T15:44:25.590576",
+  "timestamp": "2026-01-13T15:59:37.036383",
   "bucket": "1.2m-5m"
 }
