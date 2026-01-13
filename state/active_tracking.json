@@ -64,11 +64,11 @@
   },
   "TIA": {
     "current_run": 15,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T05:43:55.179943",
-    "exit_time": null,
+    "exit_time": "2026-01-13T10:52:23.742944",
     "last_bar_collected": 834,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T10:52:23.742944",
     "entry_volume": 1539605.775057
   },
   "DOT": {
@@ -423,13 +423,13 @@
     "entry_volume": 1104697.5741500002
   },
   "RESOLV": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T09:28:29.636447",
-    "exit_time": "2026-01-05T09:54:48.418964",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T10:52:23.742944",
+    "exit_time": null,
     "last_bar_collected": 850,
-    "tracking_until": "2026-01-15T09:54:48.418964",
-    "entry_volume": 2962463.6983530005
+    "tracking_until": null,
+    "entry_volume": 1146351.2947489996
   },
   "kFLOKI": {
     "current_run": 5,
