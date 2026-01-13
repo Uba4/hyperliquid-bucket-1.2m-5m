@@ -1,11 +1,11 @@
 {
   "ICP": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T15:44:25.590400",
-    "exit_time": null,
+    "exit_time": "2026-01-13T18:50:32.908345",
     "last_bar_collected": 964,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T18:50:32.908345",
     "entry_volume": 1309516.886459999
   },
   "MOODENG": {
@@ -126,13 +126,13 @@
     "entry_volume": 1267157.4994550005
   },
   "POPCAT": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T09:33:20.666620",
-    "exit_time": "2026-01-13T10:31:09.492441",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T18:50:32.908345",
+    "exit_time": null,
     "last_bar_collected": 873,
-    "tracking_until": "2026-01-23T10:31:09.492441",
-    "entry_volume": 1097450.4893170001
+    "tracking_until": null,
+    "entry_volume": 1284164.9077239998
   },
   "PENGU": {
     "current_run": 9,
