@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "AERO",
-    "TRX",
+    "ZEN",
     "LDO",
+    "AERO",
     "ZEREBRO",
-    "APT",
-    "UNI"
+    "TRX",
+    "APT"
   ],
   "scores": [
+    73,
     72,
     70,
-    68,
+    69,
     66,
-    64,
-    62
+    64
   ],
-  "timestamp": "2026-01-14T21:57:14.491133",
+  "timestamp": "2026-01-14T22:19:38.543356",
   "bucket": "1.2m-5m"
 }
