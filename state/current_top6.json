@@ -2,19 +2,19 @@
   "tokens": [
     "AERO",
     "JUP",
+    "TRX",
     "CC",
     "PENDLE",
-    "TRX",
-    "FOGO"
+    "LDO"
   ],
   "scores": [
-    76,
     74,
     72,
     70,
     68,
-    66
+    66,
+    64
   ],
-  "timestamp": "2026-01-14T20:54:24.059193",
+  "timestamp": "2026-01-14T21:12:09.479223",
   "bucket": "1.2m-5m"
 }
