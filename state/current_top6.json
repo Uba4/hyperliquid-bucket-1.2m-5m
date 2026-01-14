@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "BLUR",
-    "ICP",
     "ZEN",
+    "ICP",
+    "BLUR",
     "FIL",
-    "AVNT",
-    "SEI"
+    "SPX",
+    "AVNT"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-14T16:00:24.574486",
+  "timestamp": "2026-01-14T16:38:43.375378",
   "bucket": "1.2m-5m"
 }
