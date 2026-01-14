@@ -3,9 +3,9 @@
     "AERO",
     "TRX",
     "LDO",
-    "JUP",
-    "PENDLE",
-    "APT"
+    "ZEREBRO",
+    "APT",
+    "UNI"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-14T21:34:36.542012",
+  "timestamp": "2026-01-14T21:48:57.700718",
   "bucket": "1.2m-5m"
 }
