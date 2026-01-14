@@ -63,13 +63,13 @@
     "entry_volume": 1932448.30867
   },
   "TIA": {
-    "current_run": 17,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T18:18:44.756448",
-    "exit_time": "2026-01-13T21:19:32.861479",
+    "current_run": 18,
+    "status": "in_top6",
+    "entry_time": "2026-01-14T10:51:20.365455",
+    "exit_time": null,
     "last_bar_collected": 922,
-    "tracking_until": "2026-01-23T21:19:32.861479",
-    "entry_volume": 2454826.1774910023
+    "tracking_until": null,
+    "entry_volume": 5392190.243990004
   },
   "DOT": {
     "current_run": 10,
@@ -739,11 +739,11 @@
   },
   "BLUR": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T05:01:46.015060",
-    "exit_time": null,
+    "exit_time": "2026-01-14T10:51:20.365455",
     "last_bar_collected": 23,
-    "tracking_until": null,
+    "tracking_until": "2026-01-24T10:51:20.365455",
     "entry_volume": 1120012.532025
   },
   "ZEREBRO": {
