@@ -2,19 +2,19 @@
   "tokens": [
     "JUP",
     "SPX",
-    "ZRO",
     "AERO",
     "FOGO",
-    "AVNT"
+    "ZRO",
+    "PENDLE"
   ],
   "scores": [
+    76,
     74,
     72,
-    69,
+    70,
     68,
-    67,
-    64
+    66
   ],
-  "timestamp": "2026-01-14T18:52:34.170791",
+  "timestamp": "2026-01-14T19:09:53.790724",
   "bucket": "1.2m-5m"
 }
