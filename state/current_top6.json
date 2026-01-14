@@ -2,19 +2,19 @@
   "tokens": [
     "BLUR",
     "HBAR",
-    "BERA",
-    "ZEREBRO",
     "XLM",
-    "ZRO"
+    "ZRO",
+    "ZEN",
+    "BERA"
   ],
   "scores": [
     66,
     64,
     62,
     60,
-    58,
+    57,
     56
   ],
-  "timestamp": "2026-01-14T06:39:11.497699",
+  "timestamp": "2026-01-14T07:01:03.443959",
   "bucket": "1.2m-5m"
 }

@@ -711,13 +711,13 @@
     "entry_volume": 5128030.305629998
   },
   "ZEN": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T22:45:47.801065",
-    "exit_time": "2026-01-14T02:11:08.253421",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-14T07:01:03.443772",
+    "exit_time": null,
     "last_bar_collected": 947,
-    "tracking_until": "2026-01-24T02:11:08.253421",
-    "entry_volume": 3636746.438213998
+    "tracking_until": null,
+    "entry_volume": 4041051.6375169978
   },
   "OP": {
     "current_run": 1,
@@ -748,11 +748,11 @@
   },
   "ZEREBRO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T05:52:22.491003",
-    "exit_time": null,
+    "exit_time": "2026-01-14T07:01:03.443772",
     "last_bar_collected": 5,
-    "tracking_until": null,
+    "tracking_until": "2026-01-24T07:01:03.443772",
     "entry_volume": 4047655.872169002
   }
 }
