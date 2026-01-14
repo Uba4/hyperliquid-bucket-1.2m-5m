@@ -1,11 +1,11 @@
 {
   "tokens": [
     "AERO",
-    "JUP",
     "TRX",
-    "CC",
+    "LDO",
+    "JUP",
     "PENDLE",
-    "LDO"
+    "APT"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-14T21:12:09.479223",
+  "timestamp": "2026-01-14T21:34:36.542012",
   "bucket": "1.2m-5m"
 }
