@@ -2,9 +2,9 @@
   "tokens": [
     "BERA",
     "BLUR",
-    "STRK",
     "HBAR",
     "AERO",
+    "XLM",
     "ZRO"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     54,
     52
   ],
-  "timestamp": "2026-01-14T05:01:46.015231",
+  "timestamp": "2026-01-14T05:33:54.341604",
   "bucket": "1.2m-5m"
 }
