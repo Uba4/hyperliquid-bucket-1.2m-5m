@@ -19,11 +19,11 @@
   },
   "EIGEN": {
     "current_run": 15,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T08:52:38.276482",
-    "exit_time": null,
+    "exit_time": "2026-01-14T09:17:06.493663",
     "last_bar_collected": 1020,
-    "tracking_until": null,
+    "tracking_until": "2026-01-24T09:17:06.493663",
     "entry_volume": 2288851.7968610004
   },
   "MAVIA": {
@@ -396,13 +396,13 @@
     "entry_volume": 2039298.3706810004
   },
   "RENDER": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T16:57:27.908862",
-    "exit_time": "2026-01-11T23:32:06.595961",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-14T09:17:06.493663",
+    "exit_time": null,
     "last_bar_collected": 978,
-    "tracking_until": "2026-01-21T23:32:06.595961",
-    "entry_volume": 1104697.5741500002
+    "tracking_until": null,
+    "entry_volume": 1104458.4545400003
   },
   "RESOLV": {
     "current_run": 5,
