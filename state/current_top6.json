@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "ICP",
     "JUP",
     "SPX",
     "ZRO",
     "FOGO",
+    "AERO",
     "SEI"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-14T17:53:35.604924",
+  "timestamp": "2026-01-14T18:16:22.531716",
   "bucket": "1.2m-5m"
 }
