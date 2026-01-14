@@ -171,13 +171,13 @@
     "entry_volume": 4349788.621463999
   },
   "AVNT": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T13:51:41.918578",
-    "exit_time": "2026-01-14T17:01:15.012963",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-14T18:52:34.170621",
+    "exit_time": null,
     "last_bar_collected": 1010,
-    "tracking_until": "2026-01-24T17:01:15.012963",
-    "entry_volume": 1620805.5110700007
+    "tracking_until": null,
+    "entry_volume": 1571439.9474999998
   },
   "TAO": {
     "current_run": 19,
@@ -271,11 +271,11 @@
   },
   "SEI": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T17:34:23.849169",
-    "exit_time": null,
+    "exit_time": "2026-01-14T18:52:34.170621",
     "last_bar_collected": 1015,
-    "tracking_until": null,
+    "tracking_until": "2026-01-24T18:52:34.170621",
     "entry_volume": 4174613.6202100003
   },
   "ZORA": {
