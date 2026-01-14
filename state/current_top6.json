@@ -1,20 +1,20 @@
 {
   "tokens": [
     "ICP",
-    "BLUR",
-    "ZEN",
     "ZRO",
+    "BLUR",
     "RENDER",
-    "EIGEN"
+    "ZEN",
+    "FET"
   ],
   "scores": [
-    70,
     68,
     66,
     64,
     62,
-    60
+    60,
+    58
   ],
-  "timestamp": "2026-01-14T09:58:43.151741",
+  "timestamp": "2026-01-14T10:27:33.904880",
   "bucket": "1.2m-5m"
 }
