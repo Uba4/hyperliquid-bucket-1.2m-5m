@@ -3,18 +3,18 @@
     "ZEREBRO",
     "BLUR",
     "TRX",
-    "LDO",
     "FIL",
-    "APT"
+    "APT",
+    "TON"
   ],
   "scores": [
     64,
     62,
     60,
-    56,
+    58,
     56,
     54
   ],
-  "timestamp": "2026-01-14T23:40:44.103304",
+  "timestamp": "2026-01-14T23:49:42.580137",
   "bucket": "1.2m-5m"
 }
