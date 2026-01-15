@@ -2,19 +2,19 @@
   "tokens": [
     "ORDI",
     "MNT",
-    "TRX",
     "VIRTUAL",
-    "TON",
-    "VVV"
+    "TRX",
+    "VVV",
+    "TON"
   ],
   "scores": [
-    72,
     70,
     68,
     66,
     64,
-    62
+    62,
+    60
   ],
-  "timestamp": "2026-01-15T07:22:35.811154",
+  "timestamp": "2026-01-15T07:42:17.646171",
   "bucket": "1.2m-5m"
 }
