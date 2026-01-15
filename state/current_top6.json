@@ -1,20 +1,20 @@
 {
   "tokens": [
     "TRX",
-    "MOVE",
+    "SEI",
     "ZRO",
     "MNT",
-    "SEI",
-    "TRUMP"
+    "TRUMP",
+    "MOVE"
   ],
   "scores": [
-    64,
     62,
-    60,
     58,
-    56,
-    54
+    58,
+    58,
+    54,
+    52
   ],
-  "timestamp": "2026-01-15T17:53:04.931824",
+  "timestamp": "2026-01-15T18:20:19.226866",
   "bucket": "1.2m-5m"
 }
