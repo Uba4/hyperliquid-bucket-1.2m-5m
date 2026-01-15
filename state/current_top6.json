@@ -3,9 +3,9 @@
     "ZEREBRO",
     "SPX",
     "VIRTUAL",
+    "VVV",
     "MNT",
-    "MORPHO",
-    "VVV"
+    "MORPHO"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-15T09:52:39.088577",
+  "timestamp": "2026-01-15T10:00:42.338341",
   "bucket": "1.2m-5m"
 }
