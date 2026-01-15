@@ -4,8 +4,8 @@
     "VVV",
     "VIRTUAL",
     "MORPHO",
-    "OP",
-    "RENDER"
+    "RENDER",
+    "OP"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-15T11:52:34.243926",
+  "timestamp": "2026-01-15T12:00:22.984742",
   "bucket": "1.2m-5m"
 }
