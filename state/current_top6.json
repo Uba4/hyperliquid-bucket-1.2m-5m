@@ -2,19 +2,19 @@
   "tokens": [
     "TRX",
     "MOVE",
-    "VVV",
-    "ORDI",
-    "HBAR",
-    "RENDER"
+    "ZRO",
+    "MNT",
+    "ZEREBRO",
+    "SEI"
   ],
   "scores": [
-    64,
     62,
     60,
     58,
-    55,
-    54
+    54,
+    54,
+    52
   ],
-  "timestamp": "2026-01-15T16:47:43.154621",
+  "timestamp": "2026-01-15T17:20:21.909972",
   "bucket": "1.2m-5m"
 }
