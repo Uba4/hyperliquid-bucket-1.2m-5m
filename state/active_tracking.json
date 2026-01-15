@@ -198,13 +198,13 @@
     "entry_volume": 3275037.699399998
   },
   "SPX": {
-    "current_run": 18,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T16:38:43.375197",
-    "exit_time": "2026-01-14T20:41:17.267882",
+    "current_run": 19,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T08:40:15.961718",
+    "exit_time": null,
     "last_bar_collected": 1042,
-    "tracking_until": "2026-01-24T20:41:17.267882",
-    "entry_volume": 3366123.632367999
+    "tracking_until": null,
+    "entry_volume": 3895808.1029950003
   },
   "MET": {
     "current_run": 12,
@@ -757,11 +757,11 @@
   },
   "ORDI": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T06:27:11.570243",
-    "exit_time": null,
+    "exit_time": "2026-01-15T08:40:15.961718",
     "last_bar_collected": 6,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T08:40:15.961718",
     "entry_volume": 1105999.6583859997
   }
 }
