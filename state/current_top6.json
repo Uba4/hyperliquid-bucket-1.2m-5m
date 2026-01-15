@@ -2,8 +2,8 @@
   "tokens": [
     "CC",
     "TRX",
-    "MNT",
     "ZEREBRO",
+    "MNT",
     "SEI",
     "TRUMP"
   ],
@@ -15,6 +15,6 @@
     54,
     52
   ],
-  "timestamp": "2026-01-15T19:54:37.869213",
+  "timestamp": "2026-01-15T20:14:53.818349",
   "bucket": "1.2m-5m"
 }
