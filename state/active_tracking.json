@@ -396,13 +396,13 @@
     "entry_volume": 1685645.7441410008
   },
   "RENDER": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T09:17:06.493663",
-    "exit_time": "2026-01-14T13:11:56.278592",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T11:28:01.093896",
+    "exit_time": null,
     "last_bar_collected": 1080,
-    "tracking_until": "2026-01-24T13:11:56.278592",
-    "entry_volume": 1104458.4545400003
+    "tracking_until": null,
+    "entry_volume": 1270093.6060300004
   },
   "RESOLV": {
     "current_run": 5,
@@ -703,11 +703,11 @@
   },
   "OP": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T10:32:35.834524",
-    "exit_time": null,
+    "exit_time": "2026-01-15T11:28:01.093896",
     "last_bar_collected": 1124,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T11:28:01.093896",
     "entry_volume": 3370149.7913579987
   },
   "BERA": {
