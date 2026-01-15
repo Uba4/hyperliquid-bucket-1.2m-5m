@@ -667,11 +667,11 @@
   },
   "FOGO": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T03:15:06.609289",
-    "exit_time": null,
+    "exit_time": "2026-01-15T04:53:53.548683",
     "last_bar_collected": 438,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T04:53:53.548683",
     "entry_volume": 1132896.465045999
   },
   "HYPER": {
@@ -711,13 +711,13 @@
     "entry_volume": 5368986.957750001
   },
   "OP": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T17:34:19.126357",
-    "exit_time": "2026-01-14T02:11:08.253421",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T04:53:53.548683",
+    "exit_time": null,
     "last_bar_collected": 1104,
-    "tracking_until": "2026-01-24T02:11:08.253421",
-    "entry_volume": 1118701.1356079993
+    "tracking_until": null,
+    "entry_volume": 3464849.316720999
   },
   "BERA": {
     "current_run": 1,
