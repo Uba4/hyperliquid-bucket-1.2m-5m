@@ -2,19 +2,19 @@
   "tokens": [
     "ORDI",
     "RENDER",
-    "CC",
     "POL",
-    "VIRTUAL",
-    "VVV"
+    "TRX",
+    "VVV",
+    "CC"
   ],
   "scores": [
-    68,
-    66,
     64,
     62,
     60,
-    58
+    58,
+    56,
+    54
   ],
-  "timestamp": "2026-01-15T15:12:48.623965",
+  "timestamp": "2026-01-15T15:42:00.530873",
   "bucket": "1.2m-5m"
 }
