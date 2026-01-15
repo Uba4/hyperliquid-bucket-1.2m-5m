@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ORDI",
-    "RENDER",
     "TRX",
+    "MOVE",
     "VVV",
-    "POL",
-    "MOVE"
+    "ORDI",
+    "HBAR",
+    "RENDER"
   ],
   "scores": [
-    68,
-    66,
     64,
     62,
     60,
-    58
+    58,
+    55,
+    54
   ],
-  "timestamp": "2026-01-15T16:02:33.454222",
+  "timestamp": "2026-01-15T16:47:43.154621",
   "bucket": "1.2m-5m"
 }
