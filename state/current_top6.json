@@ -2,19 +2,19 @@
   "tokens": [
     "TRX",
     "MNT",
+    "CC",
+    "ZEREBRO",
     "SEI",
-    "TRUMP",
-    "ZRO",
-    "CC"
+    "TRUMP"
   ],
   "scores": [
-    62,
     60,
     58,
     56,
     54,
-    52
+    52,
+    50
   ],
-  "timestamp": "2026-01-15T18:57:39.359385",
+  "timestamp": "2026-01-15T19:23:16.554204",
   "bucket": "1.2m-5m"
 }
