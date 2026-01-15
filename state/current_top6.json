@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ZEREBRO",
     "VVV",
     "VIRTUAL",
-    "MORPHO",
+    "ORDI",
     "RENDER",
+    "MORPHO",
     "OP"
   ],
   "scores": [
-    72,
     70,
     68,
     66,
     64,
-    62
+    62,
+    60
   ],
-  "timestamp": "2026-01-15T12:00:22.984742",
+  "timestamp": "2026-01-15T12:57:48.279960",
   "bucket": "1.2m-5m"
 }

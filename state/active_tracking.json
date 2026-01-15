@@ -467,15 +467,6 @@
     "tracking_until": "2026-01-23T03:19:03.357987",
     "entry_volume": 5243967.354549999
   },
-  "ETHFI": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T09:54:48.418964",
-    "exit_time": "2026-01-05T12:31:10.276630",
-    "last_bar_collected": 967,
-    "tracking_until": "2026-01-15T12:31:10.276630",
-    "entry_volume": 1170824.5388569995
-  },
   "LDO": {
     "current_run": 8,
     "status": "post_exit",
@@ -730,11 +721,11 @@
   },
   "ZEREBRO": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T07:53:13.682052",
-    "exit_time": null,
+    "exit_time": "2026-01-15T12:57:48.279718",
     "last_bar_collected": 119,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T12:57:48.279718",
     "entry_volume": 1510637.7302360004
   },
   "MOVE": {
@@ -747,12 +738,12 @@
     "entry_volume": 1994343.9582949996
   },
   "ORDI": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T06:27:11.570243",
-    "exit_time": "2026-01-15T08:40:15.961718",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T12:57:48.279718",
+    "exit_time": null,
     "last_bar_collected": 21,
-    "tracking_until": "2026-01-25T08:40:15.961718",
-    "entry_volume": 1105999.6583859997
+    "tracking_until": null,
+    "entry_volume": 1114155.4747729998
   }
 }
