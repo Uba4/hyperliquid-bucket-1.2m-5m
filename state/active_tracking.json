@@ -730,11 +730,11 @@
   },
   "BLUR": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T23:29:03.715919",
-    "exit_time": null,
+    "exit_time": "2026-01-15T01:26:45.243560",
     "last_bar_collected": 75,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T01:26:45.243560",
     "entry_volume": 4475808.385004997
   },
   "ZEREBRO": {
@@ -745,5 +745,14 @@
     "last_bar_collected": 71,
     "tracking_until": null,
     "entry_volume": 2279364.762007
+  },
+  "MOVE": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T01:26:45.243560",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1994343.9582949996
   }
 }
