@@ -523,11 +523,11 @@
   },
   "TRUMP": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T06:56:49.662985",
-    "exit_time": null,
+    "exit_time": "2026-01-15T07:22:35.810975",
     "last_bar_collected": 724,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T07:22:35.810975",
     "entry_volume": 3723487.56198
   },
   "BABY": {
@@ -603,13 +603,13 @@
     "entry_volume": 4541366.919640004
   },
   "VVV": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T06:27:11.570243",
-    "exit_time": "2026-01-15T06:56:49.662985",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T07:22:35.810975",
+    "exit_time": null,
     "last_bar_collected": 568,
-    "tracking_until": "2026-01-25T06:56:49.662985",
-    "entry_volume": 2126995.149576999
+    "tracking_until": null,
+    "entry_volume": 1956336.1868749987
   },
   "ENA": {
     "current_run": 5,
