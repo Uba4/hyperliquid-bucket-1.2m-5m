@@ -73,11 +73,11 @@
   },
   "DOT": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T09:52:20.872902",
-    "exit_time": null,
+    "exit_time": "2026-01-16T09:59:45.237801",
     "last_bar_collected": 1210,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T09:59:45.237801",
     "entry_volume": 1091078.24148
   },
   "AERO": {
@@ -135,13 +135,13 @@
     "entry_volume": 1463943.3343149996
   },
   "PENGU": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T14:31:27.638015",
-    "exit_time": "2026-01-13T15:16:53.758261",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T09:59:45.237801",
+    "exit_time": null,
     "last_bar_collected": 1204,
-    "tracking_until": "2026-01-23T15:16:53.758261",
-    "entry_volume": 3451925.321979
+    "tracking_until": null,
+    "entry_volume": 3843825.5890649995
   },
   "WIF": {
     "current_run": 22,
