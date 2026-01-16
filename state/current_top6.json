@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "MET",
     "BERA",
     "MOVE",
     "NEAR",
     "PENDLE",
-    "SPX",
-    "ARB"
+    "FET"
   ],
   "scores": [
+    58,
     56,
     54,
     52,
     50,
-    48,
-    46
+    48
   ],
-  "timestamp": "2026-01-16T07:54:20.080733",
+  "timestamp": "2026-01-16T08:17:04.513060",
   "bucket": "1.2m-5m"
 }
