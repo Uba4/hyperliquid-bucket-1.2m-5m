@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MET",
     "BERA",
-    "PENGU",
+    "MOVE",
     "TRUMP",
+    "WLFI",
     "WLD",
-    "WLFI"
+    "AAVE"
   ],
   "scores": [
-    66,
-    64,
-    62,
-    60,
     58,
-    56
+    56,
+    53,
+    53,
+    50,
+    48
   ],
-  "timestamp": "2026-01-16T11:57:41.104036",
+  "timestamp": "2026-01-16T12:41:28.323012",
   "bucket": "1.2m-5m"
 }
