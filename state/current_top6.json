@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "CC",
+    "AVNT",
     "FET",
-    "WIF",
-    "FIL",
-    "MOVE",
-    "VIRTUAL"
+    "SPX",
+    "LDO",
+    "TIA",
+    "PENDLE"
   ],
   "scores": [
-    60,
-    58,
-    56,
     54,
     52,
-    50
+    50,
+    48,
+    46,
+    44
   ],
-  "timestamp": "2026-01-16T00:45:40.520980",
+  "timestamp": "2026-01-16T02:51:02.483427",
   "bucket": "1.2m-5m"
 }
