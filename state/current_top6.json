@@ -2,19 +2,19 @@
   "tokens": [
     "TON",
     "PENDLE",
-    "AVNT",
     "NEAR",
-    "OP",
-    "STRK"
+    "BERA",
+    "STRK",
+    "AVNT"
   ],
   "scores": [
+    58,
     56,
     54,
     52,
     50,
-    48,
-    46
+    48
   ],
-  "timestamp": "2026-01-16T05:31:10.529043",
+  "timestamp": "2026-01-16T05:50:05.667658",
   "bucket": "1.2m-5m"
 }
