@@ -4,8 +4,8 @@
     "BERA",
     "TRX",
     "WLFI",
-    "TRUMP",
-    "SPX"
+    "SPX",
+    "TRUMP"
   ],
   "scores": [
     54,
@@ -15,6 +15,6 @@
     46,
     44
   ],
-  "timestamp": "2026-01-16T13:54:04.896171",
+  "timestamp": "2026-01-16T14:14:38.708680",
   "bucket": "1.2m-5m"
 }
