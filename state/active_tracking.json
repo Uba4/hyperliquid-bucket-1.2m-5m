@@ -541,11 +541,11 @@
   },
   "AVAX": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T14:58:14.496587",
-    "exit_time": null,
+    "exit_time": "2026-01-16T15:56:29.333001",
     "last_bar_collected": 780,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T15:56:29.333001",
     "entry_volume": 5116596.278380001
   },
   "MEGA": {
@@ -675,13 +675,13 @@
     "entry_volume": 5337436.410247998
   },
   "ZEN": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T08:47:36.839846",
-    "exit_time": "2026-01-16T11:24:18.039691",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T15:56:29.333001",
+    "exit_time": null,
     "last_bar_collected": 1172,
-    "tracking_until": "2026-01-26T11:24:18.039691",
-    "entry_volume": 5361376.462680001
+    "tracking_until": null,
+    "entry_volume": 3870966.9244500003
   },
   "OP": {
     "current_run": 5,
