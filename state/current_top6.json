@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "TON",
-    "MOVE",
     "BERA",
-    "PENDLE",
+    "MOVE",
     "NEAR",
+    "PENDLE",
+    "TON",
     "SPX"
   ],
   "scores": [
+    56,
+    54,
     52,
-    52,
-    52,
+    50,
     48,
-    46,
-    44
+    46
   ],
-  "timestamp": "2026-01-16T06:59:27.108502",
+  "timestamp": "2026-01-16T07:28:04.860363",
   "bucket": "1.2m-5m"
 }
