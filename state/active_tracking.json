@@ -99,13 +99,13 @@
     "entry_volume": 3045828.514539999
   },
   "WLD": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T09:34:23.059495",
-    "exit_time": "2026-01-15T09:52:39.088404",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T11:39:33.289353",
+    "exit_time": null,
     "last_bar_collected": 1147,
-    "tracking_until": "2026-01-25T09:52:39.088404",
-    "entry_volume": 3290187.644376
+    "tracking_until": null,
+    "entry_volume": 4068745.150012
   },
   "GRIFFAIN": {
     "current_run": 2,
@@ -433,11 +433,11 @@
   },
   "FET": {
     "current_run": 17,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T08:17:04.512729",
-    "exit_time": null,
+    "exit_time": "2026-01-16T11:39:33.289353",
     "last_bar_collected": 1123,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T11:39:33.289353",
     "entry_volume": 1751054.2053399999
   },
   "PAXG": {
