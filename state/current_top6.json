@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "BERA",
     "MOVE",
-    "WLFI",
+    "BERA",
     "TRX",
+    "WLFI",
     "TRUMP",
-    "AAVE"
+    "SPX"
   ],
   "scores": [
-    58,
-    56,
     54,
     52,
     50,
-    48
+    48,
+    46,
+    44
   ],
-  "timestamp": "2026-01-16T13:25:38.972794",
+  "timestamp": "2026-01-16T13:54:04.896171",
   "bucket": "1.2m-5m"
 }
