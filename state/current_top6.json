@@ -3,18 +3,18 @@
     "MOVE",
     "ASTER",
     "TRX",
-    "BERA",
     "CC",
-    "AVAX"
+    "AVAX",
+    "AVNT"
   ],
   "scores": [
     60,
     58,
-    54,
+    56,
     54,
     52,
     50
   ],
-  "timestamp": "2026-01-16T15:24:26.163882",
+  "timestamp": "2026-01-16T15:43:40.997739",
   "bucket": "1.2m-5m"
 }
