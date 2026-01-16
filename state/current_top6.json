@@ -2,19 +2,19 @@
   "tokens": [
     "BERA",
     "MOVE",
-    "TRUMP",
     "WLFI",
-    "WLD",
+    "TRX",
+    "TRUMP",
     "AAVE"
   ],
   "scores": [
     58,
     56,
-    53,
-    53,
+    54,
+    52,
     50,
     48
   ],
-  "timestamp": "2026-01-16T12:41:28.323012",
+  "timestamp": "2026-01-16T13:25:38.972794",
   "bucket": "1.2m-5m"
 }
