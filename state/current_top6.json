@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SPX",
-    "PENGU",
     "POL",
-    "MOVE",
+    "PENGU",
     "MON",
+    "ADA",
     "AAVE"
   ],
   "scores": [
     64,
     62,
+    60,
     58,
-    58,
-    58,
-    54
+    56,
+    53
   ],
-  "timestamp": "2026-01-16T22:40:37.559833",
+  "timestamp": "2026-01-16T22:52:42.991370",
   "bucket": "1.2m-5m"
 }
