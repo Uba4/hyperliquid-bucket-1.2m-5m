@@ -1,20 +1,20 @@
 {
   "tokens": [
     "AVNT",
-    "kBONK",
+    "TON",
     "PENDLE",
     "OP",
     "SPX",
-    "LDO"
+    "TIA"
   ],
   "scores": [
-    58,
     56,
     54,
     52,
     50,
-    47
+    48,
+    44
   ],
-  "timestamp": "2026-01-16T03:55:51.578093",
+  "timestamp": "2026-01-16T04:34:49.003372",
   "bucket": "1.2m-5m"
 }
