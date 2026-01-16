@@ -26,15 +26,6 @@
     "tracking_until": "2026-01-24T10:27:33.904691",
     "entry_volume": 2243281.0970600005
   },
-  "MAVIA": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T08:21:15.349535",
-    "exit_time": "2026-01-06T10:43:58.649040",
-    "last_bar_collected": 1220,
-    "tracking_until": "2026-01-16T10:43:58.649040",
-    "entry_volume": 1151559.6132549997
-  },
   "SYRUP": {
     "current_run": 3,
     "status": "post_exit",
@@ -73,11 +64,11 @@
   },
   "DOT": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T10:29:44.003864",
-    "exit_time": null,
+    "exit_time": "2026-01-16T10:50:35.358374",
     "last_bar_collected": 1212,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T10:50:35.358374",
     "entry_volume": 1087624.29099
   },
   "AERO": {
@@ -504,13 +495,13 @@
     "entry_volume": 1104682.4655649997
   },
   "TRUMP": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T17:53:04.931658",
-    "exit_time": "2026-01-15T22:19:01.355122",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T10:50:35.358374",
+    "exit_time": null,
     "last_bar_collected": 836,
-    "tracking_until": "2026-01-25T22:19:01.355122",
-    "entry_volume": 2852765.103629999
+    "tracking_until": null,
+    "entry_volume": 1679339.2734299991
   },
   "BABY": {
     "current_run": 2,
