@@ -1,10 +1,10 @@
 {
   "tokens": [
     "MOVE",
-    "XAI",
     "PENGU",
-    "WIF",
     "SPX",
+    "WIF",
+    "MON",
     "TAO"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     54,
     52
   ],
-  "timestamp": "2026-01-16T20:56:40.269421",
+  "timestamp": "2026-01-16T21:17:09.596229",
   "bucket": "1.2m-5m"
 }
