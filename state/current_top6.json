@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "XAI",
     "ZEN",
     "MOVE",
-    "WLFI",
-    "AVNT",
     "TRX",
-    "ASTER"
+    "WLFI",
+    "TON"
   ],
   "scores": [
+    64,
     62,
     60,
+    58,
     56,
-    56,
-    54,
-    52
+    54
   ],
-  "timestamp": "2026-01-16T16:50:52.219720",
+  "timestamp": "2026-01-16T17:13:38.625492",
   "bucket": "1.2m-5m"
 }
