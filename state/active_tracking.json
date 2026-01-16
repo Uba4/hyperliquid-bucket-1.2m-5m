@@ -172,11 +172,11 @@
   },
   "TAO": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T18:50:31.689168",
-    "exit_time": null,
+    "exit_time": "2026-01-16T21:48:22.942322",
     "last_bar_collected": 1188,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T21:48:22.942322",
     "entry_volume": 3580826.67952
   },
   "LINK": {
@@ -603,13 +603,13 @@
     "entry_volume": 1617580.5222070008
   },
   "AAVE": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T12:41:28.322733",
-    "exit_time": "2026-01-16T13:54:04.896006",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T21:48:22.942322",
+    "exit_time": null,
     "last_bar_collected": 683,
-    "tracking_until": "2026-01-26T13:54:04.896006",
-    "entry_volume": 4403351.990000002
+    "tracking_until": null,
+    "entry_volume": 3610751.756
   },
   "BCH": {
     "current_run": 4,
