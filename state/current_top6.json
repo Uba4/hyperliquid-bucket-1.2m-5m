@@ -3,9 +3,9 @@
     "MOVE",
     "BERA",
     "TRX",
+    "AVAX",
     "WLFI",
-    "SPX",
-    "ADA"
+    "AVNT"
   ],
   "scores": [
     56,
@@ -15,6 +15,6 @@
     48,
     46
   ],
-  "timestamp": "2026-01-16T14:43:27.901059",
+  "timestamp": "2026-01-16T14:58:14.496846",
   "bucket": "1.2m-5m"
 }
