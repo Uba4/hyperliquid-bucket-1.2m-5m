@@ -171,13 +171,13 @@
     "entry_volume": 2134202.4978300002
   },
   "TAO": {
-    "current_run": 19,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T21:59:33.449022",
-    "exit_time": "2026-01-13T22:26:27.634457",
+    "current_run": 20,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T18:50:31.689168",
+    "exit_time": null,
     "last_bar_collected": 1177,
-    "tracking_until": "2026-01-23T22:26:27.634457",
-    "entry_volume": 5407137.743359998
+    "tracking_until": null,
+    "entry_volume": 3580826.67952
   },
   "LINK": {
     "current_run": 5,
@@ -268,15 +268,6 @@
     "last_bar_collected": 1201,
     "tracking_until": "2026-01-25T22:19:01.355122",
     "entry_volume": 2366265.99562
-  },
-  "ZORA": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T16:57:10.867842",
-    "exit_time": "2026-01-06T18:21:20.822708",
-    "last_bar_collected": 1254,
-    "tracking_until": "2026-01-16T18:21:20.822708",
-    "entry_volume": 1166822.4250850007
   },
   "KAITO": {
     "current_run": 7,
@@ -694,11 +685,11 @@
   },
   "BERA": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T17:39:56.871703",
-    "exit_time": null,
+    "exit_time": "2026-01-16T18:50:31.689168",
     "last_bar_collected": 1121,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T18:50:31.689168",
     "entry_volume": 4420164.648478998
   },
   "BLUR": {
