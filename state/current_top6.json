@@ -1,11 +1,11 @@
 {
   "tokens": [
     "TON",
-    "AVNT",
     "PENDLE",
+    "AVNT",
+    "NEAR",
     "OP",
-    "SPX",
-    "TRX"
+    "STRK"
   ],
   "scores": [
     56,
@@ -15,6 +15,6 @@
     48,
     46
   ],
-  "timestamp": "2026-01-16T05:00:16.065644",
+  "timestamp": "2026-01-16T05:31:10.529043",
   "bucket": "1.2m-5m"
 }
