@@ -1,11 +1,11 @@
 {
   "tokens": [
     "XAI",
-    "SPX",
-    "POL",
-    "MON",
-    "NEAR",
-    "BERA"
+    "BERA",
+    "FOGO",
+    "AVNT",
+    "ARB",
+    "APT"
   ],
   "scores": [
     58,
@@ -13,8 +13,8 @@
     54,
     52,
     50,
-    46
+    48
   ],
-  "timestamp": "2026-01-17T01:24:59.553768",
+  "timestamp": "2026-01-17T03:01:57.289635",
   "bucket": "1.2m-5m"
 }
