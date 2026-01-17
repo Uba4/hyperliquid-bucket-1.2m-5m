@@ -90,13 +90,13 @@
     "entry_volume": 2710350.514940001
   },
   "NEAR": {
-    "current_run": 23,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T23:40:49.810427",
-    "exit_time": "2026-01-17T03:01:57.289072",
+    "current_run": 24,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T06:24:06.330626",
+    "exit_time": null,
     "last_bar_collected": 1200,
-    "tracking_until": "2026-01-27T03:01:57.289072",
-    "entry_volume": 1552016.4033499996
+    "tracking_until": null,
+    "entry_volume": 1453736.214099999
   },
   "WLD": {
     "current_run": 15,
@@ -685,11 +685,11 @@
   },
   "BERA": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T01:24:59.553442",
-    "exit_time": null,
+    "exit_time": "2026-01-17T06:24:06.330626",
     "last_bar_collected": 1156,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T06:24:06.330626",
     "entry_volume": 4350515.0244629895
   },
   "BLUR": {
