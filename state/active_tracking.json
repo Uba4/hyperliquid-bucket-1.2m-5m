@@ -395,15 +395,6 @@
     "tracking_until": "2026-01-23T15:16:53.758261",
     "entry_volume": 1146351.2947489996
   },
-  "kFLOKI": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T08:37:50.768076",
-    "exit_time": "2026-01-07T11:50:23.717452",
-    "last_bar_collected": 1232,
-    "tracking_until": "2026-01-17T11:50:23.717452",
-    "entry_volume": 1668560.9871679998
-  },
   "ONDO": {
     "current_run": 5,
     "status": "post_exit",
