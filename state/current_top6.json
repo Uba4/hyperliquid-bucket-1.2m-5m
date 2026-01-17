@@ -1,10 +1,10 @@
 {
   "tokens": [
     "SAND",
-    "STABLE",
-    "TRX",
     "ARB",
+    "APT",
     "AVAX",
+    "TRX",
     "SEI"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-17T14:57:35.059743",
+  "timestamp": "2026-01-17T15:18:08.523094",
   "bucket": "1.2m-5m"
 }
