@@ -415,11 +415,11 @@
   },
   "PAXG": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T22:49:01.324181",
-    "exit_time": null,
+    "exit_time": "2026-01-17T23:15:03.846697",
     "last_bar_collected": 1251,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T23:15:03.846697",
     "entry_volume": 1606762.4655000002
   },
   "BNB": {
@@ -594,13 +594,13 @@
     "entry_volume": 3610751.756
   },
   "BCH": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T14:39:25.705089",
-    "exit_time": "2026-01-17T14:49:48.375594",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T23:15:03.846697",
+    "exit_time": null,
     "last_bar_collected": 748,
-    "tracking_until": "2026-01-27T14:49:48.375594",
-    "entry_volume": 3807095.3065599976
+    "tracking_until": null,
+    "entry_volume": 2441711.2017800016
   },
   "ATOM": {
     "current_run": 1,

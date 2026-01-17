@@ -2,10 +2,10 @@
   "tokens": [
     "ZEN",
     "TRX",
-    "SAND",
     "AVNT",
     "KAITO",
-    "PAXG"
+    "SAND",
+    "BCH"
   ],
   "scores": [
     60,
@@ -15,6 +15,6 @@
     52,
     50
   ],
-  "timestamp": "2026-01-17T22:56:14.508763",
+  "timestamp": "2026-01-17T23:15:03.846879",
   "bucket": "1.2m-5m"
 }
