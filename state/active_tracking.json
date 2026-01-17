@@ -242,15 +242,6 @@
     "tracking_until": "2026-01-26T08:47:36.839846",
     "entry_volume": 1851651.1542000005
   },
-  "kSHIB": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T16:41:17.145802",
-    "exit_time": "2026-01-07T19:01:43.087065",
-    "last_bar_collected": 1243,
-    "tracking_until": "2026-01-17T19:01:43.087065",
-    "entry_volume": 1814270.2568819996
-  },
   "STABLE": {
     "current_run": 10,
     "status": "post_exit",
