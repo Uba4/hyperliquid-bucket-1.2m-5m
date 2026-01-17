@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SAND",
-    "BLUR",
     "ARB",
-    "APT",
+    "VVV",
+    "WLFI",
     "ADA",
-    "AVAX"
+    "BLUR"
   ],
   "scores": [
-    70,
-    68,
     66,
     64,
     62,
-    58
+    60,
+    58,
+    55
   ],
-  "timestamp": "2026-01-17T17:59:58.866449",
+  "timestamp": "2026-01-17T18:34:41.934083",
   "bucket": "1.2m-5m"
 }
