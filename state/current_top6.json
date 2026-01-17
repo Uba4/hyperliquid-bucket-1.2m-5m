@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "VVV",
     "SAND",
+    "VVV",
     "ZEN",
     "AVNT",
     "TRX",
-    "DOGE"
+    "ICP"
   ],
   "scores": [
     66,
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-17T20:36:02.009386",
+  "timestamp": "2026-01-17T20:48:25.482725",
   "bucket": "1.2m-5m"
 }
