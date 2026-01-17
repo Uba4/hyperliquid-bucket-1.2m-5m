@@ -504,13 +504,13 @@
     "entry_volume": 1847025.8366000007
   },
   "UNI": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T22:43:27.300947",
-    "exit_time": "2026-01-14T23:13:16.284376",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T04:34:40.644007",
+    "exit_time": null,
     "last_bar_collected": 862,
-    "tracking_until": "2026-01-24T23:13:16.284376",
-    "entry_volume": 3692832.47354
+    "tracking_until": null,
+    "entry_volume": 3250527.093260001
   },
   "ANIME": {
     "current_run": 3,
@@ -730,11 +730,11 @@
   },
   "XAI": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T01:24:59.553442",
-    "exit_time": null,
+    "exit_time": "2026-01-17T04:34:40.644007",
     "last_bar_collected": 30,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T04:34:40.644007",
     "entry_volume": 2015403.2024839998
   }
 }
