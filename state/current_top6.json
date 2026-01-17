@@ -1,11 +1,11 @@
 {
   "tokens": [
     "DOT",
+    "STABLE",
     "POL",
-    "MON",
-    "NEAR",
     "ARB",
-    "STABLE"
+    "NEAR",
+    "TRX"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-17T12:40:30.790403",
+  "timestamp": "2026-01-17T13:17:24.147350",
   "bucket": "1.2m-5m"
 }
