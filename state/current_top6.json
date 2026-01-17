@@ -2,19 +2,19 @@
   "tokens": [
     "APT",
     "TRX",
-    "FOGO",
     "NEAR",
     "UNI",
+    "ARB",
     "MON"
   ],
   "scores": [
     64,
     62,
     60,
-    58,
     56,
+    54,
     54
   ],
-  "timestamp": "2026-01-17T06:50:25.166192",
+  "timestamp": "2026-01-17T07:00:53.471262",
   "bucket": "1.2m-5m"
 }

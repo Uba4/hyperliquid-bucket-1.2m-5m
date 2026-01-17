@@ -315,13 +315,13 @@
     "entry_volume": 2360689.481070001
   },
   "ARB": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T05:48:48.803978",
-    "exit_time": "2026-01-17T06:50:25.166015",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T07:00:53.471042",
+    "exit_time": null,
     "last_bar_collected": 1288,
-    "tracking_until": "2026-01-27T06:50:25.166015",
-    "entry_volume": 1616487.57297
+    "tracking_until": null,
+    "entry_volume": 1541027.7454360002
   },
   "JUP": {
     "current_run": 4,
@@ -631,11 +631,11 @@
   },
   "FOGO": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T03:01:57.289072",
-    "exit_time": null,
+    "exit_time": "2026-01-17T07:00:53.471042",
     "last_bar_collected": 637,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T07:00:53.471042",
     "entry_volume": 4009928.9528189986
   },
   "HYPER": {
