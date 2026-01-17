@@ -82,11 +82,11 @@
   },
   "INJ": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T07:37:50.106891",
-    "exit_time": null,
+    "exit_time": "2026-01-17T10:52:10.204507",
     "last_bar_collected": 1313,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T10:52:10.204507",
     "entry_volume": 1108029.6881800003
   },
   "NEAR": {
@@ -261,13 +261,13 @@
     "entry_volume": 1136111.1500259996
   },
   "SEI": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T17:20:21.909374",
-    "exit_time": "2026-01-15T22:19:01.355122",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T10:52:10.204507",
+    "exit_time": null,
     "last_bar_collected": 1264,
-    "tracking_until": "2026-01-25T22:19:01.355122",
-    "entry_volume": 2366265.99562
+    "tracking_until": null,
+    "entry_volume": 1940249.2476400014
   },
   "KAITO": {
     "current_run": 7,
