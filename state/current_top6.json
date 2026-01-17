@@ -3,8 +3,8 @@
     "TRX",
     "ZEN",
     "KAITO",
-    "BCH",
     "PAXG",
+    "BCH",
     "AVNT"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     54,
     52
   ],
-  "timestamp": "2026-01-17T23:44:02.656077",
+  "timestamp": "2026-01-17T23:51:21.935874",
   "bucket": "1.2m-5m"
 }
