@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "SAND",
     "ZEN",
     "TRX",
+    "SAND",
     "AVNT",
-    "VVV",
-    "KAITO"
+    "KAITO",
+    "PAXG"
   ],
   "scores": [
     58,
@@ -15,6 +15,6 @@
     50,
     48
   ],
-  "timestamp": "2026-01-17T22:37:09.617316",
+  "timestamp": "2026-01-17T22:49:01.324345",
   "bucket": "1.2m-5m"
 }
