@@ -1,11 +1,11 @@
 {
   "ICP": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T20:48:25.482548",
-    "exit_time": null,
+    "exit_time": "2026-01-17T21:56:58.123028",
     "last_bar_collected": 1357,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T21:56:58.123028",
     "entry_volume": 1238986.6728899996
   },
   "MOODENG": {
@@ -261,13 +261,13 @@
     "entry_volume": 1905932.1925100016
   },
   "KAITO": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T20:57:25.045390",
-    "exit_time": "2026-01-13T21:38:59.500716",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T21:56:58.123028",
+    "exit_time": null,
     "last_bar_collected": 1361,
-    "tracking_until": "2026-01-23T21:38:59.500716",
-    "entry_volume": 1086550.1442000002
+    "tracking_until": null,
+    "entry_volume": 1813588.76871
   },
   "XLM": {
     "current_run": 5,
