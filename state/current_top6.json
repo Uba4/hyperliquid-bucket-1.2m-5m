@@ -2,8 +2,8 @@
   "tokens": [
     "FOGO",
     "BERA",
-    "AVNT",
     "APT",
+    "AVNT",
     "ARB",
     "TRX"
   ],
@@ -15,6 +15,6 @@
     54,
     52
   ],
-  "timestamp": "2026-01-17T04:55:24.154417",
+  "timestamp": "2026-01-17T05:14:44.168909",
   "bucket": "1.2m-5m"
 }
