@@ -91,11 +91,11 @@
   },
   "NEAR": {
     "current_run": 24,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T06:24:06.330626",
-    "exit_time": null,
+    "exit_time": "2026-01-17T13:42:23.542700",
     "last_bar_collected": 1230,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T13:42:23.542700",
     "entry_volume": 1453736.214099999
   },
   "WLD": {
@@ -727,5 +727,14 @@
     "last_bar_collected": 75,
     "tracking_until": "2026-01-27T04:34:40.644007",
     "entry_volume": 2015403.2024839998
+  },
+  "SAND": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T13:42:23.542700",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1154671.6254200002
   }
 }
