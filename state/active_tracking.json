@@ -343,11 +343,11 @@
   },
   "TRX": {
     "current_run": 21,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T13:17:24.147134",
-    "exit_time": null,
+    "exit_time": "2026-01-17T15:35:12.049603",
     "last_bar_collected": 1301,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T15:35:12.049603",
     "entry_volume": 1122132.2583700004
   },
   "LTC": {
@@ -684,13 +684,13 @@
     "entry_volume": 4350515.0244629895
   },
   "BLUR": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T22:19:01.355122",
-    "exit_time": "2026-01-15T23:11:22.802548",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T15:35:12.049603",
+    "exit_time": null,
     "last_bar_collected": 331,
-    "tracking_until": "2026-01-25T23:11:22.802548",
-    "entry_volume": 2255709.8698199997
+    "tracking_until": null,
+    "entry_volume": 1437049.2786419992
   },
   "ZEREBRO": {
     "current_run": 5,
