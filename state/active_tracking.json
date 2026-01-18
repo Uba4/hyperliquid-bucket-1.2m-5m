@@ -449,15 +449,6 @@
     "tracking_until": "2026-01-26T14:43:27.900851",
     "entry_volume": 1679339.2734299991
   },
-  "BABY": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T14:45:21.066004",
-    "exit_time": "2026-01-08T15:00:23.744063",
-    "last_bar_collected": 1023,
-    "tracking_until": "2026-01-18T15:00:23.744063",
-    "entry_volume": 1847025.8366000007
-  },
   "UNI": {
     "current_run": 9,
     "status": "post_exit",
