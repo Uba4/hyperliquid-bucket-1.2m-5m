@@ -1,12 +1,12 @@
 {
   "ICP": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T20:48:25.482548",
-    "exit_time": "2026-01-17T21:56:58.123028",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T05:46:12.844635",
+    "exit_time": null,
     "last_bar_collected": 1390,
-    "tracking_until": "2026-01-27T21:56:58.123028",
-    "entry_volume": 1238986.6728899996
+    "tracking_until": null,
+    "entry_volume": 1168641.0133000002
   },
   "EIGEN": {
     "current_run": 16,
@@ -730,11 +730,11 @@
   },
   "MERL": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T02:04:08.394060",
-    "exit_time": null,
+    "exit_time": "2026-01-18T05:46:12.844635",
     "last_bar_collected": 15,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T05:46:12.844635",
     "entry_volume": 1209526.4435699992
   },
   "AXS": {
