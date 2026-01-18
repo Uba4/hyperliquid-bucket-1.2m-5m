@@ -577,11 +577,11 @@
   },
   "BCH": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T07:40:13.295165",
-    "exit_time": null,
+    "exit_time": "2026-01-18T09:17:59.288161",
     "last_bar_collected": 783,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T09:17:59.288161",
     "entry_volume": 1404096.8043199987
   },
   "ATOM": {
@@ -630,13 +630,13 @@
     "entry_volume": 3862841.279054999
   },
   "ZEN": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-18T05:55:34.639109",
-    "exit_time": "2026-01-18T07:27:50.084704",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T09:17:59.288161",
+    "exit_time": null,
     "last_bar_collected": 1333,
-    "tracking_until": "2026-01-28T07:27:50.084704",
-    "entry_volume": 1116844.7455100005
+    "tracking_until": null,
+    "entry_volume": 1094854.6734699996
   },
   "OP": {
     "current_run": 5,
