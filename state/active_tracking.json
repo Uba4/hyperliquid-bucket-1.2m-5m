@@ -73,11 +73,11 @@
   },
   "NEAR": {
     "current_run": 26,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T18:56:58.901603",
-    "exit_time": null,
+    "exit_time": "2026-01-18T19:36:47.137400",
     "last_bar_collected": 1346,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T19:36:47.137400",
     "entry_volume": 1299069.2478399996
   },
   "WLD": {
@@ -288,13 +288,13 @@
     "entry_volume": 1140419.6869400002
   },
   "ARB": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-18T15:43:57.795995",
-    "exit_time": "2026-01-18T15:52:07.014620",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T19:36:47.137400",
+    "exit_time": null,
     "last_bar_collected": 1433,
-    "tracking_until": "2026-01-28T15:52:07.014620",
-    "entry_volume": 1558139.7319759997
+    "tracking_until": null,
+    "entry_volume": 1463230.6328369998
   },
   "JUP": {
     "current_run": 4,
