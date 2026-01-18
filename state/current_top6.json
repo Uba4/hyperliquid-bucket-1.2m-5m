@@ -2,19 +2,19 @@
   "tokens": [
     "CC",
     "BLUR",
+    "MERL",
     "ARB",
     "SAND",
-    "MERL",
     "AVAX"
   ],
   "scores": [
+    70,
     68,
     66,
     64,
     62,
-    60,
-    58
+    60
   ],
-  "timestamp": "2026-01-18T22:34:14.446820",
+  "timestamp": "2026-01-18T22:47:45.977502",
   "bucket": "1.2m-5m"
 }
