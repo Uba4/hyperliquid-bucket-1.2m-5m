@@ -2,19 +2,19 @@
   "tokens": [
     "MERL",
     "SAND",
-    "TRX",
-    "TON",
     "PAXG",
+    "VVV",
+    "TRX",
     "BCH"
   ],
   "scores": [
-    66,
     64,
     62,
     60,
     58,
-    56
+    56,
+    54
   ],
-  "timestamp": "2026-01-18T02:04:08.394458",
+  "timestamp": "2026-01-18T03:52:07.089986",
   "bucket": "1.2m-5m"
 }
