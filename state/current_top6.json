@@ -1,11 +1,11 @@
 {
   "tokens": [
     "MERL",
-    "SAND",
-    "PAXG",
+    "IP",
+    "BLUR",
     "VVV",
     "TRX",
-    "BCH"
+    "FOGO"
   ],
   "scores": [
     64,
@@ -15,6 +15,6 @@
     56,
     54
   ],
-  "timestamp": "2026-01-18T03:52:07.089986",
+  "timestamp": "2026-01-18T04:32:58.743927",
   "bucket": "1.2m-5m"
 }
