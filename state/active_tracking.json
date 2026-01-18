@@ -469,11 +469,11 @@
   },
   "AVAX": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T22:34:14.446620",
-    "exit_time": null,
+    "exit_time": "2026-01-18T23:32:12.379365",
     "last_bar_collected": 1000,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T23:32:12.379365",
     "entry_volume": 2209654.200640001
   },
   "MEGA": {
@@ -549,13 +549,13 @@
     "entry_volume": 2958447.6913999994
   },
   "BCH": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-18T07:40:13.295165",
-    "exit_time": "2026-01-18T09:17:59.288161",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T23:32:12.379365",
+    "exit_time": null,
     "last_bar_collected": 842,
-    "tracking_until": "2026-01-28T09:17:59.288161",
-    "entry_volume": 1404096.8043199987
+    "tracking_until": null,
+    "entry_volume": 2826407.0301699997
   },
   "ATOM": {
     "current_run": 1,
