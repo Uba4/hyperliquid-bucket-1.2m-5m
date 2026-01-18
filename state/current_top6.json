@@ -2,19 +2,19 @@
   "tokens": [
     "MERL",
     "ICP",
-    "POL",
     "CC",
-    "TRX",
-    "AAVE"
+    "POL",
+    "AAVE",
+    "TRX"
   ],
   "scores": [
+    68,
     66,
     64,
     62,
     60,
-    58,
-    56
+    58
   ],
-  "timestamp": "2026-01-18T17:54:07.082464",
+  "timestamp": "2026-01-18T18:14:34.400974",
   "bucket": "1.2m-5m"
 }
