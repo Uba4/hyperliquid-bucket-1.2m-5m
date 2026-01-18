@@ -476,15 +476,6 @@
     "tracking_until": "2026-01-19T09:38:00.145831",
     "entry_volume": 2275736.477876
   },
-  "FTT": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T10:01:32.881098",
-    "exit_time": "2026-01-08T13:12:28.080698",
-    "last_bar_collected": 979,
-    "tracking_until": "2026-01-18T13:12:28.080698",
-    "entry_volume": 2617045.970448999
-  },
   "AVAX": {
     "current_run": 7,
     "status": "post_exit",
