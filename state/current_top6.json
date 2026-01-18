@@ -1,20 +1,20 @@
 {
   "tokens": [
     "FOGO",
-    "VVV",
-    "ICP",
-    "MON",
     "KAITO",
+    "VVV",
+    "MON",
+    "BCH",
     "TRX"
   ],
   "scores": [
-    62,
     60,
     58,
     56,
     54,
-    52
+    52,
+    50
   ],
-  "timestamp": "2026-01-18T07:27:50.085002",
+  "timestamp": "2026-01-18T07:40:13.295360",
   "bucket": "1.2m-5m"
 }
