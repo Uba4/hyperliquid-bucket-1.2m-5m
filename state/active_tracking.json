@@ -271,11 +271,11 @@
   },
   "IP": {
     "current_run": 15,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T04:32:58.743572",
-    "exit_time": null,
+    "exit_time": "2026-01-18T05:27:06.506519",
     "last_bar_collected": 1271,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T05:27:06.506519",
     "entry_volume": 5375888.26467
   },
   "CC": {
@@ -736,5 +736,14 @@
     "last_bar_collected": 9,
     "tracking_until": null,
     "entry_volume": 1209526.4435699992
+  },
+  "AXS": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T05:27:06.506519",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1804151.3892700004
   }
 }

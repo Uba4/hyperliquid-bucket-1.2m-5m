@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "IP",
-    "MERL",
+    "AXS",
     "BLUR",
     "FOGO",
-    "VVV",
-    "TRX"
+    "MERL",
+    "TRX",
+    "VVV"
   ],
   "scores": [
     66,
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-18T04:59:31.499350",
+  "timestamp": "2026-01-18T05:27:06.506701",
   "bucket": "1.2m-5m"
 }
