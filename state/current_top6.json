@@ -2,19 +2,19 @@
   "tokens": [
     "CC",
     "ARB",
-    "MERL",
+    "FOGO",
     "AAVE",
-    "UNI",
-    "TIA"
+    "TIA",
+    "MERL"
   ],
   "scores": [
     74,
     72,
     70,
-    68,
     66,
-    63
+    66,
+    66
   ],
-  "timestamp": "2026-01-18T20:44:16.546074",
+  "timestamp": "2026-01-18T20:53:37.909689",
   "bucket": "1.2m-5m"
 }

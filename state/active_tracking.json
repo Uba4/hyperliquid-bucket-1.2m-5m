@@ -451,11 +451,11 @@
   },
   "UNI": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T18:44:33.260145",
-    "exit_time": null,
+    "exit_time": "2026-01-18T20:53:37.909498",
     "last_bar_collected": 1024,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T20:53:37.909498",
     "entry_volume": 2653208.71536
   },
   "ANIME": {
@@ -567,13 +567,13 @@
     "entry_volume": 1158075.8398020002
   },
   "FOGO": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-18T09:55:38.250492",
-    "exit_time": "2026-01-18T10:38:04.795372",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T20:53:37.909498",
+    "exit_time": null,
     "last_bar_collected": 787,
-    "tracking_until": "2026-01-28T10:38:04.795372",
-    "entry_volume": 1408504.2488049997
+    "tracking_until": null,
+    "entry_volume": 1121520.3790729996
   },
   "HYPER": {
     "current_run": 5,
