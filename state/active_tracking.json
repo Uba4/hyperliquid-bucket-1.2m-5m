@@ -37,11 +37,11 @@
   },
   "TIA": {
     "current_run": 21,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T20:44:16.545883",
-    "exit_time": null,
+    "exit_time": "2026-01-18T21:46:30.228693",
     "last_bar_collected": 1344,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T21:46:30.228693",
     "entry_volume": 1250105.3704849998
   },
   "DOT": {
@@ -693,13 +693,13 @@
     "entry_volume": 3441133.306299999
   },
   "MERL": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-18T10:38:04.795372",
-    "exit_time": "2026-01-18T21:26:20.120741",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T21:46:30.228693",
+    "exit_time": null,
     "last_bar_collected": 75,
-    "tracking_until": "2026-01-28T21:26:20.120741",
-    "entry_volume": 1535787.4427699998
+    "tracking_until": null,
+    "entry_volume": 1154528.5867700004
   },
   "AXS": {
     "current_run": 1,

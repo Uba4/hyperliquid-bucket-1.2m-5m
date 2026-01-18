@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "CC",
     "FOGO",
+    "CC",
     "ARB",
     "BLUR",
-    "TIA",
-    "SAND"
+    "SAND",
+    "MERL"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-18T21:38:07.785203",
+  "timestamp": "2026-01-18T21:46:30.228865",
   "bucket": "1.2m-5m"
 }
