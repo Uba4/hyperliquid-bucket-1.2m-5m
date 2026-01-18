@@ -468,13 +468,13 @@
     "entry_volume": 2275736.477876
   },
   "AVAX": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T17:52:31.643678",
-    "exit_time": "2026-01-17T18:34:41.933762",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T22:34:14.446620",
+    "exit_time": null,
     "last_bar_collected": 996,
-    "tracking_until": "2026-01-27T18:34:41.933762",
-    "entry_volume": 2875798.892350001
+    "tracking_until": null,
+    "entry_volume": 2209654.200640001
   },
   "MEGA": {
     "current_run": 5,
@@ -568,11 +568,11 @@
   },
   "FOGO": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T20:53:37.909498",
-    "exit_time": null,
+    "exit_time": "2026-01-18T22:34:14.446620",
     "last_bar_collected": 794,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T22:34:14.446620",
     "entry_volume": 1121520.3790729996
   },
   "HYPER": {

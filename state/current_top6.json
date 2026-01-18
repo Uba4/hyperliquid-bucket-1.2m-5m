@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "FOGO",
     "CC",
     "BLUR",
     "ARB",
     "SAND",
-    "MERL"
+    "MERL",
+    "AVAX"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-18T22:10:38.323176",
+  "timestamp": "2026-01-18T22:34:14.446820",
   "bucket": "1.2m-5m"
 }
