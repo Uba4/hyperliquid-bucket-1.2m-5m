@@ -2,19 +2,19 @@
   "tokens": [
     "AVNT",
     "VVV",
+    "WLFI",
     "SPX",
-    "S",
-    "FET",
-    "JUP"
+    "FOGO",
+    "WLD"
   ],
   "scores": [
     66,
     64,
     62,
     60,
-    56,
+    58,
     56
   ],
-  "timestamp": "2026-01-19T11:59:22.942472",
+  "timestamp": "2026-01-19T12:56:47.055144",
   "bucket": "1.2m-5m"
 }
