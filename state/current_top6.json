@@ -1,20 +1,20 @@
 {
   "tokens": [
     "FOGO",
-    "VVV",
     "PENDLE",
-    "WLFI",
-    "WLD",
-    "WIF"
+    "VVV",
+    "WIF",
+    "XLM",
+    "IP"
   ],
   "scores": [
     72,
     70,
     68,
     66,
-    64,
+    62,
     62
   ],
-  "timestamp": "2026-01-19T16:01:00.868278",
+  "timestamp": "2026-01-19T16:38:59.323474",
   "bucket": "1.2m-5m"
 }
