@@ -135,13 +135,13 @@
     "entry_volume": 5491428.467262
   },
   "AVNT": {
-    "current_run": 19,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T19:31:15.320103",
-    "exit_time": "2026-01-18T02:04:08.394060",
+    "current_run": 20,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T09:42:12.865491",
+    "exit_time": null,
     "last_bar_collected": 1447,
-    "tracking_until": "2026-01-28T02:04:08.394060",
-    "entry_volume": 1249675.4655799996
+    "tracking_until": null,
+    "entry_volume": 1585415.3485700006
   },
   "TAO": {
     "current_run": 20,
@@ -288,13 +288,13 @@
     "entry_volume": 1463230.6328369998
   },
   "JUP": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T17:01:15.012963",
-    "exit_time": "2026-01-14T21:48:57.700279",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T09:42:12.865491",
+    "exit_time": null,
     "last_bar_collected": 1472,
-    "tracking_until": "2026-01-24T21:48:57.700279",
-    "entry_volume": 1089939.1538399996
+    "tracking_until": null,
+    "entry_volume": 1961569.0966000005
   },
   "MORPHO": {
     "current_run": 6,
@@ -334,11 +334,11 @@
   },
   "MNT": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T09:00:51.332249",
-    "exit_time": null,
+    "exit_time": "2026-01-19T09:42:12.865491",
     "last_bar_collected": 1460,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T09:42:12.865491",
     "entry_volume": 1083148.295801
   },
   "RENDER": {
@@ -448,15 +448,6 @@
     "last_bar_collected": 1072,
     "tracking_until": "2026-01-28T20:53:37.909498",
     "entry_volume": 2653208.71536
-  },
-  "ANIME": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T06:56:48.833938",
-    "exit_time": "2026-01-09T09:38:00.145831",
-    "last_bar_collected": 1070,
-    "tracking_until": "2026-01-19T09:38:00.145831",
-    "entry_volume": 2275736.477876
   },
   "AVAX": {
     "current_run": 8,
@@ -721,11 +712,11 @@
   },
   "S": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T08:33:01.205090",
-    "exit_time": null,
+    "exit_time": "2026-01-19T09:42:12.865491",
     "last_bar_collected": 1,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T09:42:12.865491",
     "entry_volume": 1238041.9755279997
   }
 }
