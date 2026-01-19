@@ -1,11 +1,11 @@
 {
   "tokens": [
     "FOGO",
-    "PENDLE",
     "AVNT",
-    "S",
+    "PENDLE",
     "ONDO",
-    "OP"
+    "OP",
+    "TIA"
   ],
   "scores": [
     80,
@@ -15,6 +15,6 @@
     72,
     70
   ],
-  "timestamp": "2026-01-19T19:59:07.205502",
+  "timestamp": "2026-01-19T20:27:15.101601",
   "bucket": "1.2m-5m"
 }
