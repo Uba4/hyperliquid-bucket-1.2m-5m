@@ -2,10 +2,10 @@
   "tokens": [
     "POL",
     "ICP",
-    "TRX",
     "ZRO",
-    "XLM",
-    "ZEN"
+    "ZEN",
+    "TRX",
+    "XLM"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-19T05:50:51.383967",
+  "timestamp": "2026-01-19T06:02:24.802350",
   "bucket": "1.2m-5m"
 }
