@@ -172,11 +172,11 @@
   },
   "MET": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T17:48:12.774710",
-    "exit_time": null,
+    "exit_time": "2026-01-19T18:56:34.353861",
     "last_bar_collected": 1520,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T18:56:34.353861",
     "entry_volume": 5186507.39378
   },
   "VIRTUAL": {
@@ -594,13 +594,13 @@
     "entry_volume": 1601105.16698
   },
   "OP": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T03:55:51.577756",
-    "exit_time": "2026-01-16T05:50:05.667483",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T18:56:34.353861",
+    "exit_time": null,
     "last_bar_collected": 1536,
-    "tracking_until": "2026-01-26T05:50:05.667483",
-    "entry_volume": 1400320.7709480014
+    "tracking_until": null,
+    "entry_volume": 1110735.840496
   },
   "BERA": {
     "current_run": 4,
