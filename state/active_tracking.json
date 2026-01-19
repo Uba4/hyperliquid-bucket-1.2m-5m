@@ -244,11 +244,11 @@
   },
   "XLM": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T16:38:59.323139",
-    "exit_time": null,
+    "exit_time": "2026-01-19T18:30:13.716367",
     "last_bar_collected": 1526,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T18:30:13.716367",
     "entry_volume": 1295592.43964
   },
   "IP": {
@@ -360,13 +360,13 @@
     "entry_volume": 3552715.3690939997
   },
   "ONDO": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T12:54:53.594668",
-    "exit_time": "2026-01-13T13:35:30.858564",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T18:30:13.716367",
+    "exit_time": null,
     "last_bar_collected": 1463,
-    "tracking_until": "2026-01-23T13:35:30.858564",
-    "entry_volume": 2378252.5101299994
+    "tracking_until": null,
+    "entry_volume": 2821438.3628500006
   },
   "STRK": {
     "current_run": 6,
