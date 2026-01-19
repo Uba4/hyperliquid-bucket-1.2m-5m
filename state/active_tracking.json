@@ -1,11 +1,11 @@
 {
   "ICP": {
     "current_run": 15,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T05:22:04.869210",
-    "exit_time": null,
+    "exit_time": "2026-01-19T07:45:43.645206",
     "last_bar_collected": 1485,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T07:45:43.645206",
     "entry_volume": 5094912.23413
   },
   "EIGEN": {
@@ -405,13 +405,13 @@
     "entry_volume": 5243967.354549999
   },
   "LDO": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T02:51:02.482684",
-    "exit_time": "2026-01-16T04:34:49.003046",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T07:45:43.645206",
+    "exit_time": null,
     "last_bar_collected": 1304,
-    "tracking_until": "2026-01-26T04:34:49.003046",
-    "entry_volume": 1325166.1952949998
+    "tracking_until": null,
+    "entry_volume": 2539339.302179
   },
   "STX": {
     "current_run": 6,
