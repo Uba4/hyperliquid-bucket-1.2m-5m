@@ -1,20 +1,20 @@
 {
   "tokens": [
     "AVNT",
-    "VVV",
     "WLFI",
-    "SPX",
+    "VVV",
     "FOGO",
-    "WLD"
+    "WLD",
+    "PENDLE"
   ],
   "scores": [
+    68,
     66,
     64,
     62,
     60,
-    58,
-    56
+    58
   ],
-  "timestamp": "2026-01-19T12:56:47.055144",
+  "timestamp": "2026-01-19T13:42:27.672821",
   "bucket": "1.2m-5m"
 }
