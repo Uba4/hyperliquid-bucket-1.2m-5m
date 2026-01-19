@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "RESOLV",
     "CC",
+    "POL",
     "TRX",
     "ZRO",
-    "POL",
-    "WLFI"
+    "XLM",
+    "ICP"
   ],
   "scores": [
-    74,
     72,
     70,
     68,
     66,
-    64
+    64,
+    62
   ],
-  "timestamp": "2026-01-19T04:50:55.965368",
+  "timestamp": "2026-01-19T05:22:04.869504",
   "bucket": "1.2m-5m"
 }
