@@ -190,11 +190,11 @@
   },
   "TON": {
     "current_run": 25,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T10:57:59.634695",
-    "exit_time": null,
+    "exit_time": "2026-01-19T11:40:26.501185",
     "last_bar_collected": 1476,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T11:40:26.501185",
     "entry_volume": 4092182.5735
   },
   "ASTER": {
@@ -378,13 +378,13 @@
     "entry_volume": 1584251.0426860007
   },
   "FET": {
-    "current_run": 18,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T06:53:42.459676",
-    "exit_time": "2026-01-19T07:20:54.953477",
+    "current_run": 19,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T11:40:26.501185",
+    "exit_time": null,
     "last_bar_collected": 1412,
-    "tracking_until": "2026-01-29T07:20:54.953477",
-    "entry_volume": 2462660.258629999
+    "tracking_until": null,
+    "entry_volume": 2577122.3264799984
   },
   "PAXG": {
     "current_run": 7,
