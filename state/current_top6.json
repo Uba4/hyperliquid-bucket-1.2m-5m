@@ -1,8 +1,8 @@
 {
   "tokens": [
     "AVNT",
-    "WLFI",
     "FOGO",
+    "WLFI",
     "VVV",
     "WLD",
     "PENDLE"
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-19T14:04:14.292503",
+  "timestamp": "2026-01-19T14:39:26.870029",
   "bucket": "1.2m-5m"
 }
