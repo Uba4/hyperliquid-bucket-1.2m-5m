@@ -89,15 +89,6 @@
     "tracking_until": "2026-01-26T13:25:38.972652",
     "entry_volume": 4068745.150012
   },
-  "GRIFFAIN": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T23:50:30.137695",
-    "exit_time": "2026-01-09T03:21:00.234542",
-    "last_bar_collected": 1480,
-    "tracking_until": "2026-01-19T03:21:00.234542",
-    "entry_volume": 1267157.4994550005
-  },
   "POPCAT": {
     "current_run": 16,
     "status": "post_exit",
@@ -360,13 +351,13 @@
     "entry_volume": 1270093.6060300004
   },
   "RESOLV": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T10:52:23.742944",
-    "exit_time": "2026-01-13T15:16:53.758261",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T03:57:37.990905",
+    "exit_time": null,
     "last_bar_collected": 1393,
-    "tracking_until": "2026-01-23T15:16:53.758261",
-    "entry_volume": 1146351.2947489996
+    "tracking_until": null,
+    "entry_volume": 3552715.3690939997
   },
   "ONDO": {
     "current_run": 5,
@@ -721,11 +712,11 @@
   },
   "ME": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T02:07:04.119476",
-    "exit_time": null,
+    "exit_time": "2026-01-19T03:57:37.990905",
     "last_bar_collected": 52,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T03:57:37.990905",
     "entry_volume": 4699853.079372999
   }
 }
