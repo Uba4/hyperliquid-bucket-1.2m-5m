@@ -540,21 +540,21 @@
     "entry_volume": 2826407.0301699997
   },
   "ATOM": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T21:33:51.131492",
-    "exit_time": "2026-01-19T21:54:25.760109",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T22:12:26.035991",
+    "exit_time": null,
     "last_bar_collected": 916,
-    "tracking_until": "2026-01-29T21:54:25.760109",
-    "entry_volume": 1088142.8911649995
+    "tracking_until": null,
+    "entry_volume": 1147837.2779559996
   },
   "FOGO": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T12:56:47.054681",
-    "exit_time": null,
+    "exit_time": "2026-01-19T22:12:26.035991",
     "last_bar_collected": 881,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T22:12:26.035991",
     "entry_volume": 2406571.0878729993
   },
   "HYPER": {
