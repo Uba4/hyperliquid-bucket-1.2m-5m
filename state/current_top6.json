@@ -1,11 +1,11 @@
 {
   "tokens": [
     "ZRO",
-    "CC",
-    "TON",
-    "SEI",
+    "EIGEN",
     "APT",
-    "EIGEN"
+    "SEI",
+    "ZEN",
+    "TON"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-20T11:53:41.808608",
+  "timestamp": "2026-01-20T12:20:56.919101",
   "bucket": "1.2m-5m"
 }
