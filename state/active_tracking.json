@@ -118,11 +118,11 @@
   },
   "kBONK": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T07:36:57.902436",
-    "exit_time": null,
+    "exit_time": "2026-01-20T08:40:52.293277",
     "last_bar_collected": 1553,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T08:40:52.293277",
     "entry_volume": 1999196.2452440006
   },
   "CRV": {
@@ -675,13 +675,13 @@
     "entry_volume": 3441133.306299999
   },
   "MERL": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T23:23:12.044611",
-    "exit_time": "2026-01-20T03:24:24.086767",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T08:40:52.293277",
+    "exit_time": null,
     "last_bar_collected": 205,
-    "tracking_until": "2026-01-30T03:24:24.086767",
-    "entry_volume": 1220600.6945199994
+    "tracking_until": null,
+    "entry_volume": 1267133.4301299993
   },
   "AXS": {
     "current_run": 1,
