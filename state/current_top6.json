@@ -2,10 +2,10 @@
   "tokens": [
     "MEME",
     "PENDLE",
-    "MERL",
     "SPX",
+    "MERL",
     "TIA",
-    "IP"
+    "TAO"
   ],
   "scores": [
     70,
@@ -13,8 +13,8 @@
     66,
     64,
     62,
-    60
+    58
   ],
-  "timestamp": "2026-01-20T22:52:57.052545",
+  "timestamp": "2026-01-20T23:00:28.168012",
   "bucket": "1.2m-5m"
 }
