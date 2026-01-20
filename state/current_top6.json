@@ -2,19 +2,19 @@
   "tokens": [
     "MEME",
     "CC",
-    "CRV",
     "TON",
-    "kBONK",
-    "MERL"
+    "AVNT",
+    "MERL",
+    "CRV"
   ],
   "scores": [
-    70,
     68,
     66,
     64,
+    62,
     60,
-    60
+    58
   ],
-  "timestamp": "2026-01-20T09:04:03.788693",
+  "timestamp": "2026-01-20T09:43:03.417364",
   "bucket": "1.2m-5m"
 }
