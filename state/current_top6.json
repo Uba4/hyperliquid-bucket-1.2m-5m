@@ -3,18 +3,18 @@
     "MEME",
     "PENDLE",
     "SPX",
-    "MERL",
-    "TIA",
-    "WIF"
+    "POL",
+    "WIF",
+    "SAND"
   ],
   "scores": [
     70,
     68,
     66,
-    63,
+    64,
     62,
     60
   ],
-  "timestamp": "2026-01-20T23:29:06.052846",
+  "timestamp": "2026-01-20T23:45:21.507394",
   "bucket": "1.2m-5m"
 }
