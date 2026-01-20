@@ -10,11 +10,11 @@
   },
   "EIGEN": {
     "current_run": 17,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T11:53:41.808404",
-    "exit_time": null,
+    "exit_time": "2026-01-20T14:27:50.934169",
     "last_bar_collected": 1614,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T14:27:50.934169",
     "entry_volume": 1183320.858585
   },
   "FIL": {
@@ -252,13 +252,13 @@
     "entry_volume": 1295592.43964
   },
   "IP": {
-    "current_run": 16,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T16:38:59.323139",
-    "exit_time": "2026-01-19T17:00:22.097798",
+    "current_run": 17,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T14:27:50.934169",
+    "exit_time": null,
     "last_bar_collected": 1495,
-    "tracking_until": "2026-01-29T17:00:22.097798",
-    "entry_volume": 4451350.563700001
+    "tracking_until": null,
+    "entry_volume": 2369177.2941400004
   },
   "CC": {
     "current_run": 29,
