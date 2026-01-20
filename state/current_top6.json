@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ZRO",
-    "EIGEN",
-    "APT",
-    "SEI",
+    "SAND",
     "ZEN",
-    "TON"
+    "EIGEN",
+    "ZRO",
+    "APT",
+    "MNT"
   ],
   "scores": [
+    74,
+    70,
     70,
     68,
     66,
-    64,
-    62,
-    60
+    66
   ],
-  "timestamp": "2026-01-20T12:20:56.919101",
+  "timestamp": "2026-01-20T13:15:29.825895",
   "bucket": "1.2m-5m"
 }
