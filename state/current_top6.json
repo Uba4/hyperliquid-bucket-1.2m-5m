@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MERL",
     "FOGO",
     "CC",
     "ICP",
-    "VIRTUAL",
-    "kBONK"
+    "BCH",
+    "MERL",
+    "PENGU"
   ],
   "scores": [
     72,
     70,
     68,
-    66,
+    65,
     64,
-    62
+    63
   ],
-  "timestamp": "2026-01-20T17:54:16.211508",
+  "timestamp": "2026-01-20T18:19:40.199024",
   "bucket": "1.2m-5m"
 }
