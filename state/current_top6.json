@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MEME",
+    "MERL",
     "MEGA",
     "IP",
-    "MERL",
-    "FOGO",
-    "BCH"
+    "TIA",
+    "PENDLE"
   ],
   "scores": [
     70,
-    68,
-    66,
+    67,
+    67,
     64,
-    62,
-    60
+    60,
+    58
   ],
-  "timestamp": "2026-01-20T21:44:41.878803",
+  "timestamp": "2026-01-20T21:52:30.679781",
   "bucket": "1.2m-5m"
 }
