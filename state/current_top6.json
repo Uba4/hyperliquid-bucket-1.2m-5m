@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "FOGO",
     "MEGA",
+    "FOGO",
     "IP",
     "BCH",
-    "TRX",
+    "MEME",
     "TIA"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-20T20:51:00.783081",
+  "timestamp": "2026-01-20T21:03:00.430651",
   "bucket": "1.2m-5m"
 }
