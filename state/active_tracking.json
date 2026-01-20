@@ -181,11 +181,11 @@
   },
   "VIRTUAL": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T04:29:13.816044",
-    "exit_time": null,
+    "exit_time": "2026-01-20T06:29:39.248631",
     "last_bar_collected": 1578,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T06:29:39.248631",
     "entry_volume": 3770852.018526999
   },
   "TON": {
@@ -727,5 +727,14 @@
     "last_bar_collected": 1343,
     "tracking_until": "2026-01-29T15:50:11.846540",
     "entry_volume": 1089737.0118319995
+  },
+  "MEME": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T06:29:39.248631",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1111693.1911010002
   }
 }

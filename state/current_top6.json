@@ -1,11 +1,11 @@
 {
   "tokens": [
+    "MEME",
     "PENDLE",
     "CC",
-    "ARB",
     "CRV",
     "TRX",
-    "VIRTUAL"
+    "ARB"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-20T05:56:29.503948",
+  "timestamp": "2026-01-20T06:29:39.248836",
   "bucket": "1.2m-5m"
 }
