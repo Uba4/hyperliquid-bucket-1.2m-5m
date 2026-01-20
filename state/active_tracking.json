@@ -1,11 +1,11 @@
 {
   "ICP": {
     "current_run": 16,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T16:25:05.893304",
-    "exit_time": null,
+    "exit_time": "2026-01-20T20:51:00.782884",
     "last_bar_collected": 1630,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T20:51:00.782884",
     "entry_volume": 3813568.6829700023
   },
   "EIGEN": {
@@ -36,13 +36,13 @@
     "entry_volume": 1521640.8436989998
   },
   "TIA": {
-    "current_run": 24,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T21:54:25.760109",
-    "exit_time": "2026-01-19T22:37:10.783067",
+    "current_run": 25,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T20:51:00.782884",
+    "exit_time": null,
     "last_bar_collected": 1529,
-    "tracking_until": "2026-01-29T22:37:10.783067",
-    "entry_volume": 2154408.7269879985
+    "tracking_until": null,
+    "entry_volume": 1400089.5580380003
   },
   "DOT": {
     "current_run": 14,
