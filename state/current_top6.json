@@ -3,9 +3,9 @@
     "MERL",
     "FOGO",
     "CC",
-    "kBONK",
     "ICP",
-    "IP"
+    "kBONK",
+    "VIRTUAL"
   ],
   "scores": [
     66,
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-20T16:25:05.893570",
+  "timestamp": "2026-01-20T16:58:02.089316",
   "bucket": "1.2m-5m"
 }
