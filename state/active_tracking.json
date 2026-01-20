@@ -27,13 +27,13 @@
     "entry_volume": 1547773.42603
   },
   "APT": {
-    "current_run": 20,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T03:24:24.086767",
-    "exit_time": "2026-01-20T04:29:13.816044",
+    "current_run": 21,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T11:20:54.150144",
+    "exit_time": null,
     "last_bar_collected": 1581,
-    "tracking_until": "2026-01-30T04:29:13.816044",
-    "entry_volume": 1721735.7479270003
+    "tracking_until": null,
+    "entry_volume": 1521640.8436989998
   },
   "TIA": {
     "current_run": 24,
@@ -730,11 +730,11 @@
   },
   "MEME": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T06:29:39.248631",
-    "exit_time": null,
+    "exit_time": "2026-01-20T11:20:54.150144",
     "last_bar_collected": 18,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T11:20:54.150144",
     "entry_volume": 1111693.1911010002
   }
 }
