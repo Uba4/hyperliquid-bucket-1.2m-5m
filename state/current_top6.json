@@ -2,19 +2,19 @@
   "tokens": [
     "MEME",
     "CC",
-    "TRX",
     "CRV",
-    "PENDLE",
-    "kBONK"
+    "TRX",
+    "kBONK",
+    "TRUMP"
   ],
   "scores": [
     72,
     70,
-    67,
+    68,
     66,
-    65,
+    64,
     62
   ],
-  "timestamp": "2026-01-20T07:36:57.902628",
+  "timestamp": "2026-01-20T07:53:25.990586",
   "bucket": "1.2m-5m"
 }
