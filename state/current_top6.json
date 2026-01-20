@@ -1,20 +1,20 @@
 {
   "tokens": [
     "FOGO",
-    "CC",
     "ICP",
+    "CC",
     "BCH",
-    "MERL",
-    "PENGU"
+    "TRUMP",
+    "TRX"
   ],
   "scores": [
+    74,
     72,
     70,
     68,
-    65,
-    64,
-    63
+    66,
+    64
   ],
-  "timestamp": "2026-01-20T18:19:40.199024",
+  "timestamp": "2026-01-20T19:15:06.120828",
   "bucket": "1.2m-5m"
 }
