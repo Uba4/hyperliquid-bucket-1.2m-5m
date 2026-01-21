@@ -1,11 +1,11 @@
 {
   "tokens": [
+    "CC",
     "MERL",
     "VVV",
+    "VIRTUAL",
     "PENDLE",
-    "CC",
-    "POL",
-    "VIRTUAL"
+    "POL"
   ],
   "scores": [
     66,
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-21T16:03:58.953538",
+  "timestamp": "2026-01-21T17:11:22.343829",
   "bucket": "1.2m-5m"
 }
