@@ -4,8 +4,8 @@
     "PENDLE",
     "MERL",
     "POL",
-    "SAND",
-    "BCH"
+    "TON",
+    "SAND"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-21T13:37:29.223801",
+  "timestamp": "2026-01-21T14:05:14.208299",
   "bucket": "1.2m-5m"
 }
