@@ -2,10 +2,10 @@
   "tokens": [
     "FOGO",
     "PENGU",
-    "VVV",
     "MET",
-    "EIGEN",
-    "AVNT"
+    "VVV",
+    "AVNT",
+    "EIGEN"
   ],
   "scores": [
     78,
@@ -15,6 +15,6 @@
     70,
     68
   ],
-  "timestamp": "2026-01-21T08:29:55.810635",
+  "timestamp": "2026-01-21T08:57:32.756491",
   "bucket": "1.2m-5m"
 }
