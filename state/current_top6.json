@@ -2,9 +2,9 @@
   "tokens": [
     "CC",
     "PENGU",
-    "FET",
     "VVV",
     "BCH",
+    "FET",
     "APT"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     68,
     64
   ],
-  "timestamp": "2026-01-21T10:24:02.647304",
+  "timestamp": "2026-01-21T10:52:33.149926",
   "bucket": "1.2m-5m"
 }
