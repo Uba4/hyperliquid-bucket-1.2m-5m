@@ -9,13 +9,13 @@
     "entry_volume": 3813568.6829700023
   },
   "EIGEN": {
-    "current_run": 17,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T11:53:41.808404",
-    "exit_time": "2026-01-20T14:27:50.934169",
+    "current_run": 18,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T07:17:13.337773",
+    "exit_time": null,
     "last_bar_collected": 1685,
-    "tracking_until": "2026-01-30T14:27:50.934169",
-    "entry_volume": 1183320.858585
+    "tracking_until": null,
+    "entry_volume": 1170109.8672790003
   },
   "FIL": {
     "current_run": 6,
@@ -162,30 +162,30 @@
     "entry_volume": 2063348.7777000011
   },
   "SPX": {
-    "current_run": 25,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T22:27:30.330542",
-    "exit_time": "2026-01-21T03:05:49.249890",
+    "current_run": 26,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T07:17:13.337773",
+    "exit_time": null,
     "last_bar_collected": 1604,
-    "tracking_until": "2026-01-31T03:05:49.249890",
-    "entry_volume": 4200946.4689580025
+    "tracking_until": null,
+    "entry_volume": 4218431.635769
   },
   "MET": {
-    "current_run": 15,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T14:57:11.979728",
-    "exit_time": "2026-01-20T15:55:23.105610",
+    "current_run": 16,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T07:17:13.337773",
+    "exit_time": null,
     "last_bar_collected": 1665,
-    "tracking_until": "2026-01-30T15:55:23.105610",
-    "entry_volume": 2071055.7717600004
+    "tracking_until": null,
+    "entry_volume": 1413568.48004
   },
   "VIRTUAL": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T06:44:51.188854",
-    "exit_time": null,
+    "exit_time": "2026-01-21T07:17:13.337773",
     "last_bar_collected": 1677,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T07:17:13.337773",
     "entry_volume": 3604481.8485879987
   },
   "TON": {
@@ -514,11 +514,11 @@
   },
   "BCH": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T05:23:20.850691",
-    "exit_time": null,
+    "exit_time": "2026-01-21T07:17:13.337773",
     "last_bar_collected": 1050,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T07:17:13.337773",
     "entry_volume": 4718112.74587
   },
   "ATOM": {
@@ -640,11 +640,11 @@
   },
   "SAND": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T04:12:46.473061",
-    "exit_time": null,
+    "exit_time": "2026-01-21T07:17:13.337773",
     "last_bar_collected": 341,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T07:17:13.337773",
     "entry_volume": 1536616.4577200003
   },
   "DOGE": {
