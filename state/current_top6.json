@@ -2,10 +2,10 @@
   "tokens": [
     "CC",
     "VVV",
-    "BCH",
-    "PENGU",
     "SAND",
-    "FET"
+    "BCH",
+    "PENDLE",
+    "PENGU"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-21T11:13:34.394097",
+  "timestamp": "2026-01-21T11:36:55.476816",
   "bucket": "1.2m-5m"
 }
