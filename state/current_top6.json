@@ -1,20 +1,20 @@
 {
   "tokens": [
     "VVV",
-    "PENDLE",
     "MERL",
+    "PENDLE",
+    "FOGO",
     "POL",
-    "TON",
-    "SAND"
+    "TON"
   ],
   "scores": [
-    70,
     68,
     66,
     64,
     62,
-    60
+    60,
+    58
   ],
-  "timestamp": "2026-01-21T14:05:14.208299",
+  "timestamp": "2026-01-21T14:45:58.849887",
   "bucket": "1.2m-5m"
 }

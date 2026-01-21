@@ -531,13 +531,13 @@
     "entry_volume": 1147837.2779559996
   },
   "FOGO": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T03:05:49.249890",
-    "exit_time": "2026-01-21T10:24:02.646972",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T14:45:58.849671",
+    "exit_time": null,
     "last_bar_collected": 1042,
-    "tracking_until": "2026-01-31T10:24:02.646972",
-    "entry_volume": 1192141.5833509997
+    "tracking_until": null,
+    "entry_volume": 1339087.6696330002
   },
   "HYPER": {
     "current_run": 5,
@@ -640,11 +640,11 @@
   },
   "SAND": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T11:13:34.393909",
-    "exit_time": null,
+    "exit_time": "2026-01-21T14:45:58.849671",
     "last_bar_collected": 371,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T14:45:58.849671",
     "entry_volume": 1611313.9139800002
   },
   "DOGE": {
