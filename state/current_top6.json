@@ -1,20 +1,20 @@
 {
   "tokens": [
     "CC",
-    "MERL",
-    "VVV",
+    "FOGO",
     "POL",
-    "SPX",
-    "TON"
+    "MON",
+    "TON",
+    "TRX"
   ],
   "scores": [
+    68,
     66,
     64,
     62,
     60,
-    58,
-    55
+    58
   ],
-  "timestamp": "2026-01-21T18:05:16.805187",
+  "timestamp": "2026-01-21T18:57:24.457971",
   "bucket": "1.2m-5m"
 }
