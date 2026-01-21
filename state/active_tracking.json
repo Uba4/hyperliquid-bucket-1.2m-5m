@@ -450,13 +450,13 @@
     "entry_volume": 2209654.200640001
   },
   "MEGA": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T07:44:58.277254",
-    "exit_time": "2026-01-21T08:29:55.810497",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T09:31:04.004075",
+    "exit_time": null,
     "last_bar_collected": 1212,
-    "tracking_until": "2026-01-31T08:29:55.810497",
-    "entry_volume": 1140094.4055199993
+    "tracking_until": null,
+    "entry_volume": 1127249.9278199996
   },
   "ADA": {
     "current_run": 11,
@@ -478,11 +478,11 @@
   },
   "VVV": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T06:44:51.188854",
-    "exit_time": null,
+    "exit_time": "2026-01-21T09:31:04.004075",
     "last_bar_collected": 1130,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T09:31:04.004075",
     "entry_volume": 1320763.6852370005
   },
   "ENA": {

@@ -2,19 +2,19 @@
   "tokens": [
     "FOGO",
     "PENGU",
+    "MEGA",
+    "EIGEN",
     "MET",
-    "VVV",
-    "AVNT",
-    "EIGEN"
+    "AVNT"
   ],
   "scores": [
     78,
     76,
     74,
-    72,
+    70,
     70,
     68
   ],
-  "timestamp": "2026-01-21T08:57:32.756491",
+  "timestamp": "2026-01-21T09:31:04.004241",
   "bucket": "1.2m-5m"
 }
