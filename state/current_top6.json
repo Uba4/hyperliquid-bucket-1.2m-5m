@@ -3,9 +3,9 @@
     "CC",
     "FOGO",
     "MET",
+    "RESOLV",
     "TRX",
-    "TON",
-    "RESOLV"
+    "TON"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-21T19:25:23.096349",
+  "timestamp": "2026-01-21T19:47:59.842177",
   "bucket": "1.2m-5m"
 }
