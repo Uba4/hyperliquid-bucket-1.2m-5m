@@ -2,19 +2,19 @@
   "tokens": [
     "PENDLE",
     "RESOLV",
-    "FOGO",
     "ONDO",
-    "SAND",
-    "ADA"
+    "ADA",
+    "EIGEN",
+    "SAND"
   ],
   "scores": [
+    72,
     70,
     68,
     66,
     64,
-    62,
-    60
+    62
   ],
-  "timestamp": "2026-01-21T21:03:06.455046",
+  "timestamp": "2026-01-21T21:37:53.688336",
   "bucket": "1.2m-5m"
 }
