@@ -1,20 +1,20 @@
 {
   "tokens": [
     "PENDLE",
-    "MEME",
-    "SPX",
     "POL",
-    "SAND",
-    "WIF"
+    "BCH",
+    "CC",
+    "SPX",
+    "ADA"
   ],
   "scores": [
     70,
     68,
-    66,
+    64,
     64,
     62,
-    60
+    58
   ],
-  "timestamp": "2026-01-20T23:55:10.359688",
+  "timestamp": "2026-01-21T01:04:45.842521",
   "bucket": "1.2m-5m"
 }
