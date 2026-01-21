@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "EIGEN",
-    "PENDLE",
     "VIRTUAL",
-    "SPX",
+    "ADA",
+    "EIGEN",
     "PENGU",
-    "ADA"
+    "kBONK",
+    "WIF"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-21T23:01:47.441109",
+  "timestamp": "2026-01-21T23:51:59.763683",
   "bucket": "1.2m-5m"
 }
