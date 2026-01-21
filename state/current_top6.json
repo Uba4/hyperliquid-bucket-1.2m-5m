@@ -1,11 +1,11 @@
 {
   "tokens": [
     "PENDLE",
-    "RESOLV",
-    "ONDO",
-    "ADA",
     "EIGEN",
-    "SAND"
+    "ONDO",
+    "SPX",
+    "TIA",
+    "ADA"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-21T21:37:53.688336",
+  "timestamp": "2026-01-21T21:55:47.117088",
   "bucket": "1.2m-5m"
 }
