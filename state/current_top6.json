@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "FOGO",
-    "CC",
-    "RESOLV",
     "PENDLE",
-    "MET",
-    "TRX"
+    "RESOLV",
+    "FOGO",
+    "ONDO",
+    "SAND",
+    "ADA"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-21T20:42:24.768975",
+  "timestamp": "2026-01-21T21:03:06.455046",
   "bucket": "1.2m-5m"
 }
