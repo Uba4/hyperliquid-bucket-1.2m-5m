@@ -2,19 +2,19 @@
   "tokens": [
     "FOGO",
     "PENDLE",
-    "BERA",
     "SAND",
     "TRX",
-    "IP"
+    "IP",
+    "VIRTUAL"
   ],
   "scores": [
-    72,
     70,
     68,
     66,
     64,
-    62
+    62,
+    60
   ],
-  "timestamp": "2026-01-22T23:51:46.782073",
+  "timestamp": "2026-01-22T23:59:03.813164",
   "bucket": "1.2m-5m"
 }
