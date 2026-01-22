@@ -3,18 +3,18 @@
     "RESOLV",
     "WLFI",
     "SKY",
-    "PENDLE",
+    "MET",
     "TRX",
-    "MET"
+    "PENDLE"
   ],
   "scores": [
     70,
     68,
     66,
-    64,
-    61,
-    61
+    62,
+    60,
+    60
   ],
-  "timestamp": "2026-01-22T19:35:59.923192",
+  "timestamp": "2026-01-22T19:49:42.069450",
   "bucket": "1.2m-5m"
 }
