@@ -2,19 +2,19 @@
   "tokens": [
     "FOGO",
     "RESOLV",
-    "POL",
-    "TRX",
     "PENDLE",
+    "TRX",
+    "POL",
     "VIRTUAL"
   ],
   "scores": [
-    72,
     70,
     68,
     66,
     64,
-    62
+    62,
+    60
   ],
-  "timestamp": "2026-01-22T22:27:16.249737",
+  "timestamp": "2026-01-22T22:47:58.006062",
   "bucket": "1.2m-5m"
 }
