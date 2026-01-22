@@ -2,19 +2,19 @@
   "tokens": [
     "FOGO",
     "RESOLV",
-    "SKY",
     "POL",
-    "WLFI",
-    "TRX"
+    "SKY",
+    "TRX",
+    "VIRTUAL"
   ],
   "scores": [
-    76,
     74,
     72,
+    70,
     68,
-    68,
-    66
+    66,
+    64
   ],
-  "timestamp": "2026-01-22T20:27:47.731637",
+  "timestamp": "2026-01-22T20:50:21.175562",
   "bucket": "1.2m-5m"
 }
