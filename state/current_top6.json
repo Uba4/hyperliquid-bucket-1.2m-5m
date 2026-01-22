@@ -2,10 +2,10 @@
   "tokens": [
     "SAND",
     "RESOLV",
+    "IP",
     "RENDER",
-    "CC",
     "PENDLE",
-    "PENGU"
+    "MERL"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-22T03:57:30.715538",
+  "timestamp": "2026-01-22T04:46:22.807563",
   "bucket": "1.2m-5m"
 }
