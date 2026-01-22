@@ -2,19 +2,19 @@
   "tokens": [
     "RESOLV",
     "WLFI",
+    "SKY",
+    "PENDLE",
     "TRX",
-    "BCH",
-    "MET",
-    "CC"
+    "MET"
   ],
   "scores": [
     70,
     68,
     66,
-    62,
-    62,
-    60
+    64,
+    61,
+    61
   ],
-  "timestamp": "2026-01-22T19:13:32.795908",
+  "timestamp": "2026-01-22T19:35:59.923192",
   "bucket": "1.2m-5m"
 }
