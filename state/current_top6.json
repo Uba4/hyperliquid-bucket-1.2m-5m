@@ -2,19 +2,19 @@
   "tokens": [
     "IP",
     "PENDLE",
-    "SAND",
+    "ICP",
     "BCH",
     "TRX",
-    "ICP"
+    "CC"
   ],
   "scores": [
     64,
     62,
     60,
     58,
-    56,
+    54,
     54
   ],
-  "timestamp": "2026-01-22T08:38:42.635219",
+  "timestamp": "2026-01-22T09:03:32.261562",
   "bucket": "1.2m-5m"
 }
