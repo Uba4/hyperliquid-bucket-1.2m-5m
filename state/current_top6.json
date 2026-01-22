@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "RENDER",
-    "ZEN",
-    "ICP",
-    "PENDLE",
     "SPX",
-    "FET"
+    "kSHIB",
+    "CC",
+    "JUP",
+    "SEI",
+    "TRX"
   ],
   "scores": [
+    66,
     64,
     62,
     60,
-    58,
     56,
     54
   ],
-  "timestamp": "2026-01-22T12:21:16.068257",
+  "timestamp": "2026-01-22T13:15:42.792120",
   "bucket": "1.2m-5m"
 }
