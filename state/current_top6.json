@@ -3,9 +3,9 @@
     "ZEN",
     "PENDLE",
     "ICP",
-    "CC",
-    "BCH",
-    "TON"
+    "RENDER",
+    "TON",
+    "FET"
   ],
   "scores": [
     66,
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-22T10:56:29.942117",
+  "timestamp": "2026-01-22T11:19:53.074074",
   "bucket": "1.2m-5m"
 }
