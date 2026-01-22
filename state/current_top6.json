@@ -3,9 +3,9 @@
     "FOGO",
     "RESOLV",
     "POL",
-    "SKY",
     "TRX",
-    "PENDLE"
+    "PENDLE",
+    "SKY"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-22T21:32:56.682419",
+  "timestamp": "2026-01-22T21:50:14.960977",
   "bucket": "1.2m-5m"
 }
