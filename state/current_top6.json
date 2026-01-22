@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "SAND",
     "IP",
+    "SAND",
     "PENDLE",
-    "MERL",
+    "TRX",
     "BCH",
-    "POL"
+    "NEAR"
   ],
   "scores": [
     66,
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-22T07:04:05.536146",
+  "timestamp": "2026-01-22T07:37:01.665863",
   "bucket": "1.2m-5m"
 }
