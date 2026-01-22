@@ -352,11 +352,11 @@
   },
   "ONDO": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-22T13:57:09.667524",
-    "exit_time": null,
+    "exit_time": "2026-01-22T14:56:08.267613",
     "last_bar_collected": 1733,
-    "tracking_until": null,
+    "tracking_until": "2026-02-01T14:56:08.267613",
     "entry_volume": 1226872.0354900002
   },
   "STRK": {
@@ -451,11 +451,11 @@
   },
   "ADA": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-22T14:27:32.402170",
-    "exit_time": null,
+    "exit_time": "2026-01-22T14:56:08.267613",
     "last_bar_collected": 1290,
-    "tracking_until": null,
+    "tracking_until": "2026-02-01T14:56:08.267613",
     "entry_volume": 3870590.3330600006
   },
   "POL": {
@@ -709,5 +709,23 @@
     "last_bar_collected": 1249,
     "tracking_until": "2026-02-01T14:27:32.402170",
     "entry_volume": 1138072.4558349997
+  },
+  "0G": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-22T14:56:08.267613",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1119780.1626299995
+  },
+  "SKY": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-22T14:56:08.267613",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1219580.0927789996
   }
 }
