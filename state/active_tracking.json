@@ -314,15 +314,6 @@
     "tracking_until": "2026-02-01T09:42:36.312604",
     "entry_volume": 2951029.5600600005
   },
-  "LTC": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T06:46:53.942897",
-    "exit_time": "2026-01-12T09:49:34.398069",
-    "last_bar_collected": 1765,
-    "tracking_until": "2026-01-22T09:49:34.398069",
-    "entry_volume": 4445526.24198
-  },
   "MELANIA": {
     "current_run": 12,
     "status": "post_exit",
