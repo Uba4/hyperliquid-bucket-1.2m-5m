@@ -2,19 +2,19 @@
   "tokens": [
     "RESOLV",
     "WLFI",
-    "CC",
     "TRX",
-    "TRUMP",
-    "BCH"
+    "BCH",
+    "MET",
+    "CC"
   ],
   "scores": [
+    70,
     68,
     66,
-    64,
     62,
-    60,
-    58
+    62,
+    60
   ],
-  "timestamp": "2026-01-22T18:48:07.373249",
+  "timestamp": "2026-01-22T19:13:32.795908",
   "bucket": "1.2m-5m"
 }
