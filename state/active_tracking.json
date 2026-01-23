@@ -234,13 +234,13 @@
     "entry_volume": 1413057.8618000003
   },
   "KAITO": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T10:52:09.262319",
-    "exit_time": "2026-01-23T11:33:06.262952",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T20:17:11.154855",
+    "exit_time": null,
     "last_bar_collected": 1908,
-    "tracking_until": "2026-02-02T11:33:06.262952",
-    "entry_volume": 4451392.57064
+    "tracking_until": null,
+    "entry_volume": 4646696.285789999
   },
   "XLM": {
     "current_run": 7,
@@ -271,11 +271,11 @@
   },
   "WLFI": {
     "current_run": 27,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T15:41:48.525652",
-    "exit_time": null,
+    "exit_time": "2026-01-23T20:17:11.154855",
     "last_bar_collected": 1902,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T20:17:11.154855",
     "entry_volume": 4777320.711550002
   },
   "ARB": {
