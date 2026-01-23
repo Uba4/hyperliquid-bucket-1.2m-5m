@@ -703,21 +703,21 @@
   },
   "XPL": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T18:23:31.453728",
-    "exit_time": null,
+    "exit_time": "2026-01-23T21:48:39.186102",
     "last_bar_collected": 58,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T21:48:39.186102",
     "entry_volume": 3695510.7305899994
   },
   "BNB": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T17:24:02.351130",
-    "exit_time": "2026-01-23T18:23:31.453728",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T21:48:39.186102",
+    "exit_time": null,
     "last_bar_collected": 1970,
-    "tracking_until": "2026-02-02T18:23:31.453728",
-    "entry_volume": 2391484.5434399997
+    "tracking_until": null,
+    "entry_volume": 2953969.76304
   },
   "MELANIA": {
     "current_run": 1,
