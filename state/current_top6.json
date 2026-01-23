@@ -2,19 +2,19 @@
   "tokens": [
     "MELANIA",
     "CC",
-    "XPL",
     "KAITO",
+    "XPL",
     "SPX",
-    "MON"
+    "VVV"
   ],
   "scores": [
-    68,
     66,
     64,
     62,
     60,
-    58
+    58,
+    56
   ],
-  "timestamp": "2026-01-23T20:43:13.304743",
+  "timestamp": "2026-01-23T20:56:31.038861",
   "bucket": "1.2m-5m"
 }
