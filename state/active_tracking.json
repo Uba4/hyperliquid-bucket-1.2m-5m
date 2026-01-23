@@ -28,11 +28,11 @@
   },
   "APT": {
     "current_run": 24,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T07:02:15.912736",
-    "exit_time": null,
+    "exit_time": "2026-01-23T07:49:07.234821",
     "last_bar_collected": 1853,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T07:49:07.234821",
     "entry_volume": 1087274.4842649996
   },
   "TIA": {
@@ -711,12 +711,12 @@
     "entry_volume": 1517202.9917679995
   },
   "XPL": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T06:38:48.256340",
-    "exit_time": "2026-01-23T07:02:15.912736",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T07:49:07.234821",
+    "exit_time": null,
     "last_bar_collected": 5,
-    "tracking_until": "2026-02-02T07:02:15.912736",
-    "entry_volume": 3683703.27147
+    "tracking_until": null,
+    "entry_volume": 3661605.497210001
   }
 }
