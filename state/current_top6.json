@@ -1,10 +1,10 @@
 {
   "tokens": [
     "MELANIA",
-    "CC",
     "FOGO",
-    "KAITO",
+    "CC",
     "RESOLV",
+    "KAITO",
     "IP"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-23T23:37:20.468514",
+  "timestamp": "2026-01-23T23:49:14.654632",
   "bucket": "1.2m-5m"
 }
