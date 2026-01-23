@@ -3,9 +3,9 @@
     "DASH",
     "VVV",
     "CC",
+    "SAND",
     "ONDO",
-    "AVAX",
-    "SPX"
+    "BERA"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-23T13:28:15.167344",
+  "timestamp": "2026-01-23T13:58:17.345007",
   "bucket": "1.2m-5m"
 }
