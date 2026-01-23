@@ -541,11 +541,11 @@
   },
   "BERA": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T13:58:17.344641",
-    "exit_time": null,
+    "exit_time": "2026-01-23T17:24:02.351130",
     "last_bar_collected": 1773,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T17:24:02.351130",
     "entry_volume": 5268527.071851998
   },
   "BLUR": {
@@ -711,12 +711,12 @@
     "entry_volume": 3661605.497210001
   },
   "BNB": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T09:47:39.198522",
-    "exit_time": "2026-01-23T12:36:21.931748",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T17:24:02.351130",
+    "exit_time": null,
     "last_bar_collected": 1853,
-    "tracking_until": "2026-02-02T12:36:21.931748",
-    "entry_volume": 2642511.3743599984
+    "tracking_until": null,
+    "entry_volume": 2391484.5434399997
   }
 }

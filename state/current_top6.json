@@ -3,9 +3,9 @@
     "SAND",
     "RESOLV",
     "WLFI",
-    "BERA",
+    "MON",
     "TAO",
-    "MON"
+    "BNB"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-23T16:56:58.306471",
+  "timestamp": "2026-01-23T17:24:02.351338",
   "bucket": "1.2m-5m"
 }
