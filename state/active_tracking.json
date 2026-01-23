@@ -126,13 +126,13 @@
     "entry_volume": 1827956.9463179996
   },
   "CRV": {
-    "current_run": 16,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T01:52:46.085614",
-    "exit_time": "2026-01-23T04:15:24.521493",
+    "current_run": 17,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T04:56:33.183275",
+    "exit_time": null,
     "last_bar_collected": 1834,
-    "tracking_until": "2026-02-02T04:15:24.521493",
-    "entry_volume": 3440311.281018
+    "tracking_until": null,
+    "entry_volume": 3514764.856194
   },
   "AVNT": {
     "current_run": 23,
@@ -694,11 +694,11 @@
   },
   "0G": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T01:52:46.085614",
-    "exit_time": null,
+    "exit_time": "2026-01-23T04:56:33.183275",
     "last_bar_collected": 45,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T04:56:33.183275",
     "entry_volume": 3324284.2068700003
   },
   "SKY": {
