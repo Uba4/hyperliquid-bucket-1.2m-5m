@@ -2,10 +2,10 @@
   "tokens": [
     "VVV",
     "TRX",
-    "BNB",
     "CC",
-    "KAITO",
-    "SPX"
+    "BNB",
+    "BCH",
+    "DOGE"
   ],
   "scores": [
     66,
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-23T11:10:44.096391",
+  "timestamp": "2026-01-23T11:33:06.263274",
   "bucket": "1.2m-5m"
 }
