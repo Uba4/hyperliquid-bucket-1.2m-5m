@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MELANIA",
     "XPL",
+    "MELANIA",
     "CC",
     "MON",
-    "WLFI",
-    "ADA"
+    "SPX",
+    "WLFI"
   ],
   "scores": [
     68,
     66,
     64,
     62,
-    60,
-    56
+    58,
+    58
   ],
-  "timestamp": "2026-01-23T19:36:48.243763",
+  "timestamp": "2026-01-23T19:46:49.873032",
   "bucket": "1.2m-5m"
 }
