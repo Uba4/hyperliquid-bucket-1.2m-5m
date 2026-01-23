@@ -1,20 +1,20 @@
 {
   "tokens": [
     "VVV",
-    "MERL",
-    "FOGO",
-    "VIRTUAL",
     "0G",
-    "XPL"
+    "MERL",
+    "XPL",
+    "VIRTUAL",
+    "FOGO"
   ],
   "scores": [
     72,
     70,
     68,
-    65,
+    66,
     64,
-    63
+    62
   ],
-  "timestamp": "2026-01-23T08:27:14.849437",
+  "timestamp": "2026-01-23T08:54:19.123402",
   "bucket": "1.2m-5m"
 }
