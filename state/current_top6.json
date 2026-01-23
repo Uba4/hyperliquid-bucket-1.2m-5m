@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "FOGO",
-    "PENDLE",
     "SAND",
-    "TRX",
-    "IP",
-    "VIRTUAL"
+    "0G",
+    "CRV",
+    "PENDLE",
+    "KAITO",
+    "VVV"
   ],
   "scores": [
-    70,
     68,
     66,
     64,
     62,
-    60
+    60,
+    58
   ],
-  "timestamp": "2026-01-22T23:59:03.813164",
+  "timestamp": "2026-01-23T01:52:46.086165",
   "bucket": "1.2m-5m"
 }
