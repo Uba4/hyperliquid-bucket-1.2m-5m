@@ -3,9 +3,9 @@
     "VVV",
     "TRX",
     "BNB",
-    "SKY",
-    "PENDLE",
-    "VIRTUAL"
+    "CC",
+    "KAITO",
+    "SPX"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-23T10:28:05.453812",
+  "timestamp": "2026-01-23T10:52:09.262765",
   "bucket": "1.2m-5m"
 }
