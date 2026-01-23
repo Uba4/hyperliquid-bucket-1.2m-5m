@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "DASH",
     "VVV",
     "CC",
-    "TRX",
-    "DOGE",
-    "BCH",
-    "BNB"
+    "ONDO",
+    "AVAX",
+    "SPX"
   ],
   "scores": [
+    70,
+    68,
     66,
     64,
     62,
-    60,
-    58,
-    56
+    60
   ],
-  "timestamp": "2026-01-23T11:56:23.619199",
+  "timestamp": "2026-01-23T12:36:21.932199",
   "bucket": "1.2m-5m"
 }
