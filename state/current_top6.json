@@ -2,19 +2,19 @@
   "tokens": [
     "MELANIA",
     "CC",
+    "FOGO",
     "KAITO",
-    "VVV",
     "TRX",
     "BNB"
   ],
   "scores": [
+    70,
+    68,
     66,
     64,
     62,
-    60,
-    57,
-    56
+    60
   ],
-  "timestamp": "2026-01-23T22:14:42.396914",
+  "timestamp": "2026-01-23T22:36:12.615137",
   "bucket": "1.2m-5m"
 }
