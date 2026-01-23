@@ -207,13 +207,13 @@
     "entry_volume": 3710367.4520799997
   },
   "PENDLE": {
-    "current_run": 26,
-    "status": "post_exit",
-    "entry_time": "2026-01-22T21:32:56.682233",
-    "exit_time": "2026-01-23T03:24:25.954281",
+    "current_run": 27,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T10:28:05.453655",
+    "exit_time": null,
     "last_bar_collected": 1852,
-    "tracking_until": "2026-02-02T03:24:25.954281",
-    "entry_volume": 2851595.3989999997
+    "tracking_until": null,
+    "entry_volume": 2520744.5612999992
   },
   "STABLE": {
     "current_run": 10,
@@ -712,11 +712,11 @@
   },
   "XPL": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T07:49:07.234821",
-    "exit_time": null,
+    "exit_time": "2026-01-23T10:28:05.453655",
     "last_bar_collected": 13,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T10:28:05.453655",
     "entry_volume": 3661605.497210001
   },
   "BNB": {

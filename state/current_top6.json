@@ -1,11 +1,11 @@
 {
   "tokens": [
     "VVV",
-    "VIRTUAL",
     "TRX",
-    "XPL",
     "BNB",
-    "SKY"
+    "SKY",
+    "PENDLE",
+    "VIRTUAL"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-23T09:59:06.503804",
+  "timestamp": "2026-01-23T10:28:05.453812",
   "bucket": "1.2m-5m"
 }
