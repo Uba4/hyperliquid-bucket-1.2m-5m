@@ -1,11 +1,11 @@
 {
   "tokens": [
+    "CC",
     "DASH",
     "VVV",
-    "CC",
     "SAND",
-    "ONDO",
-    "BERA"
+    "BERA",
+    "ONDO"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-23T13:58:17.345007",
+  "timestamp": "2026-01-23T14:25:45.384073",
   "bucket": "1.2m-5m"
 }
