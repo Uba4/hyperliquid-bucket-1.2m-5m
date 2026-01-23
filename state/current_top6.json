@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "CC",
     "SAND",
-    "VVV",
+    "CC",
     "BERA",
+    "VVV",
     "ONDO",
-    "BCH"
+    "WLFI"
   ],
   "scores": [
     64,
@@ -15,6 +15,6 @@
     56,
     54
   ],
-  "timestamp": "2026-01-23T15:12:57.322426",
+  "timestamp": "2026-01-23T15:41:48.525826",
   "bucket": "1.2m-5m"
 }
