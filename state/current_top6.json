@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "SPX",
     "IP",
     "RESOLV",
-    "SPX",
-    "KAITO",
     "MON",
-    "DASH"
+    "KAITO",
+    "TAO"
   ],
   "scores": [
-    52,
     50,
-    48,
-    45,
-    45,
+    50,
+    50,
+    46,
+    44,
     42
   ],
-  "timestamp": "2026-01-24T21:29:57.786931",
+  "timestamp": "2026-01-24T21:41:38.019101",
   "bucket": "1.2m-5m"
 }
