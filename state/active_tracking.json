@@ -91,11 +91,11 @@
   },
   "PENGU": {
     "current_run": 17,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T04:59:45.301733",
-    "exit_time": null,
+    "exit_time": "2026-01-24T05:25:42.477775",
     "last_bar_collected": 1940,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T05:25:42.477775",
     "entry_volume": 2596496.193582
   },
   "WIF": {
@@ -718,5 +718,14 @@
     "last_bar_collected": 2041,
     "tracking_until": "2026-02-03T03:05:01.794191",
     "entry_volume": 1236927.872364
+  },
+  "2Z": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T05:25:42.477775",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1082050.99517
   }
 }
