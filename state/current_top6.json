@@ -3,8 +3,8 @@
     "LINEA",
     "RESOLV",
     "PENDLE",
-    "MON",
     "CC",
+    "MON",
     "VVV"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     56,
     54
   ],
-  "timestamp": "2026-01-24T17:53:13.122084",
+  "timestamp": "2026-01-24T18:00:27.513284",
   "bucket": "1.2m-5m"
 }
