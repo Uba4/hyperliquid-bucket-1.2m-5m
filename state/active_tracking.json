@@ -244,11 +244,11 @@
   },
   "IP": {
     "current_run": 24,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T19:46:02.039657",
-    "exit_time": null,
+    "exit_time": "2026-01-24T22:18:04.942298",
     "last_bar_collected": 1904,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T22:18:04.942298",
     "entry_volume": 4175041.7183600008
   },
   "CC": {
@@ -531,13 +531,13 @@
     "entry_volume": 1099539.1562659994
   },
   "BERA": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T10:22:06.034804",
-    "exit_time": "2026-01-24T11:01:00.879984",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T22:18:04.942298",
+    "exit_time": null,
     "last_bar_collected": 1884,
-    "tracking_until": "2026-02-03T11:01:00.879984",
-    "entry_volume": 2551874.908509001
+    "tracking_until": null,
+    "entry_volume": 1631490.6524769997
   },
   "BLUR": {
     "current_run": 8,
