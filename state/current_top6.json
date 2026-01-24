@@ -3,8 +3,8 @@
     "CC",
     "RESOLV",
     "SPX",
-    "LINEA",
     "MON",
+    "LINEA",
     "BERA"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     48,
     46
   ],
-  "timestamp": "2026-01-24T22:50:45.950707",
+  "timestamp": "2026-01-24T22:58:44.218706",
   "bucket": "1.2m-5m"
 }
