@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "LINEA",
     "PENDLE",
     "RESOLV",
-    "CC",
+    "LINEA",
+    "TRX",
     "MON",
-    "TRX"
+    "KAITO"
   ],
   "scores": [
     60,
     58,
     56,
-    54,
+    52,
     52,
     50
   ],
-  "timestamp": "2026-01-24T19:13:41.605371",
+  "timestamp": "2026-01-24T19:29:00.082515",
   "bucket": "1.2m-5m"
 }
