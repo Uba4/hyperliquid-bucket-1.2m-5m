@@ -1,9 +1,9 @@
 {
   "tokens": [
     "MELANIA",
-    "MERL",
-    "CRV",
     "KAITO",
+    "CRV",
+    "MERL",
     "TRUMP",
     "XPL"
   ],
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-24T14:56:42.513595",
+  "timestamp": "2026-01-24T15:16:36.929206",
   "bucket": "1.2m-5m"
 }
