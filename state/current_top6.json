@@ -3,9 +3,9 @@
     "MELANIA",
     "KAITO",
     "CRV",
-    "MERL",
     "TRUMP",
-    "XPL"
+    "XPL",
+    "MON"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-24T15:16:36.929206",
+  "timestamp": "2026-01-24T15:34:33.352902",
   "bucket": "1.2m-5m"
 }
