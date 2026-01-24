@@ -100,11 +100,11 @@
   },
   "WIF": {
     "current_run": 29,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T06:57:50.809450",
-    "exit_time": null,
+    "exit_time": "2026-01-24T07:19:23.127255",
     "last_bar_collected": 1897,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T07:19:23.127255",
     "entry_volume": 1178642.07653
   },
   "kBONK": {
@@ -727,5 +727,14 @@
     "last_bar_collected": 6,
     "tracking_until": null,
     "entry_volume": 1082050.99517
+  },
+  "LTC": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T07:19:23.127255",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 3560175.7056
   }
 }
