@@ -2,9 +2,9 @@
   "tokens": [
     "MELANIA",
     "MERL",
-    "ICP",
     "CRV",
     "STRK",
+    "ICP",
     "XPL"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-24T12:54:16.080261",
+  "timestamp": "2026-01-24T13:24:38.893737",
   "bucket": "1.2m-5m"
 }
