@@ -1,8 +1,8 @@
 {
   "tokens": [
     "LINEA",
-    "RESOLV",
     "PENDLE",
+    "RESOLV",
     "CC",
     "MON",
     "TRX"
@@ -15,6 +15,6 @@
     52,
     50
   ],
-  "timestamp": "2026-01-24T18:56:24.239606",
+  "timestamp": "2026-01-24T19:13:41.605371",
   "bucket": "1.2m-5m"
 }
