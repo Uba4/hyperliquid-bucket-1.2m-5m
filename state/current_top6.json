@@ -2,10 +2,10 @@
   "tokens": [
     "IP",
     "2Z",
-    "MERL",
     "MON",
+    "MERL",
     "KAITO",
-    "WLFI"
+    "WIF"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-24T06:38:08.062696",
+  "timestamp": "2026-01-24T06:57:50.809665",
   "bucket": "1.2m-5m"
 }
