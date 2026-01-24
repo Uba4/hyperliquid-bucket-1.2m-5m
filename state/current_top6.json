@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "RESOLV",
     "CC",
+    "RESOLV",
     "SPX",
+    "LINEA",
     "MON",
-    "TAO",
     "BERA"
   ],
   "scores": [
@@ -12,9 +12,9 @@
     54,
     52,
     50,
-    46,
+    48,
     46
   ],
-  "timestamp": "2026-01-24T22:39:08.158338",
+  "timestamp": "2026-01-24T22:50:45.950707",
   "bucket": "1.2m-5m"
 }
