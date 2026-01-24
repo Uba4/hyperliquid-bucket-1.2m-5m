@@ -3,18 +3,18 @@
     "MELANIA",
     "MERL",
     "CRV",
-    "STRK",
     "KAITO",
-    "XPL"
+    "XPL",
+    "STRK"
   ],
   "scores": [
-    64,
     62,
     60,
     58,
     56,
-    54
+    54,
+    52
   ],
-  "timestamp": "2026-01-24T14:13:34.389380",
+  "timestamp": "2026-01-24T14:35:13.755314",
   "bucket": "1.2m-5m"
 }
