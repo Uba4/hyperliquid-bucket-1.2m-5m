@@ -496,11 +496,11 @@
   },
   "FOGO": {
     "current_run": 18,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T22:36:12.614950",
-    "exit_time": null,
+    "exit_time": "2026-01-24T04:04:10.483801",
     "last_bar_collected": 1287,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T04:04:10.483801",
     "entry_volume": 1537724.2371490002
   },
   "MON": {
@@ -693,13 +693,13 @@
     "entry_volume": 1642605.7239929994
   },
   "XPL": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T18:23:31.453728",
-    "exit_time": "2026-01-23T21:48:39.186102",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T04:04:10.483801",
+    "exit_time": null,
     "last_bar_collected": 85,
-    "tracking_until": "2026-02-02T21:48:39.186102",
-    "entry_volume": 3695510.7305899994
+    "tracking_until": null,
+    "entry_volume": 4086486.180740001
   },
   "BNB": {
     "current_run": 3,
