@@ -1,11 +1,11 @@
 {
   "ICP": {
     "current_run": 18,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T10:22:06.034804",
-    "exit_time": null,
+    "exit_time": "2026-01-24T13:46:07.533978",
     "last_bar_collected": 1981,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T13:46:07.533978",
     "entry_volume": 1514976.6221300003
   },
   "EIGEN": {
@@ -225,13 +225,13 @@
     "entry_volume": 1413057.8618000003
   },
   "KAITO": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T06:38:08.062490",
-    "exit_time": "2026-01-24T10:22:06.034804",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T13:46:07.533978",
+    "exit_time": null,
     "last_bar_collected": 1974,
-    "tracking_until": "2026-02-03T10:22:06.034804",
-    "entry_volume": 2687291.557759998
+    "tracking_until": null,
+    "entry_volume": 2257705.1850200007
   },
   "XLM": {
     "current_run": 7,
