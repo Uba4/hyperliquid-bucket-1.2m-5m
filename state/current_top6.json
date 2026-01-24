@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MELANIA",
-    "CRV",
     "MERL",
+    "CRV",
     "KAITO",
     "TRUMP",
     "XPL"
   ],
   "scores": [
+    68,
     66,
-    63,
-    63,
+    64,
+    62,
     60,
-    58,
-    56
+    58
   ],
-  "timestamp": "2026-01-24T14:48:54.466455",
+  "timestamp": "2026-01-24T14:56:42.513595",
   "bucket": "1.2m-5m"
 }
