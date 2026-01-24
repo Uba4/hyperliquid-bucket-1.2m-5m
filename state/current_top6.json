@@ -2,19 +2,19 @@
   "tokens": [
     "IP",
     "KAITO",
-    "PENDLE",
     "RESOLV",
     "SPX",
-    "DASH"
+    "DASH",
+    "MON"
   ],
   "scores": [
-    60,
-    58,
-    56,
-    54,
     52,
-    50
+    50,
+    48,
+    46,
+    44,
+    42
   ],
-  "timestamp": "2026-01-24T20:33:55.540007",
+  "timestamp": "2026-01-24T20:46:47.664419",
   "bucket": "1.2m-5m"
 }
