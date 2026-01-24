@@ -1,20 +1,20 @@
 {
   "tokens": [
     "PENDLE",
-    "RESOLV",
     "KAITO",
+    "IP",
+    "RESOLV",
     "TRX",
-    "MON",
-    "DASH"
+    "MON"
   ],
   "scores": [
     60,
     58,
-    56,
-    52,
+    54,
+    54,
     52,
     50
   ],
-  "timestamp": "2026-01-24T19:38:24.455963",
+  "timestamp": "2026-01-24T19:46:02.039834",
   "bucket": "1.2m-5m"
 }
