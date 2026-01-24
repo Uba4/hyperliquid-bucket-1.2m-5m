@@ -244,11 +244,11 @@
   },
   "IP": {
     "current_run": 23,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T23:37:20.468337",
-    "exit_time": null,
+    "exit_time": "2026-01-24T08:52:46.790901",
     "last_bar_collected": 1854,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T08:52:46.790901",
     "entry_volume": 3695071.710320002
   },
   "CC": {
@@ -603,13 +603,13 @@
     "entry_volume": 5252404.220950004
   },
   "MERL": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T03:05:01.794191",
-    "exit_time": "2026-01-24T08:33:05.356926",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T08:52:46.790901",
+    "exit_time": null,
     "last_bar_collected": 585,
-    "tracking_until": "2026-02-03T08:33:05.356926",
-    "entry_volume": 1832524.7330299995
+    "tracking_until": null,
+    "entry_volume": 1588278.6018699987
   },
   "AXS": {
     "current_run": 1,
