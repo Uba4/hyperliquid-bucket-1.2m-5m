@@ -1,20 +1,20 @@
 {
   "tokens": [
     "2Z",
-    "MON",
     "MELANIA",
     "WLFI",
     "KAITO",
-    "NEAR"
+    "XPL",
+    "MON"
   ],
   "scores": [
-    70,
     68,
     66,
     64,
-    62,
+    60,
+    60,
     60
   ],
-  "timestamp": "2026-01-24T09:00:57.583142",
+  "timestamp": "2026-01-24T09:28:20.938319",
   "bucket": "1.2m-5m"
 }
