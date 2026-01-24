@@ -396,13 +396,13 @@
     "entry_volume": 2653208.71536
   },
   "AVAX": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T12:36:21.931748",
-    "exit_time": "2026-01-23T13:58:17.344641",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T23:46:44.542158",
+    "exit_time": null,
     "last_bar_collected": 1572,
-    "tracking_until": "2026-02-02T13:58:17.344641",
-    "entry_volume": 3946263.5069399993
+    "tracking_until": null,
+    "entry_volume": 1547530.6013800004
   },
   "MEGA": {
     "current_run": 8,
@@ -523,11 +523,11 @@
   },
   "BERA": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T22:18:04.942298",
-    "exit_time": null,
+    "exit_time": "2026-01-24T23:46:44.542158",
     "last_bar_collected": 1889,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T23:46:44.542158",
     "entry_volume": 1631490.6524769997
   },
   "BLUR": {
