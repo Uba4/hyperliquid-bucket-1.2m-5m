@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "FOGO",
-    "CC",
     "IP",
+    "MERL",
     "RESOLV",
-    "MELANIA",
-    "VVV"
+    "CC",
+    "FOGO",
+    "WLFI"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-24T01:22:02.285758",
+  "timestamp": "2026-01-24T03:05:01.794597",
   "bucket": "1.2m-5m"
 }
