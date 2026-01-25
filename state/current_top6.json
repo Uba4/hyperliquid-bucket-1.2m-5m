@@ -2,10 +2,10 @@
   "tokens": [
     "RESOLV",
     "CRV",
+    "DOT",
+    "WIF",
     "TON",
-    "BNB",
-    "TRUMP",
-    "DOT"
+    "TRUMP"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-25T23:45:07.364426",
+  "timestamp": "2026-01-25T23:53:30.764080",
   "bucket": "1.2m-5m"
 }

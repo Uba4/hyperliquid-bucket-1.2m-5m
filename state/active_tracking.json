@@ -90,13 +90,13 @@
     "entry_volume": 2219306.895963
   },
   "WIF": {
-    "current_run": 29,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T06:57:50.809450",
-    "exit_time": "2026-01-24T07:19:23.127255",
+    "current_run": 30,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T23:53:30.763887",
+    "exit_time": null,
     "last_bar_collected": 2060,
-    "tracking_until": "2026-02-03T07:19:23.127255",
-    "entry_volume": 1178642.07653
+    "tracking_until": null,
+    "entry_volume": 1552471.7604299996
   },
   "kBONK": {
     "current_run": 14,
@@ -658,11 +658,11 @@
   },
   "BNB": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T20:28:15.794054",
-    "exit_time": null,
+    "exit_time": "2026-01-25T23:53:30.763887",
     "last_bar_collected": 2460,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T23:53:30.763887",
     "entry_volume": 4306559.128379999
   },
   "MELANIA": {
