@@ -3,9 +3,9 @@
     "RESOLV",
     "CRV",
     "TON",
-    "TRX",
     "BNB",
-    "TRUMP"
+    "TRUMP",
+    "DOT"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-25T23:09:58.686696",
+  "timestamp": "2026-01-25T23:31:35.319448",
   "bucket": "1.2m-5m"
 }
