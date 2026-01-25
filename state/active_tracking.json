@@ -145,11 +145,11 @@
   },
   "SPX": {
     "current_run": 36,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T07:32:57.694932",
-    "exit_time": null,
+    "exit_time": "2026-01-25T11:24:27.249570",
     "last_bar_collected": 1988,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T11:24:27.249570",
     "entry_volume": 1701504.8475429998
   },
   "MET": {
@@ -396,13 +396,13 @@
     "entry_volume": 2653208.71536
   },
   "AVAX": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T23:46:44.542158",
-    "exit_time": "2026-01-25T01:03:06.276176",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T11:24:27.249570",
+    "exit_time": null,
     "last_bar_collected": 1616,
-    "tracking_until": "2026-02-04T01:03:06.276176",
-    "entry_volume": 1547530.6013800004
+    "tracking_until": null,
+    "entry_volume": 2224112.9014099995
   },
   "MEGA": {
     "current_run": 8,
