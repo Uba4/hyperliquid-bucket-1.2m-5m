@@ -370,11 +370,11 @@
   },
   "TRUMP": {
     "current_run": 22,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T14:53:10.222741",
-    "exit_time": null,
+    "exit_time": "2026-01-25T16:49:36.761273",
     "last_bar_collected": 1702,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T16:49:36.761273",
     "entry_volume": 1225156.5709400005
   },
   "UNI": {
@@ -684,13 +684,13 @@
     "entry_volume": 4007911.177520002
   },
   "BNB": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T07:11:41.762410",
-    "exit_time": "2026-01-25T07:45:05.704631",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T16:49:36.761273",
+    "exit_time": null,
     "last_bar_collected": 2338,
-    "tracking_until": "2026-02-04T07:45:05.704631",
-    "entry_volume": 2961587.700179999
+    "tracking_until": null,
+    "entry_volume": 3441794.6514299996
   },
   "MELANIA": {
     "current_run": 2,
