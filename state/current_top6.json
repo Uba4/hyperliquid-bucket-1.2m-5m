@@ -2,19 +2,19 @@
   "tokens": [
     "WCT",
     "LTC",
-    "DASH",
-    "RESOLV",
     "TRX",
-    "TRUMP"
+    "TRUMP",
+    "ADA",
+    "BNB"
   ],
   "scores": [
     54,
-    50,
+    52,
     50,
     48,
     46,
     44
   ],
-  "timestamp": "2026-01-25T06:51:38.851102",
+  "timestamp": "2026-01-25T07:11:41.762757",
   "bucket": "1.2m-5m"
 }
