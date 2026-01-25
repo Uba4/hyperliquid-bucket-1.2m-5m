@@ -1,11 +1,11 @@
 {
   "tokens": [
     "LTC",
-    "WCT",
     "MON",
-    "SPX",
     "TRX",
-    "ADA"
+    "CRV",
+    "ADA",
+    "SPX"
   ],
   "scores": [
     54,
@@ -15,6 +15,6 @@
     46,
     44
   ],
-  "timestamp": "2026-01-25T10:53:07.017826",
+  "timestamp": "2026-01-25T11:00:59.437305",
   "bucket": "1.2m-5m"
 }
