@@ -2,10 +2,10 @@
   "tokens": [
     "WCT",
     "LTC",
-    "TRUMP",
     "SPX",
+    "TRUMP",
     "TRX",
-    "ENA"
+    "AAVE"
   ],
   "scores": [
     54,
@@ -15,6 +15,6 @@
     46,
     44
   ],
-  "timestamp": "2026-01-25T08:00:21.987145",
+  "timestamp": "2026-01-25T08:34:25.910678",
   "bucket": "1.2m-5m"
 }
