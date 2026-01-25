@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "LAYER",
+    "TRX",
     "IP",
     "CRV",
-    "TRX",
     "TRUMP",
-    "DASH",
-    "LTC"
+    "DASH"
   ],
   "scores": [
+    62,
     60,
     58,
     56,
     54,
-    52,
-    50
+    52
   ],
-  "timestamp": "2026-01-25T15:41:08.367874",
+  "timestamp": "2026-01-25T15:51:04.623873",
   "bucket": "1.2m-5m"
 }

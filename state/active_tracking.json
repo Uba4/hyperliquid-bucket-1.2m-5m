@@ -712,11 +712,11 @@
   },
   "LTC": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T05:06:06.123858",
-    "exit_time": null,
+    "exit_time": "2026-01-25T15:51:04.623733",
     "last_bar_collected": 2090,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T15:51:04.623733",
     "entry_volume": 2953520.466799999
   },
   "LINEA": {
@@ -745,5 +745,14 @@
     "last_bar_collected": 814,
     "tracking_until": "2026-02-04T11:00:59.437116",
     "entry_volume": 2067648.314466
+  },
+  "LAYER": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T15:51:04.623733",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1083573.0735200003
   }
 }
