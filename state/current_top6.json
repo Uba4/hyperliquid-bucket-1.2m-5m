@@ -2,9 +2,9 @@
   "tokens": [
     "WCT",
     "LTC",
-    "TRX",
     "TRUMP",
-    "ADA",
+    "TRX",
+    "SPX",
     "BNB"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     46,
     44
   ],
-  "timestamp": "2026-01-25T07:11:41.762757",
+  "timestamp": "2026-01-25T07:32:57.695116",
   "bucket": "1.2m-5m"
 }
