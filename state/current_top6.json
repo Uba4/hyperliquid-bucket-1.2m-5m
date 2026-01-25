@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "AVNT",
     "WCT",
+    "AVNT",
+    "DASH",
     "CC",
     "RESOLV",
-    "GAS",
     "PENDLE"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     48,
     46
   ],
-  "timestamp": "2026-01-25T03:18:35.007455",
+  "timestamp": "2026-01-25T04:32:39.948825",
   "bucket": "1.2m-5m"
 }
