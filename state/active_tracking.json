@@ -243,13 +243,13 @@
     "entry_volume": 3077619.005959997
   },
   "CC": {
-    "current_run": 42,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T11:36:26.811086",
-    "exit_time": "2026-01-25T14:44:07.198747",
+    "current_run": 43,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T18:25:17.994076",
+    "exit_time": null,
     "last_bar_collected": 2028,
-    "tracking_until": "2026-02-04T14:44:07.198747",
-    "entry_volume": 1157069.91296
+    "tracking_until": null,
+    "entry_volume": 1251589.41686
   },
   "WLFI": {
     "current_run": 30,
@@ -667,11 +667,11 @@
   },
   "BNB": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T16:49:36.761273",
-    "exit_time": null,
+    "exit_time": "2026-01-25T18:25:17.994076",
     "last_bar_collected": 2439,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T18:25:17.994076",
     "entry_volume": 3441794.6514299996
   },
   "MELANIA": {
