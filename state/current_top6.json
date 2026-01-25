@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "CC",
-    "LINEA",
     "AVNT",
-    "MON",
-    "SPX",
-    "XPL"
+    "WCT",
+    "CC",
+    "RESOLV",
+    "GAS",
+    "PENDLE"
   ],
   "scores": [
     56,
@@ -15,6 +15,6 @@
     48,
     46
   ],
-  "timestamp": "2026-01-25T01:03:06.276511",
+  "timestamp": "2026-01-25T03:18:35.007455",
   "bucket": "1.2m-5m"
 }
