@@ -4,8 +4,8 @@
     "LTC",
     "SPX",
     "TRX",
-    "TRUMP",
-    "AAVE"
+    "AAVE",
+    "TRUMP"
   ],
   "scores": [
     52,
@@ -15,6 +15,6 @@
     44,
     42
   ],
-  "timestamp": "2026-01-25T09:11:00.153132",
+  "timestamp": "2026-01-25T09:34:21.757816",
   "bucket": "1.2m-5m"
 }
