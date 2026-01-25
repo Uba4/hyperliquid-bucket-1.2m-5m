@@ -639,13 +639,13 @@
     "entry_volume": 1138072.4558349997
   },
   "0G": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T08:27:14.849280",
-    "exit_time": "2026-01-23T09:19:59.919317",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T19:23:31.447672",
+    "exit_time": null,
     "last_bar_collected": 293,
-    "tracking_until": "2026-02-02T09:19:59.919317",
-    "entry_volume": 4893148.15878
+    "tracking_until": null,
+    "entry_volume": 3144966.3449100023
   },
   "SKY": {
     "current_run": 4,
@@ -739,11 +739,11 @@
   },
   "BANANA": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T17:38:53.997383",
-    "exit_time": null,
+    "exit_time": "2026-01-25T19:23:31.447672",
     "last_bar_collected": 5,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T19:23:31.447672",
     "entry_volume": 1081524.5210799999
   }
 }

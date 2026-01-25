@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "BANANA",
     "RESOLV",
     "MERL",
     "DASH",
     "CC",
-    "TRX"
+    "TRX",
+    "0G"
   ],
   "scores": [
     66,
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-25T19:01:15.847509",
+  "timestamp": "2026-01-25T19:23:31.447900",
   "bucket": "1.2m-5m"
 }
