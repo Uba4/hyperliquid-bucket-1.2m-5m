@@ -1,11 +1,11 @@
 {
   "tokens": [
     "IP",
-    "LTC",
     "CRV",
+    "LTC",
     "TRX",
-    "kBONK",
-    "MON"
+    "TRUMP",
+    "kBONK"
   ],
   "scores": [
     60,
@@ -15,6 +15,6 @@
     52,
     50
   ],
-  "timestamp": "2026-01-25T14:44:07.198953",
+  "timestamp": "2026-01-25T14:53:10.222945",
   "bucket": "1.2m-5m"
 }
