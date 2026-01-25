@@ -505,11 +505,11 @@
   },
   "BERA": {
     "current_run": 13,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T17:21:46.554409",
-    "exit_time": null,
+    "exit_time": "2026-01-25T17:38:53.997383",
     "last_bar_collected": 1958,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T17:38:53.997383",
     "entry_volume": 1538378.6062619998
   },
   "BLUR": {
@@ -736,5 +736,14 @@
     "last_bar_collected": 7,
     "tracking_until": "2026-02-04T17:21:46.554409",
     "entry_volume": 1083573.0735200003
+  },
+  "BANANA": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T17:38:53.997383",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1081524.5210799999
   }
 }

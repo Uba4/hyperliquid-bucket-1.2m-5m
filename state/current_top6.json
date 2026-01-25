@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "BANANA",
     "TRX",
-    "DASH",
     "RESOLV",
+    "DASH",
     "IP",
-    "BNB",
-    "BERA"
+    "BNB"
   ],
   "scores": [
+    68,
     64,
-    62,
+    64,
+    64,
     60,
-    58,
-    56,
-    54
+    58
   ],
-  "timestamp": "2026-01-25T17:21:46.554823",
+  "timestamp": "2026-01-25T17:38:53.997552",
   "bucket": "1.2m-5m"
 }
