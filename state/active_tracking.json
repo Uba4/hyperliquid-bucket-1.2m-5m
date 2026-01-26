@@ -136,11 +136,11 @@
   },
   "SPX": {
     "current_run": 38,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T16:01:54.332913",
-    "exit_time": null,
+    "exit_time": "2026-01-26T23:40:25.629606",
     "last_bar_collected": 2136,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T23:40:25.629606",
     "entry_volume": 1851078.006592001
   },
   "MET": {
@@ -630,13 +630,13 @@
     "entry_volume": 1642605.7239929994
   },
   "XPL": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T18:44:16.454065",
-    "exit_time": "2026-01-26T23:20:21.587794",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T23:40:25.629606",
+    "exit_time": null,
     "last_bar_collected": 345,
-    "tracking_until": "2026-02-05T23:20:21.587794",
-    "entry_volume": 5304335.80226
+    "tracking_until": null,
+    "entry_volume": 3660495.323270001
   },
   "BNB": {
     "current_run": 6,
