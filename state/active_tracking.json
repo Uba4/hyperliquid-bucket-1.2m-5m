@@ -73,11 +73,11 @@
   },
   "PENGU": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T05:07:16.433249",
-    "exit_time": null,
+    "exit_time": "2026-01-26T07:55:40.804723",
     "last_bar_collected": 2138,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T07:55:40.804723",
     "entry_volume": 3217469.483409999
   },
   "WIF": {
@@ -342,13 +342,13 @@
     "entry_volume": 5153302.070000001
   },
   "LDO": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T05:02:32.903209",
-    "exit_time": "2026-01-20T05:56:29.503801",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T07:55:40.804723",
+    "exit_time": null,
     "last_bar_collected": 1973,
-    "tracking_until": "2026-01-30T05:56:29.503801",
-    "entry_volume": 1637036.170063
+    "tracking_until": null,
+    "entry_volume": 1338615.3236679998
   },
   "TRUMP": {
     "current_run": 23,
