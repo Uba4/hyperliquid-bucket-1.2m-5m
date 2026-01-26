@@ -2,19 +2,19 @@
   "tokens": [
     "KAITO",
     "DASH",
-    "AVNT",
     "SPX",
+    "AVNT",
     "BERA",
     "PENGU"
   ],
   "scores": [
+    64,
     62,
     60,
     58,
     56,
-    54,
-    52
+    54
   ],
-  "timestamp": "2026-01-26T17:47:48.321164",
+  "timestamp": "2026-01-26T18:00:20.602602",
   "bucket": "1.2m-5m"
 }
