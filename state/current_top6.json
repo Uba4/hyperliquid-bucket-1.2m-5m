@@ -1,11 +1,11 @@
 {
   "tokens": [
+    "MELANIA",
     "AVNT",
-    "KAITO",
     "SPX",
     "XPL",
-    "PENGU",
-    "PENDLE"
+    "KAITO",
+    "PENGU"
   ],
   "scores": [
     66,
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-26T19:05:24.171940",
+  "timestamp": "2026-01-26T19:33:05.494333",
   "bucket": "1.2m-5m"
 }

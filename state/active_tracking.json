@@ -181,11 +181,11 @@
   },
   "PENDLE": {
     "current_run": 32,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T19:05:24.171740",
-    "exit_time": null,
+    "exit_time": "2026-01-26T19:33:05.494163",
     "last_bar_collected": 2174,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T19:33:05.494163",
     "entry_volume": 1249112.9520999994
   },
   "STABLE": {
@@ -657,13 +657,13 @@
     "entry_volume": 4306559.128379999
   },
   "MELANIA": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T08:33:05.356926",
-    "exit_time": "2026-01-24T16:41:14.376017",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T19:33:05.494163",
+    "exit_time": null,
     "last_bar_collected": 2391,
-    "tracking_until": "2026-02-03T16:41:14.376017",
-    "entry_volume": 1933444.1061299995
+    "tracking_until": null,
+    "entry_volume": 1139210.6657699998
   },
   "2Z": {
     "current_run": 1,
