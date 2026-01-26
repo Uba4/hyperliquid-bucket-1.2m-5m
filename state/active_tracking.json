@@ -496,11 +496,11 @@
   },
   "BERA": {
     "current_run": 16,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T15:15:39.948516",
-    "exit_time": null,
+    "exit_time": "2026-01-26T18:44:16.454065",
     "last_bar_collected": 2053,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T18:44:16.454065",
     "entry_volume": 1782176.765771
   },
   "BLUR": {
@@ -639,13 +639,13 @@
     "entry_volume": 1642605.7239929994
   },
   "XPL": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T01:03:06.276176",
-    "exit_time": "2026-01-25T03:18:35.006890",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T18:44:16.454065",
+    "exit_time": null,
     "last_bar_collected": 324,
-    "tracking_until": "2026-02-04T03:18:35.006890",
-    "entry_volume": 4007911.177520002
+    "tracking_until": null,
+    "entry_volume": 5304335.80226
   },
   "BNB": {
     "current_run": 6,

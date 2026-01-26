@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "KAITO",
-    "DASH",
-    "SPX",
     "AVNT",
-    "BERA",
+    "KAITO",
+    "SPX",
+    "DASH",
+    "XPL",
     "PENGU"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     56,
     54
   ],
-  "timestamp": "2026-01-26T18:00:20.602602",
+  "timestamp": "2026-01-26T18:44:16.454171",
   "bucket": "1.2m-5m"
 }
