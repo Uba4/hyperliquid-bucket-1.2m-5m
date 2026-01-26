@@ -512,15 +512,6 @@
     "tracking_until": "2026-01-29T02:07:04.119476",
     "entry_volume": 1125039.9597700003
   },
-  "MOVE": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T12:41:28.322733",
-    "exit_time": "2026-01-16T22:52:42.991192",
-    "last_bar_collected": 1129,
-    "tracking_until": "2026-01-26T22:52:42.991192",
-    "entry_volume": 1632092.243567999
-  },
   "XAI": {
     "current_run": 2,
     "status": "post_exit",
