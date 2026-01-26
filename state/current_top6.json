@@ -1,20 +1,20 @@
 {
   "tokens": [
     "RESOLV",
-    "LDO",
     "VVV",
-    "PENDLE",
-    "TAO",
-    "POL"
+    "LDO",
+    "POL",
+    "ARB",
+    "APT"
   ],
   "scores": [
     62,
     60,
     58,
+    56,
     54,
-    52,
-    52
+    50
   ],
-  "timestamp": "2026-01-26T08:53:57.355411",
+  "timestamp": "2026-01-26T09:23:21.530027",
   "bucket": "1.2m-5m"
 }
