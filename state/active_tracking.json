@@ -19,11 +19,11 @@
   },
   "APT": {
     "current_run": 26,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T09:23:21.529690",
-    "exit_time": null,
+    "exit_time": "2026-01-26T11:28:43.469115",
     "last_bar_collected": 2147,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T11:28:43.469115",
     "entry_volume": 2164441.5959710004
   },
   "TIA": {
@@ -621,13 +621,13 @@
     "entry_volume": 1138072.4558349997
   },
   "0G": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T05:45:53.073559",
-    "exit_time": "2026-01-26T07:17:21.269680",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T11:28:43.469115",
+    "exit_time": null,
     "last_bar_collected": 355,
-    "tracking_until": "2026-02-05T07:17:21.269680",
-    "entry_volume": 1759335.99558
+    "tracking_until": null,
+    "entry_volume": 1536081.59861
   },
   "SKY": {
     "current_run": 4,
