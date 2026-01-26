@@ -2,10 +2,10 @@
   "tokens": [
     "RESOLV",
     "WCT",
-    "TAO",
     "DASH",
-    "PENGU",
-    "PENDLE"
+    "TAO",
+    "PENDLE",
+    "PENGU"
   ],
   "scores": [
     62,
@@ -15,6 +15,6 @@
     54,
     52
   ],
-  "timestamp": "2026-01-26T07:17:21.269811",
+  "timestamp": "2026-01-26T07:43:37.937661",
   "bucket": "1.2m-5m"
 }
