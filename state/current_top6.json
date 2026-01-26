@@ -1,20 +1,20 @@
 {
   "tokens": [
     "IP",
-    "VIRTUAL",
-    "BANANA",
-    "PENGU",
+    "RESOLV",
     "VVV",
-    "APT"
+    "LAYER",
+    "VIRTUAL",
+    "SPX"
   ],
   "scores": [
-    62,
-    60,
+    58,
     56,
-    56,
-    56,
-    52
+    54,
+    52,
+    50,
+    48
   ],
-  "timestamp": "2026-01-26T03:05:47.497596",
+  "timestamp": "2026-01-26T04:22:30.039533",
   "bucket": "1.2m-5m"
 }
