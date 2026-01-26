@@ -3,18 +3,18 @@
     "AVNT",
     "KAITO",
     "SPX",
-    "DASH",
     "XPL",
-    "PENGU"
+    "PENGU",
+    "PENDLE"
   ],
   "scores": [
+    66,
     64,
     62,
     60,
     58,
-    56,
-    54
+    56
   ],
-  "timestamp": "2026-01-26T18:44:16.454171",
+  "timestamp": "2026-01-26T19:05:24.171940",
   "bucket": "1.2m-5m"
 }
