@@ -2,19 +2,19 @@
   "tokens": [
     "RESOLV",
     "0G",
+    "WCT",
     "PENGU",
     "TAO",
-    "VIRTUAL",
-    "WCT"
+    "VIRTUAL"
   ],
   "scores": [
     60,
     58,
     56,
-    52,
+    54,
     52,
     50
   ],
-  "timestamp": "2026-01-26T05:45:53.073938",
+  "timestamp": "2026-01-26T06:00:09.390809",
   "bucket": "1.2m-5m"
 }
