@@ -1,20 +1,20 @@
 {
   "tokens": [
     "KAITO",
-    "ZETA",
-    "BERA",
     "DASH",
+    "BERA",
     "SPX",
-    "APT"
+    "AVNT",
+    "PENGU"
   ],
   "scores": [
-    59,
-    57,
+    64,
+    62,
+    60,
+    58,
     56,
-    56,
-    52,
-    50
+    54
   ],
-  "timestamp": "2026-01-26T16:01:54.333040",
+  "timestamp": "2026-01-26T17:16:41.307485",
   "bucket": "1.2m-5m"
 }
