@@ -2,19 +2,19 @@
   "tokens": [
     "RESOLV",
     "LDO",
-    "DASH",
+    "VVV",
     "PENDLE",
     "TAO",
-    "VVV"
+    "POL"
   ],
   "scores": [
+    62,
     60,
     58,
-    56,
     54,
     52,
-    50
+    52
   ],
-  "timestamp": "2026-01-26T08:23:11.951686",
+  "timestamp": "2026-01-26T08:53:57.355411",
   "bucket": "1.2m-5m"
 }
