@@ -2,19 +2,19 @@
   "tokens": [
     "PURR",
     "MET",
-    "POL",
     "PENGU",
     "SPX",
-    "AVAX"
+    "POL",
+    "SKR"
   ],
   "scores": [
+    64,
     62,
     60,
     58,
     56,
-    54,
-    50
+    54
   ],
-  "timestamp": "2026-01-27T22:41:09.432989",
+  "timestamp": "2026-01-27T22:55:02.617705",
   "bucket": "1.2m-5m"
 }
