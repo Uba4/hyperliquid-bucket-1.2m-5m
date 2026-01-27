@@ -145,11 +145,11 @@
   },
   "VIRTUAL": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T18:19:18.145783",
-    "exit_time": null,
+    "exit_time": "2026-01-27T19:48:34.822612",
     "last_bar_collected": 2295,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T19:48:34.822612",
     "entry_volume": 4186846.2414749996
   },
   "TON": {
@@ -718,5 +718,14 @@
     "last_bar_collected": 54,
     "tracking_until": "2026-02-06T19:29:15.207373",
     "entry_volume": 2655194.785197001
+  },
+  "PROMPT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T19:48:34.822612",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1092300.0401929999
   }
 }
