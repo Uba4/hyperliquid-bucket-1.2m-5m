@@ -235,11 +235,11 @@
   },
   "WLFI": {
     "current_run": 33,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T15:39:24.797519",
-    "exit_time": null,
+    "exit_time": "2026-01-27T16:25:19.898046",
     "last_bar_collected": 2258,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T16:25:19.898046",
     "entry_volume": 3227548.90145
   },
   "ARB": {
@@ -288,13 +288,13 @@
     "entry_volume": 1697256.3019800002
   },
   "RESOLV": {
-    "current_run": 17,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T08:43:02.592794",
-    "exit_time": "2026-01-27T09:44:36.777151",
+    "current_run": 18,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T16:25:19.898046",
+    "exit_time": null,
     "last_bar_collected": 2180,
-    "tracking_until": "2026-02-06T09:44:36.777151",
-    "entry_volume": 4959819.78026
+    "tracking_until": null,
+    "entry_volume": 2756067.065020001
   },
   "ONDO": {
     "current_run": 10,
