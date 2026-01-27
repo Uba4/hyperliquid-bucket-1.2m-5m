@@ -631,11 +631,11 @@
   },
   "BNB": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T05:47:13.252119",
-    "exit_time": null,
+    "exit_time": "2026-01-27T06:40:20.405673",
     "last_bar_collected": 2581,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T06:40:20.405673",
     "entry_volume": 4949931.09802
   },
   "MELANIA": {
@@ -718,5 +718,14 @@
     "last_bar_collected": 62,
     "tracking_until": "2026-02-05T17:16:41.307135",
     "entry_volume": 1086388.224667
+  },
+  "PURR": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T06:40:20.405673",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1110040.553226
   }
 }
