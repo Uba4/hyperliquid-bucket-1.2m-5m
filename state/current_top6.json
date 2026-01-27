@@ -1,20 +1,20 @@
 {
   "tokens": [
     "PURR",
-    "JUP",
-    "CRV",
     "VVV",
-    "IP",
-    "PENDLE"
+    "CC",
+    "JUP",
+    "WLFI",
+    "CRV"
   ],
   "scores": [
+    60,
     58,
     56,
+    54,
     52,
-    52,
-    50,
-    48
+    50
   ],
-  "timestamp": "2026-01-27T15:03:19.627525",
+  "timestamp": "2026-01-27T15:39:24.797814",
   "bucket": "1.2m-5m"
 }
