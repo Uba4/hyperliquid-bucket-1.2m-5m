@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PROMPT",
     "MET",
-    "SPX",
+    "PURR",
     "POL",
-    "IP",
-    "PENGU"
+    "SPX",
+    "PENGU",
+    "VIRTUAL"
   ],
   "scores": [
-    62,
     60,
     58,
     56,
     54,
-    52
+    52,
+    48
   ],
-  "timestamp": "2026-01-27T21:56:07.156690",
+  "timestamp": "2026-01-27T22:17:51.351211",
   "bucket": "1.2m-5m"
 }
