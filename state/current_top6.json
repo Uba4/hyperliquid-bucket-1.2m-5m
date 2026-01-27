@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "DASH",
     "MON",
-    "PURR",
-    "CC",
     "KAITO",
-    "IP"
+    "PURR",
+    "IP",
+    "BERA",
+    "BCH"
   ],
   "scores": [
-    68,
     66,
     64,
     62,
     60,
-    58
+    58,
+    56
   ],
-  "timestamp": "2026-01-27T10:00:24.909941",
+  "timestamp": "2026-01-27T10:34:37.288553",
   "bucket": "1.2m-5m"
 }
