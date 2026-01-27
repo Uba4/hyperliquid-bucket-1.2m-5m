@@ -2,10 +2,10 @@
   "tokens": [
     "PURR",
     "MON",
-    "CC",
     "DASH",
-    "RESOLV",
-    "WLFI"
+    "CC",
+    "IP",
+    "KAITO"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-27T09:04:28.293009",
+  "timestamp": "2026-01-27T09:44:36.777399",
   "bucket": "1.2m-5m"
 }
