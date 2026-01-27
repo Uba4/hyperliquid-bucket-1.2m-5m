@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PURR",
     "RESOLV",
-    "VVV",
+    "PURR",
     "CC",
+    "VVV",
     "JUP",
     "CRV"
   ],
   "scores": [
-    60,
     58,
     56,
     54,
     52,
-    50
+    50,
+    48
   ],
-  "timestamp": "2026-01-27T16:55:19.158883",
+  "timestamp": "2026-01-27T17:22:16.124654",
   "bucket": "1.2m-5m"
 }
