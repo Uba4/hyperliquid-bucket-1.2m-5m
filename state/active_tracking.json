@@ -216,13 +216,13 @@
     "entry_volume": 1295592.43964
   },
   "IP": {
-    "current_run": 28,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T15:03:19.627266",
-    "exit_time": "2026-01-27T15:39:24.797519",
+    "current_run": 29,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T19:29:15.207373",
+    "exit_time": null,
     "last_bar_collected": 2181,
-    "tracking_until": "2026-02-06T15:39:24.797519",
-    "entry_volume": 2565456.560470001
+    "tracking_until": null,
+    "entry_volume": 2668405.2860600012
   },
   "CC": {
     "current_run": 49,
@@ -712,11 +712,11 @@
   },
   "PURR": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T14:40:29.296558",
-    "exit_time": null,
+    "exit_time": "2026-01-27T19:29:15.207373",
     "last_bar_collected": 51,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T19:29:15.207373",
     "entry_volume": 2655194.785197001
   }
 }

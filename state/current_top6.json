@@ -2,10 +2,10 @@
   "tokens": [
     "RESOLV",
     "JUP",
-    "PURR",
     "SPX",
+    "AVNT",
     "VIRTUAL",
-    "AVNT"
+    "IP"
   ],
   "scores": [
     56,
@@ -15,6 +15,6 @@
     48,
     46
   ],
-  "timestamp": "2026-01-27T18:59:19.626938",
+  "timestamp": "2026-01-27T19:29:15.207544",
   "bucket": "1.2m-5m"
 }
