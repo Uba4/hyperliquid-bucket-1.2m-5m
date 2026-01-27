@@ -145,11 +145,11 @@
   },
   "VIRTUAL": {
     "current_run": 22,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T22:17:51.350908",
-    "exit_time": null,
+    "exit_time": "2026-01-27T22:41:09.432799",
     "last_bar_collected": 2302,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T22:41:09.432799",
     "entry_volume": 3739634.839061999
   },
   "TON": {
@@ -360,13 +360,13 @@
     "entry_volume": 2653208.71536
   },
   "AVAX": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T11:24:27.249570",
-    "exit_time": "2026-01-25T11:36:26.811086",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T22:41:09.432799",
+    "exit_time": null,
     "last_bar_collected": 1854,
-    "tracking_until": "2026-02-04T11:36:26.811086",
-    "entry_volume": 2224112.9014099995
+    "tracking_until": null,
+    "entry_volume": 4157945.0534199993
   },
   "MEGA": {
     "current_run": 8,
