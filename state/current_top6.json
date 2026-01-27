@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "BERA",
     "VVV",
+    "BERA",
     "MON",
     "CC",
-    "KAITO",
-    "XPL"
+    "SPX",
+    "LTC"
   ],
   "scores": [
     62,
@@ -15,6 +15,6 @@
     54,
     52
   ],
-  "timestamp": "2026-01-26T23:53:39.798893",
+  "timestamp": "2026-01-27T00:50:22.489303",
   "bucket": "1.2m-5m"
 }
