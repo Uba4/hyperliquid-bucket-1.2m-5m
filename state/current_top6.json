@@ -2,19 +2,19 @@
   "tokens": [
     "PURR",
     "MET",
-    "PENGU",
-    "SPX",
     "SKR",
-    "JUP"
+    "PENGU",
+    "WLFI",
+    "SPX"
   ],
   "scores": [
     60,
     58,
     56,
-    52,
+    54,
     52,
     50
   ],
-  "timestamp": "2026-01-27T23:14:02.500395",
+  "timestamp": "2026-01-27T23:35:13.580298",
   "bucket": "1.2m-5m"
 }
