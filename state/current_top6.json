@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MON",
+    "PURR",
     "JUP",
-    "MELANIA",
     "WLFI",
     "AAVE",
-    "PENDLE"
+    "PENDLE",
+    "CRV"
   ],
   "scores": [
-    62,
-    60,
     58,
     56,
     54,
-    52
+    52,
+    50,
+    48
   ],
-  "timestamp": "2026-01-27T14:02:23.531516",
+  "timestamp": "2026-01-27T14:40:29.296861",
   "bucket": "1.2m-5m"
 }
