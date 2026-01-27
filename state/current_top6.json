@@ -1,20 +1,20 @@
 {
   "tokens": [
     "PROMPT",
-    "RESOLV",
     "SPX",
     "IP",
-    "PENGU",
-    "MET"
+    "MET",
+    "POL",
+    "PENGU"
   ],
   "scores": [
+    64,
+    62,
     60,
-    57,
+    58,
     56,
-    55,
-    52,
-    50
+    54
   ],
-  "timestamp": "2026-01-27T21:17:30.321497",
+  "timestamp": "2026-01-27T21:34:30.659114",
   "bucket": "1.2m-5m"
 }
