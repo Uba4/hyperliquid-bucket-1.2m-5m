@@ -2,19 +2,19 @@
   "tokens": [
     "RESOLV",
     "PROMPT",
-    "AVNT",
     "IP",
+    "AVNT",
     "SPX",
     "VIRTUAL"
   ],
   "scores": [
+    58,
     56,
     54,
     52,
     50,
-    48,
-    46
+    48
   ],
-  "timestamp": "2026-01-27T20:24:49.703783",
+  "timestamp": "2026-01-27T20:44:33.443076",
   "bucket": "1.2m-5m"
 }
