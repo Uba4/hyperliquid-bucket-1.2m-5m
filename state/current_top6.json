@@ -3,18 +3,18 @@
     "RESOLV",
     "PROMPT",
     "AVNT",
-    "SPX",
     "IP",
-    "JUP"
+    "SPX",
+    "VIRTUAL"
   ],
   "scores": [
-    60,
-    58,
     56,
     54,
     52,
-    50
+    50,
+    48,
+    46
   ],
-  "timestamp": "2026-01-27T19:58:50.360665",
+  "timestamp": "2026-01-27T20:24:49.703783",
   "bucket": "1.2m-5m"
 }
