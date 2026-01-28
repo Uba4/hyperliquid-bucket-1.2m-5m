@@ -253,11 +253,11 @@
   },
   "TRX": {
     "current_run": 41,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-28T19:47:55.763406",
-    "exit_time": null,
+    "exit_time": "2026-01-28T21:57:38.137152",
     "last_bar_collected": 2357,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T21:57:38.137152",
     "entry_volume": 1457521.7752200007
   },
   "MNT": {
@@ -432,13 +432,13 @@
     "entry_volume": 1147837.2779559996
   },
   "FOGO": {
-    "current_run": 21,
-    "status": "post_exit",
-    "entry_time": "2026-01-28T14:40:00.918197",
-    "exit_time": "2026-01-28T16:04:34.407545",
+    "current_run": 22,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T21:57:38.137152",
+    "exit_time": null,
     "last_bar_collected": 1731,
-    "tracking_until": "2026-02-07T16:04:34.407545",
-    "entry_volume": 1873037.8303290007
+    "tracking_until": null,
+    "entry_volume": 2321611.1993690007
   },
   "MON": {
     "current_run": 17,
