@@ -4,17 +4,17 @@
     "CC",
     "PENGU",
     "AVNT",
-    "PENDLE",
-    "APT"
+    "APT",
+    "PENDLE"
   ],
   "scores": [
     66,
     64,
     62,
     60,
-    58,
+    56,
     56
   ],
-  "timestamp": "2026-01-28T07:30:41.849024",
+  "timestamp": "2026-01-28T07:49:17.801490",
   "bucket": "1.2m-5m"
 }
