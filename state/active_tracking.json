@@ -388,11 +388,11 @@
   },
   "VVV": {
     "current_run": 31,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-28T11:24:05.931080",
-    "exit_time": null,
+    "exit_time": "2026-01-28T14:01:36.727482",
     "last_bar_collected": 1795,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T14:01:36.727482",
     "entry_volume": 1662748.748628999
   },
   "ENA": {
@@ -745,5 +745,14 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 1621431.2542499995
+  },
+  "AERO": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T14:01:36.727482",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1399601.20473
   }
 }

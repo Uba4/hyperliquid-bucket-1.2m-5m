@@ -2,10 +2,10 @@
   "tokens": [
     "JTO",
     "JUP",
+    "SYRUP",
     "CC",
     "PENDLE",
-    "SYRUP",
-    "VVV"
+    "AERO"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-28T13:26:38.804564",
+  "timestamp": "2026-01-28T14:01:36.727653",
   "bucket": "1.2m-5m"
 }
