@@ -450,13 +450,13 @@
     "entry_volume": 1147837.2779559996
   },
   "FOGO": {
-    "current_run": 19,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T10:47:14.034064",
-    "exit_time": "2026-01-26T14:50:01.536990",
+    "current_run": 20,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T05:37:26.213997",
+    "exit_time": null,
     "last_bar_collected": 1671,
-    "tracking_until": "2026-02-05T14:50:01.536990",
-    "entry_volume": 1142673.2986040001
+    "tracking_until": null,
+    "entry_volume": 1186117.2167750006
   },
   "MON": {
     "current_run": 17,
@@ -523,11 +523,11 @@
   },
   "MERL": {
     "current_run": 16,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-28T03:25:30.602664",
-    "exit_time": null,
+    "exit_time": "2026-01-28T05:37:26.213997",
     "last_bar_collected": 947,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T05:37:26.213997",
     "entry_volume": 2055708.1010069998
   },
   "AXS": {
