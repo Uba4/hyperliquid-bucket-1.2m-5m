@@ -2,9 +2,9 @@
   "tokens": [
     "GRASS",
     "VVV",
-    "JTO",
     "CC",
-    "MERL",
+    "JTO",
+    "TRX",
     "APT"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-28T19:23:43.423724",
+  "timestamp": "2026-01-28T19:47:55.763620",
   "bucket": "1.2m-5m"
 }
