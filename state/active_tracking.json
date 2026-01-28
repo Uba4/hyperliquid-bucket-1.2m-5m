@@ -288,13 +288,13 @@
     "entry_volume": 2470094.042709999
   },
   "ONDO": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T04:55:27.540569",
-    "exit_time": "2026-01-27T05:47:13.252119",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T20:40:29.206387",
+    "exit_time": null,
     "last_bar_collected": 2323,
-    "tracking_until": "2026-02-06T05:47:13.252119",
-    "entry_volume": 1118409.2290299998
+    "tracking_until": null,
+    "entry_volume": 1101246.7188300001
   },
   "STRK": {
     "current_run": 8,
@@ -388,11 +388,11 @@
   },
   "VVV": {
     "current_run": 32,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-28T16:52:57.680314",
-    "exit_time": null,
+    "exit_time": "2026-01-28T20:40:29.206387",
     "last_bar_collected": 1822,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T20:40:29.206387",
     "entry_volume": 1282832.8116409993
   },
   "ENA": {
