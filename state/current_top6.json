@@ -1,11 +1,11 @@
 {
   "tokens": [
     "PURR",
-    "MET",
     "AVNT",
+    "MET",
     "SKR",
-    "PENGU",
-    "AVAX"
+    "RESOLV",
+    "MERL"
   ],
   "scores": [
     60,
@@ -15,6 +15,6 @@
     52,
     50
   ],
-  "timestamp": "2026-01-28T01:45:00.367794",
+  "timestamp": "2026-01-28T03:25:30.603003",
   "bucket": "1.2m-5m"
 }
