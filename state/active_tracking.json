@@ -730,11 +730,20 @@
   },
   "PYTH": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-28T12:24:05.309523",
-    "exit_time": null,
+    "exit_time": "2026-01-28T13:26:38.804396",
     "last_bar_collected": 4,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T13:26:38.804396",
     "entry_volume": 1119309.6944989995
+  },
+  "SYRUP": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T13:26:38.804396",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1621431.2542499995
   }
 }
