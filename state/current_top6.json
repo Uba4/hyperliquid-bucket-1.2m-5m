@@ -1,11 +1,11 @@
 {
   "tokens": [
     "MERL",
-    "VVV",
     "JTO",
+    "VVV",
+    "CC",
     "APT",
-    "TRX",
-    "APEX"
+    "TRX"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-28T18:20:41.663090",
+  "timestamp": "2026-01-28T18:56:29.481915",
   "bucket": "1.2m-5m"
 }
