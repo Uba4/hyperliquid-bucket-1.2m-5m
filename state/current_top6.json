@@ -2,9 +2,9 @@
   "tokens": [
     "JTO",
     "CC",
-    "AVNT",
     "JUP",
     "PENDLE",
+    "AVNT",
     "VIRTUAL"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-28T10:36:23.883188",
+  "timestamp": "2026-01-28T10:58:46.959562",
   "bucket": "1.2m-5m"
 }
