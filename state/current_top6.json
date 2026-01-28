@@ -2,9 +2,9 @@
   "tokens": [
     "AVNT",
     "MET",
-    "SKR",
     "PENDLE",
-    "RESOLV",
+    "SKR",
+    "APT",
     "MERL"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     52,
     50
   ],
-  "timestamp": "2026-01-28T04:29:39.626142",
+  "timestamp": "2026-01-28T05:01:43.572096",
   "bucket": "1.2m-5m"
 }
