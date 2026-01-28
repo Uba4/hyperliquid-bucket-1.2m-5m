@@ -136,11 +136,11 @@
   },
   "MET": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T21:17:30.321206",
-    "exit_time": null,
+    "exit_time": "2026-01-28T06:59:44.912962",
     "last_bar_collected": 2328,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T06:59:44.912962",
     "entry_volume": 1244834.9091600003
   },
   "VIRTUAL": {
@@ -225,13 +225,13 @@
     "entry_volume": 2668405.2860600012
   },
   "CC": {
-    "current_run": 49,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T15:39:24.797519",
-    "exit_time": "2026-01-27T18:59:19.626767",
+    "current_run": 50,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T06:59:44.912962",
+    "exit_time": null,
     "last_bar_collected": 2262,
-    "tracking_until": "2026-02-06T18:59:19.626767",
-    "entry_volume": 1588701.2382500002
+    "tracking_until": null,
+    "entry_volume": 1125705.5937299994
   },
   "WLFI": {
     "current_run": 34,
@@ -529,15 +529,6 @@
     "last_bar_collected": 958,
     "tracking_until": "2026-02-07T05:37:26.213997",
     "entry_volume": 2055708.1010069998
-  },
-  "AXS": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-18T05:27:06.506519",
-    "exit_time": "2026-01-18T06:50:31.993981",
-    "last_bar_collected": 967,
-    "tracking_until": "2026-01-28T06:50:31.993981",
-    "entry_volume": 1804151.3892700004
   },
   "DASH": {
     "current_run": 10,
