@@ -116,15 +116,6 @@
     "tracking_until": "2026-02-05T09:23:21.529690",
     "entry_volume": 5251962.218280001
   },
-  "LINK": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-18T11:39:48.964222",
-    "exit_time": "2026-01-18T11:47:33.337166",
-    "last_bar_collected": 2371,
-    "tracking_until": "2026-01-28T11:47:33.337166",
-    "entry_volume": 2063348.7777000011
-  },
   "SPX": {
     "current_run": 40,
     "status": "post_exit",
