@@ -3,9 +3,9 @@
     "MERL",
     "VVV",
     "JTO",
-    "APEX",
     "APT",
-    "SYRUP"
+    "TRX",
+    "APEX"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-01-28T17:53:19.292199",
+  "timestamp": "2026-01-28T18:20:41.663090",
   "bucket": "1.2m-5m"
 }
