@@ -4,8 +4,8 @@
     "CC",
     "JUP",
     "PENDLE",
-    "AVNT",
-    "VIRTUAL"
+    "VIRTUAL",
+    "VVV"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-01-28T10:58:46.959562",
+  "timestamp": "2026-01-28T11:24:05.931261",
   "bucket": "1.2m-5m"
 }
