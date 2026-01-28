@@ -253,11 +253,11 @@
   },
   "TRX": {
     "current_run": 40,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-28T18:20:41.662900",
-    "exit_time": null,
+    "exit_time": "2026-01-28T19:23:43.423528",
     "last_bar_collected": 2346,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T19:23:43.423528",
     "entry_volume": 1371063.5999300007
   },
   "MNT": {
@@ -763,5 +763,14 @@
     "last_bar_collected": 12,
     "tracking_until": "2026-02-07T18:56:29.481704",
     "entry_volume": 2867481.4880099995
+  },
+  "GRASS": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T19:23:43.423528",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1299761.6019110002
   }
 }
