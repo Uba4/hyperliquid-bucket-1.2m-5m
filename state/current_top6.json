@@ -2,19 +2,19 @@
   "tokens": [
     "PURR",
     "MET",
+    "AVNT",
     "SKR",
     "PENGU",
-    "WLFI",
-    "JUP"
+    "AVAX"
   ],
   "scores": [
-    62,
     60,
     58,
     56,
     54,
-    52
+    52,
+    50
   ],
-  "timestamp": "2026-01-27T23:57:57.382177",
+  "timestamp": "2026-01-28T01:45:00.367794",
   "bucket": "1.2m-5m"
 }
