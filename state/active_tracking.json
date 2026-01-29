@@ -18,13 +18,13 @@
     "entry_volume": 1509622.084635
   },
   "APT": {
-    "current_run": 32,
-    "status": "post_exit",
-    "entry_time": "2026-01-29T12:03:20.989812",
-    "exit_time": "2026-01-29T14:07:23.999193",
+    "current_run": 33,
+    "status": "in_top6",
+    "entry_time": "2026-01-29T22:50:44.777129",
+    "exit_time": null,
     "last_bar_collected": 2481,
-    "tracking_until": "2026-02-08T14:07:23.999193",
-    "entry_volume": 1395807.9380260003
+    "tracking_until": null,
+    "entry_volume": 2192617.366607999
   },
   "TIA": {
     "current_run": 27,
@@ -253,11 +253,11 @@
   },
   "MNT": {
     "current_run": 13,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-29T21:56:24.441319",
-    "exit_time": null,
+    "exit_time": "2026-01-29T22:50:44.777129",
     "last_bar_collected": 2475,
-    "tracking_until": null,
+    "tracking_until": "2026-02-08T22:50:44.777129",
     "entry_volume": 1093205.0022709996
   },
   "RENDER": {
@@ -315,13 +315,13 @@
     "entry_volume": 5153302.070000001
   },
   "LDO": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T07:55:40.804723",
-    "exit_time": "2026-01-26T11:53:21.366880",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-29T22:50:44.777129",
+    "exit_time": null,
     "last_bar_collected": 2321,
-    "tracking_until": "2026-02-05T11:53:21.366880",
-    "entry_volume": 1338615.3236679998
+    "tracking_until": null,
+    "entry_volume": 1306258.1440830007
   },
   "TRUMP": {
     "current_run": 25,
@@ -448,15 +448,6 @@
     "last_bar_collected": 2442,
     "tracking_until": "2026-02-01T13:15:42.791583",
     "entry_volume": 1096228.959782
-  },
-  "OP": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T21:54:25.760109",
-    "exit_time": "2026-01-19T22:37:10.783067",
-    "last_bar_collected": 2511,
-    "tracking_until": "2026-01-29T22:37:10.783067",
-    "entry_volume": 1099539.1562659994
   },
   "BERA": {
     "current_run": 18,
@@ -676,11 +667,11 @@
   },
   "JTO": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-29T18:58:08.594315",
-    "exit_time": null,
+    "exit_time": "2026-01-29T22:50:44.777129",
     "last_bar_collected": 145,
-    "tracking_until": null,
+    "tracking_until": "2026-02-08T22:50:44.777129",
     "entry_volume": 3500659.2575
   },
   "PYTH": {
