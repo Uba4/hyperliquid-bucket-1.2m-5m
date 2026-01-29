@@ -244,21 +244,21 @@
   },
   "TRX": {
     "current_run": 44,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-29T16:52:06.966663",
-    "exit_time": null,
+    "exit_time": "2026-01-29T19:53:21.639894",
     "last_bar_collected": 2438,
-    "tracking_until": null,
+    "tracking_until": "2026-02-08T19:53:21.639894",
     "entry_volume": 1563996.4415800008
   },
   "MNT": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T13:15:29.825591",
-    "exit_time": "2026-01-20T16:25:05.893304",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-29T19:53:21.639894",
+    "exit_time": null,
     "last_bar_collected": 2463,
-    "tracking_until": "2026-01-30T16:25:05.893304",
-    "entry_volume": 1423385.55446
+    "tracking_until": null,
+    "entry_volume": 1081109.5013149998
   },
   "RENDER": {
     "current_run": 17,
