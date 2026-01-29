@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "SYRUP",
-    "DASH",
     "CC",
-    "IP",
+    "PURR",
+    "DASH",
     "TRX",
+    "JUP",
     "APT"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-29T12:03:20.990040",
+  "timestamp": "2026-01-29T13:18:55.813767",
   "bucket": "1.2m-5m"
 }
