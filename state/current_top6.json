@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SPX",
     "DASH",
-    "PENGU",
+    "SPX",
     "SYRUP",
-    "PURR",
-    "PENDLE"
+    "PENDLE",
+    "PENGU",
+    "JUP"
   ],
   "scores": [
+    64,
     62,
     60,
     58,
     56,
-    54,
-    52
+    54
   ],
-  "timestamp": "2026-01-29T09:26:27.152760",
+  "timestamp": "2026-01-29T10:04:12.328105",
   "bucket": "1.2m-5m"
 }
