@@ -1,20 +1,20 @@
 {
   "tokens": [
     "PURR",
-    "RESOLV",
     "TON",
+    "CC",
     "JTO",
-    "PENDLE",
-    "MNT"
+    "AVNT",
+    "TRX"
   ],
   "scores": [
     86,
     84,
     82,
     80,
-    78,
-    76
+    76,
+    74
   ],
-  "timestamp": "2026-01-29T19:53:21.640076",
+  "timestamp": "2026-01-29T20:15:44.204525",
   "bucket": "1.2m-5m"
 }
