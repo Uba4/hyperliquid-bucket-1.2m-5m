@@ -495,13 +495,13 @@
     "entry_volume": 5252404.220950004
   },
   "MERL": {
-    "current_run": 18,
-    "status": "post_exit",
-    "entry_time": "2026-01-29T16:00:36.512178",
-    "exit_time": "2026-01-29T16:52:06.966663",
+    "current_run": 19,
+    "status": "in_top6",
+    "entry_time": "2026-01-29T17:27:07.735026",
+    "exit_time": null,
     "last_bar_collected": 1095,
-    "tracking_until": "2026-02-08T16:52:06.966663",
-    "entry_volume": 1404204.7475759997
+    "tracking_until": null,
+    "entry_volume": 1544841.0512489998
   },
   "DASH": {
     "current_run": 12,
@@ -658,11 +658,11 @@
   },
   "PURR": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-29T13:18:55.813436",
-    "exit_time": null,
+    "exit_time": "2026-01-29T17:27:07.735026",
     "last_bar_collected": 228,
-    "tracking_until": null,
+    "tracking_until": "2026-02-08T17:27:07.735026",
     "entry_volume": 2267014.286275992
   },
   "PROMPT": {
