@@ -360,13 +360,13 @@
     "entry_volume": 3258076.8965000003
   },
   "POL": {
-    "current_run": 18,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T21:34:30.658912",
-    "exit_time": "2026-01-27T23:14:02.500217",
+    "current_run": 19,
+    "status": "in_top6",
+    "entry_time": "2026-01-29T22:22:22.969398",
+    "exit_time": null,
     "last_bar_collected": 1981,
-    "tracking_until": "2026-02-06T23:14:02.500217",
-    "entry_volume": 1401759.3806499995
+    "tracking_until": null,
+    "entry_volume": 1344341.6251099997
   },
   "VVV": {
     "current_run": 33,
@@ -541,11 +541,11 @@
   },
   "SKY": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-29T20:48:48.419419",
-    "exit_time": null,
+    "exit_time": "2026-01-29T22:22:22.969398",
     "last_bar_collected": 700,
-    "tracking_until": null,
+    "tracking_until": "2026-02-08T22:22:22.969398",
     "entry_volume": 1412736.7515320005
   },
   "XPL": {
