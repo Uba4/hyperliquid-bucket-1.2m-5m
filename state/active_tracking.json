@@ -244,11 +244,11 @@
   },
   "JUP": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-29T01:43:33.572418",
-    "exit_time": null,
+    "exit_time": "2026-01-29T05:03:05.302837",
     "last_bar_collected": 2401,
-    "tracking_until": null,
+    "tracking_until": "2026-02-08T05:03:05.302837",
     "entry_volume": 3337622.348579999
   },
   "TRX": {
@@ -333,13 +333,13 @@
     "entry_volume": 1338615.3236679998
   },
   "TRUMP": {
-    "current_run": 23,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T22:25:29.645122",
-    "exit_time": "2026-01-26T00:51:01.997335",
+    "current_run": 24,
+    "status": "in_top6",
+    "entry_time": "2026-01-29T05:03:05.302837",
+    "exit_time": null,
     "last_bar_collected": 2036,
-    "tracking_until": "2026-02-05T00:51:01.997335",
-    "entry_volume": 2139097.60737
+    "tracking_until": null,
+    "entry_volume": 1081843.5591600004
   },
   "AVAX": {
     "current_run": 13,
@@ -414,13 +414,13 @@
     "entry_volume": 3644606.9542
   },
   "BCH": {
-    "current_run": 21,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T10:34:37.288159",
-    "exit_time": "2026-01-27T14:02:23.531198",
+    "current_run": 22,
+    "status": "in_top6",
+    "entry_time": "2026-01-29T05:03:05.302837",
+    "exit_time": null,
     "last_bar_collected": 1795,
-    "tracking_until": "2026-02-06T14:02:23.531198",
-    "entry_volume": 2012409.0251700003
+    "tracking_until": null,
+    "entry_volume": 2017162.6085499993
   },
   "ATOM": {
     "current_run": 3,
@@ -511,15 +511,6 @@
     "last_bar_collected": 1026,
     "tracking_until": "2026-02-07T10:00:45.605356",
     "entry_volume": 5089012.940699998
-  },
-  "ME": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T02:07:04.119476",
-    "exit_time": "2026-01-19T03:57:37.990905",
-    "last_bar_collected": 1021,
-    "tracking_until": "2026-01-29T03:57:37.990905",
-    "entry_volume": 4699853.079372999
   },
   "S": {
     "current_run": 4,
@@ -676,11 +667,11 @@
   },
   "PURR": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-29T03:56:13.761391",
-    "exit_time": null,
+    "exit_time": "2026-01-29T05:03:05.302837",
     "last_bar_collected": 180,
-    "tracking_until": null,
+    "tracking_until": "2026-02-08T05:03:05.302837",
     "entry_volume": 4959382.512570997
   },
   "PROMPT": {

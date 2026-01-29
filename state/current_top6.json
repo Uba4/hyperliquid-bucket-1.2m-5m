@@ -1,20 +1,20 @@
 {
   "tokens": [
     "STABLE",
-    "PURR",
     "APEX",
     "CC",
-    "JUP",
-    "TRX"
+    "TRX",
+    "TRUMP",
+    "BCH"
   ],
   "scores": [
-    66,
-    63,
-    63,
+    62,
     60,
     58,
-    56
+    56,
+    54,
+    52
   ],
-  "timestamp": "2026-01-29T03:56:13.761947",
+  "timestamp": "2026-01-29T05:03:05.303189",
   "bucket": "1.2m-5m"
 }
