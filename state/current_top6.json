@@ -1,20 +1,20 @@
 {
   "tokens": [
     "STABLE",
-    "ARB",
-    "CRV",
     "ONDO",
-    "SKY",
-    "WIF"
+    "JUP",
+    "SYRUP",
+    "ARB",
+    "APEX"
   ],
   "scores": [
-    58,
     56,
+    54,
     52,
-    52,
-    52,
-    48
+    50,
+    48,
+    46
   ],
-  "timestamp": "2026-01-28T23:56:47.042238",
+  "timestamp": "2026-01-29T01:43:33.572919",
   "bucket": "1.2m-5m"
 }
