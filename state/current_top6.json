@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "STABLE",
-    "APEX",
-    "CC",
+    "SPX",
     "TRX",
     "UNI",
-    "TRUMP"
+    "PENGU",
+    "PENDLE",
+    "CC"
   ],
   "scores": [
-    66,
     64,
-    62,
     60,
-    58,
-    56
+    60,
+    60,
+    54,
+    54
   ],
-  "timestamp": "2026-01-29T07:26:43.159757",
+  "timestamp": "2026-01-29T07:59:37.295658",
   "bucket": "1.2m-5m"
 }
