@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SPX",
-    "SKR",
+    "DASH",
     "PENGU",
-    "FOGO",
-    "UNI",
+    "SYRUP",
+    "PURR",
     "PENDLE"
   ],
   "scores": [
     62,
     60,
     58,
-    55,
+    56,
     54,
     52
   ],
-  "timestamp": "2026-01-29T08:45:28.305811",
+  "timestamp": "2026-01-29T09:26:27.152760",
   "bucket": "1.2m-5m"
 }
