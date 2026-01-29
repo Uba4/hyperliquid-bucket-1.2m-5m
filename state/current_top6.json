@@ -2,10 +2,10 @@
   "tokens": [
     "SYRUP",
     "DASH",
-    "IP",
     "CC",
+    "IP",
     "TRX",
-    "PENDLE"
+    "APT"
   ],
   "scores": [
     66,
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-01-29T11:48:50.884622",
+  "timestamp": "2026-01-29T12:03:20.990040",
   "bucket": "1.2m-5m"
 }
