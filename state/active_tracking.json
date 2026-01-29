@@ -559,11 +559,11 @@
   },
   "SKY": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-29T05:54:06.303411",
-    "exit_time": null,
+    "exit_time": "2026-01-29T06:32:38.626802",
     "last_bar_collected": 638,
-    "tracking_until": null,
+    "tracking_until": "2026-02-08T06:32:38.626802",
     "entry_volume": 1486109.176307
   },
   "XPL": {
@@ -745,5 +745,14 @@
     "last_bar_collected": 43,
     "tracking_until": "2026-02-07T23:14:30.649393",
     "entry_volume": 1299761.6019110002
+  },
+  "UNI": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-29T06:32:38.626802",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 5066124.005620003
   }
 }
