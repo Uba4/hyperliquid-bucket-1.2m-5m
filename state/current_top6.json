@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "0G",
     "FOGO",
     "BERA",
-    "TRX",
+    "TRUMP",
     "WIF",
-    "MERL",
-    "TRUMP"
+    "BCH"
   ],
   "scores": [
+    90,
     88,
     86,
     84,
     82,
-    80,
     78
   ],
-  "timestamp": "2026-01-30T05:06:16.521319",
+  "timestamp": "2026-01-30T05:59:00.199416",
   "bucket": "1.2m-5m"
 }
