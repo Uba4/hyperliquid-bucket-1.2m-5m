@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "SKR",
     "PURR",
+    "SKR",
     "INIT",
-    "WLFI",
-    "POL",
-    "VIRTUAL"
+    "SEI",
+    "DASH",
+    "WLFI"
   ],
   "scores": [
     76,
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-01-30T21:15:18.340821",
+  "timestamp": "2026-01-30T21:42:54.040485",
   "bucket": "1.2m-5m"
 }
