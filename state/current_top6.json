@@ -1,9 +1,9 @@
 {
   "tokens": [
-    "0G",
     "BERA",
-    "RESOLV",
     "STABLE",
+    "0G",
+    "RESOLV",
     "PURR",
     "TON"
   ],
@@ -15,6 +15,6 @@
     80,
     78
   ],
-  "timestamp": "2026-01-30T09:26:50.953021",
+  "timestamp": "2026-01-30T10:01:59.183844",
   "bucket": "1.2m-5m"
 }
