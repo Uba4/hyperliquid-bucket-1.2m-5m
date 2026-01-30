@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "VVV",
+    "FOGO",
+    "BERA",
+    "IP",
     "CC",
-    "DASH",
-    "APT",
-    "ONDO",
-    "WIF"
+    "WIF",
+    "VVV"
   ],
   "scores": [
     86,
     84,
     82,
     80,
-    78,
+    76,
     76
   ],
-  "timestamp": "2026-01-30T01:49:52.632367",
+  "timestamp": "2026-01-30T03:56:39.356406",
   "bucket": "1.2m-5m"
 }
