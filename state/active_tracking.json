@@ -171,13 +171,13 @@
     "entry_volume": 2192150.0857
   },
   "STABLE": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-01-29T14:55:08.276880",
-    "exit_time": "2026-01-29T18:58:08.594315",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-01-30T08:01:58.749286",
+    "exit_time": null,
     "last_bar_collected": 2542,
-    "tracking_until": "2026-02-08T18:58:08.594315",
-    "entry_volume": 5237545.125719999
+    "tracking_until": null,
+    "entry_volume": 3319418.7911799997
   },
   "SEI": {
     "current_run": 14,
@@ -676,11 +676,11 @@
   },
   "APEX": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-30T06:53:09.283723",
-    "exit_time": null,
+    "exit_time": "2026-01-30T08:01:58.749286",
     "last_bar_collected": 150,
-    "tracking_until": null,
+    "tracking_until": "2026-02-09T08:01:58.749286",
     "entry_volume": 1086062.7982100004
   },
   "GRASS": {

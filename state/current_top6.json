@@ -4,17 +4,17 @@
     "FOGO",
     "BERA",
     "RESOLV",
-    "BCH",
-    "APEX"
+    "STABLE",
+    "BCH"
   ],
   "scores": [
-    90,
     88,
     86,
     84,
     82,
-    80
+    80,
+    78
   ],
-  "timestamp": "2026-01-30T07:31:43.324727",
+  "timestamp": "2026-01-30T08:01:58.749473",
   "bucket": "1.2m-5m"
 }
