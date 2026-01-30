@@ -9,13 +9,13 @@
     "entry_volume": 1423561.62032
   },
   "EIGEN": {
-    "current_run": 19,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T21:37:53.688163",
-    "exit_time": "2026-01-22T02:21:56.384394",
+    "current_run": 20,
+    "status": "in_top6",
+    "entry_time": "2026-01-30T12:00:01.221695",
+    "exit_time": null,
     "last_bar_collected": 2568,
-    "tracking_until": "2026-02-01T02:21:56.384394",
-    "entry_volume": 1509622.084635
+    "tracking_until": null,
+    "entry_volume": 1395180.4593230002
   },
   "APT": {
     "current_run": 33,
@@ -613,11 +613,11 @@
   },
   "PURR": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-30T09:26:50.952660",
-    "exit_time": null,
+    "exit_time": "2026-01-30T12:00:01.221695",
     "last_bar_collected": 297,
-    "tracking_until": null,
+    "tracking_until": "2026-02-09T12:00:01.221695",
     "entry_volume": 2066937.6915310007
   },
   "PROMPT": {

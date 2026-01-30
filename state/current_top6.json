@@ -2,19 +2,19 @@
   "tokens": [
     "STABLE",
     "JUP",
-    "PURR",
-    "BERA",
     "SKR",
+    "BERA",
+    "EIGEN",
     "0G"
   ],
   "scores": [
     86,
-    83,
-    83,
+    84,
+    82,
     80,
     78,
     76
   ],
-  "timestamp": "2026-01-30T11:44:57.541251",
+  "timestamp": "2026-01-30T12:00:01.221879",
   "bucket": "1.2m-5m"
 }
