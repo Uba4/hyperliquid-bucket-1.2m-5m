@@ -1,20 +1,20 @@
 {
   "tokens": [
     "PURR",
-    "SKR",
     "INIT",
-    "DASH",
+    "0G",
     "SEI",
-    "VIRTUAL"
+    "DASH",
+    "MNT"
   ],
   "scores": [
     78,
     76,
     74,
     72,
-    68,
+    70,
     68
   ],
-  "timestamp": "2026-01-30T21:55:48.756256",
+  "timestamp": "2026-01-30T22:17:52.791684",
   "bucket": "1.2m-5m"
 }
