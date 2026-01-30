@@ -73,11 +73,11 @@
   },
   "WIF": {
     "current_run": 33,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-30T15:50:22.638708",
-    "exit_time": null,
+    "exit_time": "2026-01-30T17:44:53.509589",
     "last_bar_collected": 2507,
-    "tracking_until": null,
+    "tracking_until": "2026-02-09T17:44:53.509589",
     "entry_volume": 1993735.5017799994
   },
   "kBONK": {
@@ -216,13 +216,13 @@
     "entry_volume": 3591584.85481
   },
   "WLFI": {
-    "current_run": 34,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T23:35:13.580113",
-    "exit_time": "2026-01-28T01:45:00.367435",
+    "current_run": 35,
+    "status": "in_top6",
+    "entry_time": "2026-01-30T17:44:53.509589",
+    "exit_time": null,
     "last_bar_collected": 2556,
-    "tracking_until": "2026-02-07T01:45:00.367435",
-    "entry_volume": 5099586.558739996
+    "tracking_until": null,
+    "entry_volume": 5329764.739639998
   },
   "ARB": {
     "current_run": 18,
@@ -388,11 +388,11 @@
   },
   "BCH": {
     "current_run": 24,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-30T16:21:30.730832",
-    "exit_time": null,
+    "exit_time": "2026-01-30T17:44:53.509589",
     "last_bar_collected": 1941,
-    "tracking_until": null,
+    "tracking_until": "2026-02-09T17:44:53.509589",
     "entry_volume": 3570610.379170001
   },
   "FOGO": {
@@ -703,11 +703,29 @@
   },
   "HBAR": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-30T17:03:38.884365",
-    "exit_time": null,
+    "exit_time": "2026-01-30T17:44:53.509589",
     "last_bar_collected": 1994,
-    "tracking_until": null,
+    "tracking_until": "2026-02-09T17:44:53.509589",
     "entry_volume": 1340112.8567889994
+  },
+  "INIT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-30T17:44:53.509589",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1083339.4084980006
+  },
+  "POPCAT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-30T17:44:53.509589",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1137377.5184489999
   }
 }

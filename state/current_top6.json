@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "INIT",
     "SKR",
-    "TRX",
+    "WLFI",
     "ETHFI",
-    "BCH",
-    "WIF",
-    "HBAR"
+    "POPCAT",
+    "TRX"
   ],
   "scores": [
+    84,
+    82,
+    80,
     78,
     76,
-    73,
-    72,
-    70,
-    69
+    74
   ],
-  "timestamp": "2026-01-30T17:03:38.884675",
+  "timestamp": "2026-01-30T17:44:53.509988",
   "bucket": "1.2m-5m"
 }
