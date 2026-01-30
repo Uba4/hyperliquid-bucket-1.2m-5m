@@ -135,13 +135,13 @@
     "entry_volume": 1244834.9091600003
   },
   "VIRTUAL": {
-    "current_run": 24,
-    "status": "post_exit",
-    "entry_time": "2026-01-28T16:04:34.407545",
-    "exit_time": "2026-01-28T16:52:57.680314",
+    "current_run": 25,
+    "status": "in_top6",
+    "entry_time": "2026-01-30T21:15:18.340645",
+    "exit_time": null,
     "last_bar_collected": 2577,
-    "tracking_until": "2026-02-07T16:52:57.680314",
-    "entry_volume": 5223793.455526001
+    "tracking_until": null,
+    "entry_volume": 5212043.951685002
   },
   "TON": {
     "current_run": 32,
@@ -694,11 +694,11 @@
   },
   "ETHFI": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-30T17:03:38.884365",
-    "exit_time": null,
+    "exit_time": "2026-01-30T21:15:18.340645",
     "last_bar_collected": 1080,
-    "tracking_until": null,
+    "tracking_until": "2026-02-09T21:15:18.340645",
     "entry_volume": 1781556.5440470001
   },
   "HBAR": {
