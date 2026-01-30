@@ -2,19 +2,19 @@
   "tokens": [
     "FOGO",
     "BERA",
-    "IP",
-    "CC",
+    "TRX",
     "WIF",
-    "VVV"
+    "MERL",
+    "TRUMP"
   ],
   "scores": [
+    88,
     86,
     84,
     82,
     80,
-    76,
-    76
+    78
   ],
-  "timestamp": "2026-01-30T03:56:39.356406",
+  "timestamp": "2026-01-30T05:06:16.521319",
   "bucket": "1.2m-5m"
 }
