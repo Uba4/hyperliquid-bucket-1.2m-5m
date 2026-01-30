@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "SKR",
     "SPX",
     "AVNT",
-    "SKR",
     "0G",
     "JUP",
-    "STABLE"
+    "PENGU"
   ],
   "scores": [
     88,
     86,
     84,
     82,
-    79,
-    79
+    80,
+    78
   ],
-  "timestamp": "2026-01-30T14:01:26.756099",
+  "timestamp": "2026-01-30T14:42:39.478714",
   "bucket": "1.2m-5m"
 }
