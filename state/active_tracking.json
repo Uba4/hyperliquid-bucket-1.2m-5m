@@ -280,11 +280,11 @@
   },
   "ONDO": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-30T18:05:48.665744",
-    "exit_time": null,
+    "exit_time": "2026-01-30T19:36:32.404272",
     "last_bar_collected": 2501,
-    "tracking_until": null,
+    "tracking_until": "2026-02-09T19:36:32.404272",
     "entry_volume": 1288157.1235999996
   },
   "STRK": {
@@ -603,13 +603,13 @@
     "entry_volume": 1086388.224667
   },
   "PURR": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-30T09:26:50.952660",
-    "exit_time": "2026-01-30T12:00:01.221695",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-30T19:36:32.404272",
+    "exit_time": null,
     "last_bar_collected": 326,
-    "tracking_until": "2026-02-09T12:00:01.221695",
-    "entry_volume": 2066937.6915310007
+    "tracking_until": null,
+    "entry_volume": 1613843.7779939994
   },
   "PROMPT": {
     "current_run": 1,

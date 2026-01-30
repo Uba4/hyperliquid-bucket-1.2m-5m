@@ -3,18 +3,18 @@
     "SKR",
     "INIT",
     "WLFI",
-    "ETHFI",
+    "PURR",
     "POPCAT",
-    "ONDO"
+    "ETHFI"
   ],
   "scores": [
-    80,
     78,
     76,
     74,
     72,
-    70
+    70,
+    68
   ],
-  "timestamp": "2026-01-30T19:00:10.807500",
+  "timestamp": "2026-01-30T19:36:32.404431",
   "bucket": "1.2m-5m"
 }
