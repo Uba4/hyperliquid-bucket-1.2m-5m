@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "BERA",
-    "STABLE",
-    "0G",
-    "RESOLV",
     "PURR",
+    "STABLE",
+    "JUP",
+    "BERA",
+    "ICP",
     "TON"
   ],
   "scores": [
-    88,
-    86,
-    84,
+    85,
+    85,
     82,
     80,
-    78
+    78,
+    76
   ],
-  "timestamp": "2026-01-30T10:01:59.183844",
+  "timestamp": "2026-01-30T11:17:19.880071",
   "bucket": "1.2m-5m"
 }
