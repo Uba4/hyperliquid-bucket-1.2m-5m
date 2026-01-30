@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "JUP",
-    "STABLE",
-    "SKR",
-    "AVNT",
     "SPX",
-    "JTO"
+    "AVNT",
+    "SKR",
+    "0G",
+    "JUP",
+    "STABLE"
   ],
   "scores": [
     88,
     86,
     84,
     82,
-    80,
-    78
+    79,
+    79
   ],
-  "timestamp": "2026-01-30T13:05:05.909018",
+  "timestamp": "2026-01-30T14:01:26.756099",
   "bucket": "1.2m-5m"
 }
