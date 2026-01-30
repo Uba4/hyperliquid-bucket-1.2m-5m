@@ -3,18 +3,18 @@
     "PURR",
     "SKR",
     "INIT",
-    "SEI",
     "DASH",
-    "WLFI"
+    "SEI",
+    "VIRTUAL"
   ],
   "scores": [
+    78,
     76,
     74,
     72,
-    70,
     68,
-    66
+    68
   ],
-  "timestamp": "2026-01-30T21:42:54.040485",
+  "timestamp": "2026-01-30T21:55:48.756256",
   "bucket": "1.2m-5m"
 }
