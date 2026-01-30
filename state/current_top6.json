@@ -1,7 +1,7 @@
 {
   "tokens": [
-    "INIT",
     "SKR",
+    "INIT",
     "WLFI",
     "ETHFI",
     "POPCAT",
@@ -15,6 +15,6 @@
     72,
     70
   ],
-  "timestamp": "2026-01-30T18:05:48.665916",
+  "timestamp": "2026-01-30T19:00:10.807500",
   "bucket": "1.2m-5m"
 }
