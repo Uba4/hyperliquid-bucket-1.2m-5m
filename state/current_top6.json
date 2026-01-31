@@ -3,18 +3,18 @@
     "INIT",
     "RESOLV",
     "CC",
-    "STABLE",
     "SKR",
+    "STABLE",
     "TRUMP"
   ],
   "scores": [
     76,
-    74,
     72,
-    70,
+    72,
+    72,
     68,
     66
   ],
-  "timestamp": "2026-01-31T09:45:00.728847",
+  "timestamp": "2026-01-31T09:57:59.695319",
   "bucket": "1.2m-5m"
 }
