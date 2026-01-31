@@ -154,11 +154,11 @@
   },
   "PENDLE": {
     "current_run": 38,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-31T20:41:59.386999",
-    "exit_time": null,
+    "exit_time": "2026-01-31T23:47:01.592383",
     "last_bar_collected": 2667,
-    "tracking_until": null,
+    "tracking_until": "2026-02-10T23:47:01.592383",
     "entry_volume": 2342369.384500001
   },
   "STABLE": {
@@ -603,13 +603,13 @@
     "entry_volume": 2848439.6960309977
   },
   "JTO": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-30T13:05:05.908588",
-    "exit_time": "2026-01-30T14:01:26.755826",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-31T23:47:01.592383",
+    "exit_time": null,
     "last_bar_collected": 336,
-    "tracking_until": "2026-02-09T14:01:26.755826",
-    "entry_volume": 1295338.7766299993
+    "tracking_until": null,
+    "entry_volume": 1386220.5922400001
   },
   "PYTH": {
     "current_run": 1,
