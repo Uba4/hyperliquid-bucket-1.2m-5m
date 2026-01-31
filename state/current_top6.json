@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "SPX",
     "MEGA",
     "TRX",
     "HBAR",
-    "0G",
-    "SPX",
-    "PENDLE"
+    "PENDLE",
+    "TON"
   ],
   "scores": [
-    82,
     80,
     78,
     76,
     74,
-    72
+    72,
+    70
   ],
-  "timestamp": "2026-01-31T20:56:52.531093",
+  "timestamp": "2026-01-31T21:17:51.336662",
   "bucket": "1.2m-5m"
 }
