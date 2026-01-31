@@ -3,8 +3,8 @@
     "SPX",
     "MEGA",
     "HBAR",
-    "TRX",
     "PENDLE",
+    "TRX",
     "XLM"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     72,
     70
   ],
-  "timestamp": "2026-01-31T21:39:08.012348",
+  "timestamp": "2026-01-31T21:52:29.584164",
   "bucket": "1.2m-5m"
 }
