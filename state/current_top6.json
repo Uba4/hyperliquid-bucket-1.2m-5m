@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "JUP",
-    "CC",
     "INIT",
-    "PURR",
+    "CC",
+    "JUP",
     "TAO",
-    "TRUMP"
+    "TRUMP",
+    "NEAR"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-31T06:42:38.564089",
+  "timestamp": "2026-01-31T07:16:52.578141",
   "bucket": "1.2m-5m"
 }
