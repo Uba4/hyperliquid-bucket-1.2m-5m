@@ -64,11 +64,11 @@
   },
   "WIF": {
     "current_run": 34,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-31T11:53:54.000552",
-    "exit_time": null,
+    "exit_time": "2026-01-31T12:20:03.339036",
     "last_bar_collected": 2578,
-    "tracking_until": null,
+    "tracking_until": "2026-02-10T12:20:03.339036",
     "entry_volume": 1932976.7882199993
   },
   "kBONK": {
@@ -450,13 +450,13 @@
     "entry_volume": 1443688.8846600028
   },
   "kSHIB": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-31T10:23:22.276841",
-    "exit_time": "2026-01-31T11:53:54.000552",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-31T12:20:03.339036",
+    "exit_time": null,
     "last_bar_collected": 2098,
-    "tracking_until": "2026-02-10T11:53:54.000552",
-    "entry_volume": 1265995.7134950005
+    "tracking_until": null,
+    "entry_volume": 1241855.8939720008
   },
   "0G": {
     "current_run": 12,

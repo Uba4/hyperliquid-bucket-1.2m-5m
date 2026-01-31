@@ -2,10 +2,10 @@
   "tokens": [
     "SKR",
     "RESOLV",
-    "CC",
     "IP",
+    "CC",
     "ADA",
-    "WIF"
+    "kSHIB"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-01-31T11:53:54.000747",
+  "timestamp": "2026-01-31T12:20:03.339226",
   "bucket": "1.2m-5m"
 }
