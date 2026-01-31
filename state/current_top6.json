@@ -2,19 +2,19 @@
   "tokens": [
     "INIT",
     "CC",
-    "JUP",
+    "RESOLV",
+    "TRX",
     "TRUMP",
-    "TAO",
-    "TRX"
+    "STABLE"
   ],
   "scores": [
     72,
     70,
-    68,
+    67,
     66,
     64,
     62
   ],
-  "timestamp": "2026-01-31T07:43:49.130685",
+  "timestamp": "2026-01-31T07:56:59.444999",
   "bucket": "1.2m-5m"
 }
