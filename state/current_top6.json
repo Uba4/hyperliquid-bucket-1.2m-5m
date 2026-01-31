@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "INIT",
+    "SKR",
     "RESOLV",
     "CC",
-    "SKR",
-    "STABLE",
-    "TRUMP"
+    "INIT",
+    "TRUMP",
+    "kSHIB"
   ],
   "scores": [
     76,
+    74,
     72,
-    72,
-    72,
+    69,
     68,
     66
   ],
-  "timestamp": "2026-01-31T09:57:59.695319",
+  "timestamp": "2026-01-31T10:23:22.277023",
   "bucket": "1.2m-5m"
 }
