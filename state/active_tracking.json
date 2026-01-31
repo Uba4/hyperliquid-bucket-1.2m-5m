@@ -307,11 +307,11 @@
   },
   "TRUMP": {
     "current_run": 29,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-31T14:41:35.660770",
-    "exit_time": null,
+    "exit_time": "2026-01-31T18:52:36.517595",
     "last_bar_collected": 2284,
-    "tracking_until": null,
+    "tracking_until": "2026-02-10T18:52:36.517595",
     "entry_volume": 3223753.8296000003
   },
   "AVAX": {
@@ -441,13 +441,13 @@
     "entry_volume": 1330918.2411250002
   },
   "DASH": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-01-30T21:42:54.040156",
-    "exit_time": "2026-01-30T23:35:34.885229",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-01-31T18:52:36.517595",
+    "exit_time": null,
     "last_bar_collected": 1266,
-    "tracking_until": "2026-02-09T23:35:34.885229",
-    "entry_volume": 1443688.8846600028
+    "tracking_until": null,
+    "entry_volume": 2144222.003110001
   },
   "kSHIB": {
     "current_run": 3,
