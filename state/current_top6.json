@@ -2,19 +2,19 @@
   "tokens": [
     "SPX",
     "MEGA",
+    "KAITO",
     "HBAR",
     "PENDLE",
-    "KAITO",
-    "MNT"
+    "TIA"
   ],
   "scores": [
+    82,
     80,
     78,
     76,
     74,
-    72,
-    70
+    72
   ],
-  "timestamp": "2026-01-31T22:29:26.936631",
+  "timestamp": "2026-01-31T22:50:03.295481",
   "bucket": "1.2m-5m"
 }
