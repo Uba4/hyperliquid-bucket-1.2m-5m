@@ -307,11 +307,11 @@
   },
   "TRUMP": {
     "current_run": 27,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-31T04:43:35.995180",
-    "exit_time": null,
+    "exit_time": "2026-01-31T08:26:04.724361",
     "last_bar_collected": 2240,
-    "tracking_until": null,
+    "tracking_until": "2026-02-10T08:26:04.724361",
     "entry_volume": 2084699.1129000008
   },
   "AVAX": {
@@ -702,12 +702,12 @@
     "entry_volume": 3012536.4304190017
   },
   "POPCAT": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-31T05:27:20.477176",
-    "exit_time": "2026-01-31T05:59:11.269773",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-31T08:26:04.724361",
+    "exit_time": null,
     "last_bar_collected": 1916,
-    "tracking_until": "2026-02-10T05:59:11.269773",
-    "entry_volume": 1085419.4402349999
+    "tracking_until": null,
+    "entry_volume": 1096893.040818
   }
 }
