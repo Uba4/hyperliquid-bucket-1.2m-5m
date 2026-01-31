@@ -451,11 +451,11 @@
   },
   "kSHIB": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-31T12:20:03.339036",
-    "exit_time": null,
+    "exit_time": "2026-01-31T13:12:29.731685",
     "last_bar_collected": 2199,
-    "tracking_until": null,
+    "tracking_until": "2026-02-10T13:12:29.731685",
     "entry_volume": 1241855.8939720008
   },
   "0G": {
@@ -709,5 +709,14 @@
     "last_bar_collected": 1082,
     "tracking_until": "2026-02-10T09:15:50.323445",
     "entry_volume": 5382453.319800001
+  },
+  "MEGA": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-31T13:12:29.731685",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 3620500.4952000007
   }
 }
