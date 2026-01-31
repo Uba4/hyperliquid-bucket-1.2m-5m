@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "MEGA",
     "CC",
-    "TRX",
-    "TRUMP",
+    "MEGA",
     "AXS",
-    "RESOLV"
+    "TRX",
+    "RESOLV",
+    "TRUMP"
   ],
   "scores": [
     78,
@@ -15,6 +15,6 @@
     70,
     68
   ],
-  "timestamp": "2026-01-31T16:20:10.825415",
+  "timestamp": "2026-01-31T16:50:33.188915",
   "bucket": "1.2m-5m"
 }
