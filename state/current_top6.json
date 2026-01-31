@@ -4,8 +4,8 @@
     "MEGA",
     "HBAR",
     "PENDLE",
-    "TRX",
-    "XLM"
+    "KAITO",
+    "MNT"
   ],
   "scores": [
     80,
@@ -15,6 +15,6 @@
     72,
     70
   ],
-  "timestamp": "2026-01-31T22:00:30.122886",
+  "timestamp": "2026-01-31T22:29:26.936631",
   "bucket": "1.2m-5m"
 }
