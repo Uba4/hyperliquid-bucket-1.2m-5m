@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "INIT",
-    "0G",
-    "RESOLV",
     "STABLE",
-    "PURR",
+    "INIT",
+    "RESOLV",
+    "0G",
+    "JUP",
     "SEI"
   ],
   "scores": [
-    76,
     74,
     72,
     70,
     68,
-    66
+    66,
+    64
   ],
-  "timestamp": "2026-01-30T23:53:39.120423",
+  "timestamp": "2026-01-31T00:51:59.594743",
   "bucket": "1.2m-5m"
 }
