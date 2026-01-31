@@ -1,11 +1,11 @@
 {
   "tokens": [
     "TRX",
-    "RESOLV",
     "MEGA",
+    "RESOLV",
     "AXS",
     "0G",
-    "XLM"
+    "HBAR"
   ],
   "scores": [
     80,
@@ -15,6 +15,6 @@
     72,
     70
   ],
-  "timestamp": "2026-01-31T19:54:30.935004",
+  "timestamp": "2026-01-31T20:14:00.553614",
   "bucket": "1.2m-5m"
 }
