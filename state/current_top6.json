@@ -2,19 +2,19 @@
   "tokens": [
     "MEGA",
     "CC",
-    "RESOLV",
-    "MNT",
     "TRX",
-    "TRUMP"
+    "MNT",
+    "TRUMP",
+    "RESOLV"
   ],
   "scores": [
     80,
     78,
-    75,
+    76,
     74,
-    73,
+    72,
     70
   ],
-  "timestamp": "2026-01-31T14:57:41.709710",
+  "timestamp": "2026-01-31T15:21:25.436472",
   "bucket": "1.2m-5m"
 }
