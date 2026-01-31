@@ -1,11 +1,11 @@
 {
   "tokens": [
     "STABLE",
-    "INIT",
-    "RESOLV",
-    "0G",
     "JUP",
-    "SEI"
+    "RESOLV",
+    "PURR",
+    "TAO",
+    "AVNT"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-01-31T00:51:59.594743",
+  "timestamp": "2026-01-31T03:11:55.200622",
   "bucket": "1.2m-5m"
 }
