@@ -3,18 +3,18 @@
     "MEGA",
     "CC",
     "TRX",
-    "RESOLV",
     "TRUMP",
-    "SEI"
+    "AXS",
+    "RESOLV"
   ],
   "scores": [
+    78,
     76,
     74,
     72,
     70,
-    68,
-    66
+    68
   ],
-  "timestamp": "2026-01-31T15:56:05.057156",
+  "timestamp": "2026-01-31T16:20:10.825415",
   "bucket": "1.2m-5m"
 }
