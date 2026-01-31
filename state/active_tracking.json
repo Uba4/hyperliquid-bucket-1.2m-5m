@@ -315,21 +315,21 @@
     "entry_volume": 2178851.3521700003
   },
   "AVAX": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-28T01:45:00.367435",
-    "exit_time": "2026-01-28T03:25:30.602664",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-31T13:51:08.583213",
+    "exit_time": null,
     "last_bar_collected": 2193,
-    "tracking_until": "2026-02-07T03:25:30.602664",
-    "entry_volume": 4883227.9857399985
+    "tracking_until": null,
+    "entry_volume": 4964562.22732
   },
   "ADA": {
     "current_run": 21,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-31T10:47:45.647574",
-    "exit_time": null,
+    "exit_time": "2026-01-31T13:51:08.583213",
     "last_bar_collected": 2142,
-    "tracking_until": null,
+    "tracking_until": "2026-02-10T13:51:08.583213",
     "entry_volume": 4899832.280780002
   },
   "POL": {
