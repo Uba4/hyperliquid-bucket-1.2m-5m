@@ -118,11 +118,11 @@
   },
   "MET": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-01T06:32:04.229099",
-    "exit_time": null,
+    "exit_time": "2026-02-01T07:23:32.899470",
     "last_bar_collected": 2709,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T07:23:32.899470",
     "entry_volume": 1112328.06797
   },
   "VIRTUAL": {
@@ -739,11 +739,11 @@
   },
   "ZORA": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-01T04:36:15.517421",
-    "exit_time": null,
+    "exit_time": "2026-02-01T07:23:32.899470",
     "last_bar_collected": 1265,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T07:23:32.899470",
     "entry_volume": 3826656.387654001
   },
   "MOODENG": {
@@ -754,5 +754,23 @@
     "last_bar_collected": 2349,
     "tracking_until": null,
     "entry_volume": 1266909.3584959998
+  },
+  "ANIME": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T07:23:32.899470",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1256933.036324999
+  },
+  "SOPH": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T07:23:32.899470",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1206276.4736700002
   }
 }

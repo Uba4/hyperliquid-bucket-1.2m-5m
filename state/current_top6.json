@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ZORA",
+    "SOPH",
+    "ANIME",
     "ZK",
-    "MEGA",
     "MOODENG",
     "AVNT",
-    "MET"
+    "MEGA"
   ],
   "scores": [
+    88,
     86,
-    84,
+    83,
     82,
-    80,
-    78,
-    76
+    81,
+    78
   ],
-  "timestamp": "2026-02-01T06:32:04.229403",
+  "timestamp": "2026-02-01T07:23:32.899847",
   "bucket": "1.2m-5m"
 }
