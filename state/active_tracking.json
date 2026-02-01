@@ -127,11 +127,11 @@
   },
   "VIRTUAL": {
     "current_run": 27,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-01T19:33:38.080776",
-    "exit_time": null,
+    "exit_time": "2026-02-01T19:48:33.133610",
     "last_bar_collected": 2763,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T19:48:33.133610",
     "entry_volume": 3337611.7584919995
   },
   "TON": {
@@ -189,13 +189,13 @@
     "entry_volume": 2445811.77651
   },
   "IP": {
-    "current_run": 32,
-    "status": "post_exit",
-    "entry_time": "2026-01-31T11:43:21.784623",
-    "exit_time": "2026-01-31T14:41:35.660770",
+    "current_run": 33,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T19:48:33.133610",
+    "exit_time": null,
     "last_bar_collected": 2661,
-    "tracking_until": "2026-02-10T14:41:35.660770",
-    "entry_volume": 2032045.1542399998
+    "tracking_until": null,
+    "entry_volume": 3614670.6195900016
   },
   "CC": {
     "current_run": 56,
