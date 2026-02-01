@@ -1,11 +1,11 @@
 {
   "ICP": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-01T02:07:33.422791",
-    "exit_time": null,
+    "exit_time": "2026-02-01T04:36:15.517421",
     "last_bar_collected": 2698,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T04:36:15.517421",
     "entry_volume": 1656695.5237099999
   },
   "EIGEN": {
@@ -55,11 +55,11 @@
   },
   "PENGU": {
     "current_run": 26,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-01T02:07:33.422791",
-    "exit_time": null,
+    "exit_time": "2026-02-01T04:36:15.517421",
     "last_bar_collected": 2675,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T04:36:15.517421",
     "entry_volume": 4204870.843098
   },
   "WIF": {
@@ -181,11 +181,11 @@
   },
   "KAITO": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-31T22:29:26.936368",
-    "exit_time": null,
+    "exit_time": "2026-02-01T04:36:15.517421",
     "last_bar_collected": 2697,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T04:36:15.517421",
     "entry_volume": 2082702.1828700004
   },
   "IP": {
@@ -279,13 +279,13 @@
     "entry_volume": 1288157.1235999996
   },
   "STRK": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T12:54:16.080069",
-    "exit_time": "2026-01-24T14:48:54.466350",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T04:36:15.517421",
+    "exit_time": null,
     "last_bar_collected": 2651,
-    "tracking_until": "2026-02-03T14:48:54.466350",
-    "entry_volume": 2963100.9973749993
+    "tracking_until": null,
+    "entry_volume": 1723266.9373179995
   },
   "FET": {
     "current_run": 21,
@@ -441,13 +441,13 @@
     "entry_volume": 1330918.2411250002
   },
   "DASH": {
-    "current_run": 15,
-    "status": "post_exit",
-    "entry_time": "2026-01-31T18:52:36.517595",
-    "exit_time": "2026-01-31T19:11:17.783365",
+    "current_run": 16,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T04:36:15.517421",
+    "exit_time": null,
     "last_bar_collected": 1301,
-    "tracking_until": "2026-02-10T19:11:17.783365",
-    "entry_volume": 2144222.003110001
+    "tracking_until": null,
+    "entry_volume": 2223193.3162399996
   },
   "kSHIB": {
     "current_run": 3,
@@ -595,20 +595,20 @@
   },
   "SKR": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-01T02:07:33.422791",
-    "exit_time": null,
+    "exit_time": "2026-02-01T04:36:15.517421",
     "last_bar_collected": 388,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T04:36:15.517421",
     "entry_volume": 1393187.3249350006
   },
   "JTO": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-31T23:47:01.592383",
-    "exit_time": null,
+    "exit_time": "2026-02-01T04:36:15.517421",
     "last_bar_collected": 351,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T04:36:15.517421",
     "entry_volume": 1386220.5922400001
   },
   "PYTH": {
@@ -711,13 +711,13 @@
     "entry_volume": 4077611.358609997
   },
   "MEGA": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-31T13:12:29.731685",
-    "exit_time": "2026-01-31T23:29:36.260934",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T04:36:15.517421",
+    "exit_time": null,
     "last_bar_collected": 2329,
-    "tracking_until": "2026-02-10T23:29:36.260934",
-    "entry_volume": 3620500.4952000007
+    "tracking_until": null,
+    "entry_volume": 1164448.20153
   },
   "XLM": {
     "current_run": 2,
@@ -727,5 +727,23 @@
     "last_bar_collected": 2617,
     "tracking_until": "2026-02-10T22:29:26.936368",
     "entry_volume": 1794019.0865500006
+  },
+  "ZK": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T04:36:15.517421",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1968441.58537
+  },
+  "ZORA": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T04:36:15.517421",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 3826656.387654001
   }
 }
