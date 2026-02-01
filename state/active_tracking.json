@@ -424,11 +424,11 @@
   },
   "DASH": {
     "current_run": 17,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-01T13:38:32.874243",
-    "exit_time": null,
+    "exit_time": "2026-02-01T15:58:39.411239",
     "last_bar_collected": 1345,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T15:58:39.411239",
     "entry_volume": 2049705.93678
   },
   "kSHIB": {
@@ -754,5 +754,14 @@
     "last_bar_collected": 34,
     "tracking_until": "2026-02-11T09:17:39.841539",
     "entry_volume": 1206276.4736700002
+  },
+  "ARK": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T15:58:39.411239",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1196116.6373299973
   }
 }

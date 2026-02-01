@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "ARK",
     "SKR",
     "GAS",
     "RESOLV",
     "kBONK",
-    "TRX",
-    "DASH"
+    "TRX"
   ],
   "scores": [
+    84,
     82,
     80,
     78,
     76,
-    74,
-    72
+    74
   ],
-  "timestamp": "2026-02-01T15:43:53.077447",
+  "timestamp": "2026-02-01T15:58:39.411421",
   "bucket": "1.2m-5m"
 }
