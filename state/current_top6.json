@@ -1,11 +1,11 @@
 {
   "tokens": [
+    "RESOLV",
+    "MERL",
     "ARK",
     "SKR",
-    "RESOLV",
-    "CC",
     "TRX",
-    "MERL"
+    "CC"
   ],
   "scores": [
     88,
@@ -15,6 +15,6 @@
     80,
     78
   ],
-  "timestamp": "2026-02-01T17:20:22.816080",
+  "timestamp": "2026-02-01T17:46:41.904622",
   "bucket": "1.2m-5m"
 }
