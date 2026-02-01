@@ -1,20 +1,20 @@
 {
   "tokens": [
     "ANIME",
-    "AVNT",
     "SKR",
-    "MEGA",
+    "JUP",
+    "AVNT",
     "MOODENG",
-    "PENGU"
+    "JTO"
   ],
   "scores": [
     88,
     86,
     84,
-    81,
+    82,
     80,
     78
   ],
-  "timestamp": "2026-02-01T09:17:39.841722",
+  "timestamp": "2026-02-01T09:48:13.027195",
   "bucket": "1.2m-5m"
 }
