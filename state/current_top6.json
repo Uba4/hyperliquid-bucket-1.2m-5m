@@ -2,19 +2,19 @@
   "tokens": [
     "MERL",
     "IP",
-    "SPX",
-    "VIRTUAL",
     "XLM",
-    "MEGA"
+    "SPX",
+    "MEGA",
+    "VIRTUAL"
   ],
   "scores": [
-    84,
-    82,
     80,
     78,
     76,
-    74
+    74,
+    72,
+    70
   ],
-  "timestamp": "2026-02-01T21:58:44.479604",
+  "timestamp": "2026-02-01T22:26:29.681588",
   "bucket": "1.2m-5m"
 }
