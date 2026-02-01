@@ -2,19 +2,19 @@
   "tokens": [
     "ARK",
     "SKR",
-    "GAS",
     "RESOLV",
+    "CC",
     "TRX",
-    "kBONK"
+    "GAS"
   ],
   "scores": [
+    88,
     86,
     84,
     82,
     80,
-    78,
-    76
+    78
   ],
-  "timestamp": "2026-02-01T16:30:45.176658",
+  "timestamp": "2026-02-01T16:56:31.737799",
   "bucket": "1.2m-5m"
 }
