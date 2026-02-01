@@ -604,11 +604,11 @@
   },
   "JTO": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-01T09:48:13.026840",
-    "exit_time": null,
+    "exit_time": "2026-02-01T10:00:30.484688",
     "last_bar_collected": 376,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T10:00:30.484688",
     "entry_volume": 1406941.9290399996
   },
   "PYTH": {
@@ -729,13 +729,13 @@
     "entry_volume": 1794019.0865500006
   },
   "ZK": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-02-01T04:36:15.517421",
-    "exit_time": "2026-02-01T07:52:37.492902",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T10:00:30.484688",
+    "exit_time": null,
     "last_bar_collected": 1265,
-    "tracking_until": "2026-02-11T07:52:37.492902",
-    "entry_volume": 1968441.58537
+    "tracking_until": null,
+    "entry_volume": 3462664.7227519997
   },
   "ZORA": {
     "current_run": 1,
