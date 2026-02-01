@@ -3,18 +3,18 @@
     "SKR",
     "RESOLV",
     "kBONK",
+    "TRX",
     "DASH",
-    "TON",
     "kSHIB"
   ],
   "scores": [
+    82,
     80,
     78,
     76,
     74,
-    72,
-    70
+    72
   ],
-  "timestamp": "2026-02-01T14:56:18.874068",
+  "timestamp": "2026-02-01T15:19:19.154163",
   "bucket": "1.2m-5m"
 }
