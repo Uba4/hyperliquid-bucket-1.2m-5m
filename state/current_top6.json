@@ -2,9 +2,9 @@
   "tokens": [
     "SKR",
     "AXS",
-    "MERL",
     "RESOLV",
     "kBONK",
+    "MERL",
     "DASH"
   ],
   "scores": [
@@ -12,9 +12,9 @@
     82,
     80,
     78,
-    76,
-    74
+    75,
+    75
   ],
-  "timestamp": "2026-02-01T13:38:32.874801",
+  "timestamp": "2026-02-01T14:02:44.854988",
   "bucket": "1.2m-5m"
 }
