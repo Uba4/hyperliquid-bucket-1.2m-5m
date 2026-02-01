@@ -180,13 +180,13 @@
     "entry_volume": 1307341.728842
   },
   "KAITO": {
-    "current_run": 21,
-    "status": "post_exit",
-    "entry_time": "2026-02-01T10:32:54.660709",
-    "exit_time": "2026-02-01T10:55:43.923214",
+    "current_run": 22,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T11:51:26.389073",
+    "exit_time": null,
     "last_bar_collected": 2726,
-    "tracking_until": "2026-02-11T10:55:43.923214",
-    "entry_volume": 2199854.1362600005
+    "tracking_until": null,
+    "entry_volume": 2445811.77651
   },
   "IP": {
     "current_run": 32,
@@ -226,11 +226,11 @@
   },
   "JUP": {
     "current_run": 17,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-01T09:48:13.026840",
-    "exit_time": null,
+    "exit_time": "2026-02-01T11:51:26.389073",
     "last_bar_collected": 2712,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T11:51:26.389073",
     "entry_volume": 2333465.01813
   },
   "TRX": {
