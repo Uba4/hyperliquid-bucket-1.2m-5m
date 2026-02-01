@@ -2,19 +2,19 @@
   "tokens": [
     "SOPH",
     "ANIME",
-    "AVNT",
     "MEGA",
+    "AVNT",
     "MOODENG",
-    "MET"
+    "PENGU"
   ],
   "scores": [
+    90,
     88,
     86,
     84,
     82,
-    80,
-    78
+    80
   ],
-  "timestamp": "2026-02-01T07:52:37.493086",
+  "timestamp": "2026-02-01T08:17:15.166864",
   "bucket": "1.2m-5m"
 }
