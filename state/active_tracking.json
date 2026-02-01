@@ -640,11 +640,11 @@
   },
   "UNI": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-01T19:04:04.774949",
-    "exit_time": null,
+    "exit_time": "2026-02-01T21:01:33.671129",
     "last_bar_collected": 2525,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T21:01:33.671129",
     "entry_volume": 5339145.0378100015
   },
   "ETHFI": {
@@ -702,13 +702,13 @@
     "entry_volume": 1164448.20153
   },
   "XLM": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-31T21:39:08.012145",
-    "exit_time": "2026-01-31T22:29:26.936368",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T21:01:33.671129",
+    "exit_time": null,
     "last_bar_collected": 2686,
-    "tracking_until": "2026-02-10T22:29:26.936368",
-    "entry_volume": 1794019.0865500006
+    "tracking_until": null,
+    "entry_volume": 1563605.87983
   },
   "ZK": {
     "current_run": 2,
