@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "MERL",
     "IP",
-    "XLM",
-    "SPX",
+    "MERL",
     "MEGA",
+    "RESOLV",
+    "XLM",
     "VIRTUAL"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     72,
     70
   ],
-  "timestamp": "2026-02-01T22:26:29.681588",
+  "timestamp": "2026-02-01T22:50:27.525709",
   "bucket": "1.2m-5m"
 }
