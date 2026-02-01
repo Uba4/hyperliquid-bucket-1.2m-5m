@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "ANIME",
     "SKR",
     "ZK",
+    "ANIME",
     "AXS",
     "JUP",
-    "KAITO"
+    "STRK"
   ],
   "scores": [
     88,
@@ -15,6 +15,6 @@
     80,
     78
   ],
-  "timestamp": "2026-02-01T10:32:54.661045",
+  "timestamp": "2026-02-01T10:55:43.923400",
   "bucket": "1.2m-5m"
 }
