@@ -135,13 +135,13 @@
     "entry_volume": 5269810.290588002
   },
   "TON": {
-    "current_run": 33,
-    "status": "post_exit",
-    "entry_time": "2026-01-31T21:17:51.336510",
-    "exit_time": "2026-01-31T21:39:08.012145",
+    "current_run": 34,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T14:36:30.574951",
+    "exit_time": null,
     "last_bar_collected": 2714,
-    "tracking_until": "2026-02-10T21:39:08.012145",
-    "entry_volume": 2881687.3791400013
+    "tracking_until": null,
+    "entry_volume": 2449317.771760002
   },
   "ASTER": {
     "current_run": 6,
@@ -415,11 +415,11 @@
   },
   "MERL": {
     "current_run": 21,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-01T11:16:37.376772",
-    "exit_time": null,
+    "exit_time": "2026-02-01T14:36:30.574951",
     "last_bar_collected": 1371,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T14:36:30.574951",
     "entry_volume": 1150865.745563
   },
   "DASH": {
