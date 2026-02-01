@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "SPX",
-    "KAITO",
     "JTO",
-    "EIGEN",
-    "HBAR",
-    "TIA"
+    "SKR",
+    "KAITO",
+    "PENGU",
+    "POL",
+    "ICP"
   ],
   "scores": [
     76,
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-01-31T23:57:31.107656",
+  "timestamp": "2026-02-01T02:07:33.423435",
   "bucket": "1.2m-5m"
 }
