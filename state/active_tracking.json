@@ -117,13 +117,13 @@
     "entry_volume": 3308210.141148
   },
   "MET": {
-    "current_run": 20,
-    "status": "post_exit",
-    "entry_time": "2026-02-01T06:32:04.229099",
-    "exit_time": "2026-02-01T07:23:32.899470",
+    "current_run": 21,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T07:52:37.492902",
+    "exit_time": null,
     "last_bar_collected": 2711,
-    "tracking_until": "2026-02-11T07:23:32.899470",
-    "entry_volume": 1112328.06797
+    "tracking_until": null,
+    "entry_volume": 1087966.6944599997
   },
   "VIRTUAL": {
     "current_run": 26,
@@ -730,11 +730,11 @@
   },
   "ZK": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-01T04:36:15.517421",
-    "exit_time": null,
+    "exit_time": "2026-02-01T07:52:37.492902",
     "last_bar_collected": 1257,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T07:52:37.492902",
     "entry_volume": 1968441.58537
   },
   "ZORA": {
