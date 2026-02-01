@@ -2,19 +2,19 @@
   "tokens": [
     "ANIME",
     "SKR",
-    "JUP",
     "ZK",
-    "MOODENG",
-    "AVNT"
+    "AXS",
+    "JUP",
+    "KAITO"
   ],
   "scores": [
     88,
     86,
     84,
-    81,
+    82,
     80,
     78
   ],
-  "timestamp": "2026-02-01T10:00:30.484861",
+  "timestamp": "2026-02-01T10:32:54.661045",
   "bucket": "1.2m-5m"
 }
