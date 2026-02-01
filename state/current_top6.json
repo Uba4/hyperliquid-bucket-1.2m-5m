@@ -3,9 +3,9 @@
     "SKR",
     "MERL",
     "AXS",
-    "WIF",
     "STRK",
-    "KAITO"
+    "WIF",
+    "PURR"
   ],
   "scores": [
     84,
@@ -15,6 +15,6 @@
     76,
     74
   ],
-  "timestamp": "2026-02-01T11:59:26.655012",
+  "timestamp": "2026-02-01T12:55:52.257092",
   "bucket": "1.2m-5m"
 }

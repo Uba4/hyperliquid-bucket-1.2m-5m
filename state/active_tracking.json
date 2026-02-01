@@ -181,11 +181,11 @@
   },
   "KAITO": {
     "current_run": 22,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-01T11:51:26.389073",
-    "exit_time": null,
+    "exit_time": "2026-02-01T12:55:52.256894",
     "last_bar_collected": 2726,
-    "tracking_until": null,
+    "tracking_until": "2026-02-11T12:55:52.256894",
     "entry_volume": 2445811.77651
   },
   "IP": {
@@ -576,13 +576,13 @@
     "entry_volume": 1086388.224667
   },
   "PURR": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-31T03:11:55.200166",
-    "exit_time": "2026-01-31T07:16:52.577833",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-02-01T12:55:52.256894",
+    "exit_time": null,
     "last_bar_collected": 485,
-    "tracking_until": "2026-02-10T07:16:52.577833",
-    "entry_volume": 1435781.1381199996
+    "tracking_until": null,
+    "entry_volume": 1186483.83455
   },
   "PROMPT": {
     "current_run": 1,
