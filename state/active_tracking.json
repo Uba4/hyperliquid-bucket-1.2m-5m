@@ -109,11 +109,11 @@
   },
   "SPX": {
     "current_run": 46,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-02T08:49:36.767345",
-    "exit_time": null,
+    "exit_time": "2026-02-02T13:39:12.455272",
     "last_bar_collected": 2751,
-    "tracking_until": null,
+    "tracking_until": "2026-02-12T13:39:12.455272",
     "entry_volume": 2452418.748759002
   },
   "MET": {
@@ -126,13 +126,13 @@
     "entry_volume": 1087966.6944599997
   },
   "VIRTUAL": {
-    "current_run": 28,
-    "status": "post_exit",
-    "entry_time": "2026-02-01T20:25:23.980359",
-    "exit_time": "2026-02-01T23:02:45.210747",
+    "current_run": 29,
+    "status": "in_top6",
+    "entry_time": "2026-02-02T13:39:12.455272",
+    "exit_time": null,
     "last_bar_collected": 2832,
-    "tracking_until": "2026-02-11T23:02:45.210747",
-    "entry_volume": 3115077.4874079986
+    "tracking_until": null,
+    "entry_volume": 3407371.5499670007
   },
   "TON": {
     "current_run": 34,
@@ -208,21 +208,21 @@
   },
   "ARB": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-02T11:49:57.405793",
-    "exit_time": null,
+    "exit_time": "2026-02-02T13:39:12.455272",
     "last_bar_collected": 2844,
-    "tracking_until": null,
+    "tracking_until": "2026-02-12T13:39:12.455272",
     "entry_volume": 3161728.8341950006
   },
   "JUP": {
-    "current_run": 19,
-    "status": "post_exit",
-    "entry_time": "2026-02-02T03:38:41.622849",
-    "exit_time": "2026-02-02T09:33:03.153099",
+    "current_run": 20,
+    "status": "in_top6",
+    "entry_time": "2026-02-02T13:39:12.455272",
+    "exit_time": null,
     "last_bar_collected": 2814,
-    "tracking_until": "2026-02-12T09:33:03.153099",
-    "entry_volume": 1334522.0764599997
+    "tracking_until": null,
+    "entry_volume": 3162813.9519600007
   },
   "TRX": {
     "current_run": 50,
@@ -394,15 +394,6 @@
     "last_bar_collected": 1505,
     "tracking_until": "2026-02-02T18:23:31.453728",
     "entry_volume": 2498973.66318
-  },
-  "DOGE": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T11:33:06.262952",
-    "exit_time": "2026-01-23T12:36:21.931748",
-    "last_bar_collected": 1515,
-    "tracking_until": "2026-02-02T12:36:21.931748",
-    "entry_volume": 5252404.220950004
   },
   "MERL": {
     "current_run": 22,
