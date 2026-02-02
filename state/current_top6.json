@@ -1,20 +1,20 @@
 {
   "tokens": [
     "STABLE",
-    "MOVE",
-    "SKR",
     "MERL",
+    "MOVE",
     "WIF",
-    "JUP"
+    "SKR",
+    "SPX"
   ],
   "scores": [
-    82,
     80,
     78,
     76,
     74,
-    72
+    72,
+    70
   ],
-  "timestamp": "2026-02-02T15:49:12.552328",
+  "timestamp": "2026-02-02T16:18:57.097456",
   "bucket": "1.2m-5m"
 }
