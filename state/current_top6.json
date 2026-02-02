@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "SPX",
     "BERA",
-    "JUP",
-    "CRV",
     "AVNT",
-    "SKR",
-    "SPX"
+    "CRV",
+    "XLM",
+    "LDO"
   ],
   "scores": [
     80,
     78,
     76,
-    73,
-    73,
+    74,
+    72,
     70
   ],
-  "timestamp": "2026-02-02T08:49:36.767538",
+  "timestamp": "2026-02-02T09:33:03.153375",
   "bucket": "1.2m-5m"
 }
