@@ -2,19 +2,19 @@
   "tokens": [
     "STABLE",
     "MERL",
+    "APEX",
     "SPX",
-    "WIF",
     "POL",
-    "MOVE"
+    "CC"
   ],
   "scores": [
+    80,
     78,
     76,
     74,
     72,
-    70,
-    66
+    70
   ],
-  "timestamp": "2026-02-02T17:05:53.872682",
+  "timestamp": "2026-02-02T17:53:37.574952",
   "bucket": "1.2m-5m"
 }
