@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SKR",
-    "JUP",
     "BERA",
-    "RESOLV",
+    "JUP",
     "CRV",
-    "AVNT"
+    "AVNT",
+    "SKR",
+    "SPX"
   ],
   "scores": [
     80,
     78,
     76,
-    74,
-    72,
+    73,
+    73,
     70
   ],
-  "timestamp": "2026-02-02T07:59:22.234334",
+  "timestamp": "2026-02-02T08:49:36.767538",
   "bucket": "1.2m-5m"
 }
