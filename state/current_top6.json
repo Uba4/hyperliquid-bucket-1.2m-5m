@@ -1,20 +1,20 @@
 {
   "tokens": [
     "IP",
-    "MEGA",
-    "MERL",
-    "RESOLV",
     "CC",
-    "XLM"
+    "MEGA",
+    "DASH",
+    "BERA",
+    "RESOLV"
   ],
   "scores": [
+    86,
     84,
     82,
-    79,
+    80,
     78,
-    77,
-    74
+    76
   ],
-  "timestamp": "2026-02-01T23:53:29.140934",
+  "timestamp": "2026-02-02T00:57:03.187305",
   "bucket": "1.2m-5m"
 }
