@@ -1,11 +1,11 @@
 {
   "tokens": [
     "CC",
+    "SKR",
     "STABLE",
+    "MEGA",
     "JUP",
-    "KAITO",
-    "ANIME",
-    "IP"
+    "SOPH"
   ],
   "scores": [
     82,
@@ -15,6 +15,6 @@
     74,
     72
   ],
-  "timestamp": "2026-02-02T03:38:41.623403",
+  "timestamp": "2026-02-02T05:15:21.282810",
   "bucket": "1.2m-5m"
 }
