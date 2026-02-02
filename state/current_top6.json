@@ -2,10 +2,10 @@
   "tokens": [
     "STABLE",
     "SPX",
-    "AVNT",
-    "XLM",
-    "ICP",
-    "ANIME"
+    "ARB",
+    "ANIME",
+    "TAO",
+    "AVNT"
   ],
   "scores": [
     78,
@@ -15,6 +15,6 @@
     70,
     68
   ],
-  "timestamp": "2026-02-02T11:11:18.012186",
+  "timestamp": "2026-02-02T11:49:57.406118",
   "bucket": "1.2m-5m"
 }
