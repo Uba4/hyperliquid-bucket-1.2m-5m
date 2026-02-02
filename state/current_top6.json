@@ -1,11 +1,11 @@
 {
   "tokens": [
     "STABLE",
-    "SKR",
     "MOVE",
-    "JUP",
+    "SKR",
+    "MERL",
     "WIF",
-    "TAO"
+    "JUP"
   ],
   "scores": [
     82,
@@ -15,6 +15,6 @@
     74,
     72
   ],
-  "timestamp": "2026-02-02T15:06:11.983932",
+  "timestamp": "2026-02-02T15:49:12.552328",
   "bucket": "1.2m-5m"
 }
