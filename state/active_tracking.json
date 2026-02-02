@@ -386,15 +386,6 @@
     "tracking_until": "2026-02-12T10:26:46.258195",
     "entry_volume": 2753160.804061999
   },
-  "SAND": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T13:58:17.344641",
-    "exit_time": "2026-01-23T18:23:31.453728",
-    "last_bar_collected": 1523,
-    "tracking_until": "2026-02-02T18:23:31.453728",
-    "entry_volume": 2498973.66318
-  },
   "MERL": {
     "current_run": 23,
     "status": "in_top6",
