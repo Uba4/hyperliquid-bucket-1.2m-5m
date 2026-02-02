@@ -261,13 +261,13 @@
     "entry_volume": 1099849.8798299995
   },
   "RESOLV": {
-    "current_run": 25,
-    "status": "post_exit",
-    "entry_time": "2026-02-01T22:50:27.525528",
-    "exit_time": "2026-02-02T03:38:41.622849",
+    "current_run": 26,
+    "status": "in_top6",
+    "entry_time": "2026-02-02T06:15:29.590953",
+    "exit_time": null,
     "last_bar_collected": 2705,
-    "tracking_until": "2026-02-12T03:38:41.622849",
-    "entry_volume": 1454862.4420799993
+    "tracking_until": null,
+    "entry_volume": 3687393.7508989996
   },
   "ONDO": {
     "current_run": 14,
@@ -748,11 +748,11 @@
   },
   "SOPH": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-02T05:15:21.282377",
-    "exit_time": null,
+    "exit_time": "2026-02-02T06:15:29.590953",
     "last_bar_collected": 88,
-    "tracking_until": null,
+    "tracking_until": "2026-02-12T06:15:29.590953",
     "entry_volume": 1286798.7976219999
   },
   "ARK": {
