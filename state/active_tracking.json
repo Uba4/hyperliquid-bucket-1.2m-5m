@@ -288,13 +288,13 @@
     "entry_volume": 1782734.1915289992
   },
   "TRUMP": {
-    "current_run": 29,
-    "status": "post_exit",
-    "entry_time": "2026-01-31T14:41:35.660770",
-    "exit_time": "2026-01-31T18:52:36.517595",
+    "current_run": 30,
+    "status": "in_top6",
+    "entry_time": "2026-02-02T23:20:57.264310",
+    "exit_time": null,
     "last_bar_collected": 2472,
-    "tracking_until": "2026-02-10T18:52:36.517595",
-    "entry_volume": 3223753.8296000003
+    "tracking_until": null,
+    "entry_volume": 3415023.62647
   },
   "AVAX": {
     "current_run": 14,
@@ -316,11 +316,11 @@
   },
   "POL": {
     "current_run": 22,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-02T17:05:53.872499",
-    "exit_time": null,
+    "exit_time": "2026-02-02T23:20:57.264310",
     "last_bar_collected": 2337,
-    "tracking_until": null,
+    "tracking_until": "2026-02-12T23:20:57.264310",
     "entry_volume": 2213122.77951
   },
   "VVV": {

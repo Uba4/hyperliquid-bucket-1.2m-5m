@@ -3,18 +3,18 @@
     "PURR",
     "MERL",
     "SKR",
-    "POL",
+    "POPCAT",
     "MOVE",
-    "POPCAT"
+    "TRUMP"
   ],
   "scores": [
-    80,
     78,
     76,
     74,
     72,
-    70
+    70,
+    68
   ],
-  "timestamp": "2026-02-02T23:09:14.280190",
+  "timestamp": "2026-02-02T23:20:57.264474",
   "bucket": "1.2m-5m"
 }
