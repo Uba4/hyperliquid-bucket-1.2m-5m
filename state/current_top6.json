@@ -1,10 +1,10 @@
 {
   "tokens": [
     "SKR",
-    "ANIME",
     "STABLE",
+    "ANIME",
+    "WIF",
     "VIRTUAL",
-    "TAO",
     "JUP"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     74,
     72
   ],
-  "timestamp": "2026-02-02T13:39:12.455554",
+  "timestamp": "2026-02-02T14:24:58.818133",
   "bucket": "1.2m-5m"
 }
