@@ -2,19 +2,19 @@
   "tokens": [
     "PURR",
     "MERL",
-    "SPX",
-    "POPCAT",
-    "ZORA",
-    "MORPHO"
+    "WLD",
+    "STX",
+    "MORPHO",
+    "CC"
   ],
   "scores": [
+    82,
     80,
     78,
     76,
     74,
-    72,
-    70
+    72
   ],
-  "timestamp": "2026-02-03T00:02:31.371087",
+  "timestamp": "2026-02-03T02:52:25.925206",
   "bucket": "1.2m-5m"
 }
