@@ -2,10 +2,10 @@
   "tokens": [
     "PURR",
     "STX",
-    "MORPHO",
-    "JUP",
     "APEX",
-    "TRX"
+    "JUP",
+    "SEI",
+    "MORPHO"
   ],
   "scores": [
     84,
@@ -15,6 +15,6 @@
     76,
     74
   ],
-  "timestamp": "2026-02-03T04:29:28.543150",
+  "timestamp": "2026-02-03T05:35:11.598826",
   "bucket": "1.2m-5m"
 }
