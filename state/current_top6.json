@@ -3,18 +3,18 @@
     "MERL",
     "STABLE",
     "ZORA",
-    "VIRTUAL",
-    "WLD",
-    "JUP"
+    "IP",
+    "ONDO",
+    "WLD"
   ],
   "scores": [
+    82,
     80,
     78,
     76,
     74,
-    72,
-    70
+    72
   ],
-  "timestamp": "2026-02-03T15:36:35.307723",
+  "timestamp": "2026-02-03T16:31:28.535190",
   "bucket": "1.2m-5m"
 }
