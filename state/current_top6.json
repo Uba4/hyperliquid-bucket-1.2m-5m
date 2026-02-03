@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MORPHO",
-    "POL",
     "SKR",
+    "POL",
+    "MORPHO",
+    "STX",
     "CC",
-    "APEX",
-    "STX"
+    "WIF"
   ],
   "scores": [
-    90,
     88,
     86,
     84,
     82,
-    80
+    80,
+    78
   ],
-  "timestamp": "2026-02-03T09:25:41.030696",
+  "timestamp": "2026-02-03T10:04:42.804638",
   "bucket": "1.2m-5m"
 }
