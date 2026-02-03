@@ -1,20 +1,20 @@
 {
   "tokens": [
     "PURR",
+    "ZRO",
     "SEI",
     "APEX",
     "MORPHO",
-    "JUP",
-    "STX"
+    "CC"
   ],
   "scores": [
+    88,
     86,
     84,
     82,
     80,
-    78,
-    76
+    78
   ],
-  "timestamp": "2026-02-03T06:28:59.670445",
+  "timestamp": "2026-02-03T07:26:44.902256",
   "bucket": "1.2m-5m"
 }
