@@ -1,20 +1,20 @@
 {
   "tokens": [
     "AXS",
-    "WLFI",
-    "SKR",
-    "BERA",
     "KAITO",
-    "TRX"
+    "SPX",
+    "BERA",
+    "JUP",
+    "ZORA"
   ],
   "scores": [
     82,
     80,
     78,
     76,
-    74,
-    72
+    73,
+    73
   ],
-  "timestamp": "2026-02-03T20:58:26.877642",
+  "timestamp": "2026-02-03T21:35:14.312245",
   "bucket": "1.2m-5m"
 }
