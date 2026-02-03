@@ -3,9 +3,9 @@
     "POL",
     "STX",
     "MON",
-    "MORPHO",
+    "JUP",
     "POPCAT",
-    "VIRTUAL"
+    "SPX"
   ],
   "scores": [
     86,
@@ -15,6 +15,6 @@
     78,
     76
   ],
-  "timestamp": "2026-02-03T11:29:32.437941",
+  "timestamp": "2026-02-03T11:57:44.750488",
   "bucket": "1.2m-5m"
 }
