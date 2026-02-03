@@ -1,10 +1,10 @@
 {
   "tokens": [
     "POL",
-    "SKR",
     "STX",
-    "MORPHO",
     "MON",
+    "MORPHO",
+    "POPCAT",
     "VIRTUAL"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     78,
     76
   ],
-  "timestamp": "2026-02-03T10:55:49.302793",
+  "timestamp": "2026-02-03T11:29:32.437941",
   "bucket": "1.2m-5m"
 }
