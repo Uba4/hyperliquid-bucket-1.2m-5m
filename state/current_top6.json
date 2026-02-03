@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MERL",
-    "STABLE",
     "ZORA",
-    "IP",
-    "ONDO",
+    "TON",
+    "SKR",
+    "STX",
     "WLD"
   ],
   "scores": [
+    84,
     82,
     80,
     78,
     76,
-    74,
-    72
+    74
   ],
-  "timestamp": "2026-02-03T16:31:28.535190",
+  "timestamp": "2026-02-03T17:30:37.426347",
   "bucket": "1.2m-5m"
 }
