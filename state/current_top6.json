@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SPX",
-    "AXS",
     "KAITO",
+    "SPX",
     "IP",
-    "STRK",
-    "JUP"
+    "AXS",
+    "ARB",
+    "STRK"
   ],
   "scores": [
     80,
-    78,
     76,
-    74,
+    76,
+    76,
     72,
     70
   ],
-  "timestamp": "2026-02-03T23:37:11.277701",
+  "timestamp": "2026-02-03T23:56:17.652311",
   "bucket": "1.2m-5m"
 }
