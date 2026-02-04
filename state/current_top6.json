@@ -1,9 +1,9 @@
 {
   "tokens": [
     "SKR",
-    "CC",
     "PURR",
     "STABLE",
+    "CC",
     "RESOLV",
     "JUP"
   ],
@@ -15,6 +15,6 @@
     84,
     82
   ],
-  "timestamp": "2026-02-04T17:25:10.561130",
+  "timestamp": "2026-02-04T18:07:05.131392",
   "bucket": "1.2m-5m"
 }
