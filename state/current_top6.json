@@ -2,10 +2,10 @@
   "tokens": [
     "CC",
     "MERL",
-    "PURR",
     "SKR",
+    "PURR",
     "RESOLV",
-    "TON"
+    "JUP"
   ],
   "scores": [
     92,
@@ -15,6 +15,6 @@
     84,
     82
   ],
-  "timestamp": "2026-02-04T15:45:18.369546",
+  "timestamp": "2026-02-04T16:29:02.908758",
   "bucket": "1.2m-5m"
 }
