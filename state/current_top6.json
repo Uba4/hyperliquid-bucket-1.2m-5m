@@ -2,19 +2,19 @@
   "tokens": [
     "ZORA",
     "MERL",
+    "MON",
     "MORPHO",
-    "ZK",
-    "OP",
-    "RESOLV"
+    "SPX",
+    "OP"
   ],
   "scores": [
-    82,
     80,
     78,
     76,
     74,
-    72
+    72,
+    70
   ],
-  "timestamp": "2026-02-04T06:47:26.196974",
+  "timestamp": "2026-02-04T07:34:55.997733",
   "bucket": "1.2m-5m"
 }
