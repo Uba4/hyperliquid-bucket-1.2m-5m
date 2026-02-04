@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SKR",
     "PURR",
     "STABLE",
-    "CC",
-    "RESOLV",
-    "JUP"
+    "SKR",
+    "JUP",
+    "POL",
+    "BCH"
   ],
   "scores": [
+    94,
     92,
     90,
     88,
     86,
-    84,
-    82
+    84
   ],
-  "timestamp": "2026-02-04T18:07:05.131392",
+  "timestamp": "2026-02-04T19:05:28.519646",
   "bucket": "1.2m-5m"
 }
