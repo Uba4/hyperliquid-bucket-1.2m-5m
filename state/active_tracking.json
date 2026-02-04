@@ -54,13 +54,13 @@
     "entry_volume": 1762444.8075400004
   },
   "PENGU": {
-    "current_run": 27,
-    "status": "post_exit",
-    "entry_time": "2026-02-01T08:17:15.166635",
-    "exit_time": "2026-02-01T09:48:13.026840",
+    "current_run": 28,
+    "status": "in_top6",
+    "entry_time": "2026-02-04T22:58:16.127014",
+    "exit_time": null,
     "last_bar_collected": 3034,
-    "tracking_until": "2026-02-11T09:48:13.026840",
-    "entry_volume": 4204863.276406
+    "tracking_until": null,
+    "entry_volume": 3172095.4573620004
   },
   "WIF": {
     "current_run": 37,
@@ -127,11 +127,11 @@
   },
   "VIRTUAL": {
     "current_run": 32,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-04T21:22:46.494148",
-    "exit_time": null,
+    "exit_time": "2026-02-04T22:58:16.127014",
     "last_bar_collected": 3052,
-    "tracking_until": null,
+    "tracking_until": "2026-02-14T22:58:16.127014",
     "entry_volume": 3414086.4610000015
   },
   "TON": {
