@@ -2,19 +2,19 @@
   "tokens": [
     "PURR",
     "BERA",
-    "VIRTUAL",
     "BCH",
     "0G",
-    "SPX"
+    "VIRTUAL",
+    "UNI"
   ],
   "scores": [
+    86,
     84,
     82,
     80,
     78,
-    76,
-    74
+    76
   ],
-  "timestamp": "2026-02-04T21:50:57.865738",
+  "timestamp": "2026-02-04T22:01:46.367932",
   "bucket": "1.2m-5m"
 }
