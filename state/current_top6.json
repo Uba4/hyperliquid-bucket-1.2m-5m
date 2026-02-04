@@ -1,11 +1,11 @@
 {
   "tokens": [
     "ZORA",
+    "MERL",
     "ZK",
     "MORPHO",
     "OP",
-    "MERL",
-    "STABLE"
+    "RESOLV"
   ],
   "scores": [
     82,
@@ -15,6 +15,6 @@
     74,
     72
   ],
-  "timestamp": "2026-02-04T05:01:52.707697",
+  "timestamp": "2026-02-04T05:57:22.745614",
   "bucket": "1.2m-5m"
 }
