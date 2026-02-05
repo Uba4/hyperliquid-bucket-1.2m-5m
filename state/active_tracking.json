@@ -37,11 +37,11 @@
   },
   "NEAR": {
     "current_run": 32,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-05T14:12:30.254851",
-    "exit_time": null,
+    "exit_time": "2026-02-05T16:30:52.576812",
     "last_bar_collected": 3057,
-    "tracking_until": null,
+    "tracking_until": "2026-02-15T16:30:52.576812",
     "entry_volume": 3633314.83555
   },
   "PENGU": {
@@ -567,13 +567,13 @@
     "entry_volume": 4427845.325979998
   },
   "ETHFI": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-30T17:03:38.884365",
-    "exit_time": "2026-01-30T21:15:18.340645",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-02-05T16:30:52.576812",
+    "exit_time": null,
     "last_bar_collected": 1637,
-    "tracking_until": "2026-02-09T21:15:18.340645",
-    "entry_volume": 1781556.5440470001
+    "tracking_until": null,
+    "entry_volume": 1216409.2641350003
   },
   "HBAR": {
     "current_run": 2,
