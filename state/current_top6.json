@@ -1,20 +1,20 @@
 {
   "tokens": [
     "IP",
-    "SKR",
-    "AXS",
     "PURR",
-    "ATOM",
-    "TON"
+    "AXS",
+    "SKR",
+    "MERL",
+    "ZORA"
   ],
   "scores": [
     82,
-    80,
     78,
-    76,
+    78,
+    78,
     74,
     72
   ],
-  "timestamp": "2026-02-05T08:40:23.977146",
+  "timestamp": "2026-02-05T09:28:13.192765",
   "bucket": "1.2m-5m"
 }
