@@ -2,9 +2,9 @@
   "tokens": [
     "SKR",
     "PURR",
-    "CC",
-    "TRX",
     "TON",
+    "TRX",
+    "RESOLV",
     "MET"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     82,
     80
   ],
-  "timestamp": "2026-02-05T20:04:17.634369",
+  "timestamp": "2026-02-05T20:47:42.517183",
   "bucket": "1.2m-5m"
 }
