@@ -2,19 +2,19 @@
   "tokens": [
     "SKR",
     "ETHFI",
+    "STABLE",
     "TRX",
     "BERA",
-    "ATOM",
-    "TON"
+    "ATOM"
   ],
   "scores": [
-    90,
-    88,
     86,
     84,
     82,
-    80
+    80,
+    78,
+    76
   ],
-  "timestamp": "2026-02-05T16:30:52.576966",
+  "timestamp": "2026-02-05T17:27:27.837232",
   "bucket": "1.2m-5m"
 }
