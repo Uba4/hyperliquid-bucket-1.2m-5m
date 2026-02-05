@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SKR",
-    "TON",
     "RESOLV",
+    "TON",
     "TRX",
-    "PURR",
-    "FOGO"
+    "FOGO",
+    "MET"
   ],
   "scores": [
     100,
     98,
     96,
+    94,
     92,
-    92,
-    92
+    90
   ],
-  "timestamp": "2026-02-05T21:47:28.222970",
+  "timestamp": "2026-02-05T22:01:59.927710",
   "bucket": "1.2m-5m"
 }
