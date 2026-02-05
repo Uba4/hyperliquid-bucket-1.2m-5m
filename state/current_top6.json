@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "POL",
-    "BCH",
-    "UNI",
+    "SKR",
     "STX",
-    "TAO",
-    "STRK"
+    "SPX",
+    "ATOM",
+    "JUP",
+    "TAO"
   ],
   "scores": [
     88,
     86,
     84,
     82,
-    79,
-    78
+    78,
+    76
   ],
-  "timestamp": "2026-02-05T03:30:35.355386",
+  "timestamp": "2026-02-05T05:06:25.242277",
   "bucket": "1.2m-5m"
 }
