@@ -1,11 +1,11 @@
 {
   "tokens": [
     "SKR",
-    "STX",
+    "IP",
+    "AXS",
     "ATOM",
     "TON",
-    "AXS",
-    "JUP"
+    "STX"
   ],
   "scores": [
     88,
@@ -15,6 +15,6 @@
     80,
     78
   ],
-  "timestamp": "2026-02-05T06:07:20.608800",
+  "timestamp": "2026-02-05T07:13:55.283162",
   "bucket": "1.2m-5m"
 }
