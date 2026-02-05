@@ -467,15 +467,6 @@
     "tracking_until": "2026-02-11T23:53:29.140740",
     "entry_volume": 1361029.6081000036
   },
-  "WCT": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T05:45:53.073559",
-    "exit_time": "2026-01-26T08:23:11.951472",
-    "last_bar_collected": 1936,
-    "tracking_until": "2026-02-05T08:23:11.951472",
-    "entry_volume": 1280297.277504
-  },
   "ZETA": {
     "current_run": 1,
     "status": "post_exit",
@@ -486,13 +477,13 @@
     "entry_volume": 1086388.224667
   },
   "PURR": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-02-04T14:59:32.749304",
-    "exit_time": "2026-02-05T03:30:35.354755",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-02-05T08:40:23.976883",
+    "exit_time": null,
     "last_bar_collected": 831,
-    "tracking_until": "2026-02-15T03:30:35.354755",
-    "entry_volume": 1841510.7755529992
+    "tracking_until": null,
+    "entry_volume": 3442979.6535959993
   },
   "PROMPT": {
     "current_run": 1,
@@ -649,11 +640,11 @@
   },
   "ZORA": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-05T07:57:32.257199",
-    "exit_time": null,
+    "exit_time": "2026-02-05T08:40:23.976883",
     "last_bar_collected": 2027,
-    "tracking_until": null,
+    "tracking_until": "2026-02-15T08:40:23.976883",
     "entry_volume": 1866544.6755389988
   },
   "MOODENG": {
