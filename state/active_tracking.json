@@ -648,13 +648,13 @@
     "entry_volume": 1476717.7464119997
   },
   "ZORA": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-02-04T05:01:52.707192",
-    "exit_time": "2026-02-04T11:04:49.796763",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-02-05T07:57:32.257199",
+    "exit_time": null,
     "last_bar_collected": 2027,
-    "tracking_until": "2026-02-14T11:04:49.796763",
-    "entry_volume": 1388414.2929990005
+    "tracking_until": null,
+    "entry_volume": 1866544.6755389988
   },
   "MOODENG": {
     "current_run": 1,
@@ -712,11 +712,11 @@
   },
   "STX": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-05T03:30:35.354755",
-    "exit_time": null,
+    "exit_time": "2026-02-05T07:57:32.257199",
     "last_bar_collected": 2142,
-    "tracking_until": null,
+    "tracking_until": "2026-02-15T07:57:32.257199",
     "entry_volume": 2289283.2897469997
   },
   "WLD": {
