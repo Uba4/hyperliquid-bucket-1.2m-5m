@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PURR",
-    "MERL",
-    "ZORA",
     "SKR",
-    "PENDLE",
-    "ARB"
+    "TON",
+    "TRX",
+    "JUP",
+    "ZORA",
+    "MERL"
   ],
   "scores": [
-    80,
     78,
     76,
     74,
     72,
-    70
+    70,
+    68
   ],
-  "timestamp": "2026-02-05T12:01:14.436585",
+  "timestamp": "2026-02-05T13:19:53.199183",
   "bucket": "1.2m-5m"
 }
