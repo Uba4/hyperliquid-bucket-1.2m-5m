@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ONDO",
-    "OP",
-    "PYTH",
     "MERL",
-    "SPX",
-    "MORPHO"
+    "MORPHO",
+    "ZORA",
+    "ONDO",
+    "PYTH",
+    "OP"
   ],
   "scores": [
-    102,
-    98,
-    98,
     96,
-    96,
-    92
+    94,
+    92,
+    90,
+    88,
+    86
   ],
-  "timestamp": "2026-02-06T14:58:25.375665",
+  "timestamp": "2026-02-06T15:39:12.901755",
   "bucket": "1.2m-5m"
 }
