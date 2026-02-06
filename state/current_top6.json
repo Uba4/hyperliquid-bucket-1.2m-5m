@@ -2,19 +2,19 @@
   "tokens": [
     "PROVE",
     "MERL",
-    "ZORA",
     "MEGA",
+    "STABLE",
     "HBAR",
     "PYTH"
   ],
   "scores": [
+    104,
     102,
     100,
     98,
-    95,
-    94,
-    92
+    96,
+    94
   ],
-  "timestamp": "2026-02-06T16:23:32.986983",
+  "timestamp": "2026-02-06T17:08:20.902657",
   "bucket": "1.2m-5m"
 }
