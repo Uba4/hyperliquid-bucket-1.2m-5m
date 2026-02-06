@@ -2,19 +2,19 @@
   "tokens": [
     "MORPHO",
     "POPCAT",
-    "FOGO",
-    "SKY",
-    "ZK",
-    "KAITO"
+    "KAITO",
+    "STX",
+    "ONDO",
+    "MERL"
   ],
   "scores": [
-    96,
-    93,
     92,
     90,
-    87,
-    87
+    88,
+    86,
+    84,
+    80
   ],
-  "timestamp": "2026-02-06T05:34:41.630030",
+  "timestamp": "2026-02-06T06:30:35.660780",
   "bucket": "1.2m-5m"
 }
