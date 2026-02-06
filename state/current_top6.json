@@ -2,19 +2,19 @@
   "tokens": [
     "MERL",
     "HBAR",
-    "PROVE",
-    "MEGA",
+    "PYTH",
     "SPX",
-    "ZEN"
+    "IP",
+    "APT"
   ],
   "scores": [
-    104,
     102,
     100,
     98,
     96,
-    94
+    94,
+    92
   ],
-  "timestamp": "2026-02-06T19:27:30.385797",
+  "timestamp": "2026-02-06T19:55:07.263444",
   "bucket": "1.2m-5m"
 }
