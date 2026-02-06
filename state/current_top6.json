@@ -1,20 +1,20 @@
 {
   "tokens": [
     "POPCAT",
-    "MORPHO",
+    "GAS",
+    "BERA",
     "STX",
     "FET",
-    "GAS",
-    "MELANIA"
+    "SAND"
   ],
   "scores": [
+    94,
     92,
     90,
     88,
     86,
-    84,
     82
   ],
-  "timestamp": "2026-02-06T08:02:48.423688",
+  "timestamp": "2026-02-06T08:57:10.849563",
   "bucket": "1.2m-5m"
 }
