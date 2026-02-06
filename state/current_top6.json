@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ZK",
-    "PURR",
     "MORPHO",
+    "POPCAT",
     "FOGO",
     "SKY",
-    "XLM"
+    "ZK",
+    "KAITO"
   ],
   "scores": [
-    94,
+    96,
+    93,
     92,
     90,
-    88,
-    86,
-    84
+    87,
+    87
   ],
-  "timestamp": "2026-02-06T04:26:06.501083",
+  "timestamp": "2026-02-06T05:34:41.630030",
   "bucket": "1.2m-5m"
 }
