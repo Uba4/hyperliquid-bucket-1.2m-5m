@@ -99,13 +99,13 @@
     "entry_volume": 4980426.259500002
   },
   "SPX": {
-    "current_run": 54,
-    "status": "post_exit",
-    "entry_time": "2026-02-06T14:10:27.656115",
-    "exit_time": "2026-02-06T15:39:12.901509",
+    "current_run": 55,
+    "status": "in_top6",
+    "entry_time": "2026-02-06T18:44:19.160047",
+    "exit_time": null,
     "last_bar_collected": 3146,
-    "tracking_until": "2026-02-16T15:39:12.901509",
-    "entry_volume": 5393875.314446002
+    "tracking_until": null,
+    "entry_volume": 4474669.235968997
   },
   "MET": {
     "current_run": 23,
@@ -171,13 +171,13 @@
     "entry_volume": 2322289.28076
   },
   "IP": {
-    "current_run": 37,
-    "status": "post_exit",
-    "entry_time": "2026-02-05T07:13:55.282938",
-    "exit_time": "2026-02-05T12:01:14.436285",
+    "current_run": 38,
+    "status": "in_top6",
+    "entry_time": "2026-02-06T18:44:19.160047",
+    "exit_time": null,
     "last_bar_collected": 3124,
-    "tracking_until": "2026-02-15T12:01:14.436285",
-    "entry_volume": 1700713.5198200012
+    "tracking_until": null,
+    "entry_volume": 4916344.275839999
   },
   "CC": {
     "current_run": 62,
@@ -413,15 +413,6 @@
     "tracking_until": "2026-02-16T11:04:25.701873",
     "entry_volume": 1094551.7199449998
   },
-  "LTC": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T17:49:38.920150",
-    "exit_time": "2026-01-27T18:19:18.145783",
-    "last_bar_collected": 3437,
-    "tracking_until": "2026-02-06T18:19:18.145783",
-    "entry_volume": 4417111.900340002
-  },
   "GAS": {
     "current_run": 4,
     "status": "post_exit",
@@ -469,11 +460,11 @@
   },
   "PYTH": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-06T14:10:27.656115",
-    "exit_time": null,
+    "exit_time": "2026-02-06T18:44:19.160047",
     "last_bar_collected": 885,
-    "tracking_until": null,
+    "tracking_until": "2026-02-16T18:44:19.160047",
     "entry_volume": 1574924.949308999
   },
   "SYRUP": {
@@ -748,11 +739,11 @@
   },
   "ZEN": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-06T17:57:24.394478",
-    "exit_time": null,
+    "exit_time": "2026-02-06T18:44:19.160047",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-02-16T18:44:19.160047",
     "entry_volume": 2210309.208519999
   }
 }
