@@ -1,11 +1,11 @@
 {
   "tokens": [
     "SKY",
-    "STABLE",
     "TON",
+    "STABLE",
     "SPX",
-    "AVNT",
-    "STX"
+    "CC",
+    "IP"
   ],
   "scores": [
     100,
@@ -15,6 +15,6 @@
     92,
     90
   ],
-  "timestamp": "2026-02-06T23:44:02.262995",
+  "timestamp": "2026-02-06T23:59:14.522170",
   "bucket": "1.2m-5m"
 }
