@@ -2,19 +2,19 @@
   "tokens": [
     "POPCAT",
     "MORPHO",
-    "KAITO",
-    "MELANIA",
     "STX",
-    "FET"
+    "FET",
+    "GAS",
+    "MELANIA"
   ],
   "scores": [
-    94,
     92,
     90,
     88,
     86,
-    84
+    84,
+    82
   ],
-  "timestamp": "2026-02-06T07:30:05.338040",
+  "timestamp": "2026-02-06T08:02:48.423688",
   "bucket": "1.2m-5m"
 }

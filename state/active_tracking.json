@@ -163,11 +163,11 @@
   },
   "KAITO": {
     "current_run": 25,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-06T05:34:41.629708",
-    "exit_time": null,
+    "exit_time": "2026-02-06T08:02:48.423439",
     "last_bar_collected": 3185,
-    "tracking_until": null,
+    "tracking_until": "2026-02-16T08:02:48.423439",
     "entry_volume": 2322289.28076
   },
   "IP": {
@@ -422,15 +422,6 @@
     "tracking_until": "2026-02-06T13:27:29.731592",
     "entry_volume": 4060026.3441399992
   },
-  "BNB": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T07:03:38.326638",
-    "exit_time": "2026-01-27T08:01:07.364227",
-    "last_bar_collected": 3547,
-    "tracking_until": "2026-02-06T08:01:07.364227",
-    "entry_volume": 4999720.798920001
-  },
   "MELANIA": {
     "current_run": 6,
     "status": "in_top6",
@@ -450,13 +441,13 @@
     "entry_volume": 4417111.900340002
   },
   "GAS": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-02-01T23:02:45.210747",
-    "exit_time": "2026-02-01T23:53:29.140740",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-02-06T08:02:48.423439",
+    "exit_time": null,
     "last_bar_collected": 1168,
-    "tracking_until": "2026-02-11T23:53:29.140740",
-    "entry_volume": 1361029.6081000036
+    "tracking_until": null,
+    "entry_volume": 1529130.4242500002
   },
   "PURR": {
     "current_run": 16,
