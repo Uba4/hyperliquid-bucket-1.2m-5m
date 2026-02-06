@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PROVE",
     "MERL",
-    "MEGA",
     "HBAR",
-    "IP",
-    "SPX"
+    "PROVE",
+    "MEGA",
+    "SPX",
+    "ZEN"
   ],
   "scores": [
+    104,
     102,
     100,
     98,
     96,
-    94,
-    92
+    94
   ],
-  "timestamp": "2026-02-06T18:44:19.160386",
+  "timestamp": "2026-02-06T19:27:30.385797",
   "bucket": "1.2m-5m"
 }
