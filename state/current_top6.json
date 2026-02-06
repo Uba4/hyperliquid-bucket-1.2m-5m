@@ -2,19 +2,19 @@
   "tokens": [
     "SKY",
     "STABLE",
-    "PURR",
     "TON",
-    "LDO",
-    "AVNT"
+    "PURR",
+    "AVNT",
+    "LDO"
   ],
   "scores": [
+    102,
     100,
     98,
     96,
     94,
-    92,
-    90
+    92
   ],
-  "timestamp": "2026-02-06T22:32:03.485065",
+  "timestamp": "2026-02-06T22:55:28.045372",
   "bucket": "1.2m-5m"
 }
