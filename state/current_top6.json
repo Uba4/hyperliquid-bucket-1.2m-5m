@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SPX",
-    "OP",
     "ONDO",
+    "OP",
     "PYTH",
-    "MOODENG",
-    "MERL"
+    "MERL",
+    "SPX",
+    "MORPHO"
   ],
   "scores": [
-    100,
+    102,
+    98,
     98,
     96,
-    94,
-    92,
-    90
+    96,
+    92
   ],
-  "timestamp": "2026-02-06T14:10:27.657067",
+  "timestamp": "2026-02-06T14:58:25.375665",
   "bucket": "1.2m-5m"
 }

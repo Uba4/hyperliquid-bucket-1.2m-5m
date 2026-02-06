@@ -613,11 +613,11 @@
   },
   "MOODENG": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-06T14:10:27.656115",
-    "exit_time": null,
+    "exit_time": "2026-02-06T14:58:25.375460",
     "last_bar_collected": 2955,
-    "tracking_until": null,
+    "tracking_until": "2026-02-16T14:58:25.375460",
     "entry_volume": 2261798.206679999
   },
   "ANIME": {
@@ -657,13 +657,13 @@
     "entry_volume": 1522106.6913140004
   },
   "MORPHO": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-02-06T04:26:06.500640",
-    "exit_time": "2026-02-06T08:57:10.849303",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-02-06T14:58:25.375460",
+    "exit_time": null,
     "last_bar_collected": 2562,
-    "tracking_until": "2026-02-16T08:57:10.849303",
-    "entry_volume": 1866774.6411700011
+    "tracking_until": null,
+    "entry_volume": 2431588.7497400013
   },
   "STX": {
     "current_run": 7,
