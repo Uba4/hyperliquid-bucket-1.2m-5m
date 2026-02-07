@@ -532,11 +532,11 @@
   },
   "AXS": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-07T14:56:17.374135",
-    "exit_time": null,
+    "exit_time": "2026-02-07T18:50:15.904192",
     "last_bar_collected": 1769,
-    "tracking_until": null,
+    "tracking_until": "2026-02-17T18:50:15.904192",
     "entry_volume": 5094404.654049997
   },
   "MEGA": {
@@ -754,5 +754,14 @@
     "last_bar_collected": 5,
     "tracking_until": null,
     "entry_volume": 1161476.4234010002
+  },
+  "DOT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-07T18:50:15.904192",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1971525.4960399987
   }
 }
