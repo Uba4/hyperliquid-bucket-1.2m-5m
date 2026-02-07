@@ -1,8 +1,8 @@
 {
   "tokens": [
     "MEGA",
-    "RESOLV",
     "TRX",
+    "RESOLV",
     "POL",
     "TRUMP",
     "SKY"
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-02-07T09:56:46.797760",
+  "timestamp": "2026-02-07T10:21:40.633874",
   "bucket": "1.2m-5m"
 }
