@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MEGA",
     "POL",
-    "TRX",
+    "MEGA",
     "TRUMP",
-    "IP",
-    "SKY"
+    "CRV",
+    "ARB",
+    "TRX"
   ],
   "scores": [
-    74,
     72,
     70,
     68,
-    66,
-    64
+    64,
+    63,
+    62
   ],
-  "timestamp": "2026-02-07T11:57:44.625278",
+  "timestamp": "2026-02-07T12:44:24.765689",
   "bucket": "1.2m-5m"
 }
