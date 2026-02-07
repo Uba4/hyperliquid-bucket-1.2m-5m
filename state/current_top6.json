@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "PROVE",
     "RESOLV",
-    "SKR",
+    "PROVE",
     "JUP",
-    "ICP",
-    "ONDO"
+    "SKR",
+    "ONDO",
+    "MON"
   ],
   "scores": [
     78,
@@ -15,6 +15,6 @@
     70,
     68
   ],
-  "timestamp": "2026-02-07T21:14:39.477231",
+  "timestamp": "2026-02-07T21:43:05.285877",
   "bucket": "1.2m-5m"
 }
