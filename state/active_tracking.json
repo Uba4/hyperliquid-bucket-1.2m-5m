@@ -307,11 +307,11 @@
   },
   "POL": {
     "current_run": 28,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-07T08:39:53.898478",
-    "exit_time": null,
+    "exit_time": "2026-02-07T14:56:17.374135",
     "last_bar_collected": 2784,
-    "tracking_until": null,
+    "tracking_until": "2026-02-17T14:56:17.374135",
     "entry_volume": 1883637.3548319994
   },
   "VVV": {
@@ -540,13 +540,13 @@
     "entry_volume": 5214997.006701002
   },
   "AXS": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-02-05T06:07:20.608437",
-    "exit_time": "2026-02-05T12:01:14.436285",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-02-07T14:56:17.374135",
+    "exit_time": null,
     "last_bar_collected": 1752,
-    "tracking_until": "2026-02-15T12:01:14.436285",
-    "entry_volume": 2007361.4341799996
+    "tracking_until": null,
+    "entry_volume": 5094404.654049997
   },
   "MEGA": {
     "current_run": 6,
