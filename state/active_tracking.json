@@ -28,11 +28,11 @@
   },
   "TIA": {
     "current_run": 32,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-07T13:32:37.402990",
-    "exit_time": null,
+    "exit_time": "2026-02-07T17:28:33.713449",
     "last_bar_collected": 3239,
-    "tracking_until": null,
+    "tracking_until": "2026-02-17T17:28:33.713449",
     "entry_volume": 4075263.34571
   },
   "NEAR": {
@@ -117,13 +117,13 @@
     "entry_volume": 1210223.2467399996
   },
   "VIRTUAL": {
-    "current_run": 33,
-    "status": "post_exit",
-    "entry_time": "2026-02-07T05:13:15.361121",
-    "exit_time": "2026-02-07T06:38:26.458882",
+    "current_run": 34,
+    "status": "in_top6",
+    "entry_time": "2026-02-07T17:28:33.713449",
+    "exit_time": null,
     "last_bar_collected": 3319,
-    "tracking_until": "2026-02-17T06:38:26.458882",
-    "entry_volume": 3555479.9718720005
+    "tracking_until": null,
+    "entry_volume": 3240771.3945799987
   },
   "TON": {
     "current_run": 43,
@@ -466,15 +466,6 @@
     "last_bar_collected": 2561,
     "tracking_until": "2026-02-08T13:18:55.813436",
     "entry_volume": 1718191.0246800007
-  },
-  "AERO": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-28T14:01:36.727482",
-    "exit_time": "2026-01-28T17:23:04.144583",
-    "last_bar_collected": 2977,
-    "tracking_until": "2026-02-07T17:23:04.144583",
-    "entry_volume": 1399601.20473
   },
   "APEX": {
     "current_run": 5,

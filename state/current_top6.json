@@ -2,10 +2,10 @@
   "tokens": [
     "AXS",
     "PENDLE",
-    "TIA",
-    "ONDO",
+    "STABLE",
     "SPX",
-    "STABLE"
+    "ONDO",
+    "VIRTUAL"
   ],
   "scores": [
     78,
@@ -15,6 +15,6 @@
     70,
     68
   ],
-  "timestamp": "2026-02-07T16:59:13.229843",
+  "timestamp": "2026-02-07T17:28:33.713709",
   "bucket": "1.2m-5m"
 }
