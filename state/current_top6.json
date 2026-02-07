@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "AVNT",
     "MEGA",
+    "AVNT",
     "PROMPT",
-    "JUP",
     "VIRTUAL",
-    "CRV"
+    "JUP",
+    "SKY"
   ],
   "scores": [
+    76,
+    74,
+    72,
     70,
-    68,
     66,
-    64,
-    62,
-    60
+    66
   ],
-  "timestamp": "2026-02-07T05:13:15.361576",
+  "timestamp": "2026-02-07T05:57:12.991387",
   "bucket": "1.2m-5m"
 }
