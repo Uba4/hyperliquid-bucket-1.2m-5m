@@ -135,13 +135,13 @@
     "entry_volume": 2684360.7943200003
   },
   "PENDLE": {
-    "current_run": 39,
-    "status": "post_exit",
-    "entry_time": "2026-02-05T11:38:30.686929",
-    "exit_time": "2026-02-05T13:19:53.198687",
+    "current_run": 40,
+    "status": "in_top6",
+    "entry_time": "2026-02-07T15:59:24.745528",
+    "exit_time": null,
     "last_bar_collected": 3305,
-    "tracking_until": "2026-02-15T13:19:53.198687",
-    "entry_volume": 1313053.4512
+    "tracking_until": null,
+    "entry_volume": 1314041.1219000006
   },
   "STABLE": {
     "current_run": 25,
@@ -199,11 +199,11 @@
   },
   "ARB": {
     "current_run": 24,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-07T12:44:24.765371",
-    "exit_time": null,
+    "exit_time": "2026-02-07T15:59:24.745528",
     "last_bar_collected": 3319,
-    "tracking_until": null,
+    "tracking_until": "2026-02-17T15:59:24.745528",
     "entry_volume": 2978591.2428950006
   },
   "JUP": {
