@@ -4,8 +4,8 @@
     "PENDLE",
     "STABLE",
     "AXS",
-    "SPX",
-    "VIRTUAL"
+    "VIRTUAL",
+    "SPX"
   ],
   "scores": [
     78,
@@ -15,6 +15,6 @@
     70,
     68
   ],
-  "timestamp": "2026-02-07T17:51:36.347293",
+  "timestamp": "2026-02-07T18:02:10.514935",
   "bucket": "1.2m-5m"
 }
