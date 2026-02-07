@@ -3,18 +3,18 @@
     "STABLE",
     "HEMI",
     "PENDLE",
+    "SKR",
     "VIRTUAL",
-    "SPX",
     "DOT"
   ],
   "scores": [
+    80,
     78,
     76,
     74,
     72,
-    70,
     68
   ],
-  "timestamp": "2026-02-07T18:50:15.904404",
+  "timestamp": "2026-02-07T19:14:03.478459",
   "bucket": "1.2m-5m"
 }
