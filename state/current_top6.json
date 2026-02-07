@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SKR",
-    "STABLE",
     "PROVE",
-    "HEMI",
-    "PENDLE",
-    "JUP"
+    "JUP",
+    "STABLE",
+    "ICP",
+    "ONDO"
   ],
   "scores": [
-    80,
     78,
+    76,
     74,
-    74,
-    72,
-    72
+    70,
+    67,
+    66
   ],
-  "timestamp": "2026-02-07T19:59:13.910929",
+  "timestamp": "2026-02-07T20:30:24.923238",
   "bucket": "1.2m-5m"
 }
