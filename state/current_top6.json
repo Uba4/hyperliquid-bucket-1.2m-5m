@@ -2,19 +2,19 @@
   "tokens": [
     "MEGA",
     "RESOLV",
-    "CC",
     "TRX",
-    "PROMPT",
+    "CC",
+    "POL",
     "SKY"
   ],
   "scores": [
+    78,
     76,
     74,
     72,
-    68,
-    68,
+    70,
     68
   ],
-  "timestamp": "2026-02-07T08:00:44.901171",
+  "timestamp": "2026-02-07T08:39:53.898688",
   "bucket": "1.2m-5m"
 }
