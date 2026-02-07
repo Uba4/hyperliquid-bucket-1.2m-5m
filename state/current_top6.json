@@ -1,11 +1,11 @@
 {
   "tokens": [
     "STABLE",
-    "HEMI",
-    "PENDLE",
     "SKR",
-    "VIRTUAL",
-    "DOT"
+    "PENDLE",
+    "HEMI",
+    "JUP",
+    "PROVE"
   ],
   "scores": [
     80,
@@ -13,8 +13,8 @@
     76,
     74,
     72,
-    68
+    70
   ],
-  "timestamp": "2026-02-07T19:14:03.478459",
+  "timestamp": "2026-02-07T19:36:59.388697",
   "bucket": "1.2m-5m"
 }
