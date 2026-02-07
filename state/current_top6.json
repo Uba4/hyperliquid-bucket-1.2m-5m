@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PROMPT",
     "AVNT",
-    "CC",
-    "ATOM",
-    "CRV",
-    "TON"
+    "MEGA",
+    "PROMPT",
+    "JUP",
+    "VIRTUAL",
+    "CRV"
   ],
   "scores": [
-    72,
     70,
     68,
+    66,
     64,
-    64,
-    64
+    62,
+    60
   ],
-  "timestamp": "2026-02-07T04:15:41.585106",
+  "timestamp": "2026-02-07T05:13:15.361576",
   "bucket": "1.2m-5m"
 }
