@@ -2,19 +2,19 @@
   "tokens": [
     "MEGA",
     "RESOLV",
-    "AVNT",
-    "PROMPT",
     "CC",
-    "SKY"
+    "PROMPT",
+    "SKY",
+    "ONDO"
   ],
   "scores": [
-    78,
     76,
-    73,
+    74,
     72,
     70,
-    69
+    68,
+    66
   ],
-  "timestamp": "2026-02-07T06:38:26.459174",
+  "timestamp": "2026-02-07T07:19:48.367441",
   "bucket": "1.2m-5m"
 }
