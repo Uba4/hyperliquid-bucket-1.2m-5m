@@ -3,18 +3,18 @@
     "MEGA",
     "RESOLV",
     "CC",
+    "TRX",
     "PROMPT",
-    "SKY",
-    "ONDO"
+    "SKY"
   ],
   "scores": [
     76,
     74,
     72,
-    70,
     68,
-    66
+    68,
+    68
   ],
-  "timestamp": "2026-02-07T07:19:48.367441",
+  "timestamp": "2026-02-07T07:47:56.958937",
   "bucket": "1.2m-5m"
 }
