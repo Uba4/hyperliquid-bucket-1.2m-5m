@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MEGA",
+    "RESOLV",
     "AVNT",
     "PROMPT",
-    "VIRTUAL",
-    "JUP",
+    "CC",
     "SKY"
   ],
   "scores": [
+    78,
     76,
-    74,
+    73,
     72,
     70,
-    66,
-    66
+    69
   ],
-  "timestamp": "2026-02-07T05:57:12.991387",
+  "timestamp": "2026-02-07T06:38:26.459174",
   "bucket": "1.2m-5m"
 }
