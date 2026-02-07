@@ -397,11 +397,11 @@
   },
   "SKY": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-07T05:57:12.991162",
-    "exit_time": null,
+    "exit_time": "2026-02-07T09:39:22.237573",
     "last_bar_collected": 1506,
-    "tracking_until": null,
+    "tracking_until": "2026-02-17T09:39:22.237573",
     "entry_volume": 1557256.2110360002
   },
   "MELANIA": {
@@ -513,13 +513,13 @@
     "entry_volume": 1216409.2641350003
   },
   "HBAR": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-02-06T16:23:32.986523",
-    "exit_time": "2026-02-06T20:55:16.450156",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-02-07T09:39:22.237573",
+    "exit_time": null,
     "last_bar_collected": 3104,
-    "tracking_until": "2026-02-16T20:55:16.450156",
-    "entry_volume": 3297406.864558999
+    "tracking_until": null,
+    "entry_volume": 1770235.0416729997
   },
   "INIT": {
     "current_run": 2,
