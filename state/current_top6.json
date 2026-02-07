@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "AXS",
+    "HEMI",
     "PENDLE",
     "STABLE",
+    "AXS",
     "SPX",
-    "ONDO",
     "VIRTUAL"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     70,
     68
   ],
-  "timestamp": "2026-02-07T17:28:33.713709",
+  "timestamp": "2026-02-07T17:51:36.347293",
   "bucket": "1.2m-5m"
 }

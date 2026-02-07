@@ -253,11 +253,11 @@
   },
   "ONDO": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-07T15:18:52.506205",
-    "exit_time": null,
+    "exit_time": "2026-02-07T17:51:36.347102",
     "last_bar_collected": 3256,
-    "tracking_until": null,
+    "tracking_until": "2026-02-17T17:51:36.347102",
     "entry_volume": 1415951.4262
   },
   "STRK": {
@@ -745,5 +745,14 @@
     "last_bar_collected": 2387,
     "tracking_until": "2026-02-17T16:59:13.229678",
     "entry_volume": 2884590.592280001
+  },
+  "HEMI": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-07T17:51:36.347102",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1161476.4234010002
   }
 }
