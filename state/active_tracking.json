@@ -91,11 +91,11 @@
   },
   "TAO": {
     "current_run": 29,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-07T10:49:37.785005",
-    "exit_time": null,
+    "exit_time": "2026-02-07T11:47:15.891697",
     "last_bar_collected": 3255,
-    "tracking_until": null,
+    "tracking_until": "2026-02-17T11:47:15.891697",
     "entry_volume": 4922533.133130002
   },
   "SPX": {
@@ -396,13 +396,13 @@
     "entry_volume": 1674184.3674999995
   },
   "SKY": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-02-07T09:56:46.797430",
-    "exit_time": "2026-02-07T10:49:37.785005",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-02-07T11:47:15.891697",
+    "exit_time": null,
     "last_bar_collected": 1517,
-    "tracking_until": "2026-02-17T10:49:37.785005",
-    "entry_volume": 1422554.5896219993
+    "tracking_until": null,
+    "entry_volume": 1394843.7385829992
   },
   "MELANIA": {
     "current_run": 7,
