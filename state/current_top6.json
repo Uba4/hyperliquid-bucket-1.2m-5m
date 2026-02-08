@@ -2,10 +2,10 @@
   "tokens": [
     "BERA",
     "AAVE",
+    "SPX",
     "ADA",
     "LINK",
-    "LTC",
-    "SPX"
+    "LTC"
   ],
   "scores": [
     44,
@@ -15,6 +15,6 @@
     36,
     34
   ],
-  "timestamp": "2026-02-08T20:31:24.720715",
+  "timestamp": "2026-02-08T20:55:04.513637",
   "bucket": "1.2m-5m"
 }
