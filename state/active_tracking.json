@@ -233,15 +233,6 @@
     "tracking_until": "2026-02-16T02:26:03.245708",
     "entry_volume": 1083749.0891180001
   },
-  "RENDER": {
-    "current_run": 17,
-    "status": "post_exit",
-    "entry_time": "2026-01-29T18:01:04.914835",
-    "exit_time": "2026-01-29T19:30:19.162203",
-    "last_bar_collected": 3408,
-    "tracking_until": "2026-02-08T19:30:19.162203",
-    "entry_volume": 1099849.8798299995
-  },
   "RESOLV": {
     "current_run": 32,
     "status": "post_exit",
@@ -343,21 +334,21 @@
   },
   "MON": {
     "current_run": 21,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-08T16:38:26.843370",
-    "exit_time": null,
+    "exit_time": "2026-02-08T19:33:36.640623",
     "last_bar_collected": 2705,
-    "tracking_until": null,
+    "tracking_until": "2026-02-18T19:33:36.640623",
     "entry_volume": 2265739.72911
   },
   "BERA": {
-    "current_run": 27,
-    "status": "post_exit",
-    "entry_time": "2026-02-08T13:24:36.557458",
-    "exit_time": "2026-02-08T16:38:26.843370",
+    "current_run": 28,
+    "status": "in_top6",
+    "entry_time": "2026-02-08T19:33:36.640623",
+    "exit_time": null,
     "last_bar_collected": 3297,
-    "tracking_until": "2026-02-18T16:38:26.843370",
-    "entry_volume": 3862496.31778
+    "tracking_until": null,
+    "entry_volume": 2922621.7623279975
   },
   "MERL": {
     "current_run": 29,

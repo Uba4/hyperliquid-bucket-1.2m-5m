@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SKR",
-    "MON",
-    "ADA",
     "AAVE",
+    "ADA",
     "AVAX",
-    "LINK"
+    "LINK",
+    "BERA"
   ],
   "scores": [
     46,
     44,
     42,
-    40,
     38,
-    36
+    38,
+    38
   ],
-  "timestamp": "2026-02-08T19:01:24.645423",
+  "timestamp": "2026-02-08T19:33:36.640849",
   "bucket": "1.2m-5m"
 }
