@@ -171,13 +171,13 @@
     "entry_volume": 2322289.28076
   },
   "IP": {
-    "current_run": 41,
-    "status": "post_exit",
-    "entry_time": "2026-02-07T10:49:37.785005",
-    "exit_time": "2026-02-07T12:44:24.765371",
+    "current_run": 42,
+    "status": "in_top6",
+    "entry_time": "2026-02-08T11:54:25.630035",
+    "exit_time": null,
     "last_bar_collected": 3287,
-    "tracking_until": "2026-02-17T12:44:24.765371",
-    "entry_volume": 1788244.33355
+    "tracking_until": null,
+    "entry_volume": 1131182.5190100004
   },
   "CC": {
     "current_run": 66,
@@ -460,11 +460,11 @@
   },
   "SYRUP": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-08T07:50:51.216161",
-    "exit_time": null,
+    "exit_time": "2026-02-08T11:54:25.630035",
     "last_bar_collected": 2635,
-    "tracking_until": null,
+    "tracking_until": "2026-02-18T11:54:25.630035",
     "entry_volume": 1352594.1371000006
   },
   "APEX": {

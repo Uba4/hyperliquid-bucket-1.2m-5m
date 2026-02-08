@@ -2,10 +2,10 @@
   "tokens": [
     "ZRO",
     "SPX",
+    "IP",
     "XPL",
     "JUP",
-    "AERO",
-    "SYRUP"
+    "AERO"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-02-08T11:42:21.060690",
+  "timestamp": "2026-02-08T11:54:25.630215",
   "bucket": "1.2m-5m"
 }
