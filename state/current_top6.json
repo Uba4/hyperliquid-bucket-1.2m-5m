@@ -1,20 +1,20 @@
 {
   "tokens": [
     "TRUMP",
+    "VIRTUAL",
     "WIF",
+    "BCH",
     "LINK",
-    "PENGU",
-    "ARB",
-    "LTC"
+    "ARB"
   ],
   "scores": [
+    42,
     40,
     38,
     36,
     34,
-    32,
-    30
+    32
   ],
-  "timestamp": "2026-02-08T23:34:56.408416",
+  "timestamp": "2026-02-08T23:56:34.200229",
   "bucket": "1.2m-5m"
 }
