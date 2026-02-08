@@ -775,21 +775,21 @@
   },
   "LIT": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-08T05:38:56.492406",
-    "exit_time": null,
+    "exit_time": "2026-02-08T11:42:21.060480",
     "last_bar_collected": 25,
-    "tracking_until": null,
+    "tracking_until": "2026-02-18T11:42:21.060480",
     "entry_volume": 5176871.993399994
   },
   "AERO": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-02-08T10:36:13.383065",
-    "exit_time": "2026-02-08T11:23:11.998187",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-02-08T11:42:21.060480",
+    "exit_time": null,
     "last_bar_collected": 3053,
-    "tracking_until": "2026-02-18T11:23:11.998187",
-    "entry_volume": 1170852.8204699997
+    "tracking_until": null,
+    "entry_volume": 1170591.8229200002
   },
   "XPL": {
     "current_run": 1,
