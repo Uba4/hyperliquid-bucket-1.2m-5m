@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "BERA",
     "TRUMP",
+    "LINK",
+    "WIF",
     "AAVE",
     "SPX",
-    "LINK",
-    "WIF"
+    "PENGU"
   ],
   "scores": [
-    44,
-    42,
     40,
     38,
     36,
-    34
+    34,
+    32,
+    30
   ],
-  "timestamp": "2026-02-08T22:34:23.523495",
+  "timestamp": "2026-02-08T22:59:28.407457",
   "bucket": "1.2m-5m"
 }
