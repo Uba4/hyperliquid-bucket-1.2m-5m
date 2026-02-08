@@ -181,11 +181,11 @@
   },
   "CC": {
     "current_run": 65,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-08T04:08:34.375312",
-    "exit_time": null,
+    "exit_time": "2026-02-08T07:50:51.216161",
     "last_bar_collected": 3312,
-    "tracking_until": null,
+    "tracking_until": "2026-02-18T07:50:51.216161",
     "entry_volume": 2105039.4841100005
   },
   "WLFI": {
@@ -459,13 +459,13 @@
     "entry_volume": 1224584.090896
   },
   "SYRUP": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-29T09:26:27.152257",
-    "exit_time": "2026-01-29T13:18:55.813436",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-02-08T07:50:51.216161",
+    "exit_time": null,
     "last_bar_collected": 2619,
-    "tracking_until": "2026-02-08T13:18:55.813436",
-    "entry_volume": 1718191.0246800007
+    "tracking_until": null,
+    "entry_volume": 1352594.1371000006
   },
   "APEX": {
     "current_run": 5,
