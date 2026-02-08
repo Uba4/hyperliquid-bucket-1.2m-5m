@@ -640,11 +640,11 @@
   },
   "WLD": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-08T09:48:06.954720",
-    "exit_time": null,
+    "exit_time": "2026-02-08T10:36:13.383065",
     "last_bar_collected": 3056,
-    "tracking_until": null,
+    "tracking_until": "2026-02-18T10:36:13.383065",
     "entry_volume": 1890206.5254629997
   },
   "ZRO": {
@@ -781,5 +781,14 @@
     "last_bar_collected": 17,
     "tracking_until": null,
     "entry_volume": 5176871.993399994
+  },
+  "AERO": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-08T10:36:13.383065",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1170852.8204699997
   }
 }
