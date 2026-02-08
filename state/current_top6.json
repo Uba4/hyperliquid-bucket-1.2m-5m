@@ -2,10 +2,10 @@
   "tokens": [
     "SPX",
     "LIT",
+    "SKR",
     "WLD",
     "CC",
-    "TRUMP",
-    "SEI"
+    "TRUMP"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-02-08T06:28:59.151280",
+  "timestamp": "2026-02-08T07:14:02.299623",
   "bucket": "1.2m-5m"
 }
