@@ -1,11 +1,11 @@
 {
   "ICP": {
     "current_run": 25,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-08T18:25:58.322904",
-    "exit_time": null,
+    "exit_time": "2026-02-08T19:01:24.645094",
     "last_bar_collected": 3429,
-    "tracking_until": null,
+    "tracking_until": "2026-02-18T19:01:24.645094",
     "entry_volume": 1085430.6839
   },
   "EIGEN": {
@@ -649,11 +649,11 @@
   },
   "ZRO": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-08T08:16:23.866792",
-    "exit_time": null,
+    "exit_time": "2026-02-08T19:01:24.645094",
     "last_bar_collected": 2808,
-    "tracking_until": null,
+    "tracking_until": "2026-02-18T19:01:24.645094",
     "entry_volume": 4036069.8128500003
   },
   "ATOM": {
@@ -799,5 +799,23 @@
     "last_bar_collected": 1581,
     "tracking_until": "2026-02-18T17:55:36.258340",
     "entry_volume": 3558178.5538350013
+  },
+  "AAVE": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-08T19:01:24.645094",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1585402.9813000006
+  },
+  "LINK": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-08T19:01:24.645094",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 2886590.1570900003
   }
 }
