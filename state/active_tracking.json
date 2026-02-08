@@ -181,11 +181,11 @@
   },
   "CC": {
     "current_run": 66,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-08T09:17:38.490427",
-    "exit_time": null,
+    "exit_time": "2026-02-08T11:23:11.998187",
     "last_bar_collected": 3324,
-    "tracking_until": null,
+    "tracking_until": "2026-02-18T11:23:11.998187",
     "entry_volume": 1780073.8045400002
   },
   "WLFI": {
@@ -207,13 +207,13 @@
     "entry_volume": 2978591.2428950006
   },
   "JUP": {
-    "current_run": 30,
-    "status": "post_exit",
-    "entry_time": "2026-02-07T19:36:59.388395",
-    "exit_time": "2026-02-08T01:10:21.227620",
+    "current_run": 31,
+    "status": "in_top6",
+    "entry_time": "2026-02-08T11:23:11.998187",
+    "exit_time": null,
     "last_bar_collected": 3353,
-    "tracking_until": "2026-02-18T01:10:21.227620",
-    "entry_volume": 2066574.85136
+    "tracking_until": null,
+    "entry_volume": 1986508.4365799988
   },
   "TRX": {
     "current_run": 56,
@@ -784,11 +784,20 @@
   },
   "AERO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-08T10:36:13.383065",
-    "exit_time": null,
+    "exit_time": "2026-02-08T11:23:11.998187",
     "last_bar_collected": 3049,
-    "tracking_until": null,
+    "tracking_until": "2026-02-18T11:23:11.998187",
     "entry_volume": 1170852.8204699997
+  },
+  "XPL": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-08T11:23:11.998187",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 4672383.574336995
   }
 }
