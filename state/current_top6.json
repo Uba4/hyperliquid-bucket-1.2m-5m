@@ -3,9 +3,9 @@
     "SKR",
     "SPX",
     "LIT",
+    "SYRUP",
     "WLD",
-    "TRUMP",
-    "SYRUP"
+    "ZRO"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-02-08T07:50:51.216403",
+  "timestamp": "2026-02-08T08:16:23.867009",
   "bucket": "1.2m-5m"
 }

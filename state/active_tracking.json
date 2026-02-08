@@ -280,11 +280,11 @@
   },
   "TRUMP": {
     "current_run": 32,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-08T06:28:59.151093",
-    "exit_time": null,
+    "exit_time": "2026-02-08T08:16:23.866792",
     "last_bar_collected": 2982,
-    "tracking_until": null,
+    "tracking_until": "2026-02-18T08:16:23.866792",
     "entry_volume": 2594069.5354199996
   },
   "AVAX": {
@@ -648,13 +648,13 @@
     "entry_volume": 4372476.1202340005
   },
   "ZRO": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-02-07T23:17:20.293702",
-    "exit_time": "2026-02-08T04:08:34.375312",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-02-08T08:16:23.866792",
+    "exit_time": null,
     "last_bar_collected": 2666,
-    "tracking_until": "2026-02-18T04:08:34.375312",
-    "entry_volume": 5421135.085120003
+    "tracking_until": null,
+    "entry_volume": 4036069.8128500003
   },
   "ATOM": {
     "current_run": 4,
