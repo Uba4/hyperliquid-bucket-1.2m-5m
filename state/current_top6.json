@@ -1,20 +1,20 @@
 {
   "tokens": [
     "AXS",
-    "kPEPE",
-    "CRV",
-    "ENA",
     "TRUMP",
-    "TAO"
+    "CRV",
+    "S",
+    "kPEPE",
+    "SKR"
   ],
   "scores": [
-    52,
     50,
     48,
     46,
     44,
-    42
+    42,
+    40
   ],
-  "timestamp": "2026-02-09T04:12:34.980745",
+  "timestamp": "2026-02-09T05:45:54.379517",
   "bucket": "1.2m-5m"
 }

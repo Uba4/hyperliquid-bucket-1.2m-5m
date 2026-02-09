@@ -91,11 +91,11 @@
   },
   "TAO": {
     "current_run": 31,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-09T04:12:34.980475",
-    "exit_time": null,
+    "exit_time": "2026-02-09T05:45:54.379106",
     "last_bar_collected": 3418,
-    "tracking_until": null,
+    "tracking_until": "2026-02-19T05:45:54.379106",
     "entry_volume": 3860365.8008199986
   },
   "SPX": {
@@ -305,15 +305,6 @@
     "tracking_until": "2026-02-18T05:38:56.492406",
     "entry_volume": 1169086.035816
   },
-  "VVV": {
-    "current_run": 33,
-    "status": "post_exit",
-    "entry_time": "2026-01-29T20:48:48.419419",
-    "exit_time": "2026-01-30T05:06:16.520929",
-    "last_bar_collected": 2916,
-    "tracking_until": "2026-02-09T05:06:16.520929",
-    "entry_volume": 2033283.5600889996
-  },
   "BCH": {
     "current_run": 28,
     "status": "post_exit",
@@ -423,13 +414,13 @@
     "entry_volume": 1986084.5522079987
   },
   "SKR": {
-    "current_run": 20,
-    "status": "post_exit",
-    "entry_time": "2026-02-08T13:24:36.557458",
-    "exit_time": "2026-02-08T20:31:24.720352",
+    "current_run": 21,
+    "status": "in_top6",
+    "entry_time": "2026-02-09T05:45:54.379106",
+    "exit_time": null,
     "last_bar_collected": 1132,
-    "tracking_until": "2026-02-18T20:31:24.720352",
-    "entry_volume": 1693631.7059080002
+    "tracking_until": null,
+    "entry_volume": 1694487.3737180005
   },
   "JTO": {
     "current_run": 6,
@@ -684,13 +675,13 @@
     "entry_volume": 1560408.8584889993
   },
   "S": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-02-06T11:43:16.540200",
-    "exit_time": "2026-02-06T12:02:03.532659",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-02-09T05:45:54.379106",
+    "exit_time": null,
     "last_bar_collected": 1372,
-    "tracking_until": "2026-02-16T12:02:03.532659",
-    "entry_volume": 1365216.1232629993
+    "tracking_until": null,
+    "entry_volume": 1445256.9660289998
   },
   "PROVE": {
     "current_run": 2,
@@ -811,11 +802,11 @@
   },
   "ENA": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-09T01:50:17.816041",
-    "exit_time": null,
+    "exit_time": "2026-02-09T05:45:54.379106",
     "last_bar_collected": 2729,
-    "tracking_until": null,
+    "tracking_until": "2026-02-19T05:45:54.379106",
     "entry_volume": 1580526.4333699998
   },
   "kPEPE": {
