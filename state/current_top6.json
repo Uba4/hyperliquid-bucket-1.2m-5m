@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SPX",
-    "kPEPE",
     "UNI",
-    "XPL",
-    "VIRTUAL",
-    "ENA"
+    "MON",
+    "ENA",
+    "kPEPE",
+    "VIRTUAL"
   ],
   "scores": [
-    62,
     60,
     58,
     56,
     54,
-    52
+    52,
+    50
   ],
-  "timestamp": "2026-02-09T17:32:55.393435",
+  "timestamp": "2026-02-09T18:29:56.370098",
   "bucket": "1.2m-5m"
 }
