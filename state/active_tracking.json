@@ -216,13 +216,13 @@
     "entry_volume": 1986508.4365799988
   },
   "TRX": {
-    "current_run": 56,
-    "status": "post_exit",
-    "entry_time": "2026-02-08T01:10:21.227620",
-    "exit_time": "2026-02-08T04:08:34.375312",
+    "current_run": 57,
+    "status": "in_top6",
+    "entry_time": "2026-02-09T09:35:11.090507",
+    "exit_time": null,
     "last_bar_collected": 3416,
-    "tracking_until": "2026-02-18T04:08:34.375312",
-    "entry_volume": 1113485.5345199998
+    "tracking_until": null,
+    "entry_volume": 1148568.28547
   },
   "MNT": {
     "current_run": 17,
@@ -415,11 +415,11 @@
   },
   "SKR": {
     "current_run": 21,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-09T05:45:54.379106",
-    "exit_time": null,
+    "exit_time": "2026-02-09T09:35:11.090507",
     "last_bar_collected": 1146,
-    "tracking_until": null,
+    "tracking_until": "2026-02-19T09:35:11.090507",
     "entry_volume": 1694487.3737180005
   },
   "JTO": {
@@ -459,13 +459,13 @@
     "entry_volume": 1211612.2447099993
   },
   "UNI": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-02-04T22:01:46.367738",
-    "exit_time": "2026-02-05T05:06:25.241675",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-02-09T09:35:11.090507",
+    "exit_time": null,
     "last_bar_collected": 3340,
-    "tracking_until": "2026-02-15T05:06:25.241675",
-    "entry_volume": 4427845.325979998
+    "tracking_until": null,
+    "entry_volume": 1508006.22633
   },
   "ETHFI": {
     "current_run": 2,
@@ -775,11 +775,11 @@
   },
   "AAVE": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-09T06:48:05.771652",
-    "exit_time": null,
+    "exit_time": "2026-02-09T09:35:11.090507",
     "last_bar_collected": 2719,
-    "tracking_until": null,
+    "tracking_until": "2026-02-19T09:35:11.090507",
     "entry_volume": 1982056.3434000004
   },
   "LINK": {
