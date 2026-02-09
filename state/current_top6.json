@@ -1,20 +1,20 @@
 {
   "tokens": [
     "TRUMP",
+    "kPEPE",
     "VIRTUAL",
-    "WIF",
-    "BCH",
-    "LINK",
-    "ARB"
+    "ENA",
+    "ARB",
+    "CRV"
   ],
   "scores": [
+    44,
     42,
     40,
     38,
     36,
-    34,
-    32
+    34
   ],
-  "timestamp": "2026-02-08T23:56:34.200229",
+  "timestamp": "2026-02-09T01:50:17.816539",
   "bucket": "1.2m-5m"
 }
