@@ -1,20 +1,20 @@
 {
   "tokens": [
     "AXS",
-    "TRUMP",
     "SKR",
-    "XMR",
     "MON",
+    "TRUMP",
+    "XMR",
     "AAVE"
   ],
   "scores": [
+    54,
     52,
     50,
     48,
     46,
-    44,
-    42
+    44
   ],
-  "timestamp": "2026-02-09T06:48:05.772147",
+  "timestamp": "2026-02-09T07:44:05.783415",
   "bucket": "1.2m-5m"
 }
