@@ -1,12 +1,12 @@
 {
   "ICP": {
-    "current_run": 25,
-    "status": "post_exit",
-    "entry_time": "2026-02-08T18:25:58.322904",
-    "exit_time": "2026-02-08T19:01:24.645094",
+    "current_run": 26,
+    "status": "in_top6",
+    "entry_time": "2026-02-09T08:31:25.669625",
+    "exit_time": null,
     "last_bar_collected": 3479,
-    "tracking_until": "2026-02-18T19:01:24.645094",
-    "entry_volume": 1085430.6839
+    "tracking_until": null,
+    "entry_volume": 1084577.1900199999
   },
   "EIGEN": {
     "current_run": 21,
@@ -271,11 +271,11 @@
   },
   "TRUMP": {
     "current_run": 33,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-08T22:34:23.523200",
-    "exit_time": null,
+    "exit_time": "2026-02-09T08:31:25.669625",
     "last_bar_collected": 3076,
-    "tracking_until": null,
+    "tracking_until": "2026-02-19T08:31:25.669625",
     "entry_volume": 1453858.4612799992
   },
   "AVAX": {
