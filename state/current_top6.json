@@ -1,11 +1,11 @@
 {
   "tokens": [
     "AXS",
-    "XMR",
     "TRX",
-    "ICP",
-    "MON",
-    "UNI"
+    "XMR",
+    "RESOLV",
+    "CRV",
+    "BCH"
   ],
   "scores": [
     58,
@@ -15,6 +15,6 @@
     50,
     48
   ],
-  "timestamp": "2026-02-09T09:35:11.090851",
+  "timestamp": "2026-02-09T10:37:20.816652",
   "bucket": "1.2m-5m"
 }

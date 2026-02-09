@@ -1,11 +1,11 @@
 {
   "ICP": {
     "current_run": 26,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-09T08:31:25.669625",
-    "exit_time": null,
+    "exit_time": "2026-02-09T10:37:20.816192",
     "last_bar_collected": 3482,
-    "tracking_until": null,
+    "tracking_until": "2026-02-19T10:37:20.816192",
     "entry_volume": 1084577.1900199999
   },
   "EIGEN": {
@@ -72,13 +72,13 @@
     "entry_volume": 3273391.716697001
   },
   "CRV": {
-    "current_run": 29,
-    "status": "post_exit",
-    "entry_time": "2026-02-09T01:50:17.816041",
-    "exit_time": "2026-02-09T06:48:05.771652",
+    "current_run": 30,
+    "status": "in_top6",
+    "entry_time": "2026-02-09T10:37:20.816192",
+    "exit_time": null,
     "last_bar_collected": 3452,
-    "tracking_until": "2026-02-19T06:48:05.771652",
-    "entry_volume": 1966803.0428420003
+    "tracking_until": null,
+    "entry_volume": 2023936.7761010001
   },
   "AVNT": {
     "current_run": 37,
@@ -234,13 +234,13 @@
     "entry_volume": 1083749.0891180001
   },
   "RESOLV": {
-    "current_run": 32,
-    "status": "post_exit",
-    "entry_time": "2026-02-07T20:53:49.376865",
-    "exit_time": "2026-02-07T23:17:20.293702",
+    "current_run": 33,
+    "status": "in_top6",
+    "entry_time": "2026-02-09T10:37:20.816192",
+    "exit_time": null,
     "last_bar_collected": 3368,
-    "tracking_until": "2026-02-17T23:17:20.293702",
-    "entry_volume": 3068676.4979640003
+    "tracking_until": null,
+    "entry_volume": 5268719.602048996
   },
   "ONDO": {
     "current_run": 20,
@@ -306,13 +306,13 @@
     "entry_volume": 1169086.035816
   },
   "BCH": {
-    "current_run": 28,
-    "status": "post_exit",
-    "entry_time": "2026-02-08T23:56:34.199914",
-    "exit_time": "2026-02-09T01:50:17.816041",
+    "current_run": 29,
+    "status": "in_top6",
+    "entry_time": "2026-02-09T10:37:20.816192",
+    "exit_time": null,
     "last_bar_collected": 2862,
-    "tracking_until": "2026-02-19T01:50:17.816041",
-    "entry_volume": 5407183.815339998
+    "tracking_until": null,
+    "entry_volume": 4525529.993219998
   },
   "FOGO": {
     "current_run": 26,
@@ -325,11 +325,11 @@
   },
   "MON": {
     "current_run": 22,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-09T06:48:05.771652",
-    "exit_time": null,
+    "exit_time": "2026-02-09T10:37:20.816192",
     "last_bar_collected": 2756,
-    "tracking_until": null,
+    "tracking_until": "2026-02-19T10:37:20.816192",
     "entry_volume": 2256429.4365739995
   },
   "BERA": {
@@ -460,11 +460,11 @@
   },
   "UNI": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-09T09:35:11.090507",
-    "exit_time": null,
+    "exit_time": "2026-02-09T10:37:20.816192",
     "last_bar_collected": 3340,
-    "tracking_until": null,
+    "tracking_until": "2026-02-19T10:37:20.816192",
     "entry_volume": 1508006.22633
   },
   "ETHFI": {
