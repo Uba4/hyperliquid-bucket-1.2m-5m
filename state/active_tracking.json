@@ -36,13 +36,13 @@
     "entry_volume": 4075263.34571
   },
   "NEAR": {
-    "current_run": 32,
-    "status": "post_exit",
-    "entry_time": "2026-02-05T14:12:30.254851",
-    "exit_time": "2026-02-05T16:30:52.576812",
+    "current_run": 33,
+    "status": "in_top6",
+    "entry_time": "2026-02-09T20:23:53.111414",
+    "exit_time": null,
     "last_bar_collected": 3456,
-    "tracking_until": "2026-02-15T16:30:52.576812",
-    "entry_volume": 3633314.83555
+    "tracking_until": null,
+    "entry_volume": 3176395.0610520006
   },
   "PENGU": {
     "current_run": 29,
@@ -325,11 +325,11 @@
   },
   "MON": {
     "current_run": 23,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-09T18:29:56.369924",
-    "exit_time": null,
+    "exit_time": "2026-02-09T20:23:53.111414",
     "last_bar_collected": 2797,
-    "tracking_until": null,
+    "tracking_until": "2026-02-19T20:23:53.111414",
     "entry_volume": 3788879.516864996
   },
   "BERA": {
