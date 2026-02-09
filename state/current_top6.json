@@ -2,19 +2,19 @@
   "tokens": [
     "SPX",
     "kPEPE",
-    "ADA",
-    "kSHIB",
-    "INJ",
-    "LINK"
+    "UNI",
+    "XPL",
+    "VIRTUAL",
+    "ENA"
   ],
   "scores": [
+    62,
+    60,
     58,
     56,
     54,
-    52,
-    50,
-    48
+    52
   ],
-  "timestamp": "2026-02-09T15:36:29.281671",
+  "timestamp": "2026-02-09T17:32:55.393435",
   "bucket": "1.2m-5m"
 }
