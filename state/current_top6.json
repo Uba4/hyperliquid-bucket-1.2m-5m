@@ -2,19 +2,19 @@
   "tokens": [
     "STABLE",
     "XMR",
-    "SKY",
     "CC",
-    "TAO",
-    "SPX"
+    "kPEPE",
+    "WIF",
+    "SKY"
   ],
   "scores": [
-    66,
-    64,
     62,
     60,
     58,
-    56
+    56,
+    54,
+    52
   ],
-  "timestamp": "2026-02-09T23:48:50.863471",
+  "timestamp": "2026-02-10T01:05:00.087653",
   "bucket": "1.2m-5m"
 }
