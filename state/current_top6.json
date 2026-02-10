@@ -1,11 +1,11 @@
 {
   "tokens": [
     "SKR",
-    "kPEPE",
-    "LTC",
+    "XMR",
+    "STABLE",
     "WIF",
-    "kSHIB",
-    "ADA"
+    "kPEPE",
+    "APT"
   ],
   "scores": [
     52,
@@ -15,6 +15,6 @@
     44,
     42
   ],
-  "timestamp": "2026-02-10T21:09:45.793098",
+  "timestamp": "2026-02-10T21:58:28.472638",
   "bucket": "1.2m-5m"
 }
