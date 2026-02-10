@@ -199,11 +199,11 @@
   },
   "ARB": {
     "current_run": 27,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-10T15:50:17.610530",
-    "exit_time": null,
+    "exit_time": "2026-02-10T19:48:11.551388",
     "last_bar_collected": 3617,
-    "tracking_until": null,
+    "tracking_until": "2026-02-20T19:48:11.551388",
     "entry_volume": 1652027.006327
   },
   "JUP": {
@@ -459,13 +459,13 @@
     "entry_volume": 1211612.2447099993
   },
   "UNI": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-02-09T17:32:55.392802",
-    "exit_time": "2026-02-09T22:21:51.191366",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-02-10T19:48:11.551388",
+    "exit_time": null,
     "last_bar_collected": 3664,
-    "tracking_until": "2026-02-19T22:21:51.191366",
-    "entry_volume": 1633845.9133999997
+    "tracking_until": null,
+    "entry_volume": 1698832.6114600003
   },
   "ETHFI": {
     "current_run": 2,
@@ -793,21 +793,21 @@
   },
   "ENA": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-10T17:47:30.745172",
-    "exit_time": null,
+    "exit_time": "2026-02-10T19:48:11.551388",
     "last_bar_collected": 3068,
-    "tracking_until": null,
+    "tracking_until": "2026-02-20T19:48:11.551388",
     "entry_volume": 1801508.9114199998
   },
   "kPEPE": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-02-10T01:05:00.087354",
-    "exit_time": "2026-02-10T03:56:47.520891",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-02-10T19:48:11.551388",
+    "exit_time": null,
     "last_bar_collected": 1033,
-    "tracking_until": "2026-02-20T03:56:47.520891",
-    "entry_volume": 5217698.982401003
+    "tracking_until": null,
+    "entry_volume": 5162058.082694999
   },
   "XMR": {
     "current_run": 3,
