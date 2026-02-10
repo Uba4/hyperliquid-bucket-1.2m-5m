@@ -1,20 +1,20 @@
 {
   "tokens": [
     "STABLE",
-    "SKR",
-    "KAITO",
-    "RESOLV",
     "ARB",
+    "SKR",
+    "kSHIB",
+    "XLM",
     "WLFI"
   ],
   "scores": [
     54,
     52,
     50,
-    48,
     46,
-    44
+    46,
+    46
   ],
-  "timestamp": "2026-02-10T15:50:17.610725",
+  "timestamp": "2026-02-10T16:47:08.164668",
   "bucket": "1.2m-5m"
 }
