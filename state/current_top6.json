@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "STABLE",
+    "PENDLE",
     "CC",
-    "SKR",
-    "SKY",
+    "TON",
     "TRX",
-    "TRUMP",
-    "TON"
+    "TRUMP"
   ],
   "scores": [
+    58,
     56,
     54,
-    51,
+    52,
     50,
-    48,
-    46
+    48
   ],
-  "timestamp": "2026-02-10T08:29:22.726228",
+  "timestamp": "2026-02-10T09:33:06.279335",
   "bucket": "1.2m-5m"
 }
