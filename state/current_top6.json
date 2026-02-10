@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SKY",
-    "XLM",
-    "STABLE",
-    "UNI",
+    "SKR",
     "kPEPE",
-    "AAVE"
+    "LTC",
+    "UNI",
+    "XLM",
+    "kSHIB"
   ],
   "scores": [
-    52,
+    50,
     48,
-    48,
-    46,
     44,
-    42
+    44,
+    44,
+    40
   ],
-  "timestamp": "2026-02-10T19:48:11.551685",
+  "timestamp": "2026-02-10T20:28:22.796831",
   "bucket": "1.2m-5m"
 }
