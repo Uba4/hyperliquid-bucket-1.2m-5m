@@ -2,19 +2,19 @@
   "tokens": [
     "STABLE",
     "ARB",
-    "SKR",
-    "kSHIB",
     "XLM",
-    "WLFI"
+    "AAVE",
+    "ENA",
+    "JUP"
   ],
   "scores": [
-    54,
     52,
     50,
+    48,
     46,
-    46,
-    46
+    44,
+    42
   ],
-  "timestamp": "2026-02-10T16:47:08.164668",
+  "timestamp": "2026-02-10T17:47:30.745620",
   "bucket": "1.2m-5m"
 }
