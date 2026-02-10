@@ -208,11 +208,11 @@
   },
   "JUP": {
     "current_run": 32,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-10T17:47:30.745172",
-    "exit_time": null,
+    "exit_time": "2026-02-10T18:45:17.367566",
     "last_bar_collected": 3569,
-    "tracking_until": null,
+    "tracking_until": "2026-02-20T18:45:17.367566",
     "entry_volume": 2290367.7541199997
   },
   "TRX": {
@@ -378,13 +378,13 @@
     "entry_volume": 1674184.3674999995
   },
   "SKY": {
-    "current_run": 16,
-    "status": "post_exit",
-    "entry_time": "2026-02-10T10:32:50.544530",
-    "exit_time": "2026-02-10T13:49:48.060104",
+    "current_run": 17,
+    "status": "in_top6",
+    "entry_time": "2026-02-10T18:45:17.367566",
+    "exit_time": null,
     "last_bar_collected": 1812,
-    "tracking_until": "2026-02-20T13:49:48.060104",
-    "entry_volume": 1271320.4645540009
+    "tracking_until": null,
+    "entry_volume": 1086190.3010149994
   },
   "MELANIA": {
     "current_run": 7,

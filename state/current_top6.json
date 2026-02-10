@@ -1,11 +1,11 @@
 {
   "tokens": [
     "STABLE",
-    "ARB",
     "XLM",
+    "SKY",
+    "ARB",
     "AAVE",
-    "ENA",
-    "JUP"
+    "ENA"
   ],
   "scores": [
     52,
@@ -15,6 +15,6 @@
     44,
     42
   ],
-  "timestamp": "2026-02-10T17:47:30.745620",
+  "timestamp": "2026-02-10T18:45:17.367774",
   "bucket": "1.2m-5m"
 }
