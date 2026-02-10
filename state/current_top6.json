@@ -3,18 +3,18 @@
     "PENDLE",
     "STABLE",
     "WLD",
-    "XMR",
     "SKY",
-    "NEAR"
+    "XMR",
+    "SKR"
   ],
   "scores": [
     54,
     52,
     50,
-    48,
     46,
-    44
+    46,
+    46
   ],
-  "timestamp": "2026-02-10T11:30:56.443477",
+  "timestamp": "2026-02-10T12:07:03.349695",
   "bucket": "1.2m-5m"
 }

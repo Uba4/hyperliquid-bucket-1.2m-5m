@@ -37,11 +37,11 @@
   },
   "NEAR": {
     "current_run": 34,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-10T10:32:50.544530",
-    "exit_time": null,
+    "exit_time": "2026-02-10T12:07:03.349495",
     "last_bar_collected": 3511,
-    "tracking_until": null,
+    "tracking_until": "2026-02-20T12:07:03.349495",
     "entry_volume": 3305729.6874469994
   },
   "PENGU": {
@@ -414,13 +414,13 @@
     "entry_volume": 1986084.5522079987
   },
   "SKR": {
-    "current_run": 24,
-    "status": "post_exit",
-    "entry_time": "2026-02-10T05:25:57.304757",
-    "exit_time": "2026-02-10T09:33:06.279009",
+    "current_run": 25,
+    "status": "in_top6",
+    "entry_time": "2026-02-10T12:07:03.349495",
+    "exit_time": null,
     "last_bar_collected": 1240,
-    "tracking_until": "2026-02-20T09:33:06.279009",
-    "entry_volume": 1484457.1473110002
+    "tracking_until": null,
+    "entry_volume": 1379085.3522879996
   },
   "JTO": {
     "current_run": 6,
