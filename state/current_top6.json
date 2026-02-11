@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "RESOLV",
-    "KAITO",
-    "SKR",
     "FTT",
     "JUP",
+    "PENGU",
+    "CRV",
+    "ARB",
     "POL"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     46,
     44
   ],
-  "timestamp": "2026-02-11T12:59:50.828369",
+  "timestamp": "2026-02-11T14:17:26.663638",
   "bucket": "1.2m-5m"
 }
