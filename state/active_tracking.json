@@ -352,11 +352,11 @@
   },
   "kSHIB": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-11T18:12:34.946942",
-    "exit_time": null,
+    "exit_time": "2026-02-11T19:20:21.900423",
     "last_bar_collected": 3751,
-    "tracking_until": null,
+    "tracking_until": "2026-02-21T19:20:21.900423",
     "entry_volume": 1565510.8652500007
   },
   "0G": {
@@ -547,15 +547,6 @@
     "last_bar_collected": 1009,
     "tracking_until": "2026-02-12T06:15:29.590953",
     "entry_volume": 1286798.7976219999
-  },
-  "ARK": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-02-01T15:58:39.411239",
-    "exit_time": "2026-02-01T18:39:10.979772",
-    "last_bar_collected": 975,
-    "tracking_until": "2026-02-11T18:39:10.979772",
-    "entry_volume": 1196116.6373299973
   },
   "MOVE": {
     "current_run": 2,
@@ -817,5 +808,14 @@
     "last_bar_collected": 1102,
     "tracking_until": "2026-02-21T16:17:08.501906",
     "entry_volume": 1180639.350770001
+  },
+  "ACE": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-11T19:20:21.900423",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1389878.2319450001
   }
 }

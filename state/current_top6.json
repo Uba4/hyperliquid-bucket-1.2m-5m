@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "STABLE",
+    "ACE",
     "SKR",
     "CC",
+    "STABLE",
     "WLFI",
-    "TRUMP",
-    "kSHIB"
+    "TRUMP"
   ],
   "scores": [
+    54,
     52,
     50,
     48,
     46,
-    44,
-    42
+    44
   ],
-  "timestamp": "2026-02-11T18:12:34.947397",
+  "timestamp": "2026-02-11T19:20:21.900681",
   "bucket": "1.2m-5m"
 }
