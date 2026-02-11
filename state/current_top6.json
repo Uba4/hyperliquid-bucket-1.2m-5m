@@ -2,19 +2,19 @@
   "tokens": [
     "XMR",
     "SKR",
-    "STABLE",
-    "WIF",
+    "PENDLE",
     "KAITO",
-    "APT"
+    "ARB",
+    "WIF"
   ],
   "scores": [
+    62,
+    60,
+    58,
     56,
     54,
-    52,
-    50,
-    48,
-    46
+    52
   ],
-  "timestamp": "2026-02-10T23:57:35.109308",
+  "timestamp": "2026-02-11T02:08:58.234754",
   "bucket": "1.2m-5m"
 }
