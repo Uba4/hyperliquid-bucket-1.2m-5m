@@ -3,18 +3,18 @@
     "S",
     "KAITO",
     "AXS",
-    "XLM",
-    "PENGU",
-    "TRUMP"
+    "STABLE",
+    "TRUMP",
+    "PENGU"
   ],
   "scores": [
     64,
     62,
     60,
     58,
-    54,
+    56,
     54
   ],
-  "timestamp": "2026-02-11T22:52:44.146418",
+  "timestamp": "2026-02-11T23:19:46.576753",
   "bucket": "1.2m-5m"
 }
