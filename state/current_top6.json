@@ -1,11 +1,11 @@
 {
   "tokens": [
     "STABLE",
+    "SKR",
     "PENGU",
-    "ENA",
     "kBONK",
-    "CRV",
-    "POL"
+    "ENA",
+    "CRV"
   ],
   "scores": [
     54,
@@ -15,6 +15,6 @@
     46,
     44
   ],
-  "timestamp": "2026-02-11T16:17:08.502349",
+  "timestamp": "2026-02-11T17:19:30.293597",
   "bucket": "1.2m-5m"
 }
