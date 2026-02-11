@@ -2,19 +2,19 @@
   "tokens": [
     "STBL",
     "RESOLV",
-    "SKR",
     "KAITO",
-    "BCH",
-    "XLM"
+    "SKR",
+    "TRUMP",
+    "SEI"
   ],
   "scores": [
-    62,
     60,
     58,
     56,
     54,
-    52
+    52,
+    50
   ],
-  "timestamp": "2026-02-11T10:14:12.774630",
+  "timestamp": "2026-02-11T11:10:30.597841",
   "bucket": "1.2m-5m"
 }
