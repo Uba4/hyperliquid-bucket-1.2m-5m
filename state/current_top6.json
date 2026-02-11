@@ -1,20 +1,20 @@
 {
   "tokens": [
     "ACE",
-    "SKR",
-    "CC",
-    "WLFI",
     "TRUMP",
-    "AXS"
+    "WLFI",
+    "XLM",
+    "AXS",
+    "ADA"
   ],
   "scores": [
     54,
-    51,
+    52,
     50,
     48,
-    47,
+    46,
     44
   ],
-  "timestamp": "2026-02-11T20:00:37.420421",
+  "timestamp": "2026-02-11T20:47:08.570047",
   "bucket": "1.2m-5m"
 }
