@@ -2,19 +2,19 @@
   "tokens": [
     "STABLE",
     "SKR",
-    "PENGU",
-    "kBONK",
-    "ENA",
-    "CRV"
+    "CC",
+    "WLFI",
+    "TRUMP",
+    "kSHIB"
   ],
   "scores": [
-    54,
     52,
     50,
     48,
     46,
-    44
+    44,
+    42
   ],
-  "timestamp": "2026-02-11T17:19:30.293597",
+  "timestamp": "2026-02-11T18:12:34.947397",
   "bucket": "1.2m-5m"
 }
