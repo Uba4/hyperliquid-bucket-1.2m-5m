@@ -1,20 +1,20 @@
 {
   "tokens": [
     "RESOLV",
-    "STBL",
     "KAITO",
     "SKR",
-    "SEI",
-    "TRUMP"
+    "FTT",
+    "JUP",
+    "POL"
   ],
   "scores": [
-    60,
-    58,
-    56,
     54,
     52,
-    50
+    50,
+    48,
+    46,
+    44
   ],
-  "timestamp": "2026-02-11T11:56:48.961018",
+  "timestamp": "2026-02-11T12:59:50.828369",
   "bucket": "1.2m-5m"
 }

@@ -145,11 +145,11 @@
   },
   "SEI": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-11T11:10:30.597494",
-    "exit_time": null,
+    "exit_time": "2026-02-11T12:59:50.827947",
     "last_bar_collected": 3662,
-    "tracking_until": null,
+    "tracking_until": "2026-02-21T12:59:50.827947",
     "entry_volume": 1210322.2613430005
   },
   "KAITO": {
@@ -198,13 +198,13 @@
     "entry_volume": 1495207.7215320007
   },
   "JUP": {
-    "current_run": 33,
-    "status": "post_exit",
-    "entry_time": "2026-02-11T04:36:40.241386",
-    "exit_time": "2026-02-11T06:49:59.522167",
+    "current_run": 34,
+    "status": "in_top6",
+    "entry_time": "2026-02-11T12:59:50.827947",
+    "exit_time": null,
     "last_bar_collected": 3638,
-    "tracking_until": "2026-02-21T06:49:59.522167",
-    "entry_volume": 1925689.3446299995
+    "tracking_until": null,
+    "entry_volume": 1341204.89171
   },
   "TRX": {
     "current_run": 60,
@@ -262,11 +262,11 @@
   },
   "TRUMP": {
     "current_run": 35,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-11T11:10:30.597494",
-    "exit_time": null,
+    "exit_time": "2026-02-11T12:59:50.827947",
     "last_bar_collected": 3283,
-    "tracking_until": null,
+    "tracking_until": "2026-02-21T12:59:50.827947",
     "entry_volume": 2013202.8752800007
   },
   "AVAX": {
@@ -288,13 +288,13 @@
     "entry_volume": 3208771.3988200007
   },
   "POL": {
-    "current_run": 29,
-    "status": "post_exit",
-    "entry_time": "2026-02-08T04:08:34.375312",
-    "exit_time": "2026-02-08T05:38:56.492406",
+    "current_run": 30,
+    "status": "in_top6",
+    "entry_time": "2026-02-11T12:59:50.827947",
+    "exit_time": null,
     "last_bar_collected": 3155,
-    "tracking_until": "2026-02-18T05:38:56.492406",
-    "entry_volume": 1169086.035816
+    "tracking_until": null,
+    "entry_volume": 2012244.3468409993
   },
   "BCH": {
     "current_run": 30,
@@ -802,11 +802,20 @@
   },
   "STBL": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-11T10:14:12.774387",
-    "exit_time": null,
+    "exit_time": "2026-02-11T12:59:50.827947",
     "last_bar_collected": 913,
-    "tracking_until": null,
+    "tracking_until": "2026-02-21T12:59:50.827947",
     "entry_volume": 1112477.5910050003
+  },
+  "FTT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-11T12:59:50.827947",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1180639.350770001
   }
 }
