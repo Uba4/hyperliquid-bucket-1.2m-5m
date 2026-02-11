@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "TRX",
-    "BCH",
     "RESOLV",
+    "SKR",
+    "BCH",
+    "KAITO",
     "XLM",
-    "ADA",
     "LINK"
   ],
   "scores": [
-    64,
     62,
     60,
     58,
     56,
-    54
+    54,
+    52
   ],
-  "timestamp": "2026-02-11T08:28:24.187632",
+  "timestamp": "2026-02-11T09:26:50.237395",
   "bucket": "1.2m-5m"
 }
