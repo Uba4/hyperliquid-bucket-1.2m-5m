@@ -1,20 +1,20 @@
 {
   "tokens": [
     "ACE",
+    "KAITO",
+    "kPEPE",
     "TRUMP",
-    "WLFI",
     "XLM",
-    "AXS",
-    "ADA"
+    "VIRTUAL"
   ],
   "scores": [
+    58,
+    56,
     54,
     52,
     50,
-    48,
-    46,
-    44
+    48
   ],
-  "timestamp": "2026-02-11T20:47:08.570047",
+  "timestamp": "2026-02-11T21:21:32.384488",
   "bucket": "1.2m-5m"
 }
