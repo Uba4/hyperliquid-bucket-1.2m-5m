@@ -1,11 +1,11 @@
 {
   "tokens": [
+    "STBL",
     "RESOLV",
     "SKR",
-    "BCH",
     "KAITO",
-    "XLM",
-    "LINK"
+    "BCH",
+    "XLM"
   ],
   "scores": [
     62,
@@ -15,6 +15,6 @@
     54,
     52
   ],
-  "timestamp": "2026-02-11T09:26:50.237395",
+  "timestamp": "2026-02-11T10:14:12.774630",
   "bucket": "1.2m-5m"
 }
