@@ -3,18 +3,18 @@
     "ACE",
     "SKR",
     "CC",
-    "STABLE",
     "WLFI",
-    "TRUMP"
+    "TRUMP",
+    "AXS"
   ],
   "scores": [
     54,
-    52,
+    51,
     50,
     48,
-    46,
+    47,
     44
   ],
-  "timestamp": "2026-02-11T19:20:21.900681",
+  "timestamp": "2026-02-11T20:00:37.420421",
   "bucket": "1.2m-5m"
 }
