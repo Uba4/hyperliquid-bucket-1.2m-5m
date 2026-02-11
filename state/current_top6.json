@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "SKR",
-    "APT",
-    "JUP",
     "AVAX",
+    "APT",
     "CRV",
+    "SKR",
+    "JUP",
     "WIF"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     52,
     50
   ],
-  "timestamp": "2026-02-11T04:36:40.241878",
+  "timestamp": "2026-02-11T05:54:21.911266",
   "bucket": "1.2m-5m"
 }
