@@ -2,19 +2,19 @@
   "tokens": [
     "MOODENG",
     "MON",
-    "VIRTUAL",
-    "TAO",
     "STABLE",
-    "WLFI"
+    "TNSR",
+    "WLFI",
+    "VIRTUAL"
   ],
   "scores": [
+    96,
+    94,
+    92,
     90,
     88,
-    86,
-    84,
-    82,
-    80
+    86
   ],
-  "timestamp": "2026-02-12T14:17:06.808901",
+  "timestamp": "2026-02-12T15:09:18.633913",
   "bucket": "1.2m-5m"
 }
