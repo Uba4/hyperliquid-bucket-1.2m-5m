@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "ME",
-    "MOVE",
+    "MOODENG",
+    "MON",
     "VIRTUAL",
     "TAO",
-    "ONDO",
-    "PENGU"
+    "STABLE",
+    "WLFI"
   ],
   "scores": [
     90,
@@ -15,6 +15,6 @@
     82,
     80
   ],
-  "timestamp": "2026-02-12T13:18:53.167905",
+  "timestamp": "2026-02-12T14:17:06.808901",
   "bucket": "1.2m-5m"
 }
