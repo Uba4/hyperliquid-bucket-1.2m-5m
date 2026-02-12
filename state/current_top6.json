@@ -4,17 +4,17 @@
     "MOVE",
     "HBAR",
     "VIRTUAL",
-    "WLD",
-    "AVNT"
+    "TAO",
+    "PENGU"
   ],
   "scores": [
+    86,
     84,
     82,
     80,
     76,
-    74,
-    74
+    76
   ],
-  "timestamp": "2026-02-12T10:31:16.145797",
+  "timestamp": "2026-02-12T11:24:42.563250",
   "bucket": "1.2m-5m"
 }
