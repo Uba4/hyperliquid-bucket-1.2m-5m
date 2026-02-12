@@ -289,11 +289,11 @@
   },
   "POL": {
     "current_run": 32,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-12T19:54:49.553349",
-    "exit_time": null,
+    "exit_time": "2026-02-12T21:27:42.359344",
     "last_bar_collected": 3278,
-    "tracking_until": null,
+    "tracking_until": "2026-02-22T21:27:42.359344",
     "entry_volume": 1618497.503319
   },
   "BCH": {
@@ -513,13 +513,13 @@
     "entry_volume": 2026953.9324659996
   },
   "MOODENG": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-02-12T14:17:06.808319",
-    "exit_time": "2026-02-12T18:08:24.097917",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-02-12T21:27:42.359344",
+    "exit_time": null,
     "last_bar_collected": 3650,
-    "tracking_until": "2026-02-22T18:08:24.097917",
-    "entry_volume": 1986471.593855
+    "tracking_until": null,
+    "entry_volume": 2895019.40047
   },
   "MOVE": {
     "current_run": 3,
