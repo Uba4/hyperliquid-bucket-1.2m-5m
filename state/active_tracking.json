@@ -145,11 +145,11 @@
   },
   "SEI": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-12T19:18:26.077172",
-    "exit_time": null,
+    "exit_time": "2026-02-12T21:58:17.138565",
     "last_bar_collected": 3797,
-    "tracking_until": null,
+    "tracking_until": "2026-02-22T21:58:17.138565",
     "entry_volume": 1335641.5840479992
   },
   "KAITO": {
@@ -828,13 +828,13 @@
     "entry_volume": 1100851.936501
   },
   "AZTEC": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-02-12T18:08:24.097917",
-    "exit_time": "2026-02-12T19:18:26.077172",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-02-12T21:58:17.138565",
+    "exit_time": null,
     "last_bar_collected": 15,
-    "tracking_until": "2026-02-22T19:18:26.077172",
-    "entry_volume": 4115218.414874
+    "tracking_until": null,
+    "entry_volume": 4787964.246695003
   },
   "DYM": {
     "current_run": 1,
