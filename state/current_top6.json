@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "TNSR",
-    "LINEA",
     "AZTEC",
-    "DYM",
+    "TNSR",
     "MOODENG",
-    "RESOLV"
+    "DYM",
+    "POL",
+    "MOVE"
   ],
   "scores": [
+    88,
     86,
     84,
     82,
     80,
-    78,
-    76
+    78
   ],
-  "timestamp": "2026-02-12T21:58:17.138750",
+  "timestamp": "2026-02-12T22:32:51.668289",
   "bucket": "1.2m-5m"
 }
