@@ -2,10 +2,10 @@
   "tokens": [
     "AZTEC",
     "MOODENG",
-    "TNSR",
+    "MON",
     "POL",
-    "MOVE",
-    "S"
+    "AXS",
+    "IP"
   ],
   "scores": [
     88,
@@ -15,6 +15,6 @@
     80,
     78
   ],
-  "timestamp": "2026-02-12T23:00:10.342808",
+  "timestamp": "2026-02-12T23:35:12.078600",
   "bucket": "1.2m-5m"
 }
