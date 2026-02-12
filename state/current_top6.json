@@ -1,8 +1,8 @@
 {
   "tokens": [
     "TNSR",
-    "DYM",
     "LINEA",
+    "DYM",
     "RESOLV",
     "SEI",
     "POL"
@@ -15,6 +15,6 @@
     80,
     78
   ],
-  "timestamp": "2026-02-12T19:54:49.553556",
+  "timestamp": "2026-02-12T20:23:22.989437",
   "bucket": "1.2m-5m"
 }
