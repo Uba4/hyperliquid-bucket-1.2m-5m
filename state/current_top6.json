@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MOODENG",
-    "STABLE",
-    "MON",
     "TNSR",
-    "WLFI",
-    "XLM"
+    "SKR",
+    "DYM",
+    "AZTEC",
+    "POL",
+    "MON"
   ],
   "scores": [
-    96,
-    94,
     92,
     90,
-    88,
-    86
+    86,
+    86,
+    84,
+    84
   ],
-  "timestamp": "2026-02-12T16:07:07.352272",
+  "timestamp": "2026-02-12T18:08:24.098350",
   "bucket": "1.2m-5m"
 }
