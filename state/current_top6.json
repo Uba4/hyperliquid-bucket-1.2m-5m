@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "0G",
-    "GRASS",
     "ME",
     "STBL",
-    "TNSR",
-    "HBAR"
+    "HBAR",
+    "GRASS",
+    "AVNT",
+    "VIRTUAL"
   ],
   "scores": [
-    80,
-    78,
-    76,
-    74,
-    72,
-    70
+    64,
+    62,
+    59,
+    59,
+    56,
+    54
   ],
-  "timestamp": "2026-02-12T08:57:57.166449",
+  "timestamp": "2026-02-12T09:49:28.256201",
   "bucket": "1.2m-5m"
 }
