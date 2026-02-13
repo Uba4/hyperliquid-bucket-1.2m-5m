@@ -793,21 +793,21 @@
   },
   "LINEA": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-13T08:59:47.636351",
-    "exit_time": null,
+    "exit_time": "2026-02-13T09:51:28.417936",
     "last_bar_collected": 1305,
-    "tracking_until": null,
+    "tracking_until": "2026-02-23T09:51:28.417936",
     "entry_volume": 1116347.7608
   },
   "TNSR": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-02-12T15:09:18.633666",
-    "exit_time": "2026-02-12T23:35:12.078062",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-02-13T09:51:28.417936",
+    "exit_time": null,
     "last_bar_collected": 108,
-    "tracking_until": "2026-02-22T23:35:12.078062",
-    "entry_volume": 1878232.9730969998
+    "tracking_until": null,
+    "entry_volume": 1994470.8040630003
   },
   "ME": {
     "current_run": 1,
