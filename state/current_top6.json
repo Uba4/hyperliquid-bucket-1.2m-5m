@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "VVV",
+    "SKR",
+    "MOODENG",
     "JUP",
     "BCH",
-    "POL",
-    "NEAR",
-    "MOODENG",
-    "WIF"
+    "NEAR"
   ],
   "scores": [
-    82,
-    80,
     78,
+    76,
     74,
-    74,
-    71
+    72,
+    70,
+    68
   ],
-  "timestamp": "2026-02-13T05:43:22.621902",
+  "timestamp": "2026-02-13T06:40:20.361792",
   "bucket": "1.2m-5m"
 }
