@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "VVV",
     "OM",
+    "VVV",
     "TNSR",
-    "AZTEC",
     "BCH",
-    "SKR"
+    "TON",
+    "CRV"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-02-13T12:01:03.819090",
+  "timestamp": "2026-02-13T13:17:11.131209",
   "bucket": "1.2m-5m"
 }
