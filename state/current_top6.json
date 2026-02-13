@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "POL",
     "JUP",
     "BCH",
-    "TAO",
-    "STBL",
-    "NEAR"
+    "POL",
+    "NEAR",
+    "MOODENG",
+    "WIF"
   ],
   "scores": [
-    84,
     82,
     80,
     78,
-    76,
-    74
+    74,
+    74,
+    71
   ],
-  "timestamp": "2026-02-13T04:27:25.558881",
+  "timestamp": "2026-02-13T05:43:22.621902",
   "bucket": "1.2m-5m"
 }
