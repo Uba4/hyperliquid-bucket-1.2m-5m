@@ -144,13 +144,13 @@
     "entry_volume": 1722018.37417
   },
   "SEI": {
-    "current_run": 20,
-    "status": "post_exit",
-    "entry_time": "2026-02-12T19:18:26.077172",
-    "exit_time": "2026-02-12T21:58:17.138565",
+    "current_run": 21,
+    "status": "in_top6",
+    "entry_time": "2026-02-13T08:07:52.098329",
+    "exit_time": null,
     "last_bar_collected": 3835,
-    "tracking_until": "2026-02-22T21:58:17.138565",
-    "entry_volume": 1335641.5840479992
+    "tracking_until": null,
+    "entry_volume": 2450497.329203
   },
   "KAITO": {
     "current_run": 29,
@@ -298,11 +298,11 @@
   },
   "BCH": {
     "current_run": 31,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-13T04:27:25.558158",
-    "exit_time": null,
+    "exit_time": "2026-02-13T08:07:52.098329",
     "last_bar_collected": 3225,
-    "tracking_until": null,
+    "tracking_until": "2026-02-23T08:07:52.098329",
     "entry_volume": 2384000.3767200015
   },
   "FOGO": {
