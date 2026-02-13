@@ -422,15 +422,6 @@
     "tracking_until": "2026-02-18T14:31:20.250777",
     "entry_volume": 1468590.926170001
   },
-  "APEX": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-02-03T04:29:28.542737",
-    "exit_time": "2026-02-03T10:04:42.804447",
-    "last_bar_collected": 1498,
-    "tracking_until": "2026-02-13T10:04:42.804447",
-    "entry_volume": 1211612.2447099993
-  },
   "UNI": {
     "current_run": 6,
     "status": "post_exit",
