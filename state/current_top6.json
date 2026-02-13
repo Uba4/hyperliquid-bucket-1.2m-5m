@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "MOODENG",
-    "IP",
-    "SPX",
-    "MON",
+    "POL",
+    "JUP",
+    "BCH",
     "TAO",
-    "HBAR"
+    "STBL",
+    "NEAR"
   ],
   "scores": [
     84,
@@ -15,6 +15,6 @@
     76,
     74
   ],
-  "timestamp": "2026-02-13T02:03:45.740232",
+  "timestamp": "2026-02-13T04:27:25.558881",
   "bucket": "1.2m-5m"
 }
