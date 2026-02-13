@@ -1,20 +1,20 @@
 {
   "tokens": [
     "DASH",
-    "MERL",
+    "COMP",
     "SPX",
-    "XMR",
+    "MERL",
     "IP",
-    "PENGU"
+    "XMR"
   ],
   "scores": [
+    66,
     64,
     62,
     60,
-    58,
-    56,
-    54
+    57,
+    57
   ],
-  "timestamp": "2026-02-13T20:39:53.794145",
+  "timestamp": "2026-02-13T21:08:03.995624",
   "bucket": "1.2m-5m"
 }
