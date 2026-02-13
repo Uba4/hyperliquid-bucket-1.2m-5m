@@ -667,11 +667,11 @@
   },
   "OM": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-13T11:07:45.005117",
-    "exit_time": null,
+    "exit_time": "2026-02-13T18:39:15.415894",
     "last_bar_collected": 1505,
-    "tracking_until": null,
+    "tracking_until": "2026-02-23T18:39:15.415894",
     "entry_volume": 1832306.0142240007
   },
   "LIT": {
@@ -844,5 +844,14 @@
     "last_bar_collected": 3060,
     "tracking_until": "2026-02-23T17:56:19.830794",
     "entry_volume": 1084313.415059
+  },
+  "DASH": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-13T18:39:15.415894",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1298685.5404100004
   }
 }
