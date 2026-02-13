@@ -1,20 +1,20 @@
 {
   "tokens": [
     "OM",
-    "VVV",
-    "STABLE",
     "SPX",
-    "TON",
-    "PENGU"
+    "JUP",
+    "VVV",
+    "PENGU",
+    "MOODENG"
   ],
   "scores": [
+    70,
+    68,
     66,
     64,
     62,
-    60,
-    58,
-    56
+    58
   ],
-  "timestamp": "2026-02-13T16:27:05.979601",
+  "timestamp": "2026-02-13T17:12:53.146203",
   "bucket": "1.2m-5m"
 }
