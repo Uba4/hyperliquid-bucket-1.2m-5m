@@ -2,19 +2,19 @@
   "tokens": [
     "VVV",
     "NEAR",
+    "LINEA",
     "XMR",
-    "JUP",
-    "SKR",
-    "SEI"
+    "SEI",
+    "JUP"
   ],
   "scores": [
     76,
     74,
     72,
-    68,
+    70,
     68,
     66
   ],
-  "timestamp": "2026-02-13T08:07:52.098528",
+  "timestamp": "2026-02-13T08:59:47.636548",
   "bucket": "1.2m-5m"
 }
