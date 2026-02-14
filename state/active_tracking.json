@@ -36,13 +36,13 @@
     "entry_volume": 1536597.2964879994
   },
   "PENGU": {
-    "current_run": 35,
-    "status": "post_exit",
-    "entry_time": "2026-02-14T04:24:47.950602",
-    "exit_time": "2026-02-14T07:00:19.374203",
+    "current_run": 36,
+    "status": "in_top6",
+    "entry_time": "2026-02-14T17:01:17.704615",
+    "exit_time": null,
     "last_bar_collected": 3962,
-    "tracking_until": "2026-02-24T07:00:19.374203",
-    "entry_volume": 1586531.6450409994
+    "tracking_until": null,
+    "entry_volume": 1882149.506769
   },
   "WIF": {
     "current_run": 44,
@@ -55,11 +55,11 @@
   },
   "kBONK": {
     "current_run": 21,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-14T16:38:33.048586",
-    "exit_time": null,
+    "exit_time": "2026-02-14T17:01:17.704615",
     "last_bar_collected": 3962,
-    "tracking_until": null,
+    "tracking_until": "2026-02-24T17:01:17.704615",
     "entry_volume": 1209926.199984999
   },
   "CRV": {
