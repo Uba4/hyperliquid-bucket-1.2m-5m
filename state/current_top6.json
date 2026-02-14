@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "AXS",
-    "CC",
-    "TIA",
     "MORPHO",
-    "STABLE",
-    "APEX"
+    "MOODENG",
+    "CC",
+    "AXS",
+    "PENGU",
+    "CRV"
   ],
   "scores": [
-    60,
     58,
-    56,
+    55,
     54,
-    52,
-    50
+    53,
+    50,
+    48
   ],
-  "timestamp": "2026-02-14T02:47:44.224507",
+  "timestamp": "2026-02-14T04:24:47.951161",
   "bucket": "1.2m-5m"
 }
