@@ -343,11 +343,11 @@
   },
   "kSHIB": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-14T19:52:17.765981",
-    "exit_time": null,
+    "exit_time": "2026-02-14T20:53:04.177284",
     "last_bar_collected": 4142,
-    "tracking_until": null,
+    "tracking_until": "2026-02-24T20:53:04.177284",
     "entry_volume": 1748209.1794449994
   },
   "0G": {
@@ -819,13 +819,13 @@
     "entry_volume": 1100851.936501
   },
   "AZTEC": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-02-13T12:01:03.818632",
-    "exit_time": "2026-02-13T13:17:11.130890",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-02-14T20:53:04.177284",
+    "exit_time": null,
     "last_bar_collected": 202,
-    "tracking_until": "2026-02-23T13:17:11.130890",
-    "entry_volume": 5295103.969570001
+    "tracking_until": null,
+    "entry_volume": 4566324.593498999
   },
   "DYM": {
     "current_run": 1,
