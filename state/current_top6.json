@@ -2,8 +2,8 @@
   "tokens": [
     "S",
     "APEX",
-    "PENDLE",
     "DASH",
+    "PENDLE",
     "STABLE",
     "APT"
   ],
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-02-14T08:30:57.845659",
+  "timestamp": "2026-02-14T08:59:45.837291",
   "bucket": "1.2m-5m"
 }
