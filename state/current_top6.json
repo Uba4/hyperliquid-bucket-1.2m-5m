@@ -1,20 +1,20 @@
 {
   "tokens": [
     "PENGU",
-    "SPX",
     "kBONK",
     "MOODENG",
+    "SPX",
     "WIF",
     "kSHIB"
   ],
   "scores": [
-    74,
+    76,
     72,
-    70,
+    72,
+    72,
     68,
-    66,
-    64
+    66
   ],
-  "timestamp": "2026-02-14T19:59:43.501119",
+  "timestamp": "2026-02-14T20:31:29.643498",
   "bucket": "1.2m-5m"
 }
