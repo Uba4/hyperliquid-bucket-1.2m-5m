@@ -3,9 +3,9 @@
     "APEX",
     "OM",
     "SPX",
-    "ENS",
     "MORPHO",
-    "POL"
+    "PYTH",
+    "ENS"
   ],
   "scores": [
     76,
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-02-14T11:58:36.152943",
+  "timestamp": "2026-02-14T12:50:58.587945",
   "bucket": "1.2m-5m"
 }
