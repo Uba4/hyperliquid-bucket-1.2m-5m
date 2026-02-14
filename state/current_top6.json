@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PENGU",
     "MOODENG",
+    "PENGU",
     "kBONK",
-    "SPX",
+    "AZTEC",
     "WIF",
-    "AZTEC"
+    "SPX"
   ],
   "scores": [
-    76,
     74,
     72,
-    70,
-    68,
-    66
+    69,
+    69,
+    66,
+    64
   ],
-  "timestamp": "2026-02-14T21:12:26.497365",
+  "timestamp": "2026-02-14T21:38:59.008305",
   "bucket": "1.2m-5m"
 }
