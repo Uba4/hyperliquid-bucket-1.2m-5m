@@ -3,18 +3,18 @@
     "MOODENG",
     "DASH",
     "PENGU",
-    "AERO",
     "kSHIB",
+    "AERO",
     "WIF"
   ],
   "scores": [
     76,
     74,
     72,
-    70,
-    68,
+    69,
+    69,
     66
   ],
-  "timestamp": "2026-02-14T23:46:28.318509",
+  "timestamp": "2026-02-14T23:59:06.764333",
   "bucket": "1.2m-5m"
 }
