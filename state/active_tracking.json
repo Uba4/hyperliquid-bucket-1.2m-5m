@@ -54,21 +54,21 @@
     "entry_volume": 1321031.21952
   },
   "kBONK": {
-    "current_run": 19,
-    "status": "post_exit",
-    "entry_time": "2026-02-12T08:01:07.950882",
-    "exit_time": "2026-02-12T08:57:57.166162",
+    "current_run": 20,
+    "status": "in_top6",
+    "entry_time": "2026-02-14T05:27:20.356050",
+    "exit_time": null,
     "last_bar_collected": 3920,
-    "tracking_until": "2026-02-22T08:57:57.166162",
-    "entry_volume": 1791079.1070400004
+    "tracking_until": null,
+    "entry_volume": 1206036.1353250002
   },
   "CRV": {
     "current_run": 36,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-14T04:24:47.950602",
-    "exit_time": null,
+    "exit_time": "2026-02-14T05:27:20.356050",
     "last_bar_collected": 3893,
-    "tracking_until": null,
+    "tracking_until": "2026-02-24T05:27:20.356050",
     "entry_volume": 2957585.5309440005
   },
   "AVNT": {
