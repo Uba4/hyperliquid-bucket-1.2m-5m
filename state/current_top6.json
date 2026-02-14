@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "APEX",
-    "MORPHO",
     "PYTH",
-    "SPX",
+    "MORPHO",
     "POL",
-    "OM"
+    "SPX",
+    "WIF",
+    "JUP"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-02-14T14:02:24.923878",
+  "timestamp": "2026-02-14T14:57:18.125863",
   "bucket": "1.2m-5m"
 }
