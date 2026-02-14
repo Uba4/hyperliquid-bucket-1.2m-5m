@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MOODENG",
     "S",
-    "CC",
     "APEX",
     "DASH",
-    "kBONK"
+    "CC",
+    "STABLE",
+    "WIF"
   ],
   "scores": [
+    68,
     66,
     64,
     62,
-    58,
-    58,
-    56
+    60,
+    58
   ],
-  "timestamp": "2026-02-14T07:00:19.374560",
+  "timestamp": "2026-02-14T07:38:02.627410",
   "bucket": "1.2m-5m"
 }
