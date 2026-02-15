@@ -1,11 +1,11 @@
 {
   "tokens": [
     "COMP",
-    "JUP",
     "AZTEC",
-    "APEX",
+    "JUP",
     "MORPHO",
-    "POL"
+    "POL",
+    "ENS"
   ],
   "scores": [
     82,
@@ -15,6 +15,6 @@
     74,
     72
   ],
-  "timestamp": "2026-02-15T07:53:10.458494",
+  "timestamp": "2026-02-15T08:17:22.689599",
   "bucket": "1.2m-5m"
 }
