@@ -3,9 +3,9 @@
     "AZTEC",
     "MNT",
     "PAXG",
-    "COMP",
-    "PYTH",
-    "NEAR"
+    "NEAR",
+    "LTC",
+    "PYTH"
   ],
   "scores": [
     82,
@@ -15,6 +15,6 @@
     74,
     72
   ],
-  "timestamp": "2026-02-15T11:22:18.125394",
+  "timestamp": "2026-02-15T11:42:10.880897",
   "bucket": "1.2m-5m"
 }
