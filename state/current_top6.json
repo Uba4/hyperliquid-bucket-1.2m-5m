@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "INIT",
+    "MOVE",
+    "POL",
     "PAXG",
-    "BCH",
-    "JUP",
-    "LTC",
-    "TRUMP",
-    "XLM"
+    "TON",
+    "BCH"
   ],
   "scores": [
+    96,
+    94,
     92,
     90,
     88,
-    86,
-    84,
-    82
+    86
   ],
-  "timestamp": "2026-02-15T17:52:46.062057",
+  "timestamp": "2026-02-15T18:17:05.303178",
   "bucket": "1.2m-5m"
 }
