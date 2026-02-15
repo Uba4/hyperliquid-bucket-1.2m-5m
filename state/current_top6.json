@@ -1,20 +1,20 @@
 {
   "tokens": [
     "AZTEC",
-    "ZRO",
     "PAXG",
+    "TON",
     "BCH",
-    "ZK",
-    "NEAR"
+    "SKY",
+    "BERA"
   ],
   "scores": [
+    88,
     86,
     84,
     82,
     80,
-    78,
-    76
+    78
   ],
-  "timestamp": "2026-02-15T14:00:24.089117",
+  "timestamp": "2026-02-15T14:33:24.748952",
   "bucket": "1.2m-5m"
 }
