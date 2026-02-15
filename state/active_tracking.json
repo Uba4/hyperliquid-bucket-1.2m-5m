@@ -541,11 +541,11 @@
   },
   "ZRO": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-15T15:22:59.575814",
-    "exit_time": null,
+    "exit_time": "2026-02-15T15:45:00.446742",
     "last_bar_collected": 3659,
-    "tracking_until": null,
+    "tracking_until": "2026-02-25T15:45:00.446742",
     "entry_volume": 5483486.67616
   },
   "ATOM": {
@@ -880,5 +880,14 @@
     "last_bar_collected": 2528,
     "tracking_until": null,
     "entry_volume": 3004995.2948999996
+  },
+  "BNB": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-15T15:45:00.446742",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 4216265.08031
   }
 }
