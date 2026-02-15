@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MOODENG",
-    "DASH",
-    "PENGU",
-    "kSHIB",
     "AERO",
-    "WIF"
+    "IP",
+    "OM",
+    "BERA",
+    "JUP",
+    "MORPHO"
   ],
   "scores": [
-    76,
     74,
     72,
-    69,
-    69,
-    66
+    70,
+    68,
+    66,
+    64
   ],
-  "timestamp": "2026-02-14T23:59:06.764333",
+  "timestamp": "2026-02-15T02:28:22.015146",
   "bucket": "1.2m-5m"
 }
