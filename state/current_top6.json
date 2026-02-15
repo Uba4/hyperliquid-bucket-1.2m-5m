@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "AZTEC",
     "COMP",
     "XLM",
-    "MORPHO",
-    "AZTEC",
-    "PENDLE",
-    "HBAR"
+    "PAXG",
+    "APEX",
+    "NEAR"
   ],
   "scores": [
-    84,
-    82,
     80,
-    78,
     76,
-    74
+    76,
+    74,
+    73,
+    68
   ],
-  "timestamp": "2026-02-15T10:02:11.986714",
+  "timestamp": "2026-02-15T10:58:03.029429",
   "bucket": "1.2m-5m"
 }
