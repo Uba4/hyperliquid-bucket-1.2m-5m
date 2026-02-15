@@ -2,19 +2,19 @@
   "tokens": [
     "COMP",
     "AZTEC",
-    "JUP",
     "MORPHO",
+    "JUP",
     "POL",
-    "ENS"
+    "HBAR"
   ],
   "scores": [
-    82,
-    80,
     78,
     76,
     74,
-    72
+    72,
+    70,
+    68
   ],
-  "timestamp": "2026-02-15T08:17:22.689599",
+  "timestamp": "2026-02-15T08:52:19.299611",
   "bucket": "1.2m-5m"
 }
