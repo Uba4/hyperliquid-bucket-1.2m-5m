@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "AERO",
-    "IP",
     "OM",
-    "BERA",
+    "APEX",
     "JUP",
-    "MORPHO"
+    "XPL",
+    "MOODENG",
+    "ENA"
   ],
   "scores": [
+    76,
     74,
     72,
     70,
     68,
-    66,
-    64
+    66
   ],
-  "timestamp": "2026-02-15T02:28:22.015146",
+  "timestamp": "2026-02-15T04:33:57.200948",
   "bucket": "1.2m-5m"
 }
