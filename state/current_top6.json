@@ -2,9 +2,9 @@
   "tokens": [
     "STABLE",
     "BERA",
-    "POL",
-    "APT",
     "PENDLE",
+    "APT",
+    "OM",
     "JUP"
   ],
   "scores": [
@@ -13,8 +13,8 @@
     78,
     76,
     74,
-    72
+    70
   ],
-  "timestamp": "2026-02-15T23:16:14.627734",
+  "timestamp": "2026-02-15T23:44:16.336062",
   "bucket": "1.2m-5m"
 }
