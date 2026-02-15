@@ -1,20 +1,20 @@
 {
   "tokens": [
     "COMP",
-    "AZTEC",
     "MORPHO",
-    "JUP",
-    "POL",
-    "HBAR"
+    "XLM",
+    "AZTEC",
+    "HBAR",
+    "PENDLE"
   ],
   "scores": [
+    82,
+    80,
     78,
     76,
     74,
-    72,
-    70,
-    68
+    72
   ],
-  "timestamp": "2026-02-15T08:52:19.299611",
+  "timestamp": "2026-02-15T09:18:47.595968",
   "bucket": "1.2m-5m"
 }
