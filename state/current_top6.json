@@ -2,19 +2,19 @@
   "tokens": [
     "PAXG",
     "BCH",
-    "SKY",
+    "JUP",
+    "LTC",
     "BNB",
-    "PYTH",
-    "LTC"
+    "TRUMP"
   ],
   "scores": [
+    90,
     88,
     86,
     84,
     82,
-    80,
-    78
+    80
   ],
-  "timestamp": "2026-02-15T16:59:48.660117",
+  "timestamp": "2026-02-15T17:29:24.050819",
   "bucket": "1.2m-5m"
 }
