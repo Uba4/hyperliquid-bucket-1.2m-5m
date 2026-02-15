@@ -4,17 +4,17 @@
     "MORPHO",
     "XLM",
     "AZTEC",
-    "HBAR",
-    "PENDLE"
+    "PENDLE",
+    "HBAR"
   ],
   "scores": [
+    84,
     82,
     80,
     78,
     76,
-    74,
-    72
+    74
   ],
-  "timestamp": "2026-02-15T09:18:47.595968",
+  "timestamp": "2026-02-15T09:49:22.541973",
   "bucket": "1.2m-5m"
 }
