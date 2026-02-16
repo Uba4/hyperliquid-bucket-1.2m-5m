@@ -82,11 +82,11 @@
   },
   "TAO": {
     "current_run": 42,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-16T02:34:27.736131",
-    "exit_time": null,
+    "exit_time": "2026-02-16T04:38:46.659089",
     "last_bar_collected": 4044,
-    "tracking_until": null,
+    "tracking_until": "2026-02-26T04:38:46.659089",
     "entry_volume": 5405361.900729997
   },
   "SPX": {
@@ -288,13 +288,13 @@
     "entry_volume": 2354234.8446999993
   },
   "BCH": {
-    "current_run": 34,
-    "status": "post_exit",
-    "entry_time": "2026-02-15T20:16:42.880572",
-    "exit_time": "2026-02-15T21:51:18.560977",
+    "current_run": 35,
+    "status": "in_top6",
+    "entry_time": "2026-02-16T04:38:46.659089",
+    "exit_time": null,
     "last_bar_collected": 3493,
-    "tracking_until": "2026-02-25T21:51:18.560977",
-    "entry_volume": 4292967.1942099985
+    "tracking_until": null,
+    "entry_volume": 3921798.4646500004
   },
   "FOGO": {
     "current_run": 26,
@@ -333,13 +333,13 @@
     "entry_volume": 1558472.416819
   },
   "kSHIB": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-02-15T06:31:39.720265",
-    "exit_time": "2026-02-15T07:23:54.673596",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-02-16T04:38:46.659089",
+    "exit_time": null,
     "last_bar_collected": 4345,
-    "tracking_until": "2026-02-25T07:23:54.673596",
-    "entry_volume": 3643720.7389089996
+    "tracking_until": null,
+    "entry_volume": 1460611.9914539992
   },
   "0G": {
     "current_run": 16,
@@ -352,11 +352,11 @@
   },
   "SKY": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-16T02:34:27.736131",
-    "exit_time": null,
+    "exit_time": "2026-02-16T04:38:46.659089",
     "last_bar_collected": 2309,
-    "tracking_until": null,
+    "tracking_until": "2026-02-26T04:38:46.659089",
     "entry_volume": 1174182.368301
   },
   "MELANIA": {
@@ -556,15 +556,6 @@
     "last_bar_collected": 4046,
     "tracking_until": "2026-02-24T00:03:13.926082",
     "entry_volume": 3272323.1180879995
-  },
-  "kLUNC": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-02-06T02:26:03.245708",
-    "exit_time": "2026-02-06T04:26:06.500640",
-    "last_bar_collected": 963,
-    "tracking_until": "2026-02-16T04:26:06.500640",
-    "entry_volume": 1322539.5413930002
   },
   "FET": {
     "current_run": 1,
