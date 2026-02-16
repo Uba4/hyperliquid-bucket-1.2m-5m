@@ -280,11 +280,11 @@
   },
   "POL": {
     "current_run": 40,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-16T17:22:59.395320",
-    "exit_time": null,
+    "exit_time": "2026-02-16T20:02:37.205101",
     "last_bar_collected": 3646,
-    "tracking_until": null,
+    "tracking_until": "2026-02-26T20:02:37.205101",
     "entry_volume": 1469738.7390900003
   },
   "BCH": {
@@ -306,13 +306,13 @@
     "entry_volume": 4685573.229587999
   },
   "BERA": {
-    "current_run": 32,
-    "status": "post_exit",
-    "entry_time": "2026-02-16T17:22:59.395320",
-    "exit_time": "2026-02-16T18:46:04.150858",
+    "current_run": 33,
+    "status": "in_top6",
+    "entry_time": "2026-02-16T20:02:37.205101",
+    "exit_time": null,
     "last_bar_collected": 4050,
-    "tracking_until": "2026-02-26T18:46:04.150858",
-    "entry_volume": 2262228.8143380014
+    "tracking_until": null,
+    "entry_volume": 2005627.5263100003
   },
   "MERL": {
     "current_run": 33,
@@ -529,15 +529,6 @@
     "last_bar_collected": 975,
     "tracking_until": "2026-02-17T23:17:20.293702",
     "entry_volume": 1202203.0370699991
-  },
-  "ZEN": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-02-06T19:27:30.385629",
-    "exit_time": "2026-02-06T19:55:07.262923",
-    "last_bar_collected": 3850,
-    "tracking_until": "2026-02-16T19:55:07.262923",
-    "entry_volume": 2085133.3250729996
   },
   "PROMPT": {
     "current_run": 1,
