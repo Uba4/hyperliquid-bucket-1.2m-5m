@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "MOODENG",
+    "XPL",
     "PENGU",
     "AERO",
-    "CRV",
-    "WIF",
-    "XPL",
+    "VIRTUAL",
     "AZTEC"
   ],
   "scores": [
+    70,
+    68,
     66,
     64,
     62,
-    60,
-    58,
-    56
+    60
   ],
-  "timestamp": "2026-02-16T07:43:02.060852",
+  "timestamp": "2026-02-16T08:27:32.582934",
   "bucket": "1.2m-5m"
 }
