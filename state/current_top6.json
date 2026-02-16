@@ -2,19 +2,19 @@
   "tokens": [
     "STABLE",
     "MOVE",
+    "ATOM",
     "POL",
-    "OM",
-    "XPL",
-    "ATOM"
+    "MOODENG",
+    "BCH"
   ],
   "scores": [
+    72,
     70,
-    68,
     66,
-    64,
-    62,
-    60
+    66,
+    66,
+    62
   ],
-  "timestamp": "2026-02-16T19:23:17.936168",
+  "timestamp": "2026-02-16T19:49:09.309333",
   "bucket": "1.2m-5m"
 }
