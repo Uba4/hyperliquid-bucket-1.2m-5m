@@ -2,10 +2,10 @@
   "tokens": [
     "MERL",
     "IP",
-    "MOODENG",
     "ATOM",
+    "MON",
     "VIRTUAL",
-    "XMR"
+    "STABLE"
   ],
   "scores": [
     82,
@@ -15,6 +15,6 @@
     74,
     72
   ],
-  "timestamp": "2026-02-16T14:31:44.704919",
+  "timestamp": "2026-02-16T15:10:53.492302",
   "bucket": "1.2m-5m"
 }
