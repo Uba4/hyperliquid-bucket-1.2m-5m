@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MOODENG",
-    "OM",
-    "MOVE",
-    "WIF",
     "LTC",
-    "APT"
+    "APT",
+    "OM",
+    "ATOM",
+    "PENGU"
   ],
   "scores": [
     74,
     72,
     70,
-    68,
+    67,
     64,
     63
   ],
-  "timestamp": "2026-02-16T22:26:43.490967",
+  "timestamp": "2026-02-16T22:56:07.537667",
   "bucket": "1.2m-5m"
 }
