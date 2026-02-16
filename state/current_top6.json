@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "UMA",
     "MERL",
-    "IP",
     "STABLE",
-    "MON",
+    "IP",
     "ATOM",
-    "XPL"
+    "MOVE"
   ],
   "scores": [
-    77,
-    77,
+    78,
+    76,
     74,
     72,
     70,
     68
   ],
-  "timestamp": "2026-02-16T15:56:32.634934",
+  "timestamp": "2026-02-16T16:37:26.997928",
   "bucket": "1.2m-5m"
 }
