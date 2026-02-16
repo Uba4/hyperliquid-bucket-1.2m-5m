@@ -1,20 +1,20 @@
 {
   "tokens": [
     "STABLE",
-    "AZTEC",
-    "BCH",
-    "MERL",
     "CRV",
-    "TRUMP"
+    "BCH",
+    "WIF",
+    "AZTEC",
+    "MOVE"
   ],
   "scores": [
-    70,
-    68,
     66,
     64,
     62,
-    60
+    60,
+    58,
+    56
   ],
-  "timestamp": "2026-02-16T05:52:55.629856",
+  "timestamp": "2026-02-16T06:48:00.681439",
   "bucket": "1.2m-5m"
 }
