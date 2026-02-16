@@ -3,9 +3,9 @@
     "MOODENG",
     "XPL",
     "PENGU",
-    "AERO",
     "VIRTUAL",
-    "AZTEC"
+    "AERO",
+    "MNT"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-02-16T08:27:32.582934",
+  "timestamp": "2026-02-16T09:12:47.664675",
   "bucket": "1.2m-5m"
 }
