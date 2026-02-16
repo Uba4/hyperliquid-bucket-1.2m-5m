@@ -109,11 +109,11 @@
   },
   "VIRTUAL": {
     "current_run": 40,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-16T14:31:44.704516",
-    "exit_time": null,
+    "exit_time": "2026-02-16T15:56:32.634756",
     "last_bar_collected": 4162,
-    "tracking_until": null,
+    "tracking_until": "2026-02-26T15:56:32.634756",
     "entry_volume": 4567498.504061001
   },
   "TON": {
@@ -612,13 +612,13 @@
     "entry_volume": 1396812.1577400004
   },
   "XPL": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-02-16T07:43:02.060413",
-    "exit_time": "2026-02-16T11:06:51.110706",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-02-16T15:56:32.634756",
+    "exit_time": null,
     "last_bar_collected": 2806,
-    "tracking_until": "2026-02-26T11:06:51.110706",
-    "entry_volume": 4017999.8041590005
+    "tracking_until": null,
+    "entry_volume": 4885143.222000999
   },
   "AAVE": {
     "current_run": 4,
