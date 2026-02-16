@@ -91,11 +91,11 @@
   },
   "SPX": {
     "current_run": 67,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-16T11:06:51.110706",
-    "exit_time": null,
+    "exit_time": "2026-02-16T14:31:44.704516",
     "last_bar_collected": 4053,
-    "tracking_until": null,
+    "tracking_until": "2026-02-26T14:31:44.704516",
     "entry_volume": 3249557.4888769984
   },
   "MET": {
@@ -108,13 +108,13 @@
     "entry_volume": 1210223.2467399996
   },
   "VIRTUAL": {
-    "current_run": 39,
-    "status": "post_exit",
-    "entry_time": "2026-02-16T08:27:32.582583",
-    "exit_time": "2026-02-16T13:46:26.463504",
+    "current_run": 40,
+    "status": "in_top6",
+    "entry_time": "2026-02-16T14:31:44.704516",
+    "exit_time": null,
     "last_bar_collected": 4156,
-    "tracking_until": "2026-02-26T13:46:26.463504",
-    "entry_volume": 4235264.660357003
+    "tracking_until": null,
+    "entry_volume": 4567498.504061001
   },
   "TON": {
     "current_run": 48,
@@ -295,15 +295,6 @@
     "last_bar_collected": 3529,
     "tracking_until": "2026-02-26T07:43:02.060413",
     "entry_volume": 3921798.4646500004
-  },
-  "FOGO": {
-    "current_run": 26,
-    "status": "post_exit",
-    "entry_time": "2026-02-06T12:02:03.532659",
-    "exit_time": "2026-02-06T14:10:27.656115",
-    "last_bar_collected": 3513,
-    "tracking_until": "2026-02-16T14:10:27.656115",
-    "entry_volume": 1456876.7085169998
   },
   "MON": {
     "current_run": 26,
@@ -675,13 +666,13 @@
     "entry_volume": 5373470.431523001
   },
   "XMR": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-02-13T19:58:45.278051",
-    "exit_time": "2026-02-13T21:50:20.287313",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-02-16T14:31:44.704516",
+    "exit_time": null,
     "last_bar_collected": 695,
-    "tracking_until": "2026-02-23T21:50:20.287313",
-    "entry_volume": 4384101.165949999
+    "tracking_until": null,
+    "entry_volume": 5136710.323630004
   },
   "STBL": {
     "current_run": 3,
@@ -748,11 +739,11 @@
   },
   "AZTEC": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-16T10:11:13.526369",
-    "exit_time": null,
+    "exit_time": "2026-02-16T14:31:44.704516",
     "last_bar_collected": 364,
-    "tracking_until": null,
+    "tracking_until": "2026-02-26T14:31:44.704516",
     "entry_volume": 3586228.7715459988
   },
   "DYM": {
