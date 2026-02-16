@@ -1,11 +1,11 @@
 {
   "tokens": [
     "STABLE",
-    "UMA",
     "POL",
+    "UMA",
     "MOVE",
     "ATOM",
-    "BERA"
+    "XPL"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-02-16T17:58:51.647791",
+  "timestamp": "2026-02-16T18:46:04.151079",
   "bucket": "1.2m-5m"
 }
