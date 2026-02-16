@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "STABLE",
+    "PENGU",
+    "AERO",
     "CRV",
-    "BCH",
     "WIF",
-    "AZTEC",
-    "MOVE"
+    "XPL",
+    "AZTEC"
   ],
   "scores": [
     66,
@@ -15,6 +15,6 @@
     58,
     56
   ],
-  "timestamp": "2026-02-16T06:48:00.681439",
+  "timestamp": "2026-02-16T07:43:02.060852",
   "bucket": "1.2m-5m"
 }
