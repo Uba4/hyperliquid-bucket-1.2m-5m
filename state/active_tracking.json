@@ -297,13 +297,13 @@
     "entry_volume": 1327685.208269999
   },
   "MERL": {
-    "current_run": 34,
-    "status": "post_exit",
-    "entry_time": "2026-02-17T06:10:29.692585",
-    "exit_time": "2026-02-17T07:59:34.641999",
+    "current_run": 35,
+    "status": "in_top6",
+    "entry_time": "2026-02-17T10:28:04.914218",
+    "exit_time": null,
     "last_bar_collected": 2869,
-    "tracking_until": "2026-02-27T07:59:34.641999",
-    "entry_volume": 1154149.5779300006
+    "tracking_until": null,
+    "entry_volume": 1305263.9985550006
   },
   "kSHIB": {
     "current_run": 12,
@@ -577,11 +577,11 @@
   },
   "LTC": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-17T08:52:42.372739",
-    "exit_time": null,
+    "exit_time": "2026-02-17T10:28:04.914218",
     "last_bar_collected": 5123,
-    "tracking_until": null,
+    "tracking_until": "2026-02-27T10:28:04.914218",
     "entry_volume": 2305313.334419999
   },
   "ENA": {
