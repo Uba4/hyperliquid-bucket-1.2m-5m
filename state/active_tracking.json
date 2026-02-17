@@ -550,11 +550,11 @@
   },
   "AAVE": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-17T13:50:36.269635",
-    "exit_time": null,
+    "exit_time": "2026-02-17T19:29:50.056936",
     "last_bar_collected": 3715,
-    "tracking_until": null,
+    "tracking_until": "2026-02-27T19:29:50.056936",
     "entry_volume": 4086116.3086000006
   },
   "LINK": {
@@ -666,13 +666,13 @@
     "entry_volume": 1100851.936501
   },
   "AZTEC": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-02-17T03:32:41.844234",
-    "exit_time": "2026-02-17T05:11:05.332003",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-02-17T19:29:50.056936",
+    "exit_time": null,
     "last_bar_collected": 481,
-    "tracking_until": "2026-02-27T05:11:05.332003",
-    "entry_volume": 2621250.844489998
+    "tracking_until": null,
+    "entry_volume": 1689564.1692769998
   },
   "DYM": {
     "current_run": 1,
