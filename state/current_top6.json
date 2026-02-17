@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MOVE",
     "BERA",
-    "STABLE",
     "UMA",
+    "MOVE",
+    "TRUMP",
     "ATOM",
-    "TRUMP"
+    "LTC"
   ],
   "scores": [
     70,
-    68,
     66,
-    64,
-    61,
+    66,
+    66,
+    62,
     60
   ],
-  "timestamp": "2026-02-17T07:59:34.642471",
+  "timestamp": "2026-02-17T08:52:42.373012",
   "bucket": "1.2m-5m"
 }
