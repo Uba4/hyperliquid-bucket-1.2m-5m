@@ -100,11 +100,11 @@
   },
   "VIRTUAL": {
     "current_run": 43,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-17T18:31:12.285937",
-    "exit_time": null,
+    "exit_time": "2026-02-17T23:46:41.452170",
     "last_bar_collected": 4281,
-    "tracking_until": null,
+    "tracking_until": "2026-02-27T23:46:41.452170",
     "entry_volume": 4436328.741495
   },
   "TON": {
@@ -198,13 +198,13 @@
     "entry_volume": 1122880.3118600002
   },
   "TRX": {
-    "current_run": 60,
-    "status": "post_exit",
-    "entry_time": "2026-02-11T06:49:59.522167",
-    "exit_time": "2026-02-11T09:26:50.237153",
+    "current_run": 61,
+    "status": "in_top6",
+    "entry_time": "2026-02-17T23:46:41.452170",
+    "exit_time": null,
     "last_bar_collected": 4234,
-    "tracking_until": "2026-02-21T09:26:50.237153",
-    "entry_volume": 1103751.3442499998
+    "tracking_until": null,
+    "entry_volume": 1182017.4249299995
   },
   "MNT": {
     "current_run": 19,
@@ -234,13 +234,13 @@
     "entry_volume": 1099955.1546800002
   },
   "TRUMP": {
-    "current_run": 40,
-    "status": "post_exit",
-    "entry_time": "2026-02-17T07:59:34.641999",
-    "exit_time": "2026-02-17T18:31:12.285937",
+    "current_run": 41,
+    "status": "in_top6",
+    "entry_time": "2026-02-17T23:46:41.452170",
+    "exit_time": null,
     "last_bar_collected": 3891,
-    "tracking_until": "2026-02-27T18:31:12.285937",
-    "entry_volume": 2668398.349779998
+    "tracking_until": null,
+    "entry_volume": 1889430.9053700007
   },
   "AVAX": {
     "current_run": 17,
@@ -476,15 +476,6 @@
     "tracking_until": "2026-02-24T23:46:28.318213",
     "entry_volume": 1925317.9701729992
   },
-  "PROVE": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-02-07T19:36:59.388395",
-    "exit_time": "2026-02-07T23:17:20.293702",
-    "last_bar_collected": 1087,
-    "tracking_until": "2026-02-17T23:17:20.293702",
-    "entry_volume": 1202203.0370699991
-  },
   "INJ": {
     "current_run": 2,
     "status": "post_exit",
@@ -550,11 +541,11 @@
   },
   "LINK": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-17T21:50:35.593638",
-    "exit_time": null,
+    "exit_time": "2026-02-17T23:46:41.452170",
     "last_bar_collected": 3731,
-    "tracking_until": null,
+    "tracking_until": "2026-02-27T23:46:41.452170",
     "entry_volume": 2570534.883579999
   },
   "LTC": {
