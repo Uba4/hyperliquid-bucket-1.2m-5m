@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MERL",
     "STABLE",
-    "XMR",
-    "JUP",
+    "MERL",
     "MOVE",
-    "UMA"
+    "BERA",
+    "XMR",
+    "JUP"
   ],
   "scores": [
+    70,
+    68,
     66,
     64,
     62,
-    60,
-    58,
-    56
+    60
   ],
-  "timestamp": "2026-02-17T06:10:29.692958",
+  "timestamp": "2026-02-17T07:14:54.309180",
   "bucket": "1.2m-5m"
 }
