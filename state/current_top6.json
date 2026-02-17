@@ -2,19 +2,19 @@
   "tokens": [
     "STABLE",
     "XMR",
-    "AZTEC",
+    "JUP",
     "UMA",
-    "VIRTUAL",
+    "SPX",
     "AXS"
   ],
   "scores": [
-    64,
     62,
     60,
     58,
     56,
-    54
+    54,
+    52
   ],
-  "timestamp": "2026-02-17T03:32:41.845216",
+  "timestamp": "2026-02-17T05:11:05.332349",
   "bucket": "1.2m-5m"
 }
