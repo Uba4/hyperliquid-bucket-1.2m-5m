@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MOVE",
     "AAVE",
     "TRUMP",
+    "ATOM",
+    "AVAX",
     "APT",
-    "SPX",
-    "NEAR"
+    "PENGU"
   ],
   "scores": [
-    56,
     54,
     52,
     50,
-    48,
+    46,
+    46,
     46
   ],
-  "timestamp": "2026-02-17T14:36:41.844089",
+  "timestamp": "2026-02-17T15:31:27.799354",
   "bucket": "1.2m-5m"
 }
