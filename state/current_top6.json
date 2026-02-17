@@ -2,19 +2,19 @@
   "tokens": [
     "MORPHO",
     "SPX",
-    "XMR",
     "VIRTUAL",
     "LINK",
-    "AXS"
+    "AXS",
+    "MON"
   ],
   "scores": [
-    50,
     48,
     46,
     44,
     42,
-    40
+    40,
+    38
   ],
-  "timestamp": "2026-02-17T22:52:45.447489",
+  "timestamp": "2026-02-17T23:16:03.297020",
   "bucket": "1.2m-5m"
 }
