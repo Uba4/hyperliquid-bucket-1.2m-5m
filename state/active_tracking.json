@@ -585,13 +585,13 @@
     "entry_volume": 5373470.431523001
   },
   "XMR": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-02-17T03:32:41.844234",
-    "exit_time": "2026-02-17T07:59:34.641999",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-02-17T21:19:43.684539",
+    "exit_time": null,
     "last_bar_collected": 815,
-    "tracking_until": "2026-02-27T07:59:34.641999",
-    "entry_volume": 4973078.23414
+    "tracking_until": null,
+    "entry_volume": 5244419.54943
   },
   "STBL": {
     "current_run": 3,
@@ -658,11 +658,11 @@
   },
   "AZTEC": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-17T19:29:50.056936",
-    "exit_time": null,
+    "exit_time": "2026-02-17T21:19:43.684539",
     "last_bar_collected": 488,
-    "tracking_until": null,
+    "tracking_until": "2026-02-27T21:19:43.684539",
     "entry_volume": 1689564.1692769998
   },
   "DYM": {
