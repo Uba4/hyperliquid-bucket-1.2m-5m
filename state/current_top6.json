@@ -1,20 +1,20 @@
 {
   "tokens": [
     "BERA",
+    "JTO",
     "MERL",
-    "TRUMP",
     "MOVE",
-    "AXS",
-    "POL"
+    "TRUMP",
+    "NEAR"
   ],
   "scores": [
-    66,
     64,
-    62,
-    60,
+    61,
+    61,
     58,
-    56
+    56,
+    54
   ],
-  "timestamp": "2026-02-17T11:12:17.077635",
+  "timestamp": "2026-02-17T11:54:40.523088",
   "bucket": "1.2m-5m"
 }
