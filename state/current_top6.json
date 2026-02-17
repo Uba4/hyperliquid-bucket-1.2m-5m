@@ -1,20 +1,20 @@
 {
   "tokens": [
     "AAVE",
-    "TRUMP",
     "ATOM",
-    "AVAX",
-    "APT",
-    "PENGU"
+    "TRUMP",
+    "SPX",
+    "PENGU",
+    "VIRTUAL"
   ],
   "scores": [
-    54,
     52,
     50,
+    48,
     46,
-    46,
-    46
+    44,
+    42
   ],
-  "timestamp": "2026-02-17T15:31:27.799354",
+  "timestamp": "2026-02-17T16:32:13.250127",
   "bucket": "1.2m-5m"
 }
