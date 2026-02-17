@@ -549,13 +549,13 @@
     "entry_volume": 4086116.3086000006
   },
   "LINK": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-02-11T08:28:24.187200",
-    "exit_time": "2026-02-11T10:14:12.774387",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-02-17T21:50:35.593638",
+    "exit_time": null,
     "last_bar_collected": 3626,
-    "tracking_until": "2026-02-21T10:14:12.774387",
-    "entry_volume": 4139799.30706
+    "tracking_until": null,
+    "entry_volume": 2570534.883579999
   },
   "LTC": {
     "current_run": 10,
@@ -568,11 +568,11 @@
   },
   "ENA": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-17T18:31:12.285937",
-    "exit_time": null,
+    "exit_time": "2026-02-17T21:50:35.593638",
     "last_bar_collected": 4116,
-    "tracking_until": null,
+    "tracking_until": "2026-02-27T21:50:35.593638",
     "entry_volume": 1497368.4880199998
   },
   "kPEPE": {

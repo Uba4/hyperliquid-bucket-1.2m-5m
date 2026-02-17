@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ZORA",
     "MORPHO",
+    "ZORA",
     "SPX",
     "VIRTUAL",
     "XMR",
-    "ENA"
+    "LINK"
   ],
   "scores": [
-    52,
     50,
     48,
     46,
     44,
-    42
+    42,
+    40
   ],
-  "timestamp": "2026-02-17T21:19:43.684719",
+  "timestamp": "2026-02-17T21:50:35.593813",
   "bucket": "1.2m-5m"
 }
