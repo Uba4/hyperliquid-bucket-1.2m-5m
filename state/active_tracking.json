@@ -28,11 +28,11 @@
   },
   "NEAR": {
     "current_run": 37,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-17T11:54:40.522695",
-    "exit_time": null,
+    "exit_time": "2026-02-17T12:37:28.955574",
     "last_bar_collected": 4182,
-    "tracking_until": null,
+    "tracking_until": "2026-02-27T12:37:28.955574",
     "entry_volume": 1214709.9958399998
   },
   "PENGU": {
@@ -126,13 +126,13 @@
     "entry_volume": 1318145.7779000003
   },
   "STABLE": {
-    "current_run": 40,
-    "status": "post_exit",
-    "entry_time": "2026-02-17T03:32:41.844234",
-    "exit_time": "2026-02-17T08:52:42.372739",
+    "current_run": 41,
+    "status": "in_top6",
+    "entry_time": "2026-02-17T12:37:28.955574",
+    "exit_time": null,
     "last_bar_collected": 4249,
-    "tracking_until": "2026-02-27T08:52:42.372739",
-    "entry_volume": 4294857.716657999
+    "tracking_until": null,
+    "entry_volume": 4929880.240511
   },
   "SEI": {
     "current_run": 21,
