@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ATOM",
-    "UNI",
-    "JUP",
-    "MOODENG",
-    "ENA",
-    "PENGU"
+    "STABLE",
+    "XMR",
+    "AZTEC",
+    "UMA",
+    "VIRTUAL",
+    "AXS"
   ],
   "scores": [
-    68,
-    66,
     64,
     62,
     60,
-    58
+    58,
+    56,
+    54
   ],
-  "timestamp": "2026-02-17T00:56:02.135128",
+  "timestamp": "2026-02-17T03:32:41.845216",
   "bucket": "1.2m-5m"
 }
