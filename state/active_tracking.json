@@ -378,13 +378,13 @@
     "entry_volume": 1419636.1219000001
   },
   "AXS": {
-    "current_run": 16,
-    "status": "post_exit",
-    "entry_time": "2026-02-17T09:35:20.005340",
-    "exit_time": "2026-02-17T11:54:40.522695",
+    "current_run": 17,
+    "status": "in_top6",
+    "entry_time": "2026-02-17T22:52:45.447295",
+    "exit_time": null,
     "last_bar_collected": 2728,
-    "tracking_until": "2026-02-27T11:54:40.522695",
-    "entry_volume": 1698625.55717
+    "tracking_until": null,
+    "entry_volume": 1831044.6884499996
   },
   "XLM": {
     "current_run": 14,
@@ -775,11 +775,11 @@
   },
   "ZORA": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-17T18:31:12.285937",
-    "exit_time": null,
+    "exit_time": "2026-02-17T22:52:45.447295",
     "last_bar_collected": 3232,
-    "tracking_until": null,
+    "tracking_until": "2026-02-27T22:52:45.447295",
     "entry_volume": 2999713.8044870007
   }
 }
