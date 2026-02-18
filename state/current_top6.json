@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "STABLE",
     "TRUMP",
-    "INIT",
-    "MORPHO",
+    "STABLE",
     "ZRO",
-    "LTC"
+    "LTC",
+    "MORPHO",
+    "UNI"
   ],
   "scores": [
     48,
@@ -15,6 +15,6 @@
     40,
     38
   ],
-  "timestamp": "2026-02-18T14:29:41.279470",
+  "timestamp": "2026-02-18T15:13:41.346014",
   "bucket": "1.2m-5m"
 }
