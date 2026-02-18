@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SPX",
-    "MORPHO",
-    "MON",
     "TRUMP",
-    "AXS",
-    "TRX"
+    "SPX",
+    "DASH",
+    "MORPHO",
+    "ADA",
+    "NEAR"
   ],
   "scores": [
+    52,
     50,
     48,
     46,
     44,
-    42,
-    40
+    42
   ],
-  "timestamp": "2026-02-18T00:02:30.572779",
+  "timestamp": "2026-02-18T04:48:23.604496",
   "bucket": "1.2m-5m"
 }
