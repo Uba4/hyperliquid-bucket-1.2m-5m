@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "TRUMP",
-    "LTC",
     "ZRO",
+    "LTC",
+    "NEAR",
     "AVAX",
-    "AXS",
-    "ADA"
+    "BNB",
+    "TRUMP"
   ],
   "scores": [
     48,
@@ -15,6 +15,6 @@
     40,
     38
   ],
-  "timestamp": "2026-02-18T16:09:18.352301",
+  "timestamp": "2026-02-18T17:18:24.580053",
   "bucket": "1.2m-5m"
 }
