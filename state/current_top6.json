@@ -2,19 +2,19 @@
   "tokens": [
     "ATOM",
     "BNB",
-    "SPX",
+    "BERA",
     "LTC",
-    "APT",
-    "AVAX"
+    "ZRO",
+    "XMR"
   ],
   "scores": [
-    58,
     56,
     54,
     52,
     50,
-    48
+    48,
+    46
   ],
-  "timestamp": "2026-02-18T19:09:22.045493",
+  "timestamp": "2026-02-18T19:54:01.356707",
   "bucket": "1.2m-5m"
 }
