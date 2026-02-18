@@ -1,11 +1,11 @@
 {
   "tokens": [
     "TRUMP",
-    "STABLE",
-    "ZRO",
     "LTC",
-    "MORPHO",
-    "UNI"
+    "ZRO",
+    "AVAX",
+    "AXS",
+    "ADA"
   ],
   "scores": [
     48,
@@ -15,6 +15,6 @@
     40,
     38
   ],
-  "timestamp": "2026-02-18T15:13:41.346014",
+  "timestamp": "2026-02-18T16:09:18.352301",
   "bucket": "1.2m-5m"
 }
