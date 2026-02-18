@@ -3,18 +3,18 @@
     "SPX",
     "TRUMP",
     "UNI",
-    "DASH",
+    "XMR",
     "AAVE",
-    "TIA"
+    "VIRTUAL"
   ],
   "scores": [
-    54,
     52,
     50,
     48,
+    46,
     44,
-    44
+    42
   ],
-  "timestamp": "2026-02-18T05:49:34.124194",
+  "timestamp": "2026-02-18T06:44:44.259151",
   "bucket": "1.2m-5m"
 }
