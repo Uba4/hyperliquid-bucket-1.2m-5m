@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SPX",
     "STABLE",
+    "INIT",
+    "SPX",
     "XMR",
     "XPL",
-    "PENGU",
-    "MON"
+    "VIRTUAL"
   ],
   "scores": [
+    54,
     52,
     50,
     48,
     46,
-    44,
     42
   ],
-  "timestamp": "2026-02-18T09:09:01.205904",
+  "timestamp": "2026-02-18T10:03:23.803944",
   "bucket": "1.2m-5m"
 }
