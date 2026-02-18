@@ -2,10 +2,10 @@
   "tokens": [
     "ASTER",
     "MORPHO",
-    "CC",
     "ZORA",
+    "LINK",
     "LTC",
-    "LINK"
+    "BNB"
   ],
   "scores": [
     64,
@@ -15,6 +15,6 @@
     56,
     54
   ],
-  "timestamp": "2026-02-18T23:21:32.136030",
+  "timestamp": "2026-02-18T23:49:25.588902",
   "bucket": "1.2m-5m"
 }
