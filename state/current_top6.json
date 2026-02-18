@@ -3,18 +3,18 @@
     "STABLE",
     "INIT",
     "AZTEC",
+    "VIRTUAL",
     "XPL",
-    "XMR",
-    "VIRTUAL"
+    "XMR"
   ],
   "scores": [
-    52,
     50,
     48,
     46,
     44,
-    42
+    42,
+    40
   ],
-  "timestamp": "2026-02-18T10:57:23.513700",
+  "timestamp": "2026-02-18T11:36:47.694611",
   "bucket": "1.2m-5m"
 }
