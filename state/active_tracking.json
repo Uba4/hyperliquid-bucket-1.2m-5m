@@ -91,11 +91,11 @@
   },
   "SPX": {
     "current_run": 70,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-17T16:32:13.249774",
-    "exit_time": null,
+    "exit_time": "2026-02-18T10:57:23.513481",
     "last_bar_collected": 4212,
-    "tracking_until": null,
+    "tracking_until": "2026-02-28T10:57:23.513481",
     "entry_volume": 1924824.582016
   },
   "VIRTUAL": {
@@ -639,13 +639,13 @@
     "entry_volume": 1100851.936501
   },
   "AZTEC": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-02-17T19:29:50.056936",
-    "exit_time": "2026-02-17T21:19:43.684539",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-02-18T10:57:23.513481",
+    "exit_time": null,
     "last_bar_collected": 525,
-    "tracking_until": "2026-02-27T21:19:43.684539",
-    "entry_volume": 1689564.1692769998
+    "tracking_until": null,
+    "entry_volume": 1913781.956957001
   },
   "DYM": {
     "current_run": 1,

@@ -2,19 +2,19 @@
   "tokens": [
     "STABLE",
     "INIT",
-    "SPX",
-    "XMR",
+    "AZTEC",
     "XPL",
+    "XMR",
     "VIRTUAL"
   ],
   "scores": [
-    54,
     52,
     50,
     48,
     46,
+    44,
     42
   ],
-  "timestamp": "2026-02-18T10:03:23.803944",
+  "timestamp": "2026-02-18T10:57:23.513700",
   "bucket": "1.2m-5m"
 }
