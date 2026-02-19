@@ -145,11 +145,11 @@
   },
   "IP": {
     "current_run": 49,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-19T18:05:33.815701",
-    "exit_time": null,
+    "exit_time": "2026-02-19T19:44:58.954141",
     "last_bar_collected": 4199,
-    "tracking_until": null,
+    "tracking_until": "2026-03-01T19:44:58.954141",
     "entry_volume": 1146689.2440300004
   },
   "CC": {
@@ -612,13 +612,13 @@
     "entry_volume": 1100851.936501
   },
   "AZTEC": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-02-19T11:51:11.817652",
-    "exit_time": "2026-02-19T16:13:12.064784",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-02-19T19:44:58.954141",
+    "exit_time": null,
     "last_bar_collected": 525,
-    "tracking_until": "2026-03-01T16:13:12.064784",
-    "entry_volume": 1503188.2126650007
+    "tracking_until": null,
+    "entry_volume": 1271407.9323589995
   },
   "DYM": {
     "current_run": 1,
