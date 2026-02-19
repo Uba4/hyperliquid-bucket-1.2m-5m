@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "STABLE",
     "OM",
     "AZTEC",
-    "STABLE",
     "XMR",
-    "SPX",
-    "TRX"
+    "TRX",
+    "SPX"
   ],
   "scores": [
+    68,
+    66,
     64,
     62,
     60,
-    58,
-    56,
-    54
+    58
   ],
-  "timestamp": "2026-02-19T14:38:39.532754",
+  "timestamp": "2026-02-19T15:28:40.068701",
   "bucket": "1.2m-5m"
 }
