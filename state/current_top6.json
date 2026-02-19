@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SNX",
     "AZTEC",
-    "VIRTUAL",
     "XPL",
+    "SNX",
+    "VIRTUAL",
     "CRV",
-    "MON"
+    "LTC"
   ],
   "scores": [
-    66,
+    65,
     64,
     62,
     60,
     58,
     56
   ],
-  "timestamp": "2026-02-19T20:04:12.117973",
+  "timestamp": "2026-02-19T20:46:33.584976",
   "bucket": "1.2m-5m"
 }
