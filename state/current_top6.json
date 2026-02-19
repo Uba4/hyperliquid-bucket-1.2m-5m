@@ -1,20 +1,20 @@
 {
   "tokens": [
     "INJ",
-    "MON",
+    "AZTEC",
     "TAO",
+    "SPX",
     "TRUMP",
-    "JUP",
-    "AZTEC"
+    "MON"
   ],
   "scores": [
+    66,
     64,
-    62,
-    60,
+    61,
+    61,
     58,
-    56,
-    54
+    56
   ],
-  "timestamp": "2026-02-19T05:11:45.077462",
+  "timestamp": "2026-02-19T06:13:57.341386",
   "bucket": "1.2m-5m"
 }
