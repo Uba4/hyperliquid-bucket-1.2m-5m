@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SPX",
-    "INJ",
     "AZTEC",
+    "STABLE",
     "BNB",
+    "ADA",
     "VIRTUAL",
-    "ATOM"
+    "SPX"
   ],
   "scores": [
     68,
     66,
     64,
-    62,
     60,
-    58
+    60,
+    60
   ],
-  "timestamp": "2026-02-19T07:58:45.918877",
+  "timestamp": "2026-02-19T08:46:10.854841",
   "bucket": "1.2m-5m"
 }
