@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "AZTEC",
     "STABLE",
-    "BNB",
-    "ADA",
+    "AZTEC",
     "VIRTUAL",
-    "SPX"
+    "BNB",
+    "UNI",
+    "ADA"
   ],
   "scores": [
-    68,
     66,
     64,
+    62,
     60,
-    60,
-    60
+    58,
+    56
   ],
-  "timestamp": "2026-02-19T08:46:10.854841",
+  "timestamp": "2026-02-19T09:30:57.409331",
   "bucket": "1.2m-5m"
 }
