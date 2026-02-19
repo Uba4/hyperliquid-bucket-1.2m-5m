@@ -1,20 +1,20 @@
 {
   "tokens": [
     "XPL",
-    "ENA",
-    "VIRTUAL",
     "OM",
     "SNX",
+    "ENA",
+    "VIRTUAL",
     "XMR"
   ],
   "scores": [
-    62,
     60,
-    56,
+    58,
     56,
     54,
-    54
+    52,
+    50
   ],
-  "timestamp": "2026-02-19T22:53:24.132496",
+  "timestamp": "2026-02-19T23:17:54.639017",
   "bucket": "1.2m-5m"
 }
