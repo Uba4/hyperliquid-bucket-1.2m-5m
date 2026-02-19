@@ -2,19 +2,19 @@
   "tokens": [
     "SNX",
     "STABLE",
-    "TRX",
     "AVAX",
-    "TRUMP",
-    "kPEPE"
+    "TRX",
+    "IP",
+    "MON"
   ],
   "scores": [
-    73,
-    73,
+    72,
     70,
+    68,
     66,
-    66,
-    64
+    64,
+    62
   ],
-  "timestamp": "2026-02-19T17:13:40.784993",
+  "timestamp": "2026-02-19T18:05:33.816092",
   "bucket": "1.2m-5m"
 }
