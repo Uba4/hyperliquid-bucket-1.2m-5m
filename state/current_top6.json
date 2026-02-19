@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MORPHO",
-    "ASTER",
-    "ZORA",
+    "INJ",
+    "UNI",
+    "TAO",
+    "TRUMP",
     "LINK",
-    "LTC",
-    "BNB"
+    "VIRTUAL"
   ],
   "scores": [
+    64,
+    62,
+    60,
     58,
     56,
-    54,
-    52,
-    50,
-    48
+    54
   ],
-  "timestamp": "2026-02-19T00:57:02.165277",
+  "timestamp": "2026-02-19T03:34:53.440911",
   "bucket": "1.2m-5m"
 }
