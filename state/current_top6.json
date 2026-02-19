@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SNX",
-    "STABLE",
-    "AVAX",
+    "MON",
     "TRX",
+    "AVAX",
     "IP",
-    "MON"
+    "VIRTUAL"
   ],
   "scores": [
-    72,
-    70,
     68,
     66,
     64,
-    62
+    62,
+    60,
+    58
   ],
-  "timestamp": "2026-02-19T18:05:33.816092",
+  "timestamp": "2026-02-19T19:05:18.087627",
   "bucket": "1.2m-5m"
 }
