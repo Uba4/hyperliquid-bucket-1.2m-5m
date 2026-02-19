@@ -622,11 +622,11 @@
   },
   "AZTEC": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-19T05:11:45.077072",
-    "exit_time": null,
+    "exit_time": "2026-02-19T10:12:16.203769",
     "last_bar_collected": 525,
-    "tracking_until": null,
+    "tracking_until": "2026-03-01T10:12:16.203769",
     "entry_volume": 1521417.8180439998
   },
   "DYM": {
@@ -738,13 +738,13 @@
     "entry_volume": 1987161.6883700013
   },
   "ZORA": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-02-18T21:46:35.173196",
-    "exit_time": "2026-02-19T03:34:53.440080",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-02-19T10:12:16.203769",
+    "exit_time": null,
     "last_bar_collected": 3262,
-    "tracking_until": "2026-03-01T03:34:53.440080",
-    "entry_volume": 3069258.337475001
+    "tracking_until": null,
+    "entry_volume": 1284073.157536
   },
   "ASTER": {
     "current_run": 1,
