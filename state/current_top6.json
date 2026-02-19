@@ -1,11 +1,11 @@
 {
   "tokens": [
     "INJ",
-    "UNI",
+    "MON",
     "TAO",
     "TRUMP",
-    "LINK",
-    "VIRTUAL"
+    "JUP",
+    "AZTEC"
   ],
   "scores": [
     64,
@@ -15,6 +15,6 @@
     56,
     54
   ],
-  "timestamp": "2026-02-19T03:34:53.440911",
+  "timestamp": "2026-02-19T05:11:45.077462",
   "bucket": "1.2m-5m"
 }
