@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ETC",
-    "WLD",
+    "BIO",
     "JUP",
-    "MON",
-    "LINK",
-    "kBONK"
+    "JTO",
+    "SNX",
+    "VIRTUAL",
+    "ETC"
   ],
   "scores": [
+    74,
+    72,
     70,
     68,
     66,
-    64,
-    62,
-    60
+    64
   ],
-  "timestamp": "2026-02-20T19:11:29.610310",
+  "timestamp": "2026-02-20T19:47:46.750095",
   "bucket": "1.2m-5m"
 }
