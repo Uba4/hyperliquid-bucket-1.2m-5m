@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "RESOLV",
-    "BERA",
-    "JTO",
+    "AZTEC",
     "SNX",
-    "VIRTUAL",
-    "PENGU"
+    "JTO",
+    "BERA",
+    "RESOLV",
+    "TRUMP"
   ],
   "scores": [
     58,
     56,
     54,
+    52,
     50,
-    50,
-    50
+    48
   ],
-  "timestamp": "2026-02-20T04:29:07.529571",
+  "timestamp": "2026-02-20T05:36:48.769631",
   "bucket": "1.2m-5m"
 }
