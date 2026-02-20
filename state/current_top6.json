@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "OM",
-    "SNX",
-    "XPL",
-    "VIRTUAL",
     "RESOLV",
-    "INIT"
+    "BERA",
+    "VIRTUAL",
+    "PENGU",
+    "JTO",
+    "WLD"
   ],
   "scores": [
-    62,
-    59,
     58,
     56,
-    53,
-    52
+    54,
+    52,
+    50,
+    48
   ],
-  "timestamp": "2026-02-20T00:02:51.336976",
+  "timestamp": "2026-02-20T02:49:22.058460",
   "bucket": "1.2m-5m"
 }
