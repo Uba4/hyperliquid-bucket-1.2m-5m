@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "INIT",
     "BIO",
     "MORPHO",
-    "JTO",
-    "INIT",
-    "RESOLV",
-    "SKR"
+    "ATOM",
+    "STABLE",
+    "JTO"
   ],
   "scores": [
-    64,
     62,
     60,
-    56,
-    56,
-    54
+    58,
+    54,
+    54,
+    52
   ],
-  "timestamp": "2026-02-20T12:26:36.180941",
+  "timestamp": "2026-02-20T13:38:14.878939",
   "bucket": "1.2m-5m"
 }
