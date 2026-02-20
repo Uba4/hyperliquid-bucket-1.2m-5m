@@ -1,11 +1,11 @@
 {
   "tokens": [
     "INIT",
+    "ATOM",
     "MORPHO",
-    "BIO",
-    "STABLE",
     "TRX",
-    "RESOLV"
+    "NEAR",
+    "BERA"
   ],
   "scores": [
     62,
@@ -13,8 +13,8 @@
     58,
     56,
     54,
-    52
+    50
   ],
-  "timestamp": "2026-02-20T14:24:05.218297",
+  "timestamp": "2026-02-20T15:05:17.673335",
   "bucket": "1.2m-5m"
 }
