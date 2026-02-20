@@ -2,19 +2,19 @@
   "tokens": [
     "SNX",
     "JUP",
+    "DASH",
     "BNB",
-    "JTO",
-    "SKR",
-    "DASH"
+    "BIO",
+    "JTO"
   ],
   "scores": [
+    78,
     76,
     74,
     72,
     70,
-    68,
     66
   ],
-  "timestamp": "2026-02-20T21:54:25.977842",
+  "timestamp": "2026-02-20T22:13:52.929935",
   "bucket": "1.2m-5m"
 }
