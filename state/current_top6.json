@@ -3,9 +3,9 @@
     "SNX",
     "MORPHO",
     "DASH",
-    "LINK",
+    "NEAR",
     "ETC",
-    "NEAR"
+    "LINK"
   ],
   "scores": [
     80,
@@ -15,6 +15,6 @@
     72,
     70
   ],
-  "timestamp": "2026-02-20T23:44:15.104374",
+  "timestamp": "2026-02-20T23:59:52.118364",
   "bucket": "1.2m-5m"
 }
