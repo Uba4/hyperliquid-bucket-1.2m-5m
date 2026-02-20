@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SNX",
-    "JTO",
     "STABLE",
-    "TRUMP",
+    "JTO",
     "AVAX",
-    "JUP"
+    "JUP",
+    "AERO"
   ],
   "scores": [
-    60,
     58,
     56,
     54,
     52,
-    50
+    50,
+    48
   ],
-  "timestamp": "2026-02-20T07:32:03.997064",
+  "timestamp": "2026-02-20T08:04:38.771081",
   "bucket": "1.2m-5m"
 }
