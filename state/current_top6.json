@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SNX",
-    "JUP",
+    "MORPHO",
     "DASH",
-    "BNB",
-    "BIO",
-    "JTO"
+    "LINK",
+    "JUP",
+    "NEAR"
   ],
   "scores": [
     78,
     76,
     74,
-    72,
     70,
-    66
+    70,
+    68
   ],
-  "timestamp": "2026-02-20T22:13:52.929935",
+  "timestamp": "2026-02-20T22:47:42.651466",
   "bucket": "1.2m-5m"
 }
