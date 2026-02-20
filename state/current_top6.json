@@ -4,17 +4,17 @@
     "JTO",
     "MORPHO",
     "RESOLV",
-    "SNX",
-    "AVAX"
+    "SPX",
+    "STABLE"
   ],
   "scores": [
+    60,
     58,
     56,
     54,
     52,
-    50,
-    48
+    50
   ],
-  "timestamp": "2026-02-20T10:55:22.333687",
+  "timestamp": "2026-02-20T11:25:16.047100",
   "bucket": "1.2m-5m"
 }
