@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ATOM",
     "BERA",
+    "ATOM",
     "NEAR",
     "TRX",
-    "INIT",
-    "ETC"
+    "ETC",
+    "APT"
   ],
   "scores": [
-    68,
     66,
     64,
-    61,
+    62,
     60,
-    59
+    58,
+    56
   ],
-  "timestamp": "2026-02-20T15:49:53.309114",
+  "timestamp": "2026-02-20T16:21:33.587153",
   "bucket": "1.2m-5m"
 }
