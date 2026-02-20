@@ -1,11 +1,11 @@
 {
   "tokens": [
     "BIO",
-    "SNX",
     "JTO",
-    "AVAX",
-    "STABLE",
-    "SPX"
+    "MORPHO",
+    "RESOLV",
+    "SNX",
+    "AVAX"
   ],
   "scores": [
     58,
@@ -15,6 +15,6 @@
     50,
     48
   ],
-  "timestamp": "2026-02-20T10:07:35.828516",
+  "timestamp": "2026-02-20T10:55:22.333687",
   "bucket": "1.2m-5m"
 }
