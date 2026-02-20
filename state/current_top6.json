@@ -2,19 +2,19 @@
   "tokens": [
     "AZTEC",
     "SNX",
+    "TRUMP",
     "JTO",
-    "BERA",
-    "RESOLV",
-    "TRUMP"
+    "STABLE",
+    "BERA"
   ],
   "scores": [
+    60,
     58,
     56,
     54,
     52,
-    50,
-    48
+    50
   ],
-  "timestamp": "2026-02-20T05:36:48.769631",
+  "timestamp": "2026-02-20T06:33:10.110795",
   "bucket": "1.2m-5m"
 }
