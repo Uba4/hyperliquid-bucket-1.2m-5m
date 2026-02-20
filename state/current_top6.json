@@ -2,19 +2,19 @@
   "tokens": [
     "RESOLV",
     "BERA",
-    "VIRTUAL",
-    "PENGU",
     "JTO",
-    "WLD"
+    "SNX",
+    "VIRTUAL",
+    "PENGU"
   ],
   "scores": [
     58,
     56,
     54,
-    52,
     50,
-    48
+    50,
+    50
   ],
-  "timestamp": "2026-02-20T02:49:22.058460",
+  "timestamp": "2026-02-20T04:29:07.529571",
   "bucket": "1.2m-5m"
 }
