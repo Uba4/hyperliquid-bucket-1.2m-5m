@@ -639,13 +639,13 @@
     "entry_volume": 4929340.724672999
   },
   "DASH": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-02-18T04:48:23.603972",
-    "exit_time": "2026-02-18T06:44:44.258794",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-02-20T21:54:25.977643",
+    "exit_time": null,
     "last_bar_collected": 3066,
-    "tracking_until": "2026-02-28T06:44:44.258794",
-    "entry_volume": 1504020.6118099994
+    "tracking_until": null,
+    "entry_volume": 1485511.50757
   },
   "COMP": {
     "current_run": 2,
@@ -757,11 +757,11 @@
   },
   "BIO": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-20T19:47:46.749510",
-    "exit_time": null,
+    "exit_time": "2026-02-20T21:54:25.977643",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-03-02T21:54:25.977643",
     "entry_volume": 2349127.782026
   },
   "ETC": {
