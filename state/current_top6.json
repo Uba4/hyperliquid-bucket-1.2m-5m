@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "BERA",
     "ETC",
-    "CRV",
     "WLD",
-    "LTC",
-    "LINK"
+    "CRV",
+    "SPX",
+    "LINK",
+    "MON"
   ],
   "scores": [
-    68,
     66,
     64,
     62,
     60,
+    56,
     56
   ],
-  "timestamp": "2026-02-20T17:49:13.754758",
+  "timestamp": "2026-02-20T18:26:57.367453",
   "bucket": "1.2m-5m"
 }
