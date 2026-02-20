@@ -207,13 +207,13 @@
     "entry_volume": 1172929.998516
   },
   "RESOLV": {
-    "current_run": 36,
-    "status": "post_exit",
-    "entry_time": "2026-02-12T19:18:26.077172",
-    "exit_time": "2026-02-12T22:32:51.667953",
+    "current_run": 37,
+    "status": "in_top6",
+    "entry_time": "2026-02-20T00:02:51.336772",
+    "exit_time": null,
     "last_bar_collected": 4215,
-    "tracking_until": "2026-02-22T22:32:51.667953",
-    "entry_volume": 2147282.9249440003
+    "tracking_until": null,
+    "entry_volume": 1281462.4796270004
   },
   "ONDO": {
     "current_run": 21,
@@ -523,11 +523,11 @@
   },
   "ENA": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-19T21:16:15.544088",
-    "exit_time": null,
+    "exit_time": "2026-02-20T00:02:51.336772",
     "last_bar_collected": 4150,
-    "tracking_until": null,
+    "tracking_until": "2026-03-02T00:02:51.336772",
     "entry_volume": 2237999.32906
   },
   "kPEPE": {
