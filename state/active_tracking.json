@@ -514,11 +514,11 @@
   },
   "LTC": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-21T15:54:29.518948",
-    "exit_time": null,
+    "exit_time": "2026-02-21T16:16:13.612507",
     "last_bar_collected": 5204,
-    "tracking_until": null,
+    "tracking_until": "2026-03-03T16:16:13.612507",
     "entry_volume": 1765128.01921
   },
   "ENA": {
@@ -774,12 +774,12 @@
     "entry_volume": 1509887.9686300005
   },
   "YGG": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-02-21T04:16:30.497160",
-    "exit_time": "2026-02-21T07:10:13.157763",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-02-21T16:16:13.612507",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-03-03T07:10:13.157763",
-    "entry_volume": 1115758.5492039996
+    "tracking_until": null,
+    "entry_volume": 4937353.283315999
   }
 }
