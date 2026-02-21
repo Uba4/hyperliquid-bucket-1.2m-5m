@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ETC",
-    "ARB",
-    "UNI",
     "MORPHO",
-    "TIA",
-    "NEAR"
+    "ETC",
+    "UNI",
+    "AVAX",
+    "TAO",
+    "ARB"
   ],
   "scores": [
+    70,
     68,
     66,
-    64,
     62,
-    60,
-    56
+    62,
+    60
   ],
-  "timestamp": "2026-02-21T13:29:30.385811",
+  "timestamp": "2026-02-21T13:58:31.867641",
   "bucket": "1.2m-5m"
 }
