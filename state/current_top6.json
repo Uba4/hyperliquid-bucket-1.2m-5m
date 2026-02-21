@@ -2,10 +2,10 @@
   "tokens": [
     "SNX",
     "POL",
-    "MORPHO",
     "LTC",
     "TAO",
-    "RESOLV"
+    "RESOLV",
+    "AXS"
   ],
   "scores": [
     64,
@@ -15,6 +15,6 @@
     56,
     54
   ],
-  "timestamp": "2026-02-21T17:57:12.858929",
+  "timestamp": "2026-02-21T18:30:54.857712",
   "bucket": "1.2m-5m"
 }
