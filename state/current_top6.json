@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "DASH",
-    "AXS",
+    "YGG",
     "0G",
-    "MORPHO",
-    "INJ",
-    "UNI"
+    "OP",
+    "INIT",
+    "ATOM",
+    "INJ"
   ],
   "scores": [
-    84,
     82,
     80,
     78,
     76,
-    74
+    74,
+    72
   ],
-  "timestamp": "2026-02-21T02:23:50.806683",
+  "timestamp": "2026-02-21T04:16:30.497803",
   "bucket": "1.2m-5m"
 }
