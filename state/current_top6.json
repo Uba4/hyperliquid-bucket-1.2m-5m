@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SNX",
-    "POL",
-    "LTC",
     "TAO",
-    "RESOLV",
-    "AXS"
+    "AXS",
+    "MON",
+    "LTC",
+    "RESOLV"
   ],
   "scores": [
+    66,
     64,
     62,
     60,
     58,
-    56,
-    54
+    56
   ],
-  "timestamp": "2026-02-21T18:30:54.857712",
+  "timestamp": "2026-02-21T19:01:45.029119",
   "bucket": "1.2m-5m"
 }
