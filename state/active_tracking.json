@@ -235,11 +235,11 @@
   },
   "AVAX": {
     "current_run": 21,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-21T13:58:31.867319",
-    "exit_time": null,
+    "exit_time": "2026-02-21T16:49:25.333535",
     "last_bar_collected": 3885,
-    "tracking_until": null,
+    "tracking_until": "2026-03-03T16:49:25.333535",
     "entry_volume": 2962660.5116099995
   },
   "ADA": {
@@ -513,13 +513,13 @@
     "entry_volume": 3294021.711879999
   },
   "LTC": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-02-21T15:54:29.518948",
-    "exit_time": "2026-02-21T16:16:13.612507",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-02-21T16:49:25.333535",
+    "exit_time": null,
     "last_bar_collected": 5204,
-    "tracking_until": "2026-03-03T16:16:13.612507",
-    "entry_volume": 1765128.01921
+    "tracking_until": null,
+    "entry_volume": 1716604.49426
   },
   "ENA": {
     "current_run": 8,
@@ -556,15 +556,6 @@
     "last_bar_collected": 1648,
     "tracking_until": "2026-02-23T05:43:22.621481",
     "entry_volume": 1111944.1893280006
-  },
-  "FTT": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-02-11T12:59:50.827947",
-    "exit_time": "2026-02-11T16:17:08.501906",
-    "last_bar_collected": 1722,
-    "tracking_until": "2026-02-21T16:17:08.501906",
-    "entry_volume": 1180639.350770001
   },
   "ACE": {
     "current_run": 2,
