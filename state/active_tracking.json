@@ -486,13 +486,13 @@
     "entry_volume": 1149884.7737400003
   },
   "XPL": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-02-19T20:04:12.117628",
-    "exit_time": "2026-02-20T02:49:22.057872",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-02-21T07:10:13.157763",
+    "exit_time": null,
     "last_bar_collected": 3246,
-    "tracking_until": "2026-03-02T02:49:22.057872",
-    "entry_volume": 3526415.7479219986
+    "tracking_until": null,
+    "entry_volume": 5431672.650778999
   },
   "AAVE": {
     "current_run": 6,
@@ -775,11 +775,11 @@
   },
   "YGG": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-21T04:16:30.497160",
-    "exit_time": null,
+    "exit_time": "2026-02-21T07:10:13.157763",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-03-03T07:10:13.157763",
     "entry_volume": 1115758.5492039996
   }
 }
