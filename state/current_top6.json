@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MORPHO",
-    "ETC",
+    "SNX",
     "UNI",
-    "AVAX",
     "TAO",
-    "ARB"
+    "AVAX",
+    "AXS"
   ],
   "scores": [
     70,
     68,
     66,
-    62,
+    64,
     62,
     60
   ],
-  "timestamp": "2026-02-21T13:58:31.867641",
+  "timestamp": "2026-02-21T14:27:01.441528",
   "bucket": "1.2m-5m"
 }
