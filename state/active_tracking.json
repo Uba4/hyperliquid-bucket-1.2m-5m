@@ -73,11 +73,11 @@
   },
   "TAO": {
     "current_run": 45,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-21T17:12:27.429360",
-    "exit_time": null,
+    "exit_time": "2026-02-21T22:45:27.033894",
     "last_bar_collected": 4249,
-    "tracking_until": null,
+    "tracking_until": "2026-03-03T22:45:27.033894",
     "entry_volume": 3470141.7158299983
   },
   "SPX": {
@@ -772,5 +772,14 @@
     "last_bar_collected": 0,
     "tracking_until": "2026-03-03T17:41:28.124018",
     "entry_volume": 4937353.283315999
+  },
+  "LIT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-21T22:45:27.033894",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 5346884.496099999
   }
 }

@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "SNX",
     "VVV",
+    "SNX",
     "AXS",
+    "LIT",
     "NEAR",
-    "UNI",
-    "TAO"
+    "UNI"
   ],
   "scores": [
     58,
@@ -15,6 +15,6 @@
     50,
     48
   ],
-  "timestamp": "2026-02-21T22:18:15.842461",
+  "timestamp": "2026-02-21T22:45:27.034062",
   "bucket": "1.2m-5m"
 }
