@@ -621,13 +621,13 @@
     "entry_volume": 1418571.9896469994
   },
   "VVV": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-02-13T22:17:56.245942",
-    "exit_time": "2026-02-13T22:55:11.091554",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-02-21T21:25:47.611347",
+    "exit_time": null,
     "last_bar_collected": 3591,
-    "tracking_until": "2026-02-23T22:55:11.091554",
-    "entry_volume": 4929340.724672999
+    "tracking_until": null,
+    "entry_volume": 4788523.510438998
   },
   "DASH": {
     "current_run": 5,
@@ -730,11 +730,11 @@
   },
   "ASTER": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-21T19:32:47.630276",
-    "exit_time": null,
+    "exit_time": "2026-02-21T21:25:47.611347",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-03-03T21:25:47.611347",
     "entry_volume": 2724724.919329998
   },
   "SNX": {

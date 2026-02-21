@@ -2,9 +2,9 @@
   "tokens": [
     "SNX",
     "AXS",
+    "VVV",
     "TAO",
     "XMR",
-    "ASTER",
     "MON"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     52,
     50
   ],
-  "timestamp": "2026-02-21T20:59:01.156198",
+  "timestamp": "2026-02-21T21:25:47.611553",
   "bucket": "1.2m-5m"
 }
