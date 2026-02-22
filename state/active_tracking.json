@@ -134,15 +134,6 @@
     "tracking_until": "2026-02-23T11:07:45.005117",
     "entry_volume": 2450497.329203
   },
-  "KAITO": {
-    "current_run": 29,
-    "status": "post_exit",
-    "entry_time": "2026-02-11T21:21:32.384074",
-    "exit_time": "2026-02-12T05:09:14.241723",
-    "last_bar_collected": 4332,
-    "tracking_until": "2026-02-22T05:09:14.241723",
-    "entry_volume": 1114914.7664400004
-  },
   "IP": {
     "current_run": 49,
     "status": "post_exit",
@@ -513,13 +504,13 @@
     "entry_volume": 2217607.34016
   },
   "LTC": {
-    "current_run": 15,
-    "status": "post_exit",
-    "entry_time": "2026-02-21T16:49:25.333535",
-    "exit_time": "2026-02-21T19:32:47.630276",
+    "current_run": 16,
+    "status": "in_top6",
+    "entry_time": "2026-02-22T05:34:54.497198",
+    "exit_time": null,
     "last_bar_collected": 5204,
-    "tracking_until": "2026-03-03T19:32:47.630276",
-    "entry_volume": 1716604.49426
+    "tracking_until": null,
+    "entry_volume": 1530715.0624299995
   },
   "ENA": {
     "current_run": 8,
@@ -676,11 +667,11 @@
   },
   "BNB": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-22T02:22:33.774794",
-    "exit_time": null,
+    "exit_time": "2026-02-22T05:34:54.497198",
     "last_bar_collected": 3894,
-    "tracking_until": null,
+    "tracking_until": "2026-03-04T05:34:54.497198",
     "entry_volume": 1611173.47175
   },
   "INIT": {
@@ -738,13 +729,13 @@
     "entry_volume": 2724724.919329998
   },
   "SNX": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-02-21T14:27:01.441197",
-    "exit_time": "2026-02-22T02:22:33.774794",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-02-22T05:34:54.497198",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-03-04T02:22:33.774794",
-    "entry_volume": 1097192.648408
+    "tracking_until": null,
+    "entry_volume": 1685182.6462519988
   },
   "BIO": {
     "current_run": 5,
@@ -784,11 +775,11 @@
   },
   "PUMP": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-22T02:22:33.774794",
-    "exit_time": null,
+    "exit_time": "2026-02-22T05:34:54.497198",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-03-04T05:34:54.497198",
     "entry_volume": 2425605.180041002
   }
 }

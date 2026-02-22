@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MORPHO",
-    "BNB",
-    "LINK",
     "DASH",
-    "PUMP",
-    "XMR"
+    "XMR",
+    "LINK",
+    "SNX",
+    "LTC"
   ],
   "scores": [
-    64,
+    62,
     60,
-    60,
-    60,
+    58,
     56,
-    54
+    54,
+    52
   ],
-  "timestamp": "2026-02-22T04:28:13.752503",
+  "timestamp": "2026-02-22T05:34:54.497578",
   "bucket": "1.2m-5m"
 }
