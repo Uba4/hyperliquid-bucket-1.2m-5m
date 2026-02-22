@@ -2,19 +2,19 @@
   "tokens": [
     "YGG",
     "SPX",
-    "BERA",
-    "XMR",
+    "AAVE",
+    "BNB",
     "ASTER",
-    "FARTCOIN"
+    "XMR"
   ],
   "scores": [
+    64,
     62,
-    59,
-    59,
+    60,
+    58,
     56,
-    54,
-    52
+    54
   ],
-  "timestamp": "2026-02-22T12:39:44.007366",
+  "timestamp": "2026-02-22T13:30:37.087691",
   "bucket": "1.2m-5m"
 }
