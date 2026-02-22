@@ -1,20 +1,20 @@
 {
   "tokens": [
     "YGG",
+    "OM",
     "RESOLV",
+    "ZRO",
     "BNB",
-    "AAVE",
-    "WLFI",
-    "LINK"
+    "AAVE"
   ],
   "scores": [
+    70,
     68,
     66,
     64,
     62,
-    58,
-    57
+    60
   ],
-  "timestamp": "2026-02-22T14:54:04.235707",
+  "timestamp": "2026-02-22T15:14:17.763120",
   "bucket": "1.2m-5m"
 }
