@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SNX",
-    "MORPHO",
+    "BERA",
     "SPX",
-    "TRUMP",
-    "LTC",
-    "LIT"
+    "LIT",
+    "ETC",
+    "MORPHO"
   ],
   "scores": [
+    70,
+    68,
     66,
-    64,
     62,
-    60,
-    56,
-    56
+    61,
+    61
   ],
-  "timestamp": "2026-02-22T08:00:57.241024",
+  "timestamp": "2026-02-22T08:41:15.693050",
   "bucket": "1.2m-5m"
 }
