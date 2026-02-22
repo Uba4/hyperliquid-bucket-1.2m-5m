@@ -1,20 +1,20 @@
 {
   "tokens": [
     "YGG",
-    "OP",
-    "WLD",
     "AZTEC",
+    "WLD",
     "XMR",
-    "BCH"
+    "TRUMP",
+    "OM"
   ],
   "scores": [
-    76,
     74,
     72,
     70,
     68,
-    66
+    66,
+    64
   ],
-  "timestamp": "2026-02-22T19:05:12.397486",
+  "timestamp": "2026-02-22T19:35:21.133775",
   "bucket": "1.2m-5m"
 }
