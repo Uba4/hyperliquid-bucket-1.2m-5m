@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "VVV",
-    "SNX",
-    "AXS",
-    "LIT",
-    "NEAR",
-    "WLFI"
+    "PUMP",
+    "MORPHO",
+    "BNB",
+    "ADA",
+    "LINK",
+    "ATOM"
   ],
   "scores": [
+    64,
     62,
     60,
     58,
     56,
-    54,
-    52
+    54
   ],
-  "timestamp": "2026-02-21T23:58:49.938924",
+  "timestamp": "2026-02-22T02:22:33.775588",
   "bucket": "1.2m-5m"
 }
