@@ -3,9 +3,9 @@
     "MORPHO",
     "XMR",
     "CRV",
-    "PUMP",
     "BERA",
-    "BNB"
+    "PUMP",
+    "POL"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-02-22T23:31:55.997927",
+  "timestamp": "2026-02-22T23:52:50.581864",
   "bucket": "1.2m-5m"
 }
