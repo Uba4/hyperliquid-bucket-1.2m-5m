@@ -1,20 +1,20 @@
 {
   "tokens": [
     "BERA",
-    "SNX",
-    "AERO",
-    "SPX",
     "FARTCOIN",
-    "LTC"
+    "SPX",
+    "ASTER",
+    "XMR",
+    "BNB"
   ],
   "scores": [
-    66,
     64,
     62,
-    60,
     58,
+    56,
+    56,
     54
   ],
-  "timestamp": "2026-02-22T10:48:51.287093",
+  "timestamp": "2026-02-22T11:01:31.294125",
   "bucket": "1.2m-5m"
 }
