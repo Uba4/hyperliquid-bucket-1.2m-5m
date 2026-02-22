@@ -73,11 +73,11 @@
   },
   "SPX": {
     "current_run": 79,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-22T09:40:36.334913",
-    "exit_time": null,
+    "exit_time": "2026-02-22T14:30:53.386674",
     "last_bar_collected": 4212,
-    "tracking_until": null,
+    "tracking_until": "2026-03-04T14:30:53.386674",
     "entry_volume": 1538364.3781130002
   },
   "VIRTUAL": {
@@ -189,22 +189,13 @@
     "entry_volume": 1172929.998516
   },
   "RESOLV": {
-    "current_run": 40,
-    "status": "post_exit",
-    "entry_time": "2026-02-21T17:57:12.858754",
-    "exit_time": "2026-02-21T19:32:47.630276",
+    "current_run": 41,
+    "status": "in_top6",
+    "entry_time": "2026-02-22T14:30:53.386674",
+    "exit_time": null,
     "last_bar_collected": 4215,
-    "tracking_until": "2026-03-03T19:32:47.630276",
-    "entry_volume": 1353160.4751170005
-  },
-  "ONDO": {
-    "current_run": 21,
-    "status": "post_exit",
-    "entry_time": "2026-02-12T13:18:53.167691",
-    "exit_time": "2026-02-12T14:17:06.808319",
-    "last_bar_collected": 4258,
-    "tracking_until": "2026-02-22T14:17:06.808319",
-    "entry_volume": 1099955.1546800002
+    "tracking_until": null,
+    "entry_volume": 1206066.1543419997
   },
   "TRUMP": {
     "current_run": 47,
@@ -405,13 +396,13 @@
     "entry_volume": 2565927.4189799996
   },
   "ZRO": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-02-18T19:54:01.356238",
-    "exit_time": "2026-02-18T21:03:42.877681",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-02-22T14:30:53.386674",
+    "exit_time": null,
     "last_bar_collected": 3909,
-    "tracking_until": "2026-02-28T21:03:42.877681",
-    "entry_volume": 3652437.6603199975
+    "tracking_until": null,
+    "entry_volume": 5482244.705789999
   },
   "ATOM": {
     "current_run": 16,
@@ -566,15 +557,6 @@
     "tracking_until": "2026-02-23T15:45:01.292711",
     "entry_volume": 1994470.8040630003
   },
-  "ME": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-02-12T08:01:07.950882",
-    "exit_time": "2026-02-12T14:17:06.808319",
-    "last_bar_collected": 1687,
-    "tracking_until": "2026-02-22T14:17:06.808319",
-    "entry_volume": 1374365.7420050001
-  },
   "AZTEC": {
     "current_run": 14,
     "status": "post_exit",
@@ -703,11 +685,11 @@
   },
   "ASTER": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-22T11:01:31.293695",
-    "exit_time": null,
+    "exit_time": "2026-02-22T14:30:53.386674",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-03-04T14:30:53.386674",
     "entry_volume": 2149918.10793
   },
   "SNX": {
