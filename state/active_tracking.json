@@ -216,13 +216,13 @@
     "entry_volume": 1099955.1546800002
   },
   "TRUMP": {
-    "current_run": 45,
-    "status": "post_exit",
-    "entry_time": "2026-02-20T05:36:48.769293",
-    "exit_time": "2026-02-20T08:04:38.770909",
+    "current_run": 46,
+    "status": "in_top6",
+    "entry_time": "2026-02-22T07:48:11.199409",
+    "exit_time": null,
     "last_bar_collected": 3917,
-    "tracking_until": "2026-03-02T08:04:38.770909",
-    "entry_volume": 2810097.2612599996
+    "tracking_until": null,
+    "entry_volume": 2124644.37082
   },
   "AVAX": {
     "current_run": 21,
@@ -532,11 +532,11 @@
   },
   "XMR": {
     "current_run": 15,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-22T04:28:13.752205",
-    "exit_time": null,
+    "exit_time": "2026-02-22T07:48:11.199409",
     "last_bar_collected": 851,
-    "tracking_until": null,
+    "tracking_until": "2026-03-04T07:48:11.199409",
     "entry_volume": 2432076.198979999
   },
   "STBL": {
