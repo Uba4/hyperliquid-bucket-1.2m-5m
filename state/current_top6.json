@@ -2,19 +2,19 @@
   "tokens": [
     "SNX",
     "BERA",
-    "LIT",
     "FARTCOIN",
-    "BIO",
-    "JUP"
+    "LIT",
+    "JUP",
+    "SPX"
   ],
   "scores": [
-    68,
     66,
     64,
-    61,
+    62,
     60,
-    58
+    58,
+    56
   ],
-  "timestamp": "2026-02-22T09:02:35.525806",
+  "timestamp": "2026-02-22T09:40:36.335092",
   "bucket": "1.2m-5m"
 }
