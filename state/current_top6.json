@@ -3,9 +3,9 @@
     "SNX",
     "MORPHO",
     "DASH",
-    "XMR",
-    "LINK",
-    "LTC"
+    "SPX",
+    "YGG",
+    "XMR"
   ],
   "scores": [
     64,
@@ -15,6 +15,6 @@
     56,
     54
   ],
-  "timestamp": "2026-02-22T06:25:47.374343",
+  "timestamp": "2026-02-22T07:10:22.337050",
   "bucket": "1.2m-5m"
 }
