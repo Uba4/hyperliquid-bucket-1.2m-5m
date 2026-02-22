@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "SNX",
     "BERA",
+    "SNX",
     "FARTCOIN",
-    "LIT",
+    "SPX",
     "TRUMP",
-    "SPX"
+    "LIT"
   ],
   "scores": [
     62,
@@ -15,6 +15,6 @@
     54,
     52
   ],
-  "timestamp": "2026-02-22T09:57:51.135712",
+  "timestamp": "2026-02-22T10:23:47.742726",
   "bucket": "1.2m-5m"
 }
