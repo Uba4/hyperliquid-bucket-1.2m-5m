@@ -388,11 +388,11 @@
   },
   "WLD": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-22T16:56:34.649681",
-    "exit_time": null,
+    "exit_time": "2026-02-22T23:00:03.674657",
     "last_bar_collected": 4383,
-    "tracking_until": null,
+    "tracking_until": "2026-03-04T23:00:03.674657",
     "entry_volume": 3654943.800284999
   },
   "ZRO": {
@@ -738,13 +738,13 @@
     "entry_volume": 3397590.7125000013
   },
   "PUMP": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-02-22T02:22:33.774794",
-    "exit_time": "2026-02-22T05:34:54.497198",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-02-22T23:00:03.674657",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-03-04T05:34:54.497198",
-    "entry_volume": 2425605.180041002
+    "tracking_until": null,
+    "entry_volume": 5385808.5069609955
   },
   "FARTCOIN": {
     "current_run": 1,

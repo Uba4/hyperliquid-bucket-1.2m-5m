@@ -1,20 +1,20 @@
 {
   "tokens": [
     "YGG",
-    "XMR",
     "MORPHO",
+    "XMR",
+    "PUMP",
     "AZTEC",
-    "WLD",
     "POL"
   ],
   "scores": [
+    72,
     70,
     68,
     66,
-    64,
-    60,
-    60
+    63,
+    62
   ],
-  "timestamp": "2026-02-22T22:44:12.370930",
+  "timestamp": "2026-02-22T23:00:03.674839",
   "bucket": "1.2m-5m"
 }
