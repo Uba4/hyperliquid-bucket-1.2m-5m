@@ -108,13 +108,13 @@
     "entry_volume": 1318145.7779000003
   },
   "STABLE": {
-    "current_run": 48,
-    "status": "post_exit",
-    "entry_time": "2026-02-23T06:16:43.505160",
-    "exit_time": "2026-02-23T09:03:52.304329",
+    "current_run": 49,
+    "status": "in_top6",
+    "entry_time": "2026-02-23T19:32:36.733044",
+    "exit_time": null,
     "last_bar_collected": 4320,
-    "tracking_until": "2026-03-05T09:03:52.304329",
-    "entry_volume": 1547599.2645869998
+    "tracking_until": null,
+    "entry_volume": 1945787.2777110003
   },
   "IP": {
     "current_run": 49,
@@ -190,11 +190,11 @@
   },
   "TRUMP": {
     "current_run": 49,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-23T13:48:17.168851",
-    "exit_time": null,
+    "exit_time": "2026-02-23T19:32:36.733044",
     "last_bar_collected": 3917,
-    "tracking_until": null,
+    "tracking_until": "2026-03-05T19:32:36.733044",
     "entry_volume": 1457710.9384099995
   },
   "AVAX": {
