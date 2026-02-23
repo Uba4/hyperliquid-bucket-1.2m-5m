@@ -1,20 +1,20 @@
 {
   "tokens": [
     "PROMPT",
-    "YGG",
-    "RESOLV",
     "ASTER",
     "OM",
-    "TRX"
+    "STABLE",
+    "YGG",
+    "APT"
   ],
   "scores": [
-    72,
-    70,
     68,
     66,
     64,
-    62
+    62,
+    60,
+    58
   ],
-  "timestamp": "2026-02-23T05:17:05.555770",
+  "timestamp": "2026-02-23T06:16:43.505624",
   "bucket": "1.2m-5m"
 }

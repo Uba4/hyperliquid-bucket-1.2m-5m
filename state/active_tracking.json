@@ -1,12 +1,12 @@
 {
   "APT": {
-    "current_run": 45,
-    "status": "post_exit",
-    "entry_time": "2026-02-23T00:57:22.826141",
-    "exit_time": "2026-02-23T03:38:56.458279",
+    "current_run": 46,
+    "status": "in_top6",
+    "entry_time": "2026-02-23T06:16:43.505160",
+    "exit_time": null,
     "last_bar_collected": 4317,
-    "tracking_until": "2026-03-05T03:38:56.458279",
-    "entry_volume": 1082780.4996509997
+    "tracking_until": null,
+    "entry_volume": 1754104.805739
   },
   "TIA": {
     "current_run": 35,
@@ -108,13 +108,13 @@
     "entry_volume": 1318145.7779000003
   },
   "STABLE": {
-    "current_run": 47,
-    "status": "post_exit",
-    "entry_time": "2026-02-20T13:38:14.878633",
-    "exit_time": "2026-02-20T15:05:17.672870",
+    "current_run": 48,
+    "status": "in_top6",
+    "entry_time": "2026-02-23T06:16:43.505160",
+    "exit_time": null,
     "last_bar_collected": 4320,
-    "tracking_until": "2026-03-02T15:05:17.672870",
-    "entry_volume": 1909523.0383309997
+    "tracking_until": null,
+    "entry_volume": 1547599.2645869998
   },
   "SEI": {
     "current_run": 21,
@@ -172,11 +172,11 @@
   },
   "TRX": {
     "current_run": 65,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-23T03:38:56.458279",
-    "exit_time": null,
+    "exit_time": "2026-02-23T06:16:43.505160",
     "last_bar_collected": 4260,
-    "tracking_until": null,
+    "tracking_until": "2026-03-05T06:16:43.505160",
     "entry_volume": 2442555.0853000004
   },
   "MNT": {
@@ -190,11 +190,11 @@
   },
   "RESOLV": {
     "current_run": 42,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-23T03:38:56.458279",
-    "exit_time": null,
+    "exit_time": "2026-02-23T06:16:43.505160",
     "last_bar_collected": 4215,
-    "tracking_until": null,
+    "tracking_until": "2026-03-05T06:16:43.505160",
     "entry_volume": 2448716.0141400015
   },
   "TRUMP": {
@@ -520,15 +520,6 @@
     "last_bar_collected": 851,
     "tracking_until": "2026-03-05T03:38:56.458279",
     "entry_volume": 2043167.08526
-  },
-  "STBL": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-02-13T04:27:25.558158",
-    "exit_time": "2026-02-13T05:43:22.621481",
-    "last_bar_collected": 1648,
-    "tracking_until": "2026-02-23T05:43:22.621481",
-    "entry_volume": 1111944.1893280006
   },
   "ACE": {
     "current_run": 2,
