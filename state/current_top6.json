@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "CRV",
-    "XMR",
-    "BERA",
-    "APT",
-    "MORPHO",
-    "POL"
+    "PROMPT",
+    "YGG",
+    "RESOLV",
+    "TRX",
+    "SNX",
+    "ASTER"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-02-23T00:57:22.826330",
+  "timestamp": "2026-02-23T03:38:56.459104",
   "bucket": "1.2m-5m"
 }
