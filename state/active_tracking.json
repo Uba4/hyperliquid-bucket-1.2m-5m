@@ -441,13 +441,13 @@
     "entry_volume": 3826505.47777
   },
   "OM": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-02-22T19:35:21.133451",
-    "exit_time": "2026-02-22T21:39:07.821176",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-02-23T05:17:05.555599",
+    "exit_time": null,
     "last_bar_collected": 1926,
-    "tracking_until": "2026-03-04T21:39:07.821176",
-    "entry_volume": 2599049.703966999
+    "tracking_until": null,
+    "entry_volume": 2534689.4483040003
   },
   "AERO": {
     "current_run": 6,
@@ -685,11 +685,11 @@
   },
   "SNX": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-23T03:38:56.458279",
-    "exit_time": null,
+    "exit_time": "2026-02-23T05:17:05.555599",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-03-05T05:17:05.555599",
     "entry_volume": 1579142.567086
   },
   "BIO": {
