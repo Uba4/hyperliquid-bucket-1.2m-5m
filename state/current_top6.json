@@ -3,18 +3,18 @@
     "OP",
     "APT",
     "ARB",
-    "ASTER",
-    "STABLE",
-    "VIRTUAL"
+    "ENA",
+    "YGG",
+    "POL"
   ],
   "scores": [
     68,
     66,
     64,
     62,
-    60,
-    58
+    58,
+    56
   ],
-  "timestamp": "2026-02-23T08:07:35.506573",
+  "timestamp": "2026-02-23T09:03:52.304722",
   "bucket": "1.2m-5m"
 }
