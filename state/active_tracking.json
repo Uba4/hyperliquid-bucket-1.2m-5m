@@ -63,13 +63,13 @@
     "entry_volume": 2023418.0110730005
   },
   "TAO": {
-    "current_run": 45,
-    "status": "post_exit",
-    "entry_time": "2026-02-21T17:12:27.429360",
-    "exit_time": "2026-02-21T22:45:27.033894",
+    "current_run": 46,
+    "status": "in_top6",
+    "entry_time": "2026-02-23T22:28:26.468328",
+    "exit_time": null,
     "last_bar_collected": 4249,
-    "tracking_until": "2026-03-03T22:45:27.033894",
-    "entry_volume": 3470141.7158299983
+    "tracking_until": null,
+    "entry_volume": 4077001.80618
   },
   "SPX": {
     "current_run": 80,
@@ -181,11 +181,11 @@
   },
   "RESOLV": {
     "current_run": 43,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-23T17:19:29.664096",
-    "exit_time": null,
+    "exit_time": "2026-02-23T22:28:26.468328",
     "last_bar_collected": 4215,
-    "tracking_until": null,
+    "tracking_until": "2026-03-05T22:28:26.468328",
     "entry_volume": 1841441.4499830008
   },
   "TRUMP": {
