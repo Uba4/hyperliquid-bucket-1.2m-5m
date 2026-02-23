@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MORPHO",
     "EIGEN",
-    "UNI",
-    "POL",
+    "MORPHO",
     "WLD",
-    "OP"
+    "POL",
+    "VIRTUAL",
+    "TRUMP"
   ],
   "scores": [
-    74,
     72,
     70,
     68,
     66,
-    64
+    64,
+    62
   ],
-  "timestamp": "2026-02-23T12:29:19.815652",
+  "timestamp": "2026-02-23T13:48:17.169143",
   "bucket": "1.2m-5m"
 }
