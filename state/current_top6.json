@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ASTER",
     "OP",
     "APT",
     "ARB",
+    "ASTER",
     "STABLE",
-    "OM"
+    "VIRTUAL"
   ],
   "scores": [
+    68,
+    66,
     64,
     62,
     60,
-    58,
-    56,
-    54
+    58
   ],
-  "timestamp": "2026-02-23T07:33:13.451431",
+  "timestamp": "2026-02-23T08:07:35.506573",
   "bucket": "1.2m-5m"
 }

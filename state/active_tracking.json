@@ -81,13 +81,13 @@
     "entry_volume": 1538364.3781130002
   },
   "VIRTUAL": {
-    "current_run": 50,
-    "status": "post_exit",
-    "entry_time": "2026-02-21T17:41:28.124018",
-    "exit_time": "2026-02-21T17:57:12.858754",
+    "current_run": 51,
+    "status": "in_top6",
+    "entry_time": "2026-02-23T08:07:35.506422",
+    "exit_time": null,
     "last_bar_collected": 4307,
-    "tracking_until": "2026-03-03T17:57:12.858754",
-    "entry_volume": 2692391.425052002
+    "tracking_until": null,
+    "entry_volume": 1692521.2933209995
   },
   "TON": {
     "current_run": 49,
@@ -442,11 +442,11 @@
   },
   "OM": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-23T05:17:05.555599",
-    "exit_time": null,
+    "exit_time": "2026-02-23T08:07:35.506422",
     "last_bar_collected": 1926,
-    "tracking_until": null,
+    "tracking_until": "2026-03-05T08:07:35.506422",
     "entry_volume": 2534689.4483040003
   },
   "AERO": {
