@@ -81,13 +81,13 @@
     "entry_volume": 1137314.998667
   },
   "VIRTUAL": {
-    "current_run": 53,
-    "status": "post_exit",
-    "entry_time": "2026-02-24T17:41:10.953391",
-    "exit_time": "2026-02-24T21:18:36.309309",
+    "current_run": 54,
+    "status": "in_top6",
+    "entry_time": "2026-02-24T23:24:57.928162",
+    "exit_time": null,
     "last_bar_collected": 4307,
-    "tracking_until": "2026-03-06T21:18:36.309309",
-    "entry_volume": 1906141.9296800003
+    "tracking_until": null,
+    "entry_volume": 3025545.01737
   },
   "TON": {
     "current_run": 50,
@@ -162,13 +162,13 @@
     "entry_volume": 1378359.49392
   },
   "TRX": {
-    "current_run": 68,
-    "status": "post_exit",
-    "entry_time": "2026-02-24T04:44:23.585990",
-    "exit_time": "2026-02-24T09:05:29.798667",
+    "current_run": 69,
+    "status": "in_top6",
+    "entry_time": "2026-02-24T23:24:57.928162",
+    "exit_time": null,
     "last_bar_collected": 4260,
-    "tracking_until": "2026-03-06T09:05:29.798667",
-    "entry_volume": 1386782.35674
+    "tracking_until": null,
+    "entry_volume": 2455747.1409400003
   },
   "MNT": {
     "current_run": 19,
@@ -190,11 +190,11 @@
   },
   "TRUMP": {
     "current_run": 50,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-24T21:53:44.123236",
-    "exit_time": null,
+    "exit_time": "2026-02-24T23:24:57.928162",
     "last_bar_collected": 3917,
-    "tracking_until": null,
+    "tracking_until": "2026-03-06T23:24:57.928162",
     "entry_volume": 1911087.4951100003
   },
   "AVAX": {
@@ -730,11 +730,11 @@
   },
   "ETHFI": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-24T16:41:28.181332",
-    "exit_time": null,
+    "exit_time": "2026-02-24T23:24:57.928162",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-03-06T23:24:57.928162",
     "entry_volume": 1090500.4820700004
   },
   "FOGO": {
