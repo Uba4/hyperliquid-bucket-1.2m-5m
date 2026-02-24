@@ -1,20 +1,20 @@
 {
   "tokens": [
     "ETHFI",
-    "AZTEC",
-    "MET",
-    "VIRTUAL",
     "SNX",
-    "SPX"
+    "AZTEC",
+    "POL",
+    "MET",
+    "VIRTUAL"
   ],
   "scores": [
-    74,
     72,
     70,
     68,
     66,
-    64
+    64,
+    62
   ],
-  "timestamp": "2026-02-24T18:37:14.787656",
+  "timestamp": "2026-02-24T19:35:12.091448",
   "bucket": "1.2m-5m"
 }
