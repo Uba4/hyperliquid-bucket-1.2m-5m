@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SNX",
-    "ETHFI",
     "POL",
-    "AZTEC",
     "MORPHO",
-    "MET"
+    "ETHFI",
+    "MET",
+    "TRUMP"
   ],
   "scores": [
-    68,
-    66,
-    64,
+    65,
+    65,
     62,
     60,
-    58
+    58,
+    56
   ],
-  "timestamp": "2026-02-24T21:18:36.309488",
+  "timestamp": "2026-02-24T21:53:44.123402",
   "bucket": "1.2m-5m"
 }
