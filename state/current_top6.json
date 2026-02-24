@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SNX",
-    "POL",
     "MORPHO",
+    "POL",
     "ETHFI",
+    "TRUMP",
     "MET",
-    "TRUMP"
+    "XMR"
   ],
   "scores": [
-    65,
-    65,
+    68,
+    66,
+    64,
     62,
     60,
-    58,
-    56
+    58
   ],
-  "timestamp": "2026-02-24T21:53:44.123402",
+  "timestamp": "2026-02-24T22:19:54.457237",
   "bucket": "1.2m-5m"
 }
