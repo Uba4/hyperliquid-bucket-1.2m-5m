@@ -3,18 +3,18 @@
     "MORPHO",
     "POL",
     "MET",
-    "TRX",
-    "XMR",
-    "VIRTUAL"
+    "VIRTUAL",
+    "OP",
+    "TRX"
   ],
   "scores": [
+    68,
     66,
     64,
     62,
     60,
-    58,
-    56
+    58
   ],
-  "timestamp": "2026-02-24T23:24:57.928485",
+  "timestamp": "2026-02-24T23:53:10.779887",
   "bucket": "1.2m-5m"
 }
