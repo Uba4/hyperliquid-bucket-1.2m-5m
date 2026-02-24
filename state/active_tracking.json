@@ -82,11 +82,11 @@
   },
   "VIRTUAL": {
     "current_run": 53,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-24T17:41:10.953391",
-    "exit_time": null,
+    "exit_time": "2026-02-24T21:18:36.309309",
     "last_bar_collected": 4307,
-    "tracking_until": null,
+    "tracking_until": "2026-03-06T21:18:36.309309",
     "entry_volume": 1906141.9296800003
   },
   "TON": {
@@ -369,13 +369,13 @@
     "entry_volume": 1170288.9492710005
   },
   "MORPHO": {
-    "current_run": 19,
-    "status": "post_exit",
-    "entry_time": "2026-02-24T11:48:54.825436",
-    "exit_time": "2026-02-24T14:42:23.800476",
+    "current_run": 20,
+    "status": "in_top6",
+    "entry_time": "2026-02-24T21:18:36.309309",
+    "exit_time": null,
     "last_bar_collected": 3953,
-    "tracking_until": "2026-03-06T14:42:23.800476",
-    "entry_volume": 2031584.2269100004
+    "tracking_until": null,
+    "entry_volume": 2196644.4734100006
   },
   "WLD": {
     "current_run": 12,
