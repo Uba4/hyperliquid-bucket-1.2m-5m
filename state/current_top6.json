@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "BERA",
-    "AZTEC",
     "SPX",
-    "MON",
-    "RESOLV",
-    "ENA"
+    "ETHFI",
+    "AZTEC",
+    "BERA",
+    "MET",
+    "RESOLV"
   ],
   "scores": [
+    78,
+    76,
+    74,
     72,
     70,
-    68,
-    66,
-    64,
-    62
+    68
   ],
-  "timestamp": "2026-02-24T15:38:18.642785",
+  "timestamp": "2026-02-24T16:41:28.181552",
   "bucket": "1.2m-5m"
 }
