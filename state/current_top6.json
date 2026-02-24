@@ -3,18 +3,18 @@
     "FOGO",
     "XMR",
     "BERA",
-    "RESOLV",
-    "MET",
-    "MORPHO"
+    "MORPHO",
+    "APT",
+    "POL"
   ],
   "scores": [
+    72,
     70,
     68,
     66,
-    63,
     62,
-    61
+    62
   ],
-  "timestamp": "2026-02-24T11:48:54.825786",
+  "timestamp": "2026-02-24T12:30:47.998955",
   "bucket": "1.2m-5m"
 }
