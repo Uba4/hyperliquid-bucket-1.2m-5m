@@ -1,20 +1,20 @@
 {
   "tokens": [
     "FOGO",
-    "XMR",
     "BERA",
+    "XMR",
+    "AZTEC",
     "MORPHO",
-    "APT",
-    "POL"
+    "MON"
   ],
   "scores": [
     72,
     70,
     68,
     66,
-    62,
+    64,
     62
   ],
-  "timestamp": "2026-02-24T12:30:47.998955",
+  "timestamp": "2026-02-24T13:51:19.913177",
   "bucket": "1.2m-5m"
 }
