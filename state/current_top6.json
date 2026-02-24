@@ -2,10 +2,10 @@
   "tokens": [
     "BERA",
     "AZTEC",
-    "FOGO",
-    "XMR",
     "SPX",
-    "MON"
+    "MON",
+    "RESOLV",
+    "ENA"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-02-24T14:42:23.800655",
+  "timestamp": "2026-02-24T15:38:18.642785",
   "bucket": "1.2m-5m"
 }
