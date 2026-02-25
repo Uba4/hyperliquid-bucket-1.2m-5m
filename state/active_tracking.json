@@ -45,13 +45,13 @@
     "entry_volume": 1368316.3315399995
   },
   "kBONK": {
-    "current_run": 24,
-    "status": "post_exit",
-    "entry_time": "2026-02-20T20:42:43.355964",
-    "exit_time": "2026-02-20T21:30:49.053484",
+    "current_run": 25,
+    "status": "in_top6",
+    "entry_time": "2026-02-25T18:42:22.701789",
+    "exit_time": null,
     "last_bar_collected": 4301,
-    "tracking_until": "2026-03-02T21:30:49.053484",
-    "entry_volume": 1149608.414345
+    "tracking_until": null,
+    "entry_volume": 1509333.8240290007
   },
   "CRV": {
     "current_run": 43,
@@ -314,15 +314,6 @@
     "tracking_until": "2026-03-04T22:44:12.370746",
     "entry_volume": 1298292.9600300004
   },
-  "XLM": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-02-15T17:52:46.061852",
-    "exit_time": "2026-02-15T18:17:05.302512",
-    "last_bar_collected": 4702,
-    "tracking_until": "2026-02-25T18:17:05.302512",
-    "entry_volume": 1682086.8784299993
-  },
   "MOODENG": {
     "current_run": 11,
     "status": "post_exit",
@@ -442,11 +433,11 @@
   },
   "LTC": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-25T15:39:48.525725",
-    "exit_time": null,
+    "exit_time": "2026-02-25T18:42:22.701789",
     "last_bar_collected": 5204,
-    "tracking_until": null,
+    "tracking_until": "2026-03-07T18:42:22.701789",
     "entry_volume": 4216550.595680003
   },
   "ENA": {
