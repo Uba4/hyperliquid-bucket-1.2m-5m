@@ -1,20 +1,20 @@
 {
   "tokens": [
     "NEAR",
-    "APT",
     "UNI",
-    "CRV",
-    "WIF",
-    "LINK"
+    "APT",
+    "LTC",
+    "LINK",
+    "WIF"
   ],
   "scores": [
-    64,
     62,
     60,
     58,
     56,
-    54
+    54,
+    52
   ],
-  "timestamp": "2026-02-25T14:40:16.833556",
+  "timestamp": "2026-02-25T15:39:48.525906",
   "bucket": "1.2m-5m"
 }
