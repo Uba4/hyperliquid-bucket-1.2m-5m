@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "GRIFFAIN",
-    "AERO",
-    "APT",
     "NEAR",
+    "APT",
+    "AERO",
     "AZTEC",
-    "SPX"
+    "ONDO",
+    "ENA"
   ],
   "scores": [
-    76,
     74,
     72,
     70,
     68,
-    66
+    66,
+    64
   ],
-  "timestamp": "2026-02-25T21:23:01.738368",
+  "timestamp": "2026-02-25T21:52:50.009127",
   "bucket": "1.2m-5m"
 }
