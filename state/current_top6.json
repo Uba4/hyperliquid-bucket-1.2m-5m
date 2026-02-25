@@ -1,20 +1,20 @@
 {
   "tokens": [
     "VIRTUAL",
-    "FOGO",
     "PENDLE",
-    "CRV",
     "UNI",
-    "MORPHO"
+    "LINK",
+    "CRV",
+    "FOGO"
   ],
   "scores": [
+    74,
+    72,
     70,
     68,
     66,
-    64,
-    62,
-    60
+    64
   ],
-  "timestamp": "2026-02-25T03:39:39.194840",
+  "timestamp": "2026-02-25T05:13:59.911219",
   "bucket": "1.2m-5m"
 }

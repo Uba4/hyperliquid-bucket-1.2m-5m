@@ -370,11 +370,11 @@
   },
   "MORPHO": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-24T21:18:36.309309",
-    "exit_time": null,
+    "exit_time": "2026-02-25T05:13:59.911015",
     "last_bar_collected": 3953,
-    "tracking_until": null,
+    "tracking_until": "2026-03-07T05:13:59.911015",
     "entry_volume": 2196644.4734100006
   },
   "WLD": {
@@ -459,13 +459,13 @@
     "entry_volume": 4605637.540699997
   },
   "LINK": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-02-22T14:54:04.235492",
-    "exit_time": "2026-02-22T15:14:17.762834",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-02-25T05:13:59.911015",
+    "exit_time": null,
     "last_bar_collected": 3757,
-    "tracking_until": "2026-03-04T15:14:17.762834",
-    "entry_volume": 2384045.72412
+    "tracking_until": null,
+    "entry_volume": 4031758.0601999993
   },
   "LTC": {
     "current_run": 18,
