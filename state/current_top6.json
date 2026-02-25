@@ -1,11 +1,11 @@
 {
   "tokens": [
     "NEAR",
-    "APT",
-    "AERO",
     "AZTEC",
-    "ONDO",
-    "ENA"
+    "APT",
+    "STABLE",
+    "ENA",
+    "ONDO"
   ],
   "scores": [
     74,
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-02-25T21:52:50.009127",
+  "timestamp": "2026-02-25T22:18:13.594910",
   "bucket": "1.2m-5m"
 }

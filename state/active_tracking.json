@@ -108,13 +108,13 @@
     "entry_volume": 1585401.9514
   },
   "STABLE": {
-    "current_run": 50,
-    "status": "post_exit",
-    "entry_time": "2026-02-24T07:37:49.912446",
-    "exit_time": "2026-02-24T09:05:29.798667",
+    "current_run": 51,
+    "status": "in_top6",
+    "entry_time": "2026-02-25T22:18:13.594726",
+    "exit_time": null,
     "last_bar_collected": 4320,
-    "tracking_until": "2026-03-06T09:05:29.798667",
-    "entry_volume": 1131363.2281370007
+    "tracking_until": null,
+    "entry_volume": 1472638.298469
   },
   "IP": {
     "current_run": 49,
@@ -397,11 +397,11 @@
   },
   "AERO": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-25T19:39:07.577872",
-    "exit_time": null,
+    "exit_time": "2026-02-25T22:18:13.594726",
     "last_bar_collected": 3992,
-    "tracking_until": null,
+    "tracking_until": "2026-03-07T22:18:13.594726",
     "entry_volume": 1850856.3272099998
   },
   "XPL": {
