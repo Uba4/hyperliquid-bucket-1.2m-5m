@@ -1,9 +1,9 @@
 {
   "tokens": [
     "NEAR",
-    "AZTEC",
     "APT",
     "STABLE",
+    "AZTEC",
     "ENA",
     "ONDO"
   ],
@@ -15,6 +15,6 @@
     66,
     64
   ],
-  "timestamp": "2026-02-25T22:18:13.594910",
+  "timestamp": "2026-02-25T22:55:02.706627",
   "bucket": "1.2m-5m"
 }

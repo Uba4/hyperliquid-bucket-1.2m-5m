@@ -503,15 +503,6 @@
     "tracking_until": "2026-03-04T08:00:57.240779",
     "entry_volume": 1280709.69818
   },
-  "PAXG": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-02-15T10:58:03.028928",
-    "exit_time": "2026-02-15T22:31:02.727450",
-    "last_bar_collected": 2778,
-    "tracking_until": "2026-02-25T22:31:02.727450",
-    "entry_volume": 3004995.2948999996
-  },
   "BNB": {
     "current_run": 9,
     "status": "post_exit",
