@@ -1,11 +1,11 @@
 {
   "tokens": [
     "MORPHO",
-    "POL",
+    "FOGO",
+    "OP",
     "MET",
     "VIRTUAL",
-    "OP",
-    "TRX"
+    "ZRO"
   ],
   "scores": [
     68,
@@ -13,8 +13,8 @@
     64,
     62,
     60,
-    58
+    56
   ],
-  "timestamp": "2026-02-24T23:53:10.779887",
+  "timestamp": "2026-02-25T01:00:55.751148",
   "bucket": "1.2m-5m"
 }
