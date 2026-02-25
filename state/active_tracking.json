@@ -37,11 +37,11 @@
   },
   "WIF": {
     "current_run": 50,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-25T20:51:46.729924",
-    "exit_time": null,
+    "exit_time": "2026-02-25T21:23:01.738178",
     "last_bar_collected": 4252,
-    "tracking_until": null,
+    "tracking_until": "2026-03-07T21:23:01.738178",
     "entry_volume": 1654818.7112599998
   },
   "kBONK": {
@@ -709,5 +709,14 @@
     "last_bar_collected": 0,
     "tracking_until": "2026-03-07T20:06:41.305856",
     "entry_volume": 1097860.1667699995
+  },
+  "GRIFFAIN": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-25T21:23:01.738178",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1090392.2330760001
   }
 }
