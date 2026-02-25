@@ -296,15 +296,6 @@
     "tracking_until": "2026-03-06T07:37:49.912446",
     "entry_volume": 2939946.4191639996
   },
-  "PYTH": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-02-15T16:34:34.107216",
-    "exit_time": "2026-02-15T17:29:24.050395",
-    "last_bar_collected": 1979,
-    "tracking_until": "2026-02-25T17:29:24.050395",
-    "entry_volume": 1265862.7212159995
-  },
   "UNI": {
     "current_run": 18,
     "status": "post_exit",
