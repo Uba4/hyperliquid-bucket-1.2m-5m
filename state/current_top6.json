@@ -1,11 +1,11 @@
 {
   "tokens": [
     "STABLE",
-    "ZRO",
-    "AERO",
-    "SPX",
     "ENA",
-    "MON"
+    "ZRO",
+    "SPX",
+    "WLFI",
+    "CC"
   ],
   "scores": [
     82,
@@ -15,6 +15,6 @@
     74,
     72
   ],
-  "timestamp": "2026-02-26T09:03:23.519420",
+  "timestamp": "2026-02-26T10:01:00.136125",
   "bucket": "1.2m-5m"
 }
