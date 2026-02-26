@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "GRIFFAIN",
     "STABLE",
     "ZRO",
     "AERO",
     "SPX",
-    "ENA"
+    "ENA",
+    "MON"
   ],
   "scores": [
-    79,
-    79,
+    82,
+    80,
+    78,
     76,
     74,
-    72,
-    70
+    72
   ],
-  "timestamp": "2026-02-26T08:08:17.905305",
+  "timestamp": "2026-02-26T09:03:23.519420",
   "bucket": "1.2m-5m"
 }
