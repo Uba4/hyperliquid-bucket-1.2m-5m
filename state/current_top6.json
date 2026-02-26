@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "STABLE",
-    "ENA",
     "SKR",
+    "STABLE",
     "WLFI",
-    "CC",
-    "SNX"
+    "SNX",
+    "STBL",
+    "MET"
   ],
   "scores": [
-    82,
     80,
     78,
     76,
     74,
-    72
+    72,
+    70
   ],
-  "timestamp": "2026-02-26T11:34:17.214009",
+  "timestamp": "2026-02-26T12:04:46.261730",
   "bucket": "1.2m-5m"
 }
