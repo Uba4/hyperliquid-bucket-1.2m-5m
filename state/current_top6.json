@@ -1,20 +1,20 @@
 {
   "tokens": [
     "GRASS",
-    "STBL",
     "MET",
     "GRIFFAIN",
-    "ICP",
+    "STBL",
+    "ZRO",
     "APT"
   ],
   "scores": [
-    88,
     86,
     84,
     82,
     80,
-    78
+    78,
+    76
   ],
-  "timestamp": "2026-02-26T15:28:33.107469",
+  "timestamp": "2026-02-26T16:28:56.215014",
   "bucket": "1.2m-5m"
 }

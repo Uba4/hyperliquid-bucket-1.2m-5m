@@ -333,13 +333,13 @@
     "entry_volume": 1367029.1742310002
   },
   "ZRO": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-02-26T07:36:51.215606",
-    "exit_time": "2026-02-26T10:55:25.098584",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-02-26T16:28:56.214787",
+    "exit_time": null,
     "last_bar_collected": 3909,
-    "tracking_until": "2026-03-08T10:55:25.098584",
-    "entry_volume": 4997840.507210001
+    "tracking_until": null,
+    "entry_volume": 5069619.282800005
   },
   "ATOM": {
     "current_run": 16,
@@ -721,11 +721,11 @@
   },
   "ICP": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-26T13:39:42.068320",
-    "exit_time": null,
+    "exit_time": "2026-02-26T16:28:56.214787",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-03-08T16:28:56.214787",
     "entry_volume": 1241461.4276199997
   },
   "GRASS": {
