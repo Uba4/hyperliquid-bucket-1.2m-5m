@@ -675,13 +675,13 @@
     "entry_volume": 1966893.6637560003
   },
   "FIL": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-02-25T16:46:54.378998",
-    "exit_time": "2026-02-25T20:06:41.305856",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-02-26T22:43:31.825122",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-03-07T20:06:41.305856",
-    "entry_volume": 1097860.1667699995
+    "tracking_until": null,
+    "entry_volume": 1509159.9715329995
   },
   "GRIFFAIN": {
     "current_run": 3,
@@ -730,11 +730,11 @@
   },
   "GRASS": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-26T21:02:14.023970",
-    "exit_time": null,
+    "exit_time": "2026-02-26T22:43:31.825122",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-03-08T22:43:31.825122",
     "entry_volume": 1172683.6525659997
   },
   "MNT": {

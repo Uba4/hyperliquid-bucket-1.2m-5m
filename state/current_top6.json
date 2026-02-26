@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "ZRO",
     "SPX",
-    "GRASS",
+    "ZRO",
     "STABLE",
     "MORPHO",
+    "FIL",
     "ARB"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     82,
     80
   ],
-  "timestamp": "2026-02-26T22:02:04.158055",
+  "timestamp": "2026-02-26T22:43:31.825354",
   "bucket": "1.2m-5m"
 }
