@@ -2,10 +2,10 @@
   "tokens": [
     "STABLE",
     "ENA",
-    "ZRO",
-    "SPX",
     "WLFI",
-    "CC"
+    "CC",
+    "SPX",
+    "SKR"
   ],
   "scores": [
     82,
@@ -15,6 +15,6 @@
     74,
     72
   ],
-  "timestamp": "2026-02-26T10:01:00.136125",
+  "timestamp": "2026-02-26T10:55:25.098874",
   "bucket": "1.2m-5m"
 }
