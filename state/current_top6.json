@@ -3,18 +3,18 @@
     "GRASS",
     "STBL",
     "MET",
+    "GRIFFAIN",
     "ICP",
-    "APT",
-    "TRX"
+    "APT"
   ],
   "scores": [
-    90,
     88,
     86,
     84,
+    82,
     80,
-    80
+    78
   ],
-  "timestamp": "2026-02-26T14:33:36.164808",
+  "timestamp": "2026-02-26T15:28:33.107469",
   "bucket": "1.2m-5m"
 }

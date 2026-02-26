@@ -163,11 +163,11 @@
   },
   "TRX": {
     "current_run": 72,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-26T14:33:36.164302",
-    "exit_time": null,
+    "exit_time": "2026-02-26T15:28:33.107288",
     "last_bar_collected": 4260,
-    "tracking_until": null,
+    "tracking_until": "2026-03-08T15:28:33.107288",
     "entry_volume": 2225014.50059
   },
   "RESOLV": {
@@ -684,13 +684,13 @@
     "entry_volume": 1097860.1667699995
   },
   "GRIFFAIN": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-02-26T02:49:23.112248",
-    "exit_time": "2026-02-26T09:03:23.519223",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-02-26T15:28:33.107288",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-03-08T09:03:23.519223",
-    "entry_volume": 1209104.9254639996
+    "tracking_until": null,
+    "entry_volume": 1613173.507432
   },
   "ONDO": {
     "current_run": 1,
