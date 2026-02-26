@@ -1,20 +1,20 @@
 {
   "tokens": [
     "CC",
-    "STABLE",
     "ZRO",
+    "STABLE",
     "TON",
-    "MORPHO",
-    "WLFI"
+    "TRX",
+    "MNT"
   ],
   "scores": [
-    84,
+    88,
+    85,
+    85,
     82,
     80,
-    76,
-    76,
-    76
+    78
   ],
-  "timestamp": "2026-02-26T18:26:25.919718",
+  "timestamp": "2026-02-26T19:14:21.089452",
   "bucket": "1.2m-5m"
 }
