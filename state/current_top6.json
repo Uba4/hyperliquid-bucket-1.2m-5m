@@ -3,18 +3,18 @@
     "STBL",
     "CC",
     "STABLE",
-    "MORPHO",
-    "TRX",
-    "GRIFFAIN"
+    "GRIFFAIN",
+    "DASH",
+    "MORPHO"
   ],
   "scores": [
-    84,
-    82,
     80,
     78,
     76,
-    74
+    74,
+    72,
+    70
   ],
-  "timestamp": "2026-02-26T02:49:23.112621",
+  "timestamp": "2026-02-26T04:31:09.890878",
   "bucket": "1.2m-5m"
 }
