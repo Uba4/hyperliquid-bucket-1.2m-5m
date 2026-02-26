@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "GRASS",
-    "MET",
-    "GRIFFAIN",
-    "STBL",
     "ZRO",
-    "APT"
+    "MORPHO",
+    "WLFI",
+    "MET",
+    "APT",
+    "STABLE"
   ],
   "scores": [
+    88,
     86,
     84,
     82,
     80,
-    78,
-    76
+    78
   ],
-  "timestamp": "2026-02-26T16:28:56.215014",
+  "timestamp": "2026-02-26T17:36:03.800101",
   "bucket": "1.2m-5m"
 }
