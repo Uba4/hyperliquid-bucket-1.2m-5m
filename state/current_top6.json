@@ -1,20 +1,20 @@
 {
   "tokens": [
     "kLUNC",
-    "TRUMP",
     "ICP",
-    "ASTER",
+    "TRUMP",
     "ZRO",
-    "kBONK"
+    "ASTER",
+    "BNB"
   ],
   "scores": [
+    70,
     68,
     66,
-    64,
-    62,
-    60,
-    58
+    63,
+    63,
+    60
   ],
-  "timestamp": "2026-02-27T20:49:41.293792",
+  "timestamp": "2026-02-27T21:14:37.279351",
   "bucket": "1.2m-5m"
 }
