@@ -1,12 +1,12 @@
 {
   "APT": {
-    "current_run": 50,
-    "status": "post_exit",
-    "entry_time": "2026-02-26T14:33:36.164302",
-    "exit_time": "2026-02-26T18:26:25.919440",
+    "current_run": 51,
+    "status": "in_top6",
+    "entry_time": "2026-02-27T04:21:37.956892",
+    "exit_time": null,
     "last_bar_collected": 4317,
-    "tracking_until": "2026-03-08T18:26:25.919440",
-    "entry_volume": 4822024.818655004
+    "tracking_until": null,
+    "entry_volume": 2092362.9138190001
   },
   "TIA": {
     "current_run": 36,
@@ -19,11 +19,11 @@
   },
   "NEAR": {
     "current_run": 47,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-27T02:12:45.912226",
-    "exit_time": null,
+    "exit_time": "2026-02-27T04:21:37.956892",
     "last_bar_collected": 4248,
-    "tracking_until": null,
+    "tracking_until": "2026-03-09T04:21:37.956892",
     "entry_volume": 2884725.6060799994
   },
   "PENGU": {
@@ -296,15 +296,6 @@
     "tracking_until": "2026-03-04T22:44:12.370746",
     "entry_volume": 1298292.9600300004
   },
-  "MOODENG": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-02-16T19:49:09.308953",
-    "exit_time": "2026-02-17T03:32:41.844234",
-    "last_bar_collected": 4445,
-    "tracking_until": "2026-02-27T03:32:41.844234",
-    "entry_volume": 1373505.043129001
-  },
   "MOVE": {
     "current_run": 10,
     "status": "post_exit",
@@ -360,13 +351,13 @@
     "entry_volume": 1476535.3019530005
   },
   "INJ": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-02-23T14:36:37.573814",
-    "exit_time": "2026-02-23T16:13:54.938199",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-02-27T04:21:37.956892",
+    "exit_time": null,
     "last_bar_collected": 3494,
-    "tracking_until": "2026-03-05T16:13:54.938199",
-    "entry_volume": 2252119.09251
+    "tracking_until": null,
+    "entry_volume": 1105492.9900100005
   },
   "OM": {
     "current_run": 12,
@@ -469,11 +460,11 @@
   },
   "VVV": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-27T02:12:45.912226",
-    "exit_time": null,
+    "exit_time": "2026-02-27T04:21:37.956892",
     "last_bar_collected": 3591,
-    "tracking_until": null,
+    "tracking_until": "2026-03-09T04:21:37.956892",
     "entry_volume": 4986021.392335
   },
   "DASH": {

@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "VVV",
-    "ATOM",
     "ZRO",
-    "ARB",
-    "NEAR",
-    "VIRTUAL"
+    "VIRTUAL",
+    "ATOM",
+    "APT",
+    "INJ",
+    "ARB"
   ],
   "scores": [
-    80,
-    78,
     76,
     74,
     72,
-    70
+    70,
+    68,
+    66
   ],
-  "timestamp": "2026-02-27T02:12:45.912880",
+  "timestamp": "2026-02-27T04:21:37.957344",
   "bucket": "1.2m-5m"
 }
