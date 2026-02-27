@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ICP",
     "ZRO",
-    "VIRTUAL",
+    "ICP",
     "ARB",
-    "SKR",
-    "PENGU"
+    "VIRTUAL",
+    "APT",
+    "kBONK"
   ],
   "scores": [
-    80,
-    78,
-    76,
-    74,
     72,
-    70
+    70,
+    68,
+    66,
+    64,
+    62
   ],
-  "timestamp": "2026-02-27T08:02:35.674226",
+  "timestamp": "2026-02-27T08:54:31.186632",
   "bucket": "1.2m-5m"
 }
