@@ -414,13 +414,13 @@
     "entry_volume": 4216550.595680003
   },
   "ENA": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-02-26T08:08:17.905154",
-    "exit_time": "2026-02-26T12:04:46.261370",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-02-27T10:07:30.167125",
+    "exit_time": null,
     "last_bar_collected": 4150,
-    "tracking_until": "2026-03-08T12:04:46.261370",
-    "entry_volume": 4398562.779780001
+    "tracking_until": null,
+    "entry_volume": 3595416.9836599994
   },
   "kPEPE": {
     "current_run": 8,
@@ -703,11 +703,11 @@
   },
   "ICP": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-27T06:28:37.614994",
-    "exit_time": null,
+    "exit_time": "2026-02-27T10:07:30.167125",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-03-09T10:07:30.167125",
     "entry_volume": 1088347.1979200004
   },
   "GRASS": {
