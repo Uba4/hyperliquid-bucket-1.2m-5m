@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MORPHO",
-    "CC",
     "TRUMP",
-    "XMR",
+    "MORPHO",
+    "BCH",
     "BNB",
-    "JUP"
+    "TRX",
+    "CC"
   ],
   "scores": [
-    60,
+    64,
+    62,
     58,
     56,
-    54,
-    52,
-    50
+    56,
+    56
   ],
-  "timestamp": "2026-02-27T18:59:35.181085",
+  "timestamp": "2026-02-27T19:36:09.203735",
   "bucket": "1.2m-5m"
 }
