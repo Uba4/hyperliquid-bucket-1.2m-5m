@@ -2,19 +2,19 @@
   "tokens": [
     "ARB",
     "ZRO",
-    "APT",
     "PENDLE",
     "ENA",
-    "XMR"
+    "ATOM",
+    "APT"
   ],
   "scores": [
     70,
     68,
     66,
     64,
-    60,
-    60
+    62,
+    58
   ],
-  "timestamp": "2026-02-27T10:56:12.012671",
+  "timestamp": "2026-02-27T11:28:06.028063",
   "bucket": "1.2m-5m"
 }
