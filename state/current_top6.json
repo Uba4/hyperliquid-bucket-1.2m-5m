@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "STABLE",
-    "SPX",
-    "FIL",
-    "UNI",
+    "VVV",
     "ATOM",
-    "ARB"
+    "ZRO",
+    "ARB",
+    "NEAR",
+    "VIRTUAL"
   ],
   "scores": [
-    92,
-    90,
-    88,
-    86,
-    84,
-    82
+    80,
+    78,
+    76,
+    74,
+    72,
+    70
   ],
-  "timestamp": "2026-02-26T23:59:18.364502",
+  "timestamp": "2026-02-27T02:12:45.912880",
   "bucket": "1.2m-5m"
 }
