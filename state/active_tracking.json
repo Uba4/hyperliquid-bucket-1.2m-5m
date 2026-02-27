@@ -242,15 +242,6 @@
     "tracking_until": "2026-03-08T07:36:51.215606",
     "entry_volume": 2298072.034122
   },
-  "MERL": {
-    "current_run": 35,
-    "status": "post_exit",
-    "entry_time": "2026-02-17T10:28:04.914218",
-    "exit_time": "2026-02-17T14:36:41.843931",
-    "last_bar_collected": 2949,
-    "tracking_until": "2026-02-27T14:36:41.843931",
-    "entry_volume": 1305263.9985550006
-  },
   "kSHIB": {
     "current_run": 13,
     "status": "post_exit",
