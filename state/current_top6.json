@@ -2,10 +2,10 @@
   "tokens": [
     "kLUNC",
     "ICP",
-    "ZRO",
-    "TRUMP",
     "MORPHO",
-    "TRX"
+    "ZRO",
+    "TRX",
+    "BNB"
   ],
   "scores": [
     68,
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-02-27T21:59:03.310654",
+  "timestamp": "2026-02-27T22:26:20.581402",
   "bucket": "1.2m-5m"
 }
