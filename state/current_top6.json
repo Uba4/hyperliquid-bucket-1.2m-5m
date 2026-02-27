@@ -3,8 +3,8 @@
     "kLUNC",
     "ICP",
     "MORPHO",
-    "ZRO",
     "BNB",
+    "ZRO",
     "TRX"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     60,
     58
   ],
-  "timestamp": "2026-02-27T23:01:32.299471",
+  "timestamp": "2026-02-27T23:33:00.841789",
   "bucket": "1.2m-5m"
 }
