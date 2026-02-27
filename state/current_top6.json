@@ -2,19 +2,19 @@
   "tokens": [
     "ARB",
     "ZRO",
-    "PENDLE",
     "ENA",
-    "ATOM",
-    "APT"
+    "TON",
+    "TRX",
+    "PENDLE"
   ],
   "scores": [
-    70,
     68,
     66,
     64,
     62,
-    58
+    59,
+    59
   ],
-  "timestamp": "2026-02-27T11:28:06.028063",
+  "timestamp": "2026-02-27T11:53:19.393773",
   "bucket": "1.2m-5m"
 }
