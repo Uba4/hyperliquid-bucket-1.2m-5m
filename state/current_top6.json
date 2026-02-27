@@ -1,10 +1,10 @@
 {
   "tokens": [
+    "ARB",
     "ZRO",
     "ICP",
-    "ARB",
-    "VIRTUAL",
     "APT",
+    "PENDLE",
     "kBONK"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-02-27T08:54:31.186632",
+  "timestamp": "2026-02-27T09:30:41.692092",
   "bucket": "1.2m-5m"
 }
