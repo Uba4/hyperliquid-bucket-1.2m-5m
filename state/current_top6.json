@@ -1,20 +1,20 @@
 {
   "tokens": [
     "TRUMP",
-    "MORPHO",
-    "BCH",
     "BNB",
     "TRX",
-    "CC"
+    "BCH",
+    "ZRO",
+    "kBONK"
   ],
   "scores": [
+    62,
     60,
     58,
     56,
-    54,
     52,
-    50
+    52
   ],
-  "timestamp": "2026-02-27T19:57:18.790259",
+  "timestamp": "2026-02-27T20:24:44.246302",
   "bucket": "1.2m-5m"
 }
