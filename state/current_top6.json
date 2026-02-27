@@ -2,19 +2,19 @@
   "tokens": [
     "SKR",
     "ASTER",
-    "TRX",
-    "WLFI",
+    "LIT",
+    "UNI",
     "TRUMP",
-    "TON"
+    "TRX"
   ],
   "scores": [
+    66,
+    64,
     62,
     60,
     58,
-    56,
-    54,
-    52
+    56
   ],
-  "timestamp": "2026-02-27T15:02:15.667893",
+  "timestamp": "2026-02-27T15:47:54.382301",
   "bucket": "1.2m-5m"
 }
