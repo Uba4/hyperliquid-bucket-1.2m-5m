@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "CC",
     "MORPHO",
-    "LIT",
-    "UNI",
+    "CC",
     "TRUMP",
-    "ASTER"
+    "UNI",
+    "MON",
+    "TRX"
   ],
   "scores": [
     58,
@@ -15,6 +15,6 @@
     50,
     48
   ],
-  "timestamp": "2026-02-27T16:59:13.461383",
+  "timestamp": "2026-02-27T17:38:33.441464",
   "bucket": "1.2m-5m"
 }
