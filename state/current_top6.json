@@ -3,18 +3,18 @@
     "ICP",
     "ZRO",
     "VIRTUAL",
-    "SKR",
     "ARB",
-    "DASH"
+    "SKR",
+    "PENGU"
   ],
   "scores": [
+    80,
     78,
     76,
     74,
     72,
-    70,
-    68
+    70
   ],
-  "timestamp": "2026-02-27T07:28:23.809002",
+  "timestamp": "2026-02-27T08:02:35.674226",
   "bucket": "1.2m-5m"
 }
