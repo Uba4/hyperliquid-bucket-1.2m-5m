@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "XPL",
+    "SPX",
     "KAITO",
     "BERA",
     "PENGU",
-    "WLD",
-    "SOPH"
+    "PENDLE",
+    "UNI"
   ],
   "scores": [
     78,
@@ -13,8 +13,8 @@
     74,
     72,
     70,
-    68
+    66
   ],
-  "timestamp": "2026-02-28T15:59:32.000791",
+  "timestamp": "2026-02-28T16:30:55.142544",
   "bucket": "1.2m-5m"
 }
