@@ -10,11 +10,11 @@
   },
   "TIA": {
     "current_run": 37,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-28T21:52:26.448804",
-    "exit_time": null,
+    "exit_time": "2026-02-28T22:27:48.248066",
     "last_bar_collected": 4251,
-    "tracking_until": null,
+    "tracking_until": "2026-03-10T22:27:48.248066",
     "entry_volume": 1376281.2936620002
   },
   "NEAR": {
@@ -684,13 +684,13 @@
     "entry_volume": 1089949.72338
   },
   "GRASS": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-02-26T21:02:14.023970",
-    "exit_time": "2026-02-26T22:43:31.825122",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-02-28T22:27:48.248066",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-03-08T22:43:31.825122",
-    "entry_volume": 1172683.6525659997
+    "tracking_until": null,
+    "entry_volume": 1127264.8252719995
   },
   "MNT": {
     "current_run": 1,
