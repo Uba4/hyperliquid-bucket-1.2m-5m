@@ -325,11 +325,11 @@
   },
   "OP": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-28T17:01:02.521255",
-    "exit_time": null,
+    "exit_time": "2026-02-28T17:54:18.898940",
     "last_bar_collected": 4251,
-    "tracking_until": null,
+    "tracking_until": "2026-03-10T17:54:18.898940",
     "entry_volume": 1196713.7577820001
   },
   "INJ": {
@@ -432,13 +432,13 @@
     "entry_volume": 1091795.055038
   },
   "AZTEC": {
-    "current_run": 18,
-    "status": "post_exit",
-    "entry_time": "2026-02-28T05:37:35.105025",
-    "exit_time": "2026-02-28T08:56:12.740773",
+    "current_run": 19,
+    "status": "in_top6",
+    "entry_time": "2026-02-28T17:54:18.898940",
+    "exit_time": null,
     "last_bar_collected": 525,
-    "tracking_until": "2026-03-10T08:56:12.740773",
-    "entry_volume": 2050823.3896089997
+    "tracking_until": null,
+    "entry_volume": 1275278.7331709994
   },
   "VVV": {
     "current_run": 4,

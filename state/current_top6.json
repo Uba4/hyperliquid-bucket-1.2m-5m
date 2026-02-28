@@ -4,8 +4,8 @@
     "BERA",
     "ENA",
     "UNI",
-    "PENDLE",
-    "OP"
+    "AZTEC",
+    "PENDLE"
   ],
   "scores": [
     76,
@@ -15,6 +15,6 @@
     68,
     66
   ],
-  "timestamp": "2026-02-28T17:44:11.818425",
+  "timestamp": "2026-02-28T17:54:18.899134",
   "bucket": "1.2m-5m"
 }
