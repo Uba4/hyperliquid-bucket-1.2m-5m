@@ -208,11 +208,11 @@
   },
   "POL": {
     "current_run": 52,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-28T15:51:02.313956",
-    "exit_time": null,
+    "exit_time": "2026-02-28T15:59:32.000617",
     "last_bar_collected": 3781,
-    "tracking_until": null,
+    "tracking_until": "2026-03-10T15:59:32.000617",
     "entry_volume": 1182448.0885000005
   },
   "BCH": {
@@ -736,5 +736,14 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 1328477.5077500003
+  },
+  "SOPH": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-02-28T15:59:32.000617",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 1639871.6724019998
   }
 }
