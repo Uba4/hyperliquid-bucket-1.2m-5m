@@ -18,13 +18,13 @@
     "entry_volume": 1218267.5512910003
   },
   "NEAR": {
-    "current_run": 48,
-    "status": "post_exit",
-    "entry_time": "2026-02-28T10:42:25.049268",
-    "exit_time": "2026-02-28T13:47:01.972422",
+    "current_run": 49,
+    "status": "in_top6",
+    "entry_time": "2026-02-28T19:53:33.827173",
+    "exit_time": null,
     "last_bar_collected": 4248,
-    "tracking_until": "2026-03-10T13:47:01.972422",
-    "entry_volume": 3466109.172580002
+    "tracking_until": null,
+    "entry_volume": 3556999.9363700007
   },
   "PENGU": {
     "current_run": 49,
@@ -730,11 +730,11 @@
   },
   "KAITO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-28T13:47:01.972422",
-    "exit_time": null,
+    "exit_time": "2026-02-28T19:53:33.827173",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-03-10T19:53:33.827173",
     "entry_volume": 1328477.5077500003
   },
   "SOPH": {
