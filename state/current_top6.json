@@ -1,20 +1,20 @@
 {
   "tokens": [
     "LAYER",
-    "ANIME",
+    "BERA",
     "TAO",
     "JUP",
     "ENA",
-    "BERA"
+    "kBONK"
   ],
   "scores": [
-    72,
-    70,
     68,
     66,
     64,
-    62
+    62,
+    60,
+    58
   ],
-  "timestamp": "2026-02-28T04:04:33.453844",
+  "timestamp": "2026-02-28T05:00:38.277685",
   "bucket": "1.2m-5m"
 }
