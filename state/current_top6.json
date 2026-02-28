@@ -1,20 +1,20 @@
 {
   "tokens": [
     "AZTEC",
-    "LAYER",
-    "TAO",
-    "WLFI",
-    "LTC",
-    "kBONK"
+    "BERA",
+    "TRX",
+    "XMR",
+    "AXS",
+    "TAO"
   ],
   "scores": [
+    68,
+    66,
+    64,
     62,
     60,
-    58,
-    56,
-    52,
-    52
+    58
   ],
-  "timestamp": "2026-02-28T05:59:13.566270",
+  "timestamp": "2026-02-28T06:42:21.304955",
   "bucket": "1.2m-5m"
 }
