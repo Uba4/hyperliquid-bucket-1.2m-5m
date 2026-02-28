@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "LAYER",
     "AZTEC",
+    "LAYER",
     "TAO",
     "WLFI",
-    "ENA",
-    "JUP"
+    "LTC",
+    "kBONK"
   ],
   "scores": [
     62,
     60,
     58,
     56,
-    54,
+    52,
     52
   ],
-  "timestamp": "2026-02-28T05:37:35.105408",
+  "timestamp": "2026-02-28T05:59:13.566270",
   "bucket": "1.2m-5m"
 }
