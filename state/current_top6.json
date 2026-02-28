@@ -2,10 +2,10 @@
   "tokens": [
     "AZTEC",
     "TRX",
-    "BERA",
     "XMR",
+    "BERA",
     "AXS",
-    "BNB"
+    "UNI"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-02-28T07:04:57.958921",
+  "timestamp": "2026-02-28T07:36:13.801725",
   "bucket": "1.2m-5m"
 }
