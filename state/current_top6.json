@@ -2,10 +2,10 @@
   "tokens": [
     "GRASS",
     "NEAR",
-    "PENGU",
     "JUP",
+    "PENGU",
     "kBONK",
-    "ARB"
+    "SEI"
   ],
   "scores": [
     72,
@@ -15,6 +15,6 @@
     64,
     62
   ],
-  "timestamp": "2026-02-28T23:40:09.291367",
+  "timestamp": "2026-02-28T23:52:57.218537",
   "bucket": "1.2m-5m"
 }
