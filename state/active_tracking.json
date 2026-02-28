@@ -73,11 +73,11 @@
   },
   "SPX": {
     "current_run": 89,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-28T18:16:55.460994",
-    "exit_time": null,
+    "exit_time": "2026-02-28T21:27:32.456419",
     "last_bar_collected": 4212,
-    "tracking_until": null,
+    "tracking_until": "2026-03-10T21:27:32.456419",
     "entry_volume": 1424817.8466039998
   },
   "VIRTUAL": {
@@ -648,13 +648,13 @@
     "entry_volume": 1613173.507432
   },
   "ONDO": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-02-25T21:52:50.008697",
-    "exit_time": "2026-02-26T00:02:59.871889",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-02-28T21:27:32.456419",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-03-08T00:02:59.871889",
-    "entry_volume": 1748638.3325099994
+    "tracking_until": null,
+    "entry_volume": 1151436.7716400002
   },
   "SYRUP": {
     "current_run": 1,
