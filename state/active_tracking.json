@@ -1,11 +1,11 @@
 {
   "APT": {
     "current_run": 53,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-28T19:31:04.143160",
-    "exit_time": null,
+    "exit_time": "2026-02-28T23:22:18.500922",
     "last_bar_collected": 4317,
-    "tracking_until": null,
+    "tracking_until": "2026-03-10T23:22:18.500922",
     "entry_volume": 2113766.99814
   },
   "TIA": {
@@ -45,13 +45,13 @@
     "entry_volume": 1654818.7112599998
   },
   "kBONK": {
-    "current_run": 30,
-    "status": "post_exit",
-    "entry_time": "2026-02-28T05:59:13.565926",
-    "exit_time": "2026-02-28T06:42:21.304312",
+    "current_run": 31,
+    "status": "in_top6",
+    "entry_time": "2026-02-28T23:22:18.500922",
+    "exit_time": null,
     "last_bar_collected": 4301,
-    "tracking_until": "2026-03-10T06:42:21.304312",
-    "entry_volume": 1509172.0263270005
+    "tracking_until": null,
+    "entry_volume": 1222761.203647
   },
   "CRV": {
     "current_run": 43,
@@ -421,15 +421,6 @@
     "last_bar_collected": 851,
     "tracking_until": "2026-03-10T11:45:14.574653",
     "entry_volume": 2002401.0464800003
-  },
-  "ACE": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-02-18T22:55:29.916865",
-    "exit_time": "2026-02-18T23:21:32.135817",
-    "last_bar_collected": 620,
-    "tracking_until": "2026-02-28T23:21:32.135817",
-    "entry_volume": 1091795.055038
   },
   "AZTEC": {
     "current_run": 19,
