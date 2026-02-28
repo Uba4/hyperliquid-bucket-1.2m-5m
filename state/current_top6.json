@@ -1,20 +1,20 @@
 {
   "tokens": [
     "XPL",
+    "BERA",
     "WLD",
     "KAITO",
-    "BERA",
     "MON",
     "SPX"
   ],
   "scores": [
+    82,
     80,
     78,
     76,
     74,
-    72,
-    70
+    72
   ],
-  "timestamp": "2026-02-28T14:45:06.184534",
+  "timestamp": "2026-02-28T14:56:31.222937",
   "bucket": "1.2m-5m"
 }
