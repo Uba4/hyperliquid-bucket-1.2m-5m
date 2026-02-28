@@ -1,11 +1,11 @@
 {
   "tokens": [
     "XPL",
-    "STABLE",
     "WLD",
-    "NEAR",
-    "BNB",
-    "MORPHO"
+    "KAITO",
+    "MON",
+    "BERA",
+    "STABLE"
   ],
   "scores": [
     78,
@@ -15,6 +15,6 @@
     70,
     68
   ],
-  "timestamp": "2026-02-28T13:09:07.328563",
+  "timestamp": "2026-02-28T13:47:01.972764",
   "bucket": "1.2m-5m"
 }
