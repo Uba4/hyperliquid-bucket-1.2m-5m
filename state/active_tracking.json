@@ -1,12 +1,12 @@
 {
   "APT": {
-    "current_run": 52,
-    "status": "post_exit",
-    "entry_time": "2026-02-27T08:54:31.186408",
-    "exit_time": "2026-02-27T11:53:19.393512",
+    "current_run": 53,
+    "status": "in_top6",
+    "entry_time": "2026-02-28T19:31:04.143160",
+    "exit_time": null,
     "last_bar_collected": 4317,
-    "tracking_until": "2026-03-09T11:53:19.393512",
-    "entry_volume": 2183569.2714150003
+    "tracking_until": null,
+    "entry_volume": 2113766.99814
   },
   "TIA": {
     "current_run": 36,
@@ -433,11 +433,11 @@
   },
   "AZTEC": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-28T17:54:18.898940",
-    "exit_time": null,
+    "exit_time": "2026-02-28T19:31:04.143160",
     "last_bar_collected": 525,
-    "tracking_until": null,
+    "tracking_until": "2026-03-10T19:31:04.143160",
     "entry_volume": 1275278.7331709994
   },
   "VVV": {
