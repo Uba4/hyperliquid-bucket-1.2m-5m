@@ -1,20 +1,20 @@
 {
   "tokens": [
     "KAITO",
+    "SPX",
     "BERA",
     "ENA",
-    "UNI",
     "AZTEC",
-    "PENDLE"
+    "UNI"
   ],
   "scores": [
+    78,
     76,
     74,
     72,
     70,
-    68,
-    66
+    68
   ],
-  "timestamp": "2026-02-28T17:54:18.899134",
+  "timestamp": "2026-02-28T18:16:55.461180",
   "bucket": "1.2m-5m"
 }
