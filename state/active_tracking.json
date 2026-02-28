@@ -235,11 +235,11 @@
   },
   "BERA": {
     "current_run": 46,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-02-28T06:42:21.304312",
-    "exit_time": null,
+    "exit_time": "2026-02-28T08:35:44.896108",
     "last_bar_collected": 4184,
-    "tracking_until": null,
+    "tracking_until": "2026-03-10T08:35:44.896108",
     "entry_volume": 1155467.6487419999
   },
   "kSHIB": {
@@ -540,13 +540,13 @@
     "entry_volume": 2421970.222888
   },
   "LIT": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-02-27T15:47:54.381937",
-    "exit_time": "2026-02-27T17:38:33.441152",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-02-28T08:35:44.896108",
+    "exit_time": null,
     "last_bar_collected": 0,
-    "tracking_until": "2026-03-09T17:38:33.441152",
-    "entry_volume": 5471308.376799998
+    "tracking_until": null,
+    "entry_volume": 4101063.7478
   },
   "PUMP": {
     "current_run": 2,
