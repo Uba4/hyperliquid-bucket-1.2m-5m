@@ -2,19 +2,19 @@
   "tokens": [
     "TRX",
     "XMR",
-    "AZTEC",
-    "UNI",
+    "LAYER",
     "LIT",
-    "AXS"
+    "UNI",
+    "BNB"
   ],
   "scores": [
+    76,
+    74,
     72,
     70,
     68,
-    64,
-    64,
-    63
+    64
   ],
-  "timestamp": "2026-02-28T08:35:44.896353",
+  "timestamp": "2026-02-28T08:56:12.741124",
   "bucket": "1.2m-5m"
 }
