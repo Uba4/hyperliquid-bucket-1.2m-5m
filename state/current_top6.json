@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "TRX",
-    "XMR",
     "LAYER",
+    "XMR",
+    "TRX",
     "LIT",
     "UNI",
-    "BNB"
+    "MORPHO"
   ],
   "scores": [
-    76,
-    74,
-    72,
+    73,
+    73,
     70,
     68,
+    66,
     64
   ],
-  "timestamp": "2026-02-28T08:56:12.741124",
+  "timestamp": "2026-02-28T09:20:19.308095",
   "bucket": "1.2m-5m"
 }
