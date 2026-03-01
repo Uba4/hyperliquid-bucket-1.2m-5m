@@ -226,11 +226,11 @@
   },
   "MON": {
     "current_run": 40,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-03-01T05:41:36.282933",
-    "exit_time": null,
+    "exit_time": "2026-03-01T09:51:01.413712",
     "last_bar_collected": 3679,
-    "tracking_until": null,
+    "tracking_until": "2026-03-11T09:51:01.413712",
     "entry_volume": 3392825.0308720013
   },
   "BERA": {
@@ -414,13 +414,13 @@
     "entry_volume": 5242831.6020450005
   },
   "XMR": {
-    "current_run": 26,
-    "status": "post_exit",
-    "entry_time": "2026-02-28T06:42:21.304312",
-    "exit_time": "2026-02-28T11:45:14.574653",
+    "current_run": 27,
+    "status": "in_top6",
+    "entry_time": "2026-03-01T09:51:01.413712",
+    "exit_time": null,
     "last_bar_collected": 960,
-    "tracking_until": "2026-03-10T11:45:14.574653",
-    "entry_volume": 2002401.0464800003
+    "tracking_until": null,
+    "entry_volume": 3099067.4779999997
   },
   "AZTEC": {
     "current_run": 19,
