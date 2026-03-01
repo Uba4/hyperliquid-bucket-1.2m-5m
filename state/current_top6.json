@@ -3,9 +3,9 @@
     "TRX",
     "STABLE",
     "BNB",
-    "MORPHO",
     "CC",
-    "UNI"
+    "MORPHO",
+    "BERA"
   ],
   "scores": [
     58,
@@ -15,6 +15,6 @@
     50,
     48
   ],
-  "timestamp": "2026-03-01T21:35:29.903582",
+  "timestamp": "2026-03-01T21:49:36.625458",
   "bucket": "1.2m-5m"
 }
