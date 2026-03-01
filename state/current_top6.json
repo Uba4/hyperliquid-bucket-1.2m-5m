@@ -3,9 +3,9 @@
     "JUP",
     "STABLE",
     "SPX",
-    "PENDLE",
     "TRUMP",
-    "ARB"
+    "ARB",
+    "MON"
   ],
   "scores": [
     70,
@@ -15,6 +15,6 @@
     62,
     60
   ],
-  "timestamp": "2026-03-01T04:46:31.929831",
+  "timestamp": "2026-03-01T05:41:36.283138",
   "bucket": "1.2m-5m"
 }
