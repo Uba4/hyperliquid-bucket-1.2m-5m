@@ -1,20 +1,20 @@
 {
   "tokens": [
     "GRASS",
-    "NEAR",
-    "JUP",
-    "PENGU",
-    "kBONK",
-    "OP"
+    "SKR",
+    "STABLE",
+    "SPX",
+    "PENDLE",
+    "JUP"
   ],
   "scores": [
-    72,
     70,
     68,
     66,
     64,
+    62,
     60
   ],
-  "timestamp": "2026-03-01T00:00:10.116534",
+  "timestamp": "2026-03-01T02:46:09.427844",
   "bucket": "1.2m-5m"
 }
