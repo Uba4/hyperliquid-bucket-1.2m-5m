@@ -2,8 +2,8 @@
   "tokens": [
     "TRX",
     "STABLE",
-    "MORPHO",
     "BNB",
+    "MORPHO",
     "CC",
     "UNI"
   ],
@@ -15,6 +15,6 @@
     50,
     48
   ],
-  "timestamp": "2026-03-01T21:10:44.500936",
+  "timestamp": "2026-03-01T21:35:29.903582",
   "bucket": "1.2m-5m"
 }
