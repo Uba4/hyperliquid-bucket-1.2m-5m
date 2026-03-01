@@ -81,13 +81,13 @@
     "entry_volume": 1756678.4995899997
   },
   "VIRTUAL": {
-    "current_run": 55,
-    "status": "post_exit",
-    "entry_time": "2026-02-27T02:12:45.912226",
-    "exit_time": "2026-02-27T09:30:41.691865",
+    "current_run": 56,
+    "status": "in_top6",
+    "entry_time": "2026-03-01T18:34:15.484898",
+    "exit_time": null,
     "last_bar_collected": 4465,
-    "tracking_until": "2026-03-09T09:30:41.691865",
-    "entry_volume": 3713580.0130910003
+    "tracking_until": null,
+    "entry_volume": 3178932.9302100013
   },
   "TON": {
     "current_run": 54,
@@ -226,11 +226,11 @@
   },
   "MON": {
     "current_run": 42,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-03-01T16:45:35.876214",
-    "exit_time": null,
+    "exit_time": "2026-03-01T18:34:15.484898",
     "last_bar_collected": 3711,
-    "tracking_until": null,
+    "tracking_until": "2026-03-11T18:34:15.484898",
     "entry_volume": 2503117.6740830005
   },
   "BERA": {

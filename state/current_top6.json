@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "XMR",
-    "AAVE",
     "MORPHO",
-    "MON",
-    "BNB",
-    "UNI"
+    "AAVE",
+    "XMR",
+    "UNI",
+    "VIRTUAL",
+    "BNB"
   ],
   "scores": [
-    60,
     58,
     56,
     54,
     52,
-    50
+    50,
+    48
   ],
-  "timestamp": "2026-03-01T17:58:20.168288",
+  "timestamp": "2026-03-01T18:34:15.485080",
   "bucket": "1.2m-5m"
 }
