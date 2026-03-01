@@ -1,11 +1,11 @@
 {
   "tokens": [
     "TRX",
-    "MORPHO",
-    "UNI",
-    "BNB",
     "STABLE",
-    "BERA"
+    "MORPHO",
+    "BNB",
+    "CC",
+    "UNI"
   ],
   "scores": [
     58,
@@ -15,6 +15,6 @@
     50,
     48
   ],
-  "timestamp": "2026-03-01T19:59:47.106296",
+  "timestamp": "2026-03-01T20:32:04.505748",
   "bucket": "1.2m-5m"
 }
