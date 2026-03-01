@@ -476,15 +476,6 @@
     "tracking_until": "2026-03-02T22:47:42.650976",
     "entry_volume": 1447542.1644499996
   },
-  "ZORA": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-02-19T10:12:16.203769",
-    "exit_time": "2026-02-19T11:51:11.817652",
-    "last_bar_collected": 3395,
-    "tracking_until": "2026-03-01T11:51:11.817652",
-    "entry_volume": 1284073.157536
-  },
   "ASTER": {
     "current_run": 6,
     "status": "post_exit",
