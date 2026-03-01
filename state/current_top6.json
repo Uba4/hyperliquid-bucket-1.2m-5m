@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MORPHO",
-    "SKR",
-    "BNB",
-    "ARB",
     "AAVE",
-    "XMR"
+    "SKR",
+    "XMR",
+    "BNB",
+    "ARB"
   ],
   "scores": [
     58,
     56,
-    54,
+    53,
     52,
     50,
     48
   ],
-  "timestamp": "2026-03-01T15:53:38.450257",
+  "timestamp": "2026-03-01T16:13:11.489208",
   "bucket": "1.2m-5m"
 }
