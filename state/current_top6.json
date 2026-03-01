@@ -1,11 +1,11 @@
 {
   "tokens": [
+    "XMR",
     "AAVE",
     "MORPHO",
-    "XMR",
     "MON",
-    "ENA",
-    "LINK"
+    "BNB",
+    "UNI"
   ],
   "scores": [
     60,
@@ -13,8 +13,8 @@
     56,
     54,
     52,
-    48
+    50
   ],
-  "timestamp": "2026-03-01T17:29:10.898322",
+  "timestamp": "2026-03-01T17:48:16.606321",
   "bucket": "1.2m-5m"
 }
