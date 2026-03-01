@@ -2,19 +2,19 @@
   "tokens": [
     "TRX",
     "STABLE",
+    "GRASS",
     "BNB",
-    "MORPHO",
-    "BERA",
-    "UNI"
+    "CC",
+    "BERA"
   ],
   "scores": [
+    60,
+    58,
     56,
     54,
     52,
-    50,
-    48,
-    46
+    50
   ],
-  "timestamp": "2026-03-01T21:58:10.731013",
+  "timestamp": "2026-03-01T22:24:06.677088",
   "bucket": "1.2m-5m"
 }
