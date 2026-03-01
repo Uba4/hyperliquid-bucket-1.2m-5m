@@ -3,18 +3,18 @@
     "TRX",
     "STABLE",
     "BNB",
-    "CC",
     "MORPHO",
-    "BERA"
+    "BERA",
+    "UNI"
   ],
   "scores": [
-    58,
     56,
     54,
     52,
     50,
-    48
+    48,
+    46
   ],
-  "timestamp": "2026-03-01T21:49:36.625458",
+  "timestamp": "2026-03-01T21:58:10.731013",
   "bucket": "1.2m-5m"
 }

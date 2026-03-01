@@ -118,11 +118,11 @@
   },
   "CC": {
     "current_run": 81,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-03-01T20:32:04.505512",
-    "exit_time": null,
+    "exit_time": "2026-03-01T21:58:10.730825",
     "last_bar_collected": 4356,
-    "tracking_until": null,
+    "tracking_until": "2026-03-11T21:58:10.730825",
     "entry_volume": 1275964.530849999
   },
   "WLFI": {
@@ -261,13 +261,13 @@
     "entry_volume": 1182744.0106930002
   },
   "UNI": {
-    "current_run": 25,
-    "status": "post_exit",
-    "entry_time": "2026-03-01T17:48:16.606032",
-    "exit_time": "2026-03-01T21:49:36.625271",
+    "current_run": 26,
+    "status": "in_top6",
+    "entry_time": "2026-03-01T21:58:10.730825",
+    "exit_time": null,
     "last_bar_collected": 4772,
-    "tracking_until": "2026-03-11T21:49:36.625271",
-    "entry_volume": 5428876.172790002
+    "tracking_until": null,
+    "entry_volume": 4162026.0920499987
   },
   "AXS": {
     "current_run": 24,
