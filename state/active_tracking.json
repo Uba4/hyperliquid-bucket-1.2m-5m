@@ -118,11 +118,11 @@
   },
   "CC": {
     "current_run": 82,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-03-01T22:24:06.676730",
-    "exit_time": null,
+    "exit_time": "2026-03-01T22:46:29.572829",
     "last_bar_collected": 4358,
-    "tracking_until": null,
+    "tracking_until": "2026-03-11T22:46:29.572829",
     "entry_volume": 1172535.7563599998
   },
   "WLFI": {
@@ -405,13 +405,13 @@
     "entry_volume": 5242831.6020450005
   },
   "XMR": {
-    "current_run": 28,
-    "status": "post_exit",
-    "entry_time": "2026-03-01T15:53:38.450063",
-    "exit_time": "2026-03-01T19:52:19.490470",
+    "current_run": 29,
+    "status": "in_top6",
+    "entry_time": "2026-03-01T22:46:29.572829",
+    "exit_time": null,
     "last_bar_collected": 1012,
-    "tracking_until": "2026-03-11T19:52:19.490470",
-    "entry_volume": 2404478.9641100005
+    "tracking_until": null,
+    "entry_volume": 2629446.0988299996
   },
   "AZTEC": {
     "current_run": 19,
