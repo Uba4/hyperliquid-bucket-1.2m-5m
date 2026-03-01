@@ -108,22 +108,13 @@
     "entry_volume": 1283808.4946
   },
   "STABLE": {
-    "current_run": 55,
-    "status": "post_exit",
-    "entry_time": "2026-03-01T14:41:38.367861",
-    "exit_time": "2026-03-01T15:40:48.525254",
+    "current_run": 56,
+    "status": "in_top6",
+    "entry_time": "2026-03-01T19:52:19.490470",
+    "exit_time": null,
     "last_bar_collected": 4388,
-    "tracking_until": "2026-03-11T15:40:48.525254",
-    "entry_volume": 3138808.392038001
-  },
-  "IP": {
-    "current_run": 49,
-    "status": "post_exit",
-    "entry_time": "2026-02-19T18:05:33.815701",
-    "exit_time": "2026-02-19T19:44:58.954141",
-    "last_bar_collected": 4364,
-    "tracking_until": "2026-03-01T19:44:58.954141",
-    "entry_volume": 1146689.2440300004
+    "tracking_until": null,
+    "entry_volume": 2426109.203325001
   },
   "CC": {
     "current_run": 80,
@@ -234,13 +225,13 @@
     "entry_volume": 2503117.6740830005
   },
   "BERA": {
-    "current_run": 47,
-    "status": "post_exit",
-    "entry_time": "2026-02-28T13:47:01.972422",
-    "exit_time": "2026-02-28T18:50:51.503241",
+    "current_run": 48,
+    "status": "in_top6",
+    "entry_time": "2026-03-01T19:52:19.490470",
+    "exit_time": null,
     "last_bar_collected": 4303,
-    "tracking_until": "2026-03-10T18:50:51.503241",
-    "entry_volume": 1382202.348750999
+    "tracking_until": null,
+    "entry_volume": 1657881.765263001
   },
   "kSHIB": {
     "current_run": 14,
@@ -370,11 +361,11 @@
   },
   "AAVE": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-03-01T15:40:48.525254",
-    "exit_time": null,
+    "exit_time": "2026-03-01T19:52:19.490470",
     "last_bar_collected": 4118,
-    "tracking_until": null,
+    "tracking_until": "2026-03-11T19:52:19.490470",
     "entry_volume": 4925989.750599997
   },
   "LINK": {
@@ -415,11 +406,11 @@
   },
   "XMR": {
     "current_run": 28,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-03-01T15:53:38.450063",
-    "exit_time": null,
+    "exit_time": "2026-03-01T19:52:19.490470",
     "last_bar_collected": 999,
-    "tracking_until": null,
+    "tracking_until": "2026-03-11T19:52:19.490470",
     "entry_volume": 2404478.9641100005
   },
   "AZTEC": {
