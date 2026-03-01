@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SPX",
     "SKR",
+    "SPX",
     "XMR",
-    "SEI",
+    "GRASS",
     "TRX",
-    "GRASS"
+    "ENA"
   ],
   "scores": [
-    64,
     62,
     60,
     58,
     56,
-    54
+    54,
+    52
   ],
-  "timestamp": "2026-03-01T10:54:11.363130",
+  "timestamp": "2026-03-01T11:11:28.497523",
   "bucket": "1.2m-5m"
 }

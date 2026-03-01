@@ -396,13 +396,13 @@
     "entry_volume": 2466587.95646
   },
   "ENA": {
-    "current_run": 17,
-    "status": "post_exit",
-    "entry_time": "2026-02-28T17:27:24.206721",
-    "exit_time": "2026-02-28T21:00:41.868484",
+    "current_run": 18,
+    "status": "in_top6",
+    "entry_time": "2026-03-01T11:11:28.497359",
+    "exit_time": null,
     "last_bar_collected": 4216,
-    "tracking_until": "2026-03-10T21:00:41.868484",
-    "entry_volume": 3996758.7551589985
+    "tracking_until": null,
+    "entry_volume": 4285713.597229
   },
   "kPEPE": {
     "current_run": 8,
@@ -739,11 +739,11 @@
   },
   "SEI": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-03-01T08:56:55.443722",
-    "exit_time": null,
+    "exit_time": "2026-03-01T11:11:28.497359",
     "last_bar_collected": 4542,
-    "tracking_until": null,
+    "tracking_until": "2026-03-11T11:11:28.497359",
     "entry_volume": 1296631.3128590004
   },
   "LDO": {
